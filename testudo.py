@@ -52,22 +52,26 @@ def get_course(dept, term, div):
 
 def get_sections(course_id, term):
     # 'https://app.testudo.umd.edu/soc/201801/sections?courseIds=AASP303'
-    url = 'https://app.testudo.umd.edu/soc/%s/sections?courseIds=%s' % (term, course_id)
-    r = www.get(url)
     sections = []
-    for div in r.html.find('.section'):
-        sections.append({
-            'id': t(div, '.section-id'),
-            'instructor': t(div, '.section-instructor'),
-            'seats': t(div, '.total-seats-count'),
-            'open-seats': t(div, '.open-seats-count'),
-            'waitlist': t(div, '.waitlist-count'),
-            'days': t(div, '.section-days'),
-            'start': t(div, '.class-start-time').strip(' -'),
-            'end': t(div, '.class-end-time'),
-            'building': t(div, '.building-code'),
-            'room': t(div, '.class-room'),
-        })
+    try:
+        url = 'https://app.testudo.umd.edu/soc/%s/sections?courseIds=%s' % (term, course_id)
+        r = www.get(url)
+        for div in r.html.find('.section'):
+            sections.append({
+                'id': t(div, '.section-id'),
+                'instructor': t(div, '.section-instructor'),
+                'seats': t(div, '.total-seats-count'),
+                'open-seats': t(div, '.open-seats-count'),
+                'waitlist': t(div, '.waitlist-count'),
+                'days': t(div, '.section-days'),
+                'start': t(div, '.class-start-time').strip(' -'),
+                'end': t(div, '.class-end-time'),
+                'building': t(div, '.building-code'),
+                'room': t(div, '.class-room'),
+            })
+    except Exception as e:
+        print(e)
+
     time.sleep(1) # be nice
     return sections
 
