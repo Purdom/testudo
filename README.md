@@ -1,5 +1,5 @@
 Collects class information from the [University of Maryland Schedule of
-classes]. 
+Classes]. 
 
 ```
 pipenv install
@@ -101,3 +101,5 @@ Each class JSON file looks something like:
   "department": "Anthropology"
 }
 ```
+
+[University of Maryland Schedule of Classes]: https://app.testudo.umd.edu/soc/
