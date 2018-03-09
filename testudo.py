@@ -7,9 +7,9 @@ import time
 from urllib.parse import urljoin
 from requests_html import HTMLSession
 
-user_agent = 'testudo.py <https://github.com/edsu/testudo>'
 www = HTMLSession()
-www.headers['user-agent'] = user_agent
+www.headers['user-agent'] = 'testudo.py <https://github.com/edsu/testudo>'
+sleep = 1
 
 def main():
     for term in get_terms():
@@ -85,7 +85,9 @@ def get_sections(course_id, term):
     except Exception as e:
         print(e)
 
-    time.sleep(1) # be nice
+    # be nice and sleep between requests for each class
+    if sleep:
+        time.sleep(sleep)
     return sections
 
 def t(element, selector):
