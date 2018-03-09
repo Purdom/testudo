@@ -2,15 +2,17 @@ Collects class information from the [University of Maryland Schedule of
 Classes]. 
 
 ```
+git clone https://github.com/edsu/testudo.git
+cd testudo
 pipenv install
 ./testudo.py
 ```
 
-Then you should find a populated directory structure in the data directory:
+After it finishes you should find a populated directory structure like this:
 
     data/{term}/{dept}/{class}.json
 
-Each class JSON file looks something like:
+Each class JSON file will look something like:
 
 ```json
 {
