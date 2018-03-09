@@ -1,0 +1,27 @@
+{
+  "id": "ARTT438A",
+  "title": "Advanced Sculpture Studio; Advanced Metal Casting",
+  "credits": "3",
+  "description": "Prerequisite: ARTT330 or permission of department. Students must pay a $40.00 studio lab fee.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mason Hurley",
+      "seats": "4,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "3:00pm",
+      "building": "ASY",
+      "room": "1310"
+    }
+  ],
+  "term": "201801",
+  "department": "Art Studio"
+}

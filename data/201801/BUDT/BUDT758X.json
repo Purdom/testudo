@@ -1,0 +1,25 @@
+{
+  "id": "BUDT758X",
+  "title": "Special Topics in Decision, Operations and Information Technologies; Data Processing and Analysis in Python",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Sean Barnes",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1528"
+    }
+  ],
+  "term": "201801",
+  "department": "Decision and Information Technologies"
+}

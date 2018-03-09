@@ -1,0 +1,111 @@
+{
+  "id": "SPAN303",
+  "title": "Approaches to Cultural Materials in the Hispanic World",
+  "credits": "3",
+  "description": "Prerequisite: SPAN301; and must have completed or be concurrently enrolled in SPAN311 or SPAN316.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Melissa Gonzalez-Contreras",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "JMZ",
+      "room": "3120"
+    },
+    {
+      "id": "0201",
+      "instructor": "Melissa Gonzalez-Contreras",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "JMZ",
+      "room": "3205"
+    },
+    {
+      "id": "0301",
+      "instructor": "Jose Contreras",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "JMZ",
+      "room": "2206"
+    },
+    {
+      "id": "0401",
+      "instructor": "Ryan Long",
+      "seats": "20,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "JMZ",
+      "room": "2206"
+    },
+    {
+      "id": "0501",
+      "instructor": "M Lewis",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "JMZ",
+      "room": "2125"
+    },
+    {
+      "id": "0601",
+      "instructor": "M Lewis",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "JMZ",
+      "room": "1226"
+    },
+    {
+      "id": "0701",
+      "instructor": "Eyda Merediz",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "JMZ",
+      "room": "3203"
+    },
+    {
+      "id": "0801",
+      "instructor": "Daniela Bulansky",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMZ",
+      "room": "3120"
+    }
+  ],
+  "term": "201801",
+  "department": "Spanish"
+}

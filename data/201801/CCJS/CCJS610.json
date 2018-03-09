@@ -1,0 +1,26 @@
+{
+  "id": "CCJS610",
+  "title": "Research Methods in Criminal Justice and Criminology",
+  "credits": "3",
+  "description": "Formerly: CRIM610.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Min Xie",
+      "seats": "23,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "LEF",
+      "room": "2165E"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ARSC059",
+  "title": "Air Force Officer Lab",
+  "credits": "1",
+  "description": "Restriction: Must be an AFROTC cadet. Repeatable to 10 credits if content differs. Additional information: This course does not carry any credit toward any degree at the University.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Samuel Richardson",
+      "seats": "250,",
+      "open-seats": "69,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00am",
+      "end": "8:50am",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Air Science"
+}

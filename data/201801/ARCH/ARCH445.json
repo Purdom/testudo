@@ -1,0 +1,27 @@
+{
+  "id": "ARCH445",
+  "title": "Visual Analysis of Architecture",
+  "credits": "3",
+  "description": "Prerequisite: ARCH400; or permission of ARCH-Architecture Program.\nRestriction: Must be in Architecture (B.S.) program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Abrams",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "10:00am",
+      "end": "12:40pm",
+      "building": "ARC",
+      "room": "1105"
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

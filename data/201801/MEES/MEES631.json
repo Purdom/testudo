@@ -1,0 +1,25 @@
+{
+  "id": "MEES631",
+  "title": "Fish Ecology",
+  "credits": "3",
+  "description": "Restriction: Permission of instructor.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Secor,",
+      "seats": "15,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "11:30am",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Marine-Estuarine-Environmental Sciences"
+}

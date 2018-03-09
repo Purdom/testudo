@@ -1,0 +1,27 @@
+{
+  "id": "CCJS444",
+  "title": "Advanced Law Enforcement Administration",
+  "credits": "3",
+  "description": "Prerequisite: CCJS100 and CCJS340.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lawrence Sherman",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "SQH",
+      "room": "1117"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

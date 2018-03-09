@@ -1,0 +1,25 @@
+{
+  "id": "BMGT498A",
+  "title": "Special Topics in Business and Management; Financial Management for Hospitality Businesses",
+  "credits": "3",
+  "description": "Restricted to students in the Hospitality Business Program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "FP01",
+      "instructor": "Daryl Rhead",
+      "seats": "12,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:30pm",
+      "end": "8:10pm",
+      "building": "VMH",
+      "room": "1418"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "HONR228A",
+  "title": "Honors Seminar; Science on Stage",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Olmert",
+      "seats": "20,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TWS",
+      "room": "0205"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

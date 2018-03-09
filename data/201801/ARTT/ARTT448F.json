@@ -1,0 +1,27 @@
+{
+  "id": "ARTT448F",
+  "title": "Advanced Printmaking Studio; Woodcut and Mixed Media",
+  "credits": "3",
+  "description": "Prerequisite: One 300-level printmaking course or permission of department.\n\nMulti-level printmaking studio; continuation of media-specific printmaking courses with emphasis on contemporary art issues and individual directions in chosen media. Students must pay a $40.00 laboratory studio fee.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alessandra Echeverri",
+      "seats": "2,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "11:30am",
+      "building": "ASY",
+      "room": "1317"
+    }
+  ],
+  "term": "201801",
+  "department": "Art Studio"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "CHIN205",
+  "title": "Intermediate Chinese - Accelerated Track",
+  "credits": "3",
+  "description": "Prerequisite: Must have attained appropriate Foreign Language Placement Test (FLPT) score.\nRestriction: Must not have completed CHIN201, CHIN203, CHIN202, or CHIN204.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jungjung Lee-Heitz",
+      "seats": "15,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "JMZ",
+      "room": "1117"
+    }
+  ],
+  "term": "201801",
+  "department": "Chinese"
+}

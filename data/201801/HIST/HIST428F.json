@@ -1,0 +1,27 @@
+{
+  "id": "HIST428F",
+  "title": "Selected Topics in History; Cultural Imagination in the US-China Relations since 1785",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Gao",
+      "seats": "30,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "KEY",
+      "room": "0100"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

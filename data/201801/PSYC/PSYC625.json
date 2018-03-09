@@ -1,0 +1,25 @@
+{
+  "id": "PSYC625",
+  "title": "Clinical Assessment: Psychometric Principles, Testing and Behavior",
+  "credits": "3",
+  "description": "Restriction: Permission of BSOS-Psychology department.\nCredit only granted for: PSYC625 or PSYC721.\nFormerly: PSYC721.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andres De Los Reyes",
+      "seats": "10,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "9:00am",
+      "end": "11:30am",
+      "building": "BPS",
+      "room": "1238"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

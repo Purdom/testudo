@@ -1,0 +1,26 @@
+{
+  "id": "EDPS621",
+  "title": "Policy and Program Evaluation for Organizational Improvement",
+  "credits": "3",
+  "description": "Credit only granted for: EDHI621, EDPL621, or EDPS621.\nFormerly: EDPL621.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Blazar",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "1:00pm",
+      "end": "3:45pm",
+      "building": "JMZ",
+      "room": "0118"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Policy Studies"
+}

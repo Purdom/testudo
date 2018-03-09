@@ -1,0 +1,25 @@
+{
+  "id": "HONR228R",
+  "title": "Honors Seminar; Parenting and Poverty: The Effects of Growing Up Poor on Children's Development",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Natasha Cabrera",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "ASY",
+      "room": "3219"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

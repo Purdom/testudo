@@ -1,0 +1,37 @@
+{
+  "id": "ENGL388W",
+  "title": "Writing Internship; Writing Center Internship",
+  "credits": "1 -",
+  "description": "Prerequisite: permission of department. Repeatable to 12 credits. To apply, go to http://www.english.umd.edu/academics/writingcenter/ internship.\n\nStudents taking ENGL388W for the first time should register for section 0101 for 4 credits. When taking the course a gain in subsequent semesters, students should register for 2001.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Earles",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TWS",
+      "room": "3252"
+    },
+    {
+      "id": "2001",
+      "instructor": "Thomas Earles",
+      "seats": "4,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

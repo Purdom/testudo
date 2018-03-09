@@ -1,0 +1,27 @@
+{
+  "id": "AMST205",
+  "title": "Material Aspects of American Life",
+  "credits": "3",
+  "description": "Historical survey of American material culture. Ways of describing and interpreting accumulated material evidence (e.g., buildings, town plans) introduced by stressing relationship between artifact and culture.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jung Kim",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "KEY",
+      "room": "0123"
+    }
+  ],
+  "term": "201801",
+  "department": "American Studies"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "EDCP672",
+  "title": "Individual and Organizational Assessment in Student Affairs",
+  "credits": "3",
+  "description": "An examination of the scholarship and practice of assessment of college student learning and developmental outcomes as well as organizational practices that contribute to those outcomes.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jamie Riley",
+      "seats": "13,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:15pm",
+      "end": "8:00pm",
+      "building": "HBK",
+      "room": "0108"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

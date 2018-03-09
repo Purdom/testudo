@@ -1,0 +1,26 @@
+{
+  "id": "ENES601",
+  "title": "Future Faculty Program Seminar I",
+  "credits": "1",
+  "description": "Restriction: Must be in the Clark School Future Faculty Program.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Amr Baz",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EGR",
+      "room": "1104"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

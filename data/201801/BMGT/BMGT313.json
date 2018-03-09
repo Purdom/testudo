@@ -1,0 +1,37 @@
+{
+  "id": "BMGT313",
+  "title": "Financial Statement Analysis",
+  "credits": "3",
+  "description": "Prerequisite: BMGT221.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Brent Solomon",
+      "seats": "40,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1335"
+    },
+    {
+      "id": "0201",
+      "instructor": "Brent Solomon",
+      "seats": "40,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1335"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

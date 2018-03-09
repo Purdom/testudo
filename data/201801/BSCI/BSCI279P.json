@@ -1,0 +1,27 @@
+{
+  "id": "BSCI279P",
+  "title": "Supplemental Study; Undergraduate Teaching Seminar",
+  "credits": "1",
+  "description": "Prerequisite: permission of department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Francisca Saavedra",
+      "seats": "35,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "PLS",
+      "room": "1113"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

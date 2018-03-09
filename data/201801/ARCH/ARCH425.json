@@ -1,0 +1,27 @@
+{
+  "id": "ARCH425",
+  "title": "History of Architecture I",
+  "credits": "3",
+  "description": "Restriction: Permission of ARCH-Architecture Program.\nCredit only granted for: ARCH225 or ARCH425.\nAdditional information: Graduate architecture history course requires additional recitation section and additional coursework tied to survey lectures.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christian Calleri",
+      "seats": "10,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "6:30pm",
+      "end": "7:45pm",
+      "building": "ASY",
+      "room": "3221"
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

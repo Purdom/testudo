@@ -1,0 +1,26 @@
+{
+  "id": "BIOE437",
+  "title": "Computer-Aided Design in Bioengineering",
+  "credits": "3",
+  "description": "Prerequisite: BIOE120, BIOE121, BIOE241, and MATH246; or permission of ENGR-Fischell Department of Bioengineering department.\nRestriction: Permission of ENGR-Fischell Department of Bioengineering department.\nCredit only granted for: BIOE437, BIOE689V, ENME414, ENME272, or ENAE488D.\nFormerly: BIOE689V.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Milton Davis",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "8:00pm",
+      "building": "KEB",
+      "room": "2111"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

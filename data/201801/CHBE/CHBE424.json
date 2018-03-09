@@ -1,0 +1,27 @@
+{
+  "id": "CHBE424",
+  "title": "Chemical and Biomolecular Engineering Transport Phenomena II",
+  "credits": "3",
+  "description": "Prerequisite: CHBE422.\nCorequisite: CHBE302.\nRestriction: Must be in Engineering: Chemical program; and permission of ENGR-Chemical & Biomolecular Engineering department.\nCredit only granted for: CHBE424 or ENCH424.\nFormerly: ENCH424.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Deborah Goldberg",
+      "seats": "120,",
+      "open-seats": "49,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CHE",
+      "room": "2110"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemical and Biomolecular Engineering"
+}

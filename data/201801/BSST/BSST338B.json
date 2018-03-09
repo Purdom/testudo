@@ -1,0 +1,27 @@
+{
+  "id": "BSST338B",
+  "title": "Special Topics in Terrorism Studies; Terrorism and Political Violence: Understanding Terrorism, Insurgency, and Civil Conflict",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "Steve Sin",
+      "seats": "40,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "9:30am",
+      "end": "12:00pm",
+      "building": "BLD3",
+      "room": "3206"
+    }
+  ],
+  "term": "201801",
+  "department": "Terrorism Studies"
+}

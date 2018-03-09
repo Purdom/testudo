@@ -1,0 +1,26 @@
+{
+  "id": "PLCY798O",
+  "title": "Readings in Public Policy; Energy Security",
+  "credits": "3",
+  "description": "Restricted to PLCY majors or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Adam Shrier",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:30pm",
+      "end": "4:00pm",
+      "building": "VMH",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

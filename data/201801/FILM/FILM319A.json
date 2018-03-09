@@ -1,0 +1,27 @@
+{
+  "id": "FILM319A",
+  "title": "Special Topics in Documentary, Animation, Experimental Cinema, and Other Visual Media; David Bowie, Film and Audio-Visual Media",
+  "credits": "3",
+  "description": "Prerequisite: ENGL245, FILM245, FILM283, or SLLC283. Also offered as ENGL329F. Credit only granted for FILM319A or ENGL329F.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paul Cote",
+      "seats": "30,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "HBK",
+      "room": "0302H"
+    }
+  ],
+  "term": "201801",
+  "department": "Film Studies"
+}

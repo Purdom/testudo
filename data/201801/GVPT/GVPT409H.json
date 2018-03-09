@@ -1,0 +1,27 @@
+{
+  "id": "GVPT409H",
+  "title": "Seminar in International Relations and World Politics; International Relations of the Middle East",
+  "credits": "3",
+  "description": "Restriction: Must be in the Government & Politics Honors program. This seminar will evaluate major issues of the international relations of the Middle East and the American role and responses to these issues. The seminar will focus on several post-Cold-War cases in American foreign policy, including the 1991 and 2003 Gulf wars, policy toward Iran, American mediation in the Arab-Israeli conflict, responses to the Arab Uprisings, Re-emerging competition with Russia, and broader issues such as regional reform and nuclear non-proliferation.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shibley Telhami",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "MOR",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

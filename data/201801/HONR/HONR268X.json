@@ -1,0 +1,25 @@
+{
+  "id": "HONR268X",
+  "title": "Honors Seminar; New Lessons from an Old Book: Anna Karenina as a Window on Russian History and Culture",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mikhail Dolbilov",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "JMZ",
+      "room": "0122"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

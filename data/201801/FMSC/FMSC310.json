@@ -1,0 +1,62 @@
+{
+  "id": "FMSC310",
+  "title": "Maternal, Child and Family Health",
+  "credits": "3",
+  "description": "Credit only granted for: FMSC310, FMSC410 or FMSC498A.\nFormerly: FMSC498A and FMSC410.\nAdditional information: A comprehensive understanding of maternal, child, and family health, with additional emphasis on environmental health, needs assessment and evaluation, enabling students to more effectively address issues in the workplace.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yassaman Vafai",
+      "seats": "45,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "SPH",
+      "room": "0302"
+    },
+    {
+      "id": "0201",
+      "instructor": "Edmond Shenassa",
+      "seats": "45,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SPH",
+      "room": "0302"
+    },
+    {
+      "id": "0301",
+      "instructor": "Marie Thoma",
+      "seats": "45,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "SPH",
+      "room": "0308"
+    },
+    {
+      "id": "0401",
+      "instructor": "Marie Thoma",
+      "seats": "45,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SPH",
+      "room": "1301"
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "KNES370H",
+  "title": "Motor Development",
+  "credits": "3",
+  "description": "Restriction: Must be in a major within SPHL-Kinesiology department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yue Du",
+      "seats": "2,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "SPH",
+      "room": "1312"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

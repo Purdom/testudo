@@ -1,0 +1,26 @@
+{
+  "id": "ARCH654",
+  "title": "Urban Development and Design Theory",
+  "credits": "3",
+  "description": "Restriction: Permission of ARCH-Architecture Program.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Karl Du Puy",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ARC",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

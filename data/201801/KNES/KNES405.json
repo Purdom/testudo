@@ -1,0 +1,25 @@
+{
+  "id": "KNES405",
+  "title": "Principles & Techniques of Manual Muscle Testing",
+  "credits": "3",
+  "description": "Prerequisite: Must have earned a minimum grade of C- in BSCI201, BSCI202 and KNES300.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Larry Plotkin,",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "SPH",
+      "room": "0301"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

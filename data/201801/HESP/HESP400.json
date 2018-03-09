@@ -1,0 +1,27 @@
+{
+  "id": "HESP400",
+  "title": "Speech and Language Development in Children",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in HESP300; or permission of BSOS-Hearing & Speech Sciences department.\nRecommended: LING200 or HESP120.\nRestriction: Must be in Hearing and Speech Sciences program; or permission of BSOS-Hearing & Speech Sciences department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yi Ting Huang",
+      "seats": "50,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ARC",
+      "room": "1105"
+    }
+  ],
+  "term": "201801",
+  "department": "Hearing and Speech Sciences"
+}

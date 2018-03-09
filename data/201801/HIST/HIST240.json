@@ -1,0 +1,27 @@
+{
+  "id": "HIST240",
+  "title": "Europe in the Twentieth Century",
+  "credits": "3",
+  "description": "Credit only granted for: HIST240 or HIST337.\nFormerly: HIST337.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lejnar Mitrojorgji",
+      "seats": "40,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "KEY",
+      "room": "0126"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

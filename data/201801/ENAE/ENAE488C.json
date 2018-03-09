@@ -1,0 +1,27 @@
+{
+  "id": "ENAE488C",
+  "title": "Topics in Aerospace Engineering; Computational Fluid Dynamics",
+  "credits": "3",
+  "description": "Prerequisite: ENAE 311; ENAE 202; MATH 240, 246; Computer programming experience either in MATLAB, FORTRAN, C++, or Python Restriction: Must be in Engineering: Aerospace program.\n\nAn introduction to Computational Fluid Dynamics (CFD), with an emphasis on the application of CFD to predict fluid flow behavior for basic and moderately complex geometries. Introduces students to the entire process of CFD from grid generation, application of CFD solvers, and post-processing using state-of-the-art commercial software. Finite difference and finite volume methods, explicit and implicit schemes, solutions of elliptic, parabolic, and hyperbolic equations. Additionally, students will be provided with a fundamental understanding that will enable them to choose the right CFD tools, evaluate, and CFD results.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ashish Nedungadi",
+      "seats": "15,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "PLS",
+      "room": "1115"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ARTT458",
+  "title": "Graphic Design Portfolio; Advanced Graphic Design",
+  "credits": "3",
+  "description": "Print publication and self promotion design. Students must pay a $40.00 studio lab fee.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Malcolm Jones",
+      "seats": "25,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "ASY",
+      "room": "2322"
+    }
+  ],
+  "term": "201801",
+  "department": "Art Studio"
+}

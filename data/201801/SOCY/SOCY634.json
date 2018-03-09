@@ -1,0 +1,26 @@
+{
+  "id": "SOCY634",
+  "title": "Attitudes and Public Opinion",
+  "credits": "3",
+  "description": "Processes involved in the formation of attitudes; effects of communication; measurement techniques.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stanley Presser",
+      "seats": "20,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "ASY",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

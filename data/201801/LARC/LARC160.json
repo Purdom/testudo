@@ -1,0 +1,61 @@
+{
+  "id": "LARC160",
+  "title": "Introduction to Landscape Architecture",
+  "credits": "3",
+  "description": "History, theory, philosophy and current practice of the profession of landscape architecture. Explores the interactive relationship between humans and their environment by examining people's perceptions of and changing attitude towards the landscape, as well as, an examination of how these are related to ecological and cultural influences.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dennis Nola",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "PLS",
+      "room": "1140"
+    },
+    {
+      "id": "0102",
+      "instructor": "Dennis Nola",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "PLS",
+      "room": "1140"
+    },
+    {
+      "id": "0103",
+      "instructor": "Dennis Nola",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "PLS",
+      "room": "1140"
+    },
+    {
+      "id": "0104",
+      "instructor": "Dennis Nola",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "PLS",
+      "room": "1140"
+    }
+  ],
+  "term": "201801",
+  "department": "Landscape Architecture"
+}

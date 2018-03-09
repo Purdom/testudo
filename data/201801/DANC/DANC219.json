@@ -1,0 +1,27 @@
+{
+  "id": "DANC219",
+  "title": "Foundations of Technique II",
+  "credits": "3",
+  "description": "Prerequisite: DANC218 and permission of department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Adriane Fang",
+      "seats": "16,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "10:50am",
+      "building": "PAC",
+      "room": "1908"
+    }
+  ],
+  "term": "201801",
+  "department": "Dance"
+}

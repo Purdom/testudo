@@ -1,0 +1,61 @@
+{
+  "id": "CMSC132A",
+  "title": "Object-Oriented Programming II",
+  "credits": "4",
+  "description": "Prerequisite: Minimum grade of C- in CMSC131; or must have earned a score of 5 on the A Java AP exam. Or permission of the department based on satisfactory performance on the department placement exam; and minimum grade of C- in MATH140; and permission of CMNS-Computer Science department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "David Van Horn",
+      "seats": "32,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "CSI",
+      "room": "1115"
+    },
+    {
+      "id": "0502",
+      "instructor": "David Van Horn",
+      "seats": "32,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "CSI",
+      "room": "1115"
+    },
+    {
+      "id": "0503",
+      "instructor": "David Van Horn",
+      "seats": "32,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "CSI",
+      "room": "1115"
+    },
+    {
+      "id": "0504",
+      "instructor": "David Van Horn",
+      "seats": "32,",
+      "open-seats": "27,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "CSI",
+      "room": "1115"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

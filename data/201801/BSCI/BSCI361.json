@@ -1,0 +1,50 @@
+{
+  "id": "BSCI361",
+  "title": "Principles of Ecology",
+  "credits": "4",
+  "description": "Prerequisite: BSCI160 and BSCI161; or BSCI106. And (MATH130 or MATH140).",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Marcia Shofner",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ESJ",
+      "room": "2212"
+    },
+    {
+      "id": "0102",
+      "instructor": "Marcia Shofner",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ESJ",
+      "room": "2212"
+    },
+    {
+      "id": "0103",
+      "instructor": "Marcia Shofner",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ESJ",
+      "room": "2212"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

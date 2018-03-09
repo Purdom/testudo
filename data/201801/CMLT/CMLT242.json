@@ -1,0 +1,27 @@
+{
+  "id": "CMLT242",
+  "title": "Introduction to Jewish Literature",
+  "credits": "3",
+  "description": "Also offered as: JWST272.\nCredit only granted for: HEBR231, JWST272, or CMLT242.\nFormerly: HEBR231.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Chen Edrei",
+      "seats": "30,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "KEY",
+      "room": "0121"
+    }
+  ],
+  "term": "201801",
+  "department": "Comparative Literature"
+}

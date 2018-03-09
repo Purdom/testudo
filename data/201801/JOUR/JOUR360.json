@@ -1,0 +1,39 @@
+{
+  "id": "JOUR360",
+  "title": "News Writing and Reporting II: Broadcast",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in JOUR201.\nRestriction: Must be in a major in JOUR-Philip Merrill College of Journalism.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Cassandra Clayton",
+      "seats": "18,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "KNI",
+      "room": "1101"
+    },
+    {
+      "id": "0301",
+      "instructor": "Cassandra Clayton",
+      "seats": "18,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "KNI",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

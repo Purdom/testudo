@@ -1,0 +1,27 @@
+{
+  "id": "PLSC410",
+  "title": "Commercial Turf Maintenance and Production",
+  "credits": "3",
+  "description": "Prerequisite: PLSC305; or permission of AGNR-Plant Science & Landscape Architecture department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mark Carroll",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "12:00pm",
+      "end": "3:00pm",
+      "building": "PBR",
+      "room": "1102"
+    }
+  ],
+  "term": "201801",
+  "department": "Plant Sciences"
+}

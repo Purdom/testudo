@@ -1,0 +1,27 @@
+{
+  "id": "GVPT432",
+  "title": "Civil Rights and the Constitution",
+  "credits": "3",
+  "description": "Prerequisite: GVPT241 and GVPT331.\nRestriction: Must be in Government & Politics program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Spivey",
+      "seats": "75,",
+      "open-seats": "34,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "4:15pm",
+      "building": "TYD",
+      "room": "2106"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

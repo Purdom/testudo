@@ -1,0 +1,25 @@
+{
+  "id": "BUFN738",
+  "title": "Investment Fund Management",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "DC06",
+      "instructor": "Gurdip Bakshi",
+      "seats": "45,",
+      "open-seats": "37,",
+      "waitlist": "0",
+      "days": "Sa",
+      "start": "8:50am",
+      "end": "1:00pm",
+      "building": "DC",
+      "room": "C5"
+    }
+  ],
+  "term": "201801",
+  "department": "Finance"
+}

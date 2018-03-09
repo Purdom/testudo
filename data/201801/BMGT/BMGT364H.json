@@ -1,0 +1,25 @@
+{
+  "id": "BMGT364H",
+  "title": "Managing People and Organizations",
+  "credits": "3",
+  "description": "An introduction to selected aspects of human behavior in organizations generally known as organizational behavior (OB). This course is designed to help students develop systematic and fundamental understanding of people and their behaviors in organizations, as well as useful abilities and skills required to effectively and ethically manage various individual, interpersonal, group, and organization-level processes.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nicole Coomber",
+      "seats": "35,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1418"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "SOCY601",
+  "title": "Statistics For Sociological Research I",
+  "credits": "3",
+  "description": "Prerequisite: SOCY201; or students who have taken courses with comparable content may contact the department.\nRestriction: Permission of instructor.\nCredit only granted for: SOCY601 and SURV601.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Meredith Kleykamp",
+      "seats": "20,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:30am",
+      "end": "12:00pm",
+      "building": "ASY",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

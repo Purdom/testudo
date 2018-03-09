@@ -1,0 +1,27 @@
+{
+  "id": "BSCI348A",
+  "title": "Special Topics in Cell Biology and Molecular Genetics; Scientific Teaching Internship",
+  "credits": "3",
+  "description": "Students will act as Undergraduate Teaching Assistants for BSCI223. Prerequisite: A or B in BSCI223 and permission of instructor. Student must be available for one of the BSCI223 lab periods. Students interested in this teaching/leadership opportunity should contact Dr. Richard Stewart mith for application information: alec@umd.edu. This course is applicable for the Enrichment credits required of all Biological Sciences students in majors with 0404 codes. For others this is elective credit.\n\n(Sponsoring Dept.: CBMG).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Richard Stewart",
+      "seats": "22,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "8:00am",
+      "end": "8:50am",
+      "building": "BPS",
+      "room": "1234"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

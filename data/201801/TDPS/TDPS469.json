@@ -1,0 +1,27 @@
+{
+  "id": "TDPS469",
+  "title": "Advanced Practicum in Stage Management",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Cary Gillett",
+      "seats": "10,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre, Dance and Performance Studies"
+}

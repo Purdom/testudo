@@ -1,0 +1,49 @@
+{
+  "id": "TLPL306",
+  "title": "Arts Integration in Elementary Classrooms",
+  "credits": "3",
+  "description": "Corequisite: TLPL362, EDCI362, TLPL361, and EDCI489.\nRestriction: Must be in Elementary Education program; and minimum cumulative GPA of 2.75. Or permission of EDUC-Teaching and Learning, Policy and Leadership department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Katherine Coogan",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "12:30pm",
+      "end": "3:15pm",
+      "building": "EDU",
+      "room": "2212"
+    },
+    {
+      "id": "0201",
+      "instructor": "Katherine Coogan",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "9:00am",
+      "end": "11:45am",
+      "building": "EDU",
+      "room": "2121"
+    },
+    {
+      "id": "0301",
+      "instructor": "Margaret Walker",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:30pm",
+      "end": "3:15pm",
+      "building": "EDU",
+      "room": "1315"
+    }
+  ],
+  "term": "201801",
+  "department": "Teaching and Learning, Policy and Leadership"
+}

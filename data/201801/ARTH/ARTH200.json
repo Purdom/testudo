@@ -1,0 +1,87 @@
+{
+  "id": "ARTH200",
+  "title": "Art and Society in Ancient and Medieval Europe and the Mediterranean",
+  "credits": "3",
+  "description": "Examines the material culture and visual expressions of Mediterranean and European societies from early times until ca. 1300 CE, emphasizing the political, social, and religious context of the works studied, the relationships of the works to the societies that created them, and the interrelationship of these societies.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Louise Martinez",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ASY",
+      "room": "2203"
+    },
+    {
+      "id": "0102",
+      "instructor": "Louise Martinez",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ASY",
+      "room": "2203"
+    },
+    {
+      "id": "0103",
+      "instructor": "Louise Martinez",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ASY",
+      "room": "2203"
+    },
+    {
+      "id": "0104",
+      "instructor": "Louise Martinez",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ASY",
+      "room": "2203"
+    },
+    {
+      "id": "0105",
+      "instructor": "Louise Martinez",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ASY",
+      "room": "2203"
+    },
+    {
+      "id": "0106",
+      "instructor": "Louise Martinez",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ASY",
+      "room": "2203"
+    }
+  ],
+  "term": "201801",
+  "department": "Art History & Archaeology"
+}

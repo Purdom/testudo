@@ -1,0 +1,27 @@
+{
+  "id": "ANTH340",
+  "title": "Method and Theory in Archaeology",
+  "credits": "3",
+  "description": "Prerequisite: ANTH240.\nRestriction: Must be in Anthropology program; or permission of BSOS-Anthropology department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stephen Brighton",
+      "seats": "35,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "WDS",
+      "room": "0104"
+    }
+  ],
+  "term": "201801",
+  "department": "Anthropology"
+}

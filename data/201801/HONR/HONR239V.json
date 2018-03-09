@@ -1,0 +1,25 @@
+{
+  "id": "HONR239V",
+  "title": "Honors Seminar; Introduction to Visual Storytelling",
+  "credits": "3",
+  "description": "For Non-Journalism majors only. Students will require use of a smartphone (or DSLR) that is capable of taking still photos and recording video. Purchase of some additional audio-visual equipment may also be encouraged, but not required.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Timothy Jacobsen",
+      "seats": "12,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "9:00am",
+      "end": "11:30am",
+      "building": "KNI",
+      "room": "2107"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

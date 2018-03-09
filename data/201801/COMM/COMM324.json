@@ -1,0 +1,63 @@
+{
+  "id": "COMM324",
+  "title": "Communication and Gender",
+  "credits": "3",
+  "description": "The creation of images of male and female, and masculine and feminine, through communication, the differences in male and female communication behaviors and styles, and the implications of those images and styles for male-female transactions.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kimberley Hannah-Prater",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "SKN",
+      "room": "1115"
+    },
+    {
+      "id": "0201",
+      "instructor": "Kimberley Hannah-Prater",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ASY",
+      "room": "3211"
+    },
+    {
+      "id": "0301",
+      "instructor": "Janna Soeder",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "SKN",
+      "room": "1115"
+    },
+    {
+      "id": "0401",
+      "instructor": "Janna Soeder",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "SQH",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

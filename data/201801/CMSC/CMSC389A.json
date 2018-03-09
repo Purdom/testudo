@@ -1,0 +1,25 @@
+{
+  "id": "CMSC389A",
+  "title": "Special Topics in Computer Science; Practical Deep Learning",
+  "credits": "1",
+  "description": "Prerequisites: CMSC250 and CMSC330 with a grade of C- or better. Provides a comprehensive, practical introduction to modern deep learning networks and their applications to AI tasks. Specifically, the course will cover basic concepts in optimization, neural networks, convolutional neural networks (CNN), and recurrent neural networks (RNN).",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jordan Boyd-Graber Ying",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "CSI",
+      "room": "2118"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

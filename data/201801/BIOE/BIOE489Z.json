@@ -1,0 +1,27 @@
+{
+  "id": "BIOE489Z",
+  "title": "Special Topics in Bioengineering; Macro-scale Biomechanics",
+  "credits": "3",
+  "description": "Prereqs: BIOE120, BIOE121, BIOE241, MATH246, ENES102.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Li-Qun Zhang",
+      "seats": "35,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "KEB",
+      "room": "1200"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ANSC260",
+  "title": "Laboratory Animal Management",
+  "credits": "3",
+  "description": "Prerequisite: ANSC101 and ANSC103.\nCredit only granted for: ANSC260 or ANSC413.\nFormerly: ANSC413.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Angela Black",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ANS",
+      "room": "0412"
+    }
+  ],
+  "term": "201801",
+  "department": "Animal Science"
+}

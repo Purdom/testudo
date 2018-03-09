@@ -1,0 +1,49 @@
+{
+  "id": "ENGL398C",
+  "title": "Topics in Professional Writing; Writing Case Studies and Investigative Reports",
+  "credits": "3",
+  "description": "Prerequisite: 60 credits and completion of ENGL101 or equivalent. This course satisfies the professional writing requirement.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0801",
+      "instructor": "Joshua Buursma",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "TWS",
+      "room": "0234"
+    },
+    {
+      "id": "0901",
+      "instructor": "Joshua Buursma",
+      "seats": "19,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "6:30pm",
+      "end": "7:45pm",
+      "building": "TWS",
+      "room": "0214"
+    },
+    {
+      "id": "SG91",
+      "instructor": "Joseph Wappel",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "BLD3",
+      "room": "2203"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

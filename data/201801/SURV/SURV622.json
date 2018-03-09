@@ -1,0 +1,26 @@
+{
+  "id": "SURV622",
+  "title": "Fundamentals of Data Collection II",
+  "credits": "3",
+  "description": "Prerequisite: Permission of Instructor required; or fundamentals of Data Collection I.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Katharine Abraham,",
+      "seats": "25,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:30pm",
+      "end": "6:30pm",
+      "building": "LEF",
+      "room": "2208"
+    }
+  ],
+  "term": "201801",
+  "department": "Survey Methodology"
+}

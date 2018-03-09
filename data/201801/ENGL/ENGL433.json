@@ -1,0 +1,27 @@
+{
+  "id": "ENGL433",
+  "title": "American Literature: 1914 to the Present, the Modern Period",
+  "credits": "3",
+  "description": "Prerequisite: Two English courses in literature; or permission of ARHU-English department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sharada Balachandran Orihuela",
+      "seats": "20,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "TWS",
+      "room": "0214"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

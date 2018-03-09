@@ -1,0 +1,25 @@
+{
+  "id": "SOCY699V",
+  "title": "Special Social Problems; Contexting Sociology",
+  "credits": "1",
+  "description": "Restricted to Sociology graduate students.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Rashawn Ray",
+      "seats": "10,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ASY",
+      "room": "4111"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

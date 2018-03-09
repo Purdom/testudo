@@ -1,0 +1,26 @@
+{
+  "id": "PHYS759",
+  "title": "Seminar in Elementary Particles and Quantum Field Theory",
+  "credits": "1",
+  "description": "Advanced special students require department authorization.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kaustubh Agashe",
+      "seats": "27,",
+      "open-seats": "24,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "PSC",
+      "room": "3150"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

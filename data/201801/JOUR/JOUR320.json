@@ -1,0 +1,51 @@
+{
+  "id": "JOUR320",
+  "title": "News Writing and Reporting II: Multiplatform",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in JOUR201.\nRestriction: Must be in a major in JOUR-Philip Merrill College of Journalism.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Linthicum",
+      "seats": "18,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "7:00pm",
+      "end": "8:50pm",
+      "building": "KNI",
+      "room": "2107"
+    },
+    {
+      "id": "0201",
+      "instructor": "David Lightman",
+      "seats": "18,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "8:00am",
+      "end": "9:50am",
+      "building": "KNI",
+      "room": "2105"
+    },
+    {
+      "id": "0301",
+      "instructor": "Robert Hiaasen",
+      "seats": "18,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "7:00pm",
+      "end": "8:50pm",
+      "building": "KNI",
+      "room": "2107"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

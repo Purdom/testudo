@@ -1,0 +1,27 @@
+{
+  "id": "PLCY306",
+  "title": "Public Policy Analysis in Action",
+  "credits": "3",
+  "description": "Utilizes our unique location in the Washington, D.C. region to create a laboratory within which to analyze local, regional, national and international policy problems. Students will be put into teams and assigned to real and timely policy cases. The course will include meetings and field trips with local leaders in the field, ideally connected to the cases. Student will then expand and apply their use of policy analysis and evaluation skills to define those problems, analyze alternative responses, devise appropriate strategies for implementation, and evaluate the success of the proposed policy and implementation. The course will conclude with team presentations to local leaders and faculty. This distinctive course will serve to prepare students for their client- based senior capstone course.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kathleen Vogel",
+      "seats": "44,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "ASY",
+      "room": "3207"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

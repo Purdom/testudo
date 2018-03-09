@@ -1,0 +1,27 @@
+{
+  "id": "WMST452",
+  "title": "Women in the Media",
+  "credits": "3",
+  "description": "Also offered as: JOUR452.\nCredit only granted for: JOUR452 or WMST452.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Renee Poussaint",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "KNI",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Women's Studies"
+}

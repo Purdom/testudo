@@ -1,0 +1,25 @@
+{
+  "id": "KNES477",
+  "title": "Honors Thesis",
+  "credits": "3",
+  "description": "Prerequisite: KNES476.\nCorequisite: KNES478.\nRestriction: Must be a KNES Honors student; and senior standing.\nCredit only granted for: KNES399 or KNES477.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "J Carson Smith",
+      "seats": "10,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "SPH",
+      "room": "0301"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

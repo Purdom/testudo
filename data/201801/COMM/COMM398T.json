@@ -1,0 +1,25 @@
+{
+  "id": "COMM398T",
+  "title": "Selected Topics in Communication; Advanced Digital Communication - Sound, Lighting, and Visual Display",
+  "credits": "3",
+  "description": "Restricted to Communication Students at Shady Grove. Students may not receive credit for both COMM498Q and COMM398T.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "Adam Nixon",
+      "seats": "25,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:15pm",
+      "end": "6:45pm",
+      "building": "BLD3",
+      "room": "3216"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

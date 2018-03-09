@@ -1,0 +1,26 @@
+{
+  "id": "GEOL789C",
+  "title": "Recent Advances in Geology; Advanced Data Analysis Workshop",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Evans",
+      "seats": "10,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "BPS",
+      "room": "1228"
+    }
+  ],
+  "term": "201801",
+  "department": "Geology"
+}

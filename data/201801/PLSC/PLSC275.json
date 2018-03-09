@@ -1,0 +1,27 @@
+{
+  "id": "PLSC275",
+  "title": "Fundamentals of Agricultural Chemistry",
+  "credits": "3",
+  "description": "Prerequisite: CHEM131 and CHEM132. And PLSC100; or PLSC101; or (BSCI160 and BSCI161); or (BSCI170 and BSCI171); or BSCI105; or BSCI106.\nRestriction: Must not have completed CHEM104 or CHEM105. And must be in a major within the AGNR-Plant Science & Landscape Architecture department; or must be in a major within the AGNR-Animal & Avian Sciences department; or permission of instructor.\nCredit only granted for: PLSC275, CHEM104, or CHEM105.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Burkhard Schulz,",
+      "seats": "40,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "PLS",
+      "room": "1119"
+    }
+  ],
+  "term": "201801",
+  "department": "Plant Sciences"
+}

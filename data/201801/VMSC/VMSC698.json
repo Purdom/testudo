@@ -1,0 +1,25 @@
+{
+  "id": "VMSC698",
+  "title": "Seminar in Veterinary Medical Science",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shin-Hee Kim",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "11:00am",
+      "end": "12:00pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Veterinary Medical Sciences"
+}

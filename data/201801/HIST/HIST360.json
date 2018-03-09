@@ -1,0 +1,27 @@
+{
+  "id": "HIST360",
+  "title": "Women and the Civil Rights Movement",
+  "credits": "3",
+  "description": "Twentieth-century U.S. civil rights movement from the vantage point of women, considering both women's involvement in the legal campaigns and political protests and the impact of civil rights struggles on women's condition, status, and identity.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elsa Barkley Brown",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "KEY",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

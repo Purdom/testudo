@@ -1,0 +1,26 @@
+{
+  "id": "PHYS778",
+  "title": "Seminar in Space and Cosmic Ray Physics",
+  "credits": "1",
+  "description": "Advanced special students require department authorization.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Eun-Suk Seo",
+      "seats": "15,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:30pm",
+      "end": "5:45pm",
+      "building": "ATL",
+      "room": "2400"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

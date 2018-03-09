@@ -1,0 +1,26 @@
+{
+  "id": "EDCI788O",
+  "title": "Selected Topics in Teacher Education; Participatory Action Research",
+  "credits": "3",
+  "description": "Master's students should contact instructor for course pre-requisite information and permission.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tara Brown",
+      "seats": "20,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "2119"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

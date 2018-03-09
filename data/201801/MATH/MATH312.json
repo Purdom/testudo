@@ -1,0 +1,27 @@
+{
+  "id": "MATH312",
+  "title": "Mathematical Reasoning and Proof for Pre-Service Middle School Teachers",
+  "credits": "3",
+  "description": "Prerequisite: MATH212 and MATH213.\nRestriction: Must be in one of the following programs (Elementary Education; Special Education; Middle School Education).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Diana Bowen",
+      "seats": "28,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EDU",
+      "room": "2121"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

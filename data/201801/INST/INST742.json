@@ -1,0 +1,25 @@
+{
+  "id": "INST742",
+  "title": "Implementing Digital Curation",
+  "credits": "3",
+  "description": "Prerequisite: INST604; or permission of instructor.\nRestriction: Permission of INFO-College of Information Studies.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jesse Johnston",
+      "seats": "30,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "6:00pm",
+      "end": "8:45pm",
+      "building": "HBK",
+      "room": "4113"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

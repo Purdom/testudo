@@ -1,0 +1,25 @@
+{
+  "id": "CHIN302",
+  "title": "Advanced Chinese II",
+  "credits": "3",
+  "description": "Prerequisite: CHIN301; or students who have taken courses with comparable content may contact the department. And must have taken a placement interview offered by the department for Non-majors.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jungjung Lee-Heitz",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMZ",
+      "room": "3205"
+    }
+  ],
+  "term": "201801",
+  "department": "Chinese"
+}

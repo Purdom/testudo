@@ -1,0 +1,51 @@
+{
+  "id": "HEIP241",
+  "title": "EIP Capstone: Creating Enterprise with Social Impact",
+  "credits": "2",
+  "description": "Restriction: Must be in the Entrepreneurship and Innovation Program (EIP).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jay Smith,",
+      "seats": "24,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "5:50pm",
+      "building": "LPA",
+      "room": "1125"
+    },
+    {
+      "id": "0201",
+      "instructor": "Le-Marie Thompson,",
+      "seats": "28,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "5:50pm",
+      "building": "LPA",
+      "room": "0100"
+    },
+    {
+      "id": "0301",
+      "instructor": "Ryan Elza,",
+      "seats": "28,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "LPA",
+      "room": "0100"
+    }
+  ],
+  "term": "201801",
+  "department": "Entrepreneurship and Innovation"
+}

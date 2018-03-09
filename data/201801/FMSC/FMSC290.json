@@ -1,0 +1,27 @@
+{
+  "id": "FMSC290",
+  "title": "Family Economics",
+  "credits": "3",
+  "description": "Credit only granted for: FMSC290 or FMST290.\nFormerly: FMST290.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Manouchehr Mokhtari",
+      "seats": "65,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "SPH",
+      "room": "1312"
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

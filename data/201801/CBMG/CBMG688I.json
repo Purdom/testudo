@@ -1,0 +1,26 @@
+{
+  "id": "CBMG688I",
+  "title": "Special Topics in Cell Biology and Molecular Genetics; Genetic Analysis",
+  "credits": "2",
+  "description": "Click here for more course information.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stephen Mount",
+      "seats": "30,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "4:00pm",
+      "end": "6:00pm",
+      "building": "MCB",
+      "room": "2119"
+    }
+  ],
+  "term": "201801",
+  "department": "Cell Biology & Molecular Genetics"
+}

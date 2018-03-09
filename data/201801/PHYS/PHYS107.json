@@ -1,0 +1,51 @@
+{
+  "id": "PHYS107",
+  "title": "Light, Perception, Photography and Visual Phenomena Laboratory",
+  "credits": "1",
+  "description": "Optional laboratory to accompany PHYS106. Laboratory experiments include geometrical optics (lenses, cameras, eye), optical instruments (telescope, binoculars), photography, perception, color phenomena, and wave phenomena.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andris Skuja",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:00pm",
+      "end": "4:50pm",
+      "building": "PHY",
+      "room": "3214"
+    },
+    {
+      "id": "0301",
+      "instructor": "Andris Skuja",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "1:00pm",
+      "end": "2:50pm",
+      "building": "PHY",
+      "room": "3214"
+    },
+    {
+      "id": "0501",
+      "instructor": "Andris Skuja",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:00pm",
+      "end": "4:50pm",
+      "building": "PHY",
+      "room": "3214"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

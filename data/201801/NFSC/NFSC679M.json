@@ -1,0 +1,25 @@
+{
+  "id": "NFSC679M",
+  "title": "Selected Topics in Food Science",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Buchanan",
+      "seats": "5,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:00am",
+      "end": "10:15am",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Nutrition and Food Science"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "ANSC227",
+  "title": "Eating with Eyes Wide Open",
+  "credits": "3",
+  "description": "Students will investigate the tension that is created by trade-offs that, knowingly or not, are made by consumers relative to agricultural production methods and dietary choices. Course will inform students about their food supply so they can make informed decisions and practice intentional or informed eating.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "R Apter",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ANS",
+      "room": "0408"
+    },
+    {
+      "id": "0102",
+      "instructor": "R Apter",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ANS",
+      "room": "0408"
+    },
+    {
+      "id": "0103",
+      "instructor": "R Apter",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ANS",
+      "room": "0408"
+    }
+  ],
+  "term": "201801",
+  "department": "Animal Science"
+}

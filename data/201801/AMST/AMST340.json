@@ -1,0 +1,25 @@
+{
+  "id": "AMST340",
+  "title": "Introduction to History, Theories and Methods in American Studies",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed AMST201; and 2 courses in AMST.\nRestriction: Must be in American Studies program; and sophomore standing or higher.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Asim Ali",
+      "seats": "25,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TWS",
+      "room": "0330"
+    }
+  ],
+  "term": "201801",
+  "department": "American Studies"
+}

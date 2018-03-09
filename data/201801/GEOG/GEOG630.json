@@ -1,0 +1,25 @@
+{
+  "id": "GEOG630",
+  "title": "Climate, Energy, and Policy",
+  "credits": "3",
+  "description": "Prerequisite: Permission of BSOS-Geography department; or enrolled in the Geographical Sciences Graduate Program(s).\nCredit only granted for: GEOG430, GEOG630, or GEOG788E.\nFormerly: GEOG788E.\nAdditional information: This course will make occasional use of the popular open source statistical computer language R for practical workshops.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Giovanni Baiocchi",
+      "seats": "24,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "LEF",
+      "room": "1201"
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

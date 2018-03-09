@@ -1,0 +1,49 @@
+{
+  "id": "BUMO754",
+  "title": "Global Strategy",
+  "credits": "2",
+  "description": "Credit only granted for: BUSI674 or BUMO754.\nFormerly: BMGT795.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Paulo Prochno",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:50am",
+      "building": "VMH",
+      "room": "1518"
+    },
+    {
+      "id": "DC06",
+      "instructor": "Anil Gupta",
+      "seats": "50,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Sa",
+      "start": "2:00pm",
+      "end": "6:30pm",
+      "building": "DC",
+      "room": "C2"
+    },
+    {
+      "id": "GS01",
+      "instructor": "Anil Gupta",
+      "seats": "50,",
+      "open-seats": "31,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:25pm",
+      "end": "10:00pm",
+      "building": "BLD2",
+      "room": "2032"
+    }
+  ],
+  "term": "201801",
+  "department": "Management and Organization"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "HESI318P",
+  "title": "Applied Contextual Leadership; Leadership through Coaching",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Terry Zacker",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PLS",
+      "room": "1119"
+    }
+  ],
+  "term": "201801",
+  "department": "Higher Ed, Student Affairs, and International Ed Policy"
+}

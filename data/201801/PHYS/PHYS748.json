@@ -1,0 +1,26 @@
+{
+  "id": "PHYS748",
+  "title": "Seminar in Experimental Nuclear Physics; Seminar in Nuclear Physics",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Carter Hall",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "11:30am",
+      "end": "1:00pm",
+      "building": "PHY",
+      "room": "2202"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

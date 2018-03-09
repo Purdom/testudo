@@ -1,0 +1,27 @@
+{
+  "id": "HDCC209D",
+  "title": "Practicum in Digital Cultures and Creativity",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kelsey Hughes",
+      "seats": "15,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "3:45pm",
+      "building": "PFR",
+      "room": "0111"
+    }
+  ],
+  "term": "201801",
+  "department": "Design Cultures and Creativity"
+}

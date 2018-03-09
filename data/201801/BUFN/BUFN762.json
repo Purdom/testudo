@@ -1,0 +1,49 @@
+{
+  "id": "BUFN762",
+  "title": "Fixed Income Analysis",
+  "credits": "2",
+  "description": "Prerequisite: BUFN740.\nRestriction: Must be in one of the following programs (Business and Management (Master's); Business and Management (Master's)).\nCredit only granted for: BUFN731 or BUFN762.\nFormerly: BUFN731.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Haluk Unal",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "VMH",
+      "room": "1333"
+    },
+    {
+      "id": "0502",
+      "instructor": "Haluk Unal",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "VMH",
+      "room": "1333"
+    },
+    {
+      "id": "0503",
+      "instructor": "Haluk Unal",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:25pm",
+      "end": "10:00pm",
+      "building": "VMH",
+      "room": "1303"
+    }
+  ],
+  "term": "201801",
+  "department": "Finance"
+}

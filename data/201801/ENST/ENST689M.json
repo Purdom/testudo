@@ -1,0 +1,26 @@
+{
+  "id": "ENST689M",
+  "title": "Special Topics; Advanced Microbial Diversity",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dietrich Epp Schmidt",
+      "seats": "10,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "12:30pm",
+      "end": "3:00pm",
+      "building": "AJC",
+      "room": "2134"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

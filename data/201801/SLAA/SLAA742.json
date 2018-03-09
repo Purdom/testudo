@@ -1,0 +1,26 @@
+{
+  "id": "SLAA742",
+  "title": "Second Language Processing",
+  "credits": "3",
+  "description": "Restriction: Permission of instructor required for MA students.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nan Jiang",
+      "seats": "10,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "JMZ",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "Second Language Acquisition and Application"
+}

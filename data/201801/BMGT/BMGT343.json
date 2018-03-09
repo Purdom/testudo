@@ -1,0 +1,85 @@
+{
+  "id": "BMGT343",
+  "title": "Investments",
+  "credits": "3",
+  "description": "Prerequisite: BMGT340.\nCredit only granted for: BMGT343 or ECON435.\nAdditional information: This course cannot be used to fulfill any requirements for majors in Economics.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shrihari Santosh",
+      "seats": "40,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1311"
+    },
+    {
+      "id": "0201",
+      "instructor": "Shrihari Santosh",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1311"
+    },
+    {
+      "id": "0301",
+      "instructor": "Xiaohui Bakshi",
+      "seats": "38,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1518"
+    },
+    {
+      "id": "0401",
+      "instructor": "Xiaohui Bakshi",
+      "seats": "40,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1311"
+    },
+    {
+      "id": "0501",
+      "instructor": "Xiaohui Bakshi",
+      "seats": "40,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "VMH",
+      "room": "1311"
+    },
+    {
+      "id": "SG91",
+      "instructor": "Michael Padhi",
+      "seats": "45,",
+      "open-seats": "39,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "BLD2",
+      "room": "3052"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "CBMG699Z",
+  "title": "Special Problems in Cell Biology and Molecular Genetics; Protein Translation",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jonathan Dinman",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "9:30am",
+      "end": "10:30am",
+      "building": "MCB",
+      "room": "1121"
+    }
+  ],
+  "term": "201801",
+  "department": "Cell Biology & Molecular Genetics"
+}

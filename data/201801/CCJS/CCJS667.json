@@ -1,0 +1,26 @@
+{
+  "id": "CCJS667",
+  "title": "Innovations in Policing: Programs, Policies and Research",
+  "credits": "3",
+  "description": "Credit only granted for: CCJS667 or CCJS699W.\nFormerly: CCJS699W.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lawrence Sherman",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "LEF",
+      "room": "2165E"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

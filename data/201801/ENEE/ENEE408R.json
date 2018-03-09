@@ -1,0 +1,37 @@
+{
+  "id": "ENEE408R",
+  "title": "Capstone Design Project; Electric Bikes",
+  "credits": "3",
+  "description": "Prerequisites: ENEE303, ENEE322, ENEE150 or CMSC216. Electrical or Computer Engineering senior status. Recommended Co-requisites: ENEE474, ENEE463, ENEE426, ENEE440, or ENEE459V.\n\nA capstone course on the design of safe, light and utilitarian electric bikes for personal transportation. It is systems level and will make use of a combination of off-the-shelf and custom-made components. These vehicles must meet either one of these design challenges such as extended range superior terrain climbing capability. In addition, the vehicle must contain a plethora of wireless sensors for safety and convenience, such as GPS, on-board cameras, theft deterrent systems, communications and navigation. It must be able to operate under different road conditions, at all hours and even in slightly inclement weather.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Romel Gomez",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:00pm",
+      "end": "6:50pm",
+      "building": "KEB",
+      "room": "1200"
+    },
+    {
+      "id": "0102",
+      "instructor": "Romel Gomez",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:00pm",
+      "end": "6:50pm",
+      "building": "KEB",
+      "room": "1200"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

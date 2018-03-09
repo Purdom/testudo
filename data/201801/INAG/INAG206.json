@@ -1,0 +1,26 @@
+{
+  "id": "INAG206",
+  "title": "Agricultural Business Law",
+  "credits": "3",
+  "description": "Restriction: Students at the Institute of Applied Agriculture (IAA); or students at the College of Agriculture and Natural Resources (AGNR); or permission may be granted to other students based on available space.\nAdditional information: Course cannot be used to fulfill a requirement for a Robert H. Smith School of Business major or minor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Grady,",
+      "seats": "30,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:30pm",
+      "end": "8:30pm",
+      "building": "JUL",
+      "room": "1123"
+    }
+  ],
+  "term": "201801",
+  "department": "Institute of Applied Agriculture"
+}

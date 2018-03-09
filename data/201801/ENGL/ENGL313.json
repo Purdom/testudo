@@ -1,0 +1,27 @@
+{
+  "id": "ENGL313",
+  "title": "American Literature",
+  "credits": "3",
+  "description": "A detailed study of selected major texts of American literature from th 17th century to the 20th century. Issues such as race, gender, and regionalism. Authors such as Franklin, Hawthorne, Dickinson, Hemingway, and Morrison.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Michael Kolakoski",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "TWS",
+      "room": "0236"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

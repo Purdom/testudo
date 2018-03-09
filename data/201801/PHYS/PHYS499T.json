@@ -1,0 +1,25 @@
+{
+  "id": "PHYS499T",
+  "title": "Special Problems in Physics; Accelerator Physics - Building the Maryland 5 MeV Cyclotron",
+  "credits": "3",
+  "description": "Prerequisite: ENEE380. Corequisite: ENEE381 or PHYS411; or permission of instructor. Restriction: Permission of ECE department.\n\nCyclotrons are versatile accelerators whose use, because of an unsurpassed economic footprint, continues to expand in basic research, industry, medicine, and education. They also capture most of fundamentalphysics and technology of the biggest particle accelerators, such as CERN's LHC. This course provides students with a hands-on introduction to fundamental beam physics as well as the technology of cyclotrons, their design, commissioning, and operation. Students of this course will be designing and building a cyclotron.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Brian Beaudoin,",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CSI",
+      "room": "3118"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

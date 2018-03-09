@@ -1,0 +1,27 @@
+{
+  "id": "GVPT390",
+  "title": "Game Theory",
+  "credits": "3",
+  "description": "Restriction: Must not have completed ECON414.\nCredit only granted for: GVPT399A, GVPT390, CMSC474 or ECON414.\nFormerly: GVPT399A.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Piotr Swistak",
+      "seats": "30,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "TYD",
+      "room": "1114"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

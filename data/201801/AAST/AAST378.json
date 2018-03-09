@@ -1,0 +1,27 @@
+{
+  "id": "AAST378",
+  "title": "Experiential Learning",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Julie Park",
+      "seats": "6,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Asian American Studies"
+}

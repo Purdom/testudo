@@ -1,0 +1,25 @@
+{
+  "id": "EDCP680",
+  "title": "Basic Didactic Practicum in Counseling Psychology",
+  "credits": "3",
+  "description": "Prerequisite: For Counseling Psychology majors only.\nFormerly: PSYC776.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Beth Richie",
+      "seats": "8,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "11:00am",
+      "end": "2:00pm",
+      "building": "HBK",
+      "room": "0105"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

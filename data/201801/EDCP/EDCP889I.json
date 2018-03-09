@@ -1,0 +1,26 @@
+{
+  "id": "EDCP889I",
+  "title": "Internship in Counseling and Personnel Services; Internship in School Psychology",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5301",
+      "instructor": "Jill Jacobson",
+      "seats": "6,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:00pm",
+      "end": "7:00pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

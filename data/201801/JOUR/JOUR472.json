@@ -1,0 +1,25 @@
+{
+  "id": "JOUR472",
+  "title": "Computer-Assisted Reporting",
+  "credits": "3",
+  "description": "Prerequisite: JOUR320 or JOUR360.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Daniel Keating",
+      "seats": "11,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:00am",
+      "end": "10:50am",
+      "building": "KNI",
+      "room": "2105"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

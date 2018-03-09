@@ -1,0 +1,25 @@
+{
+  "id": "BMGT468W",
+  "title": "Special Topics in Management and Organization; Social Innovation Practicum: Consulting and Venture Creation",
+  "credits": "3",
+  "description": "Restricted to Social Innovation Fellows.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "FP01",
+      "instructor": "David Kirsch",
+      "seats": "23,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1307"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

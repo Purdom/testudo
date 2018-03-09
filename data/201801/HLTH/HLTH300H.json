@@ -1,0 +1,27 @@
+{
+  "id": "HLTH300H",
+  "title": "Biostatistics for Public Health Practice",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in HLTH200.\nRestriction: Must be in Community Health program.\nAlso offered as: EPIB300.\nCredit only granted for: EPIB300 or HLTH300.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dina Borzekowski",
+      "seats": "75,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "SPH",
+      "room": "1312"
+    }
+  ],
+  "term": "201801",
+  "department": "Health"
+}

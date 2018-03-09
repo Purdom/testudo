@@ -1,0 +1,27 @@
+{
+  "id": "ENGL202",
+  "title": "Inventing Western Literature: Renaissance to Modern",
+  "credits": "3",
+  "description": "Wide range of texts from the Renaissance to the 21st century. Themes and literary techniques in the evolution of Western literature. Print publication, industrialization, questioning of religious, political, intellectual, and cultural authority.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tamar Leroy",
+      "seats": "30,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TWS",
+      "room": "0214"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

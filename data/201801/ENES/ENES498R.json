@@ -1,0 +1,27 @@
+{
+  "id": "ENES498R",
+  "title": "Special Topics in Entrepreneurship; Fearless Founders: New Venture Practicum",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ENGR-A. James Clark School of Engineering. Also offered as BMGT468R. Credit granted for BMGT468R or ENES498R.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elana Fine",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:00pm",
+      "end": "7:40pm",
+      "building": "VMH",
+      "room": "1415"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

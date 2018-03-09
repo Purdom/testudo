@@ -1,0 +1,26 @@
+{
+  "id": "KNES498W",
+  "title": "Special Topics in Kinesiology; Prosthetics for Limb Amputations",
+  "credits": "3",
+  "description": "Prerequisite: KNES300.\n\nIntroduction to the science of prosthetics and the artificial devices that are designed, developed and fit to replace the missing body part or parts lost through trauma, disease or congenital conditions.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Douglas Collier",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "1:00pm",
+      "end": "3:30pm",
+      "building": "CCC",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

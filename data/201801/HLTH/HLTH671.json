@@ -1,0 +1,26 @@
+{
+  "id": "HLTH671",
+  "title": "Public Health Communication",
+  "credits": "3",
+  "description": "Restriction: Non-SPH students must obtain permission from the instructor prior to registering.\nCredit only granted for: HLTH670 or HLTH671 and HLTH672.\nFormerly: HLTH670.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Juliette Christie",
+      "seats": "12,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "SPH",
+      "room": "1234A"
+    }
+  ],
+  "term": "201801",
+  "department": "Health"
+}

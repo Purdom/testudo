@@ -1,0 +1,27 @@
+{
+  "id": "LATN201",
+  "title": "Intermediate Latin",
+  "credits": "4",
+  "description": "Prerequisite: Must have completed LATN102 at University of Maryland, College Park; or permission of ARHU-Classics department.\nFormerly: LATN203.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Eugenia Lao",
+      "seats": "15,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "SYM",
+      "room": "0209"
+    }
+  ],
+  "term": "201801",
+  "department": "Latin"
+}

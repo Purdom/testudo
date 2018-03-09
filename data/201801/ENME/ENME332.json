@@ -1,0 +1,75 @@
+{
+  "id": "ENME332",
+  "title": "Transfer Processes",
+  "credits": "3",
+  "description": "Prerequisite: ENME331.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Marino diMarzo,",
+      "seats": "35,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0102",
+      "instructor": "Marino diMarzo,",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0103",
+      "instructor": "Marino diMarzo,",
+      "seats": "35,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0104",
+      "instructor": "Marino diMarzo,",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0106",
+      "instructor": "Marino diMarzo,",
+      "seats": "35,",
+      "open-seats": "30,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "KEY",
+      "room": "0106"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

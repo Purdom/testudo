@@ -1,0 +1,26 @@
+{
+  "id": "EDPS888",
+  "title": "Apprenticeship in Education",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Instructor: TBA",
+      "seats": "10,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Education Policy Studies"
+}

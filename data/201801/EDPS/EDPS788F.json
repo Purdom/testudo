@@ -1,0 +1,26 @@
+{
+  "id": "EDPS788F",
+  "title": "Special Topics in Education Policy and Administration; Education Policy and Reform",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gail Sunderman",
+      "seats": "24,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "TWS",
+      "room": "1313"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Policy Studies"
+}

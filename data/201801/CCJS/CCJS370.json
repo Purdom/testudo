@@ -1,0 +1,39 @@
+{
+  "id": "CCJS370",
+  "title": "Race, Crime and Criminal Justice",
+  "credits": "3",
+  "description": "Prerequisite: CCJS100.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christine White",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "HBK",
+      "room": "0115"
+    },
+    {
+      "id": "SG91",
+      "instructor": "Thomas Alexander",
+      "seats": "40,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "BLD3",
+      "room": "4212"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

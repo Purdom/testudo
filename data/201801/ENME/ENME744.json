@@ -1,0 +1,38 @@
+{
+  "id": "ENME744",
+  "title": "Additive Manufacturing",
+  "credits": "3",
+  "description": "Prerequisite: ENME272 and ENME331; or students who have taken courses with comparable content may contact the department.\nAlso offered as: ENME416.\nCredit only granted for: ENME 416 OR ENME 744.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ryan Sochol",
+      "seats": "20,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "JMP",
+      "room": "2222"
+    },
+    {
+      "id": "DE01",
+      "instructor": "Ryan Sochol",
+      "seats": "20,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

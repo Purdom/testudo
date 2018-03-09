@@ -1,0 +1,25 @@
+{
+  "id": "LING248",
+  "title": "Introduction to Laboratory Research in Linguistics",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ARHU-Linguistics department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jeffrey Lidz",
+      "seats": "15,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "10:00am",
+      "end": "11:30am",
+      "building": "MMH",
+      "room": "1108B"
+    }
+  ],
+  "term": "201801",
+  "department": "Linguistics"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "GVPT888E",
+  "title": "Selected Topics in Comparative Governmental Institutions; Conflict Studies",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mark Lichbach",
+      "seats": "12,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "6:15pm",
+      "building": "TYD",
+      "room": "1136"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

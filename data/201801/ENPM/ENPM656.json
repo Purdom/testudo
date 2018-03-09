@@ -1,0 +1,74 @@
+{
+  "id": "ENPM656",
+  "title": "Energy Conversion II -- Mobile Power",
+  "credits": "3",
+  "description": "Presents the scientific and engineering basis for design, manufacture, and operation of thermal conversion technologies utilized for mobility power generation. The interface between fuel combustion chemistry and generated power are addressed. The practical aspects of design and operation of various alternatives for power are compared. The impact of choices with regard to power and fuel alternatives as well as air pollution potential are also considered.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jim Cowart",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "JMP",
+      "room": "2216"
+    },
+    {
+      "id": "HT01",
+      "instructor": "Jim Cowart",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "ME01",
+      "instructor": "Jim Cowart",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "SG01",
+      "instructor": "Jim Cowart",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "Jim Cowart",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Professional Masters"
+}

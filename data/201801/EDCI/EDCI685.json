@@ -1,0 +1,25 @@
+{
+  "id": "EDCI685",
+  "title": "Research Methods",
+  "credits": "3",
+  "description": "The interpretation and conduct of research in curriculum and instruction.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Wayne Slater",
+      "seats": "25,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:00pm",
+      "end": "7:45pm",
+      "building": "EDU",
+      "room": "2121"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

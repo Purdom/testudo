@@ -1,0 +1,26 @@
+{
+  "id": "BMGT878Q",
+  "title": "Special Topics in Strategic Management and Entrepreneurship; Qualitative Methods",
+  "credits": "1",
+  "description": "Meets Jan 30, Feb 13, Feb 27, Mar 13",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christine Beckman",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:00am",
+      "end": "12:35pm",
+      "building": "VMH",
+      "room": "4534"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

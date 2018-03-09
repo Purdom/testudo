@@ -1,0 +1,27 @@
+{
+  "id": "RELS419C",
+  "title": "Advanced Topics in Religious Studies; History & Memory in Medieval Islam",
+  "credits": "3",
+  "description": "Also offered as HIST429M. Credit only granted for HIST429M or RELS419C.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Antoine Borrut",
+      "seats": "15,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TLF",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Religious Studies"
+}

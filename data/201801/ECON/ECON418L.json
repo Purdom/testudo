@@ -1,0 +1,27 @@
+{
+  "id": "ECON418L",
+  "title": "Economic Development of Selected Areas; Latin America",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (ECON305, ECON325); and 1 course with a minimum grade of C- from (ECON230, BMGT230, ECON321). Restriction: Must be in the Economics Bachelor of Arts program. Using examples from different historical and geographic contexts, students will analyze both the diversity and the commonalities of economic outcomes in Latin America, with an emphasis on institutional patterns. The class analyzes the divergence between North America and Latin America since the 1700s; surveys Latin America's economic history; reviews the regions recent economic experience with macroeconomic crises and their interaction with the political sphere; and explores current topics in the regions economic development, like the war on drugs and the rise of leftist policies.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mateo Uribe-Castro",
+      "seats": "40,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "TYD",
+      "room": "2108"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

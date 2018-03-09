@@ -1,0 +1,26 @@
+{
+  "id": "PHYS838C",
+  "title": "Special Topics in Experimental Solid State Physics; Center for Nanophysics and Advanced Materials Seminar",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Johnpierre Paglione,",
+      "seats": "30,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "6:00pm",
+      "building": "PHY",
+      "room": "1201"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

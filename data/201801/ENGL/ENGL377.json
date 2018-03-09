@@ -1,0 +1,27 @@
+{
+  "id": "ENGL377",
+  "title": "Medieval Myth and Modern Narrative",
+  "credits": "3",
+  "description": "Formerly: ENGL361.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christopher Crane",
+      "seats": "29,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "TWS",
+      "room": "0205"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

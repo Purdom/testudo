@@ -1,0 +1,37 @@
+{
+  "id": "BUFN758V",
+  "title": "Special Topics in Finance; Advanced Equity Modeling",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Ryan Guttridge",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "7:00pm",
+      "end": "8:50pm",
+      "building": "VMH",
+      "room": "1330"
+    },
+    {
+      "id": "0502",
+      "instructor": "Ryan Guttridge",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "VMH",
+      "room": "2511"
+    }
+  ],
+  "term": "201801",
+  "department": "Finance"
+}

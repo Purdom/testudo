@@ -1,0 +1,147 @@
+{
+  "id": "MATH240",
+  "title": "Introduction to Linear Algebra",
+  "credits": "4",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (MATH131, MATH141).\nCredit only granted for: MATH240, MATH341, or MATH461.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0111",
+      "instructor": "Raluca Rosca",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ARM",
+      "room": "0126"
+    },
+    {
+      "id": "0112",
+      "instructor": "Raluca Rosca",
+      "seats": "25,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ARM",
+      "room": "0126"
+    },
+    {
+      "id": "0113",
+      "instructor": "Raluca Rosca",
+      "seats": "25,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ARM",
+      "room": "0126"
+    },
+    {
+      "id": "0121",
+      "instructor": "Raluca Rosca",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ARM",
+      "room": "0126"
+    },
+    {
+      "id": "0122",
+      "instructor": "Raluca Rosca",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ARM",
+      "room": "0126"
+    },
+    {
+      "id": "0123",
+      "instructor": "Raluca Rosca",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ARM",
+      "room": "0126"
+    },
+    {
+      "id": "0131",
+      "instructor": "Raluca Rosca",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ARM",
+      "room": "0126"
+    },
+    {
+      "id": "0132",
+      "instructor": "Raluca Rosca",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ARM",
+      "room": "0126"
+    },
+    {
+      "id": "0141",
+      "instructor": "Raluca Rosca",
+      "seats": "25,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ARM",
+      "room": "0126"
+    },
+    {
+      "id": "0142",
+      "instructor": "Raluca Rosca",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ARM",
+      "room": "0126"
+    },
+    {
+      "id": "0211",
+      "instructor": "Ryan Hunter",
+      "seats": "65,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ATL",
+      "room": "1113"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "HLTH391H",
+  "title": "Principles of Community Health I",
+  "credits": "3",
+  "description": "Prerequisite: HLTH140, HLTH230, HLTH300, and BSCI202.\nCorequisite: HLTH301.\nRestriction: Must be in Community Health program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sharon Desmond,",
+      "seats": "65,",
+      "open-seats": "31,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ESJ",
+      "room": "0215"
+    }
+  ],
+  "term": "201801",
+  "department": "Health"
+}

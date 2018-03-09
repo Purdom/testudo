@@ -1,0 +1,26 @@
+{
+  "id": "ARCH655",
+  "title": "Urban Design Seminar",
+  "credits": "3",
+  "description": "Prerequisite: ARCH654; or permission of ARCH-Architecture Program.\nCredit only granted for: ARCH451 or ARCH655.\nFormerly: ARCH451.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Steven Hurtt",
+      "seats": "15,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ARC",
+      "room": "1127"
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

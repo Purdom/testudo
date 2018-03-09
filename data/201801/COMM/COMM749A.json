@@ -1,0 +1,38 @@
+{
+  "id": "COMM749A",
+  "title": "Advanced Simultaneous Interpretation; Arabic into English/English into Arabic",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "XGA1",
+      "instructor": "Ihab Ali",
+      "seats": "16,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Sa",
+      "start": "11:30am",
+      "end": "12:20pm",
+      "building": "SKN",
+      "room": "3118"
+    },
+    {
+      "id": "XGE1",
+      "instructor": "Ihab Ali",
+      "seats": "16,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Sa",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "SKN",
+      "room": "3118"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

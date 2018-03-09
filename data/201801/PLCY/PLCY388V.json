@@ -1,0 +1,27 @@
+{
+  "id": "PLCY388V",
+  "title": "Special Topics in Public Policy; From Artificial Intelligence to Genetic Engineering: The Policy Implications of Emerging Technologies",
+  "credits": "3",
+  "description": "A host of emerging technologies, ranging from 3-D printing, gene editing tools, self-tracking technologies, smart cars, drones, robotics, and synthetic biology, have the potential for enormous societal benefit but also raise public and government concern. What are the various social and ethical implications in how these technologies are designed, developed and used? How do we think about policy options to deal with social and ethical concerns around these technologies? This course will study contemporary science and technology policy controversies as reflected in the news; the course material will be designed to respond flexibly to unforseen policy issues that may arise during the course of the semester. Special guest speakers involving faculty from across the university, as well as experts from the Washington, DC area, will be invited to contextualize and deepen students' understanding of these controversies. Students will be exposed to different points of view on these issues.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kathleen Vogel",
+      "seats": "24,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:30pm",
+      "building": "TLF",
+      "room": "1126"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "JOUR479O",
+  "title": "Special Topics in Data Gathering and Analysis; Understanding Audiences",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed a university statistics course. As journalism evolves, it may be more important than ever to understand what were once simply called \"audiences\"- who they are, how they consume news, and what that engagement means for them and for society. Students will learn to think critically about news audiences and contemporary issues in audience research.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ronald Yaros",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "KNI",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

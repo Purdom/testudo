@@ -1,0 +1,26 @@
+{
+  "id": "PSYC630",
+  "title": "Behavioral and Cognitive Behavioral Intervention for Adults",
+  "credits": "3",
+  "description": "Prerequisite: PSYC680.\nRestriction: Permission of instructor.\nCredit only granted for: PSYC630 or PSYC728.\nFormerly: PSYC728.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PCC1",
+      "instructor": "Andrea Chisolm",
+      "seats": "40,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:00pm",
+      "end": "9:15pm",
+      "building": "BPS",
+      "room": "1140B"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

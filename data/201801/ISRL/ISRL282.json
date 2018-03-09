@@ -1,0 +1,27 @@
+{
+  "id": "ISRL282",
+  "title": "Introduction to Israeli Cinema",
+  "credits": "3",
+  "description": "An overview of Israeli cinema, with attention to the distinctive themes politics, and problems that distinguish Israeli film-making. Taught in English.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shalom Rosenberg",
+      "seats": "30,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "HBK",
+      "room": "0115"
+    }
+  ],
+  "term": "201801",
+  "department": "Israel Studies"
+}

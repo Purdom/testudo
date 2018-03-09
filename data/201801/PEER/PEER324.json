@@ -1,0 +1,25 @@
+{
+  "id": "PEER324",
+  "title": "Advanced Peer Education: Sexual Health & Wellness",
+  "credits": "3",
+  "description": "Prerequisite: Students must complete an interview before enrolling in this course; and minimum grade of B- in PEER314.\nRestriction: Minimum cumulative GPA of 2.5; and permission of instructor.\nCredit only granted for: HLTH383 or PEER324.\nFormerly: HLTH383.\nAdditional information: In addition to the weekly class lectures and experiential learning opportunities facilitating educational outreach on campus, advanced peer educators will meet weekly in groups. These group meetings will provide a space for the students to incorporate class content to enhance the design, development, and evaluation of a sexual health and wellness program for the University of Maryland campus community. Coordinators will meet with student groups to facilitate and supervise this process.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jenna Messman",
+      "seats": "15,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "5:00pm",
+      "building": "JMZ",
+      "room": "1224"
+    }
+  ],
+  "term": "201801",
+  "department": "Health Center"
+}

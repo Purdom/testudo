@@ -1,0 +1,25 @@
+{
+  "id": "ANSC121",
+  "title": "Introduction to Livestock Judging",
+  "credits": "2",
+  "description": "Students will establish a working understanding of the structural anatomy of several livestock species- cattle, sheep, pigs, goats- and their individual importance in the Agricultural Industry, while gaining the ability to evaluate these species for soundness and show-ring appeal. Additionally, the class aims to provide students with confidence in justifying decisions of based on their evaluations and gain skills in public speaking. The course will include two weekend field trips to farms in order to practice judging skills.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Racheal Slattery",
+      "seats": "15,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "ANS",
+      "room": "0402"
+    }
+  ],
+  "term": "201801",
+  "department": "Animal Science"
+}

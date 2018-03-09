@@ -1,0 +1,26 @@
+{
+  "id": "EDMS646",
+  "title": "General Linear Models I",
+  "credits": "3",
+  "description": "Prerequisite: EDMS645; or an equivalent introductory statistics course.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yang Liu",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "3315"
+    }
+  ],
+  "term": "201801",
+  "department": "Measurement, Statistics, and Evaluation"
+}

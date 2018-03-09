@@ -1,0 +1,26 @@
+{
+  "id": "PHYS798N",
+  "title": "Special Problems in Advanced Physics; Data Practicum at the Intersection of the Physical, computer, and Life Sciences",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michelle Girvan,",
+      "seats": "15,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "AJC",
+      "room": "2134"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

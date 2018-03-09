@@ -1,0 +1,25 @@
+{
+  "id": "EDCI430",
+  "title": "Student Teaching Seminar in Secondary Education: World Language",
+  "credits": "1",
+  "description": "Prerequisite: EDCI410 and EDCI433.\nCorequisite: EDCI431 and EDCI474.\nRestriction: Must be in Secondary Educ: Foreign Languages program; and minimum cumulative GPA of 2.75. Or permission of EDUC-Teaching, Learning, Policy and Leadership department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Perla Blejer",
+      "seats": "12,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:30pm",
+      "end": "6:30pm",
+      "building": "EDU",
+      "room": "2102"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

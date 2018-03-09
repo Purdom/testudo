@@ -1,0 +1,26 @@
+{
+  "id": "CHEM623",
+  "title": "Optical Methods of Quantitative Analysis",
+  "credits": "3",
+  "description": "Prerequisite: CHEM482; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Neil Blough",
+      "seats": "17,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "CHM",
+      "room": "1228"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

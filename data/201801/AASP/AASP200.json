@@ -1,0 +1,27 @@
+{
+  "id": "AASP200",
+  "title": "African Civilization",
+  "credits": "3",
+  "description": "A survey of African civilizations from 4500 B.C. to present. Analysis of traditional social systems. Discussion of the impact of European colonization on these civilizations. Analysis of the influence of traditional African social systems on modern African institutions as well as discussion of contemporary processes of Africanization.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "George Kintiba",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "1:15pm",
+      "building": "ASY",
+      "room": "3207"
+    }
+  ],
+  "term": "201801",
+  "department": "African American Studies"
+}

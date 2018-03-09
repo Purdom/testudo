@@ -1,0 +1,26 @@
+{
+  "id": "CMSC722",
+  "title": "Artificial Intelligence Planning",
+  "credits": "3",
+  "description": "Prerequisite: CMSC421; or students who have taken courses with comparable content may contact the department; or permission of CMNS-Computer Science department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dana Nau",
+      "seats": "40,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CSI",
+      "room": "2120"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

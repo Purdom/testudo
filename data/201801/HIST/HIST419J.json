@@ -1,0 +1,27 @@
+{
+  "id": "HIST419J",
+  "title": "Special Topics in History; American Women and the Great Society: The 1960s and Beyond",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robyn Muncy",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TLF",
+      "room": "2103"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

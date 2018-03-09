@@ -1,0 +1,27 @@
+{
+  "id": "JWST225",
+  "title": "Religions of the Ancient Near East",
+  "credits": "3",
+  "description": "Credit only granted for: JWST225, RELS219A, or HIST219I.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Matthew Suriano",
+      "seats": "30,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "HBK",
+      "room": "1108"
+    }
+  ],
+  "term": "201801",
+  "department": "Jewish Studies"
+}

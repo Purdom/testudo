@@ -1,0 +1,62 @@
+{
+  "id": "ENPM674",
+  "title": "Design and Synthesis of Digital Systems",
+  "credits": "3",
+  "description": "Prerequisite: ENEE140, ENEE150, and ENEE350; or students who have taken courses with comparable content may contact the department.\nRecommended: ENEE446.\nCredit only granted for: ENPM808R or ENPM674.\nFormerly: ENPM808R.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "George Zaki",
+      "seats": "17,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "JMP",
+      "room": "2120"
+    },
+    {
+      "id": "HT01",
+      "instructor": "George Zaki",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SG01",
+      "instructor": "George Zaki",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "George Zaki",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Professional Masters"
+}

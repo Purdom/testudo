@@ -1,0 +1,25 @@
+{
+  "id": "INST776",
+  "title": "HCIM CAPSTONE PROJECT",
+  "credits": "3",
+  "description": "Prerequisite: INST775; or permission of instructor.\nRestriction: Must be taken in the semester immediately following completion of INST775 HCIM Capstone Prep; and permission of INFO-College of Information Studies.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Bill Kules",
+      "seats": "30,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "6:00pm",
+      "end": "8:45pm",
+      "building": "HBK",
+      "room": "0115"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

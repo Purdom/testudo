@@ -1,0 +1,27 @@
+{
+  "id": "JOUR456",
+  "title": "Literature in Journalism",
+  "credits": "3",
+  "description": "Also offered as: JOUR673.\nCredit only granted for: JOUR456 or JOUR673.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christopher Hanson",
+      "seats": "18,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "KNI",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

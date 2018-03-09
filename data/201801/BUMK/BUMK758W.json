@@ -1,0 +1,25 @@
+{
+  "id": "BUMK758W",
+  "title": "Special Topics in Marketing; Data Science",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Harald Anderson",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1520"
+    }
+  ],
+  "term": "201801",
+  "department": "Marketing"
+}

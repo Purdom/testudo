@@ -1,0 +1,25 @@
+{
+  "id": "ENEE381H",
+  "title": "Electromagnetic Wave Propagation",
+  "credits": "3",
+  "description": "Prerequisite: ENEE380; and completion of all lower-division technical courses in the EE curriculum.\nRestriction: Must be in Engineering: Electrical program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ping-Tong Ho",
+      "seats": "15,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "EGR",
+      "room": "0108"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

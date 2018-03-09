@@ -1,0 +1,25 @@
+{
+  "id": "NAVY101",
+  "title": "Sea Power and Maritime Affairs",
+  "credits": "3",
+  "description": "Introduces the student to the key themes of naval and maritime history. Curriculum presents an analysis through lectures, reading, and student discussion of the relationship of sea power to American history. Classical concepts and contemporary employment of sea power are examined by viewing historic and current naval and maritime developments.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stew Wennersten,",
+      "seats": "40,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "ESJ",
+      "room": "1309"
+    }
+  ],
+  "term": "201801",
+  "department": "Navy"
+}

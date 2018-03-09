@@ -1,0 +1,26 @@
+{
+  "id": "INST604",
+  "title": "Introduction to Archives and Digital Curation",
+  "credits": "3",
+  "description": "Restriction: Permission of INFO-College of Information Studies.\nCredit only granted for: LBSC604 or LBSC605.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Adam Kriesberg",
+      "seats": "25,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "JMZ",
+      "room": "0125"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

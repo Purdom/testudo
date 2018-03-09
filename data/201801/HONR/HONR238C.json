@@ -1,0 +1,25 @@
+{
+  "id": "HONR238C",
+  "title": "The Future of Energy and Climate Policy",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tyson Slocum",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:00pm",
+      "end": "5:30pm",
+      "building": "TWS",
+      "room": "1321"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

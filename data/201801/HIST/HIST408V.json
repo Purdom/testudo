@@ -1,0 +1,25 @@
+{
+  "id": "HIST408V",
+  "title": "Senior Seminar; The Catholic Church",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Piotr H Kosicki",
+      "seats": "12,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "TLF",
+      "room": "2103"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

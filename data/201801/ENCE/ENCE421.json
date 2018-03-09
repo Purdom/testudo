@@ -1,0 +1,26 @@
+{
+  "id": "ENCE421",
+  "title": "Legal Aspects of Architectural and Engineering Practice",
+  "credits": "3",
+  "description": "Restriction: Must be in a major in ENGR-A. James Clark School of Engineering; or must be in the Construction Project Management minor; or must be in the Project Management Minor. And permission of ENGR-Civil & Environmental Engineering department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Miroslaw Skibniewski",
+      "seats": "60,",
+      "open-seats": "41,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "CHE",
+      "room": "2108"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

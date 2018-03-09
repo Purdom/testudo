@@ -1,0 +1,27 @@
+{
+  "id": "PSYC353",
+  "title": "Adult Psychopathology",
+  "credits": "3",
+  "description": "Prerequisite: PSYC100.\nRestriction: Must be in Psychology program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mary Beth Janke",
+      "seats": "117,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "BPS",
+      "room": "1250"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

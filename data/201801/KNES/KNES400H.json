@@ -1,0 +1,27 @@
+{
+  "id": "KNES400H",
+  "title": "The Foundations of Public Health in Kinesiology",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in KNES287; and must have completed or be concurrently enrolled in KNES360.\nRestriction: Senior standing or higher; and must be in a major within the SPHL-Kinesiology department.\nCredit only granted for: KNES400 or KNES498A.\nFormerly: KNES498A.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Katelyn Esmonde",
+      "seats": "4,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SPH",
+      "room": "1312"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

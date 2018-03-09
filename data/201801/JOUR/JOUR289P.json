@@ -1,0 +1,27 @@
+{
+  "id": "JOUR289P",
+  "title": "Scandal! Exposing Corruption, Injustice, and Vice in America",
+  "credits": "3",
+  "description": "Students will examine the nature and meaning of scandals in society: how they are uncovered and constructed; why some forms of wrongdoing are are considered scandalous but not others; how this definition has changed over time; and how scandals resonate in ways that reflect societal norms.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mark Feldstein",
+      "seats": "60,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "KNI",
+      "room": "1208"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "CMSC389C",
+  "title": "Special Topics in Computer Science; Bitcoin and Other Cryptocurrencies",
+  "credits": "1",
+  "description": "Prerequisite: CMSC216 and CMSC250 with a grade of C- or better. Restriction: Permission of CMSN-Computer Science department.\n\nThis course provides a comprehensive, practical introduction to the the technology behind cryptocurrency and the economy surrounding it. This course will have a heavy emphasis on Bitcoin, but will touch on other types of cryptocurrency as well. This course is primarily intended to focus on the technological aspect of cryptocurrency, but we will also spend time discussing the economics of cryptocurrency.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jonathan Katz",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "CSI",
+      "room": "3118"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

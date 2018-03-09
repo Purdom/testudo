@@ -1,0 +1,26 @@
+{
+  "id": "ENGL718D",
+  "title": "Seminar in Medieval Literature; Environmental Fictions, Past and Present",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kellie Robertson",
+      "seats": "11,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TWS",
+      "room": "3134"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

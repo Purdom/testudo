@@ -1,0 +1,26 @@
+{
+  "id": "HLSA750",
+  "title": "Healthcare Management Information Systems",
+  "credits": "3",
+  "description": "Provides a background and overview of the analysis, design, evaluation, selection, installation, use, and mangement of information systems in health care settings. Students will review the information management function and value of information and the role of information technology in the provision of high quality care and management decision making. Details on computer hardware, software, networking, and telecommunications sufficient for understanding of concepts relevant to health care managers and staff will be addressed.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Neil Sehgal",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "ATL",
+      "room": "0201"
+    }
+  ],
+  "term": "201801",
+  "department": "Health Services Administration"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "PSYC432",
+  "title": "Counseling Psychology: Theories, Research, and Practice",
+  "credits": "3",
+  "description": "Prerequisite: PSYC200.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nazish Salahuddin",
+      "seats": "45,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "BPS",
+      "room": "0283"
+    },
+    {
+      "id": "0201",
+      "instructor": "Nazish Salahuddin",
+      "seats": "45,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "BPS",
+      "room": "0283"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

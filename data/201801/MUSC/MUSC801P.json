@@ -1,0 +1,26 @@
+{
+  "id": "MUSC801P",
+  "title": "Advanced Seminar in Music Pedagogy",
+  "credits": "3",
+  "description": "Prerequisite: MUSC400; or students who have taken courses with comparable content may contact the department.\nRestriction: Permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Grace Bottelier",
+      "seats": "10,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:30pm",
+      "end": "5:00pm",
+      "building": "PAC",
+      "room": "3164"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

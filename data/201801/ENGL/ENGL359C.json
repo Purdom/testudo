@@ -1,0 +1,27 @@
+{
+  "id": "ENGL359C",
+  "title": "Special Topics in Lesbian, Gay, and Bisexual Literatures; Queer Comedy",
+  "credits": "3",
+  "description": "Also offered as LGBT359M. Prerequisite: Two lower-level English courses, at least one in literature; or permission of ARHU-English department. Repeatable to 9 credits if content differs.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Martha Nell Smith",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "TWS",
+      "room": "0201"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

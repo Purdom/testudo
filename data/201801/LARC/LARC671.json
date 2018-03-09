@@ -1,0 +1,26 @@
+{
+  "id": "LARC671",
+  "title": "Landscape Architecture Research Methods",
+  "credits": "3",
+  "description": "Restriction: Permission of AGNR-Plant Science & Landscape Architecture department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Myers",
+      "seats": "15,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "10:00am",
+      "end": "12:50pm",
+      "building": "PLS",
+      "room": "1172"
+    }
+  ],
+  "term": "201801",
+  "department": "Landscape Architecture"
+}

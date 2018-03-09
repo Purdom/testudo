@@ -1,0 +1,39 @@
+{
+  "id": "MATH462",
+  "title": "Partial Differential Equations",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (MATH241, MATH340); and 1 course with a minimum grade of C- from (MATH246, MATH341).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Manoussos Grillakis",
+      "seats": "28,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "MTH",
+      "room": "0305"
+    },
+    {
+      "id": "0201",
+      "instructor": "David Hamilton",
+      "seats": "28,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "MTH",
+      "room": "0304"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

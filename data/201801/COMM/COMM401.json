@@ -1,0 +1,87 @@
+{
+  "id": "COMM401",
+  "title": "Interpreting Strategic Discourse",
+  "credits": "3",
+  "description": "Prerequisite: COMM250.\nRestriction: Must be in Communication program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christopher Swift",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0102",
+      "instructor": "Christopher Swift",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0103",
+      "instructor": "Christopher Swift",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0104",
+      "instructor": "Christopher Swift",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0105",
+      "instructor": "Christopher Swift",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0106",
+      "instructor": "Christopher Swift",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "SKN",
+      "room": "0200"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

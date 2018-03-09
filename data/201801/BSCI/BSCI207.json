@@ -1,0 +1,39 @@
+{
+  "id": "BSCI207",
+  "title": "Principles of Biology III - Organismal Biology",
+  "credits": "3",
+  "description": "Prerequisite: BSCI160 and BSCI161; or BSCI106. And BSCI170 and BSCI171; or BSCI105. And must have completed or be concurrently enrolled in CHEM131.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Leo Shapiro",
+      "seats": "200,",
+      "open-seats": "67,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "HJP",
+      "room": "0226"
+    },
+    {
+      "id": "0201",
+      "instructor": "Leo Shapiro",
+      "seats": "100,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "BPS",
+      "room": "1243"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

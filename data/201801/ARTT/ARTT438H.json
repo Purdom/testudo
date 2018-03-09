@@ -1,0 +1,51 @@
+{
+  "id": "ARTT438H",
+  "title": "Advanced Sculpture Studio; Honors Advanced Sculpture",
+  "credits": "3",
+  "description": "Restricted to departmental honors students only. Prerequisite: 300-level sculpture course and permission of department. Students must pay a $40.00 studio lab fee.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Foon Sham",
+      "seats": "2,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:00pm",
+      "end": "5:30pm",
+      "building": "ASY",
+      "room": "1311"
+    },
+    {
+      "id": "0201",
+      "instructor": "Steven Jones",
+      "seats": "2,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "3:00pm",
+      "building": "ASY",
+      "room": "1314"
+    },
+    {
+      "id": "0301",
+      "instructor": "Hugh Bryant",
+      "seats": "2,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "5:30pm",
+      "building": "ASY",
+      "room": "1314"
+    }
+  ],
+  "term": "201801",
+  "department": "Art Studio"
+}

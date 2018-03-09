@@ -1,0 +1,50 @@
+{
+  "id": "PLCY689E",
+  "title": "Public Policy Topics; Program Evaluation and Cost-Benefit Analysis",
+  "credits": "3",
+  "description": "Restricted to PLCY majors or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Peter Germanis,",
+      "seats": "45,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "10:00pm",
+      "building": "VMH",
+      "room": "1212"
+    },
+    {
+      "id": "0201",
+      "instructor": "Peter Germanis,",
+      "seats": "45,",
+      "open-seats": "33,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "10:00pm",
+      "building": "VMH",
+      "room": "1203"
+    },
+    {
+      "id": "0301",
+      "instructor": "Peter Germanis,",
+      "seats": "25,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "10:00pm",
+      "building": "VMH",
+      "room": "1207"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

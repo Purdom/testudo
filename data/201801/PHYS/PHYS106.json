@@ -1,0 +1,27 @@
+{
+  "id": "PHYS106",
+  "title": "Light, Perception, Photography, and Visual Phenomena",
+  "credits": "3",
+  "description": "Intended for the general student, this course will cover topics in optics which require minimal use of mathematics. Principles of optics, lenses, cameras, lasers and holography, physics of the eye, color vision and various visual phenomena such as rainbows.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jordan Goodman",
+      "seats": "155,",
+      "open-seats": "52,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "PHY",
+      "room": "1410"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

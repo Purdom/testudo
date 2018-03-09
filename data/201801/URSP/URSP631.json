@@ -1,0 +1,26 @@
+{
+  "id": "URSP631",
+  "title": "Transportation and Land Use",
+  "credits": "3",
+  "description": "Credit only granted for: URSP631 or URSP688L.\nFormerly: URSP688L.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hiroyuki Iseki",
+      "seats": "19,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "ARC",
+      "room": "1119"
+    }
+  ],
+  "term": "201801",
+  "department": "Urban Studies and Planning"
+}

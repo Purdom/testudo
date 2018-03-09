@@ -1,0 +1,27 @@
+{
+  "id": "PLSC460",
+  "title": "Application of Knowledge in Plant Sciences",
+  "credits": "3",
+  "description": "Prerequisite: PLSC100 or PLSC101; or permission of instructor.\nRecommended: ENGL393 and ENST200; and (PLSC389 or PLSC399).\nRestriction: Senior standing or higher. And must be in a major within AGNR-Plant Science & Landscape Architecture department; or must be in another related major.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Phillips",
+      "seats": "30,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "ESJ",
+      "room": "1309"
+    }
+  ],
+  "term": "201801",
+  "department": "Plant Sciences"
+}

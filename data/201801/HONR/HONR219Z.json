@@ -1,0 +1,37 @@
+{
+  "id": "HONR219Z",
+  "title": "Honors Seminar; Apocalypse Then and Now: World Traditions of the End Times",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Carlson",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:30pm",
+      "building": "LPA",
+      "room": "0124"
+    },
+    {
+      "id": "0201",
+      "instructor": "John Carlson",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "7:00pm",
+      "end": "9:30pm",
+      "building": "LPA",
+      "room": "0124"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

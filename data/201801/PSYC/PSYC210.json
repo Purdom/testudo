@@ -1,0 +1,25 @@
+{
+  "id": "PSYC210",
+  "title": "Personality and Temperament: Developmental Origins, Brain Bases, and Clinical Implications",
+  "credits": "3",
+  "description": "Prerequisite: PSYC100.\nRestriction: Must be in Psychology program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alexander Shackman",
+      "seats": "117,",
+      "open-seats": "39,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "BPS",
+      "room": "1243"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GEOL412",
+  "title": "Geology of the Terrestrial Planets",
+  "credits": "3",
+  "description": "Prerequisite: GEOL341 or GEOL340.\nCredit only granted for: GEOL489A or GEOL412.\nFormerly: GEOL489A.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Laurent Montesi",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "11:00am",
+      "building": "SYM",
+      "room": "0215"
+    }
+  ],
+  "term": "201801",
+  "department": "Geology"
+}

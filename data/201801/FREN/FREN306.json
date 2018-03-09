@@ -1,0 +1,27 @@
+{
+  "id": "FREN306",
+  "title": "Commercial French I",
+  "credits": "3",
+  "description": "Prerequisite: FREN301; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Erica Cefalo",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "JMZ",
+      "room": "3120"
+    }
+  ],
+  "term": "201801",
+  "department": "French"
+}

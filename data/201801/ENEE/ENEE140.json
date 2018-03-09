@@ -1,0 +1,61 @@
+{
+  "id": "ENEE140",
+  "title": "Introduction to Programming Concepts for Engineers",
+  "credits": "2",
+  "description": "Prerequisite: Permission of ENGR-Electrical & Computer Engineering department.\nRestriction: Must be in Engineering: Electrical program; or must be in Engineering: Materials Science program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gang Qu",
+      "seats": "14,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0102",
+      "instructor": "Gang Qu",
+      "seats": "14,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0103",
+      "instructor": "Gang Qu",
+      "seats": "14,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0104",
+      "instructor": "Gang Qu",
+      "seats": "14,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ATL",
+      "room": "2324"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

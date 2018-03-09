@@ -1,0 +1,27 @@
+{
+  "id": "WMST263",
+  "title": "Introduction to Black Women's Studies",
+  "credits": "3",
+  "description": "Credit only granted for: WMST298A, AASP298I, or AASP298S.\nFormerly: WMST298A.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Donnesha Blake",
+      "seats": "35,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "KEY",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "Women's Studies"
+}

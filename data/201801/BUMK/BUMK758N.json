@@ -1,0 +1,25 @@
+{
+  "id": "BUMK758N",
+  "title": "Special Topics in Marketing; Web Analytics",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Michael Trusov",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "10:00am",
+      "end": "1:30pm",
+      "building": "VMH",
+      "room": "1333"
+    }
+  ],
+  "term": "201801",
+  "department": "Marketing"
+}

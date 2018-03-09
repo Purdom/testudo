@@ -1,0 +1,26 @@
+{
+  "id": "EDMS645",
+  "title": "Quantitative Research Methods I",
+  "credits": "3",
+  "description": "Research design and statistical applications in educational research: data representation; descriptive statistics; estimation and hypothesis testing. Application of statistical computer packages is emphasized.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jeffrey Harring",
+      "seats": "30,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "EDU",
+      "room": "3315"
+    }
+  ],
+  "term": "201801",
+  "department": "Measurement, Statistics, and Evaluation"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "ARCH289I",
+  "title": "Sustainability at College Park",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ralph Bennett",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "ARC",
+      "room": "0204"
+    },
+    {
+      "id": "0102",
+      "instructor": "Ralph Bennett",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "ARC",
+      "room": "0204"
+    },
+    {
+      "id": "0103",
+      "instructor": "Ralph Bennett",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "ARC",
+      "room": "0204"
+    },
+    {
+      "id": "0104",
+      "instructor": "Ralph Bennett",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "ARC",
+      "room": "0204"
+    },
+    {
+      "id": "0105",
+      "instructor": "Ralph Bennett",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "ARC",
+      "room": "0204"
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

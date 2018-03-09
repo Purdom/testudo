@@ -1,0 +1,38 @@
+{
+  "id": "LBSC791",
+  "title": "Designing Principled Inquiry",
+  "credits": "3",
+  "description": "Prerequisite: LBSC671, LBSC602, and LBSC631; and additional 9 credits of coursework applied to the MLIS degree. Or permission of instructor.\nRestriction: Permission of INFO-College of Information Studies.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Donaldson,",
+      "seats": "25,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:00pm",
+      "end": "8:45pm",
+      "building": "HBK",
+      "room": "0103"
+    },
+    {
+      "id": "ML01",
+      "instructor": "Rocco Debonis",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Library Science"
+}

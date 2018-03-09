@@ -1,0 +1,26 @@
+{
+  "id": "LING611",
+  "title": "Issues in Syntax",
+  "credits": "3",
+  "description": "Prerequisite: LING610.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Omer Preminger,",
+      "seats": "15,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "5:00pm",
+      "building": "MMH",
+      "room": "3416K"
+    }
+  ],
+  "term": "201801",
+  "department": "Linguistics"
+}

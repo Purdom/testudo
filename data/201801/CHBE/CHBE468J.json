@@ -1,0 +1,25 @@
+{
+  "id": "CHBE468J",
+  "title": "Research; Fundamentals of Photovoltaics",
+  "credits": "3",
+  "description": "Overview of the fundamentals of photovoltaic devices, including principles of operation, with emphasis on the materials science aspects of the different technologies available.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Marina Leite",
+      "seats": "5,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "AJC",
+      "room": "2121"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemical and Biomolecular Engineering"
+}

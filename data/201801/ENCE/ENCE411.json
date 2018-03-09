@@ -1,0 +1,39 @@
+{
+  "id": "ENCE411",
+  "title": "Environmental Engineering Science",
+  "credits": "3",
+  "description": "Prerequisite: ENCE310; and permission of ENGR-Civil & Environmental Engineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Natasha Andrade",
+      "seats": "9,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "EGR",
+      "room": "1110"
+    },
+    {
+      "id": "0102",
+      "instructor": "Natasha Andrade",
+      "seats": "9,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "EGR",
+      "room": "1110"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

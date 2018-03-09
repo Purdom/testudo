@@ -1,0 +1,27 @@
+{
+  "id": "CCJS498T",
+  "title": "Selected Topics in Criminology and Criminal Justice; Victim Advocacy",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "Heidi Bresee",
+      "seats": "40,",
+      "open-seats": "26,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "BLD2",
+      "room": "3022"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

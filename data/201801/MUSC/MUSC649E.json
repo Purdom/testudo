@@ -1,0 +1,25 @@
+{
+  "id": "MUSC649E",
+  "title": "Ensemble; Gospel Choir",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Anne Carswell",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "10:00pm",
+      "building": "PAC",
+      "room": "2201"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

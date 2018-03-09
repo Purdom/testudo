@@ -1,0 +1,27 @@
+{
+  "id": "ECON684",
+  "title": "Applied Time Series Analysis and Forecasting",
+  "credits": "3",
+  "description": "Prerequisite: ECON642; and ECON645.\nRestriction: Must be in M.Prof.Studies: Applied Economics program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PCE1",
+      "instructor": "Michael Barry",
+      "seats": "30,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:30pm",
+      "end": "9:15pm",
+      "building": "KEY",
+      "room": "0100"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

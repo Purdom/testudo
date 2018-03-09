@@ -1,0 +1,39 @@
+{
+  "id": "ENGL352",
+  "title": "Intermediate Fiction Workshop",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of A- in ENGL271; or minimum grade of A- in ENGL272; or permission of ARHU-English department.\nCredit only granted for: ENGL396 or ENGL352.\nFormerly: ENGL396.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gabrielle Fuentes",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TWS",
+      "room": "0205"
+    },
+    {
+      "id": "0301",
+      "instructor": "Rachel Waugh",
+      "seats": "15,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TWS",
+      "room": "3250"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

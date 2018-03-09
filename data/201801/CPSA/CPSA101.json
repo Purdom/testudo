@@ -1,0 +1,25 @@
+{
+  "id": "CPSA101",
+  "title": "College Park Scholars: Arts First-Year Colloquium II",
+  "credits": "1",
+  "description": "Prerequisite: CPSA100.\nRestriction: Students must be matriculated into the College Park Scholars Arts (CPSA) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Harold Burgess,",
+      "seats": "75,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:00pm",
+      "end": "7:30pm",
+      "building": "CCC",
+      "room": "1100"
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars-Arts"
+}

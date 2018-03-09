@@ -1,0 +1,25 @@
+{
+  "id": "BMGT408D",
+  "title": "Emerging Topics in Information Systems; Google AdWords and Analytics",
+  "credits": "3",
+  "description": "Prerequisite: BMGT301. Restricted to BMGT majors with 72 credit hours completed.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sunil Mithas",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "2203"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

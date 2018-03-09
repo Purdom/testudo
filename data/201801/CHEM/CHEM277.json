@@ -1,0 +1,61 @@
+{
+  "id": "CHEM277",
+  "title": "Fundamentals of Analytical and Bioanalytical Chemistry Laboratory",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in CHEM241 and CHEM242; or minimum grade of C- in CHEM247.\nCorequisite: CHEM276.\nRestriction: Must be in one of the following programs (Chemistry; Biochemistry).\nCredit only granted for: CHEM153, CHEM227, CHEM272 or CHEM277.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "8111",
+      "instructor": "Jason Kahn",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ATL",
+      "room": "2400"
+    },
+    {
+      "id": "8211",
+      "instructor": "Jason Kahn",
+      "seats": "18,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ATL",
+      "room": "2400"
+    },
+    {
+      "id": "8221",
+      "instructor": "Jason Kahn",
+      "seats": "18,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ATL",
+      "room": "2400"
+    },
+    {
+      "id": "8311",
+      "instructor": "Jason Kahn",
+      "seats": "18,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ATL",
+      "room": "2400"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

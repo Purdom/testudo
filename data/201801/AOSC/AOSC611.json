@@ -1,0 +1,38 @@
+{
+  "id": "AOSC611",
+  "title": "Dynamics of the Atmosphere and Oceans II",
+  "credits": "3",
+  "description": "Formerly: METO611.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Da-Lin Zhang",
+      "seats": "25,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ATL",
+      "room": "2416"
+    },
+    {
+      "id": "AM01",
+      "instructor": "Da-Lin Zhang",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ATL",
+      "room": "2416"
+    }
+  ],
+  "term": "201801",
+  "department": "Atmospheric and Oceanic Science"
+}

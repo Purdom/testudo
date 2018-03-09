@@ -1,0 +1,26 @@
+{
+  "id": "MATH674",
+  "title": "Partial Differential Equations II",
+  "credits": "3",
+  "description": "Prerequisite: MATH673 or AMSC673; or permission of instructor.\nAlso offered as: AMSC674.\nCredit only granted for: AMSC674 or MATH674.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Matei Machedon",
+      "seats": "25,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "MTH",
+      "room": "1313"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "WMST602",
+  "title": "Approaches to Women's Studies II",
+  "credits": "3",
+  "description": "Prerequisite: WMST400; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michelle Rowley",
+      "seats": "12,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "WDS",
+      "room": "2101R"
+    }
+  ],
+  "term": "201801",
+  "department": "Women's Studies"
+}

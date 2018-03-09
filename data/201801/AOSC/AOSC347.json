@@ -1,0 +1,27 @@
+{
+  "id": "AOSC347",
+  "title": "Computing and Data Analysis: Deciphering Climate Change Clues",
+  "credits": "3",
+  "description": "Prerequisite: MATH140.\nRecommended: Familiarity with basic descriptive statistics.\nCredit only granted for: AOSC347 or AOSC358L.\nFormerly: AOSC358L.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Xin-Zhong Liang",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ATL",
+      "room": "3426"
+    }
+  ],
+  "term": "201801",
+  "department": "Atmospheric and Oceanic Science"
+}

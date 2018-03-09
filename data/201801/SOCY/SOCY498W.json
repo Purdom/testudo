@@ -1,0 +1,27 @@
+{
+  "id": "SOCY498W",
+  "title": "Selected Topics in Sociology; Sociology of Emotions",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Long Doan",
+      "seats": "29,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ASY",
+      "room": "3203"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

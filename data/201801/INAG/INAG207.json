@@ -1,0 +1,25 @@
+{
+  "id": "INAG207",
+  "title": "Power and Machinery",
+  "credits": "3",
+  "description": "Prerequisite: INAG250 or PLSC204.\nRestriction: Must be in a major within the AGNR-Institute of Applied Agriculture department; or permission of AGNR-Institute of Applied Agriculture department.\nAdditional information: Priority will be given to IAA students and permission will be granted to AGNR students and others on a space available basis.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Roy Walls",
+      "seats": "14,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:00am",
+      "end": "10:50am",
+      "building": "ANS",
+      "room": "0504"
+    }
+  ],
+  "term": "201801",
+  "department": "Institute of Applied Agriculture"
+}

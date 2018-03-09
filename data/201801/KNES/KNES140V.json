@@ -1,0 +1,26 @@
+{
+  "id": "KNES140V",
+  "title": "Physical Education Activities: Coed; Tumbling and Balancing (Beginning)",
+  "credits": "1",
+  "description": "Attendance is required on the first day of class. Schedule Adjustment is the first week of class only. Students must pay a $40 instructional materials fee.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0001",
+      "instructor": "Angela Prescott",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "10:00am",
+      "end": "12:00pm",
+      "building": "SPH",
+      "room": "1120"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

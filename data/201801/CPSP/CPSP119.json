@@ -1,0 +1,27 @@
+{
+  "id": "CPSP119",
+  "title": "College Park Scholars First-Year Colloquium II; Justice and Legal Thought Coll II",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jane Polcen,",
+      "seats": "75,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CCC",
+      "room": "1205"
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars Program"
+}

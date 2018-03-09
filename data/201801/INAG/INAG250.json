@@ -1,0 +1,27 @@
+{
+  "id": "INAG250",
+  "title": "Fundamentals of Agricultural Mechanics",
+  "credits": "3",
+  "description": "Restriction: Permission of AGNR-Institute of Applied Agriculture department.\nAlso offered as: PLSC204, PLSC204.\nCredit only granted for: ENBE200 or PLSC204 or INAG250.\nFormerly: ENBE200.\nAdditional information: Priority given to IAA majors and AGNR students whose major requires this course. Permission will be granted to other students on seats available basis.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Roy Walls",
+      "seats": "5,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "5:00pm",
+      "building": "ANS",
+      "room": "0504"
+    }
+  ],
+  "term": "201801",
+  "department": "Institute of Applied Agriculture"
+}

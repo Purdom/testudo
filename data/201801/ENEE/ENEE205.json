@@ -1,0 +1,133 @@
+{
+  "id": "ENEE205",
+  "title": "Electric Circuits",
+  "credits": "4",
+  "description": "Prerequisite: Minimum grade of C- in PHYS260; and permission of ENGR-Electrical & Computer Engineering department.\nCorequisite: MATH246.\nRestriction: Must be in one of the following programs (Engineering: Computer; Engineering: Electrical).\nCredit only granted for: ENEE204 or ENEE205.\nFormerly: ENEE204.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Murphy",
+      "seats": "12,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "KEB",
+      "room": "1110"
+    },
+    {
+      "id": "0102",
+      "instructor": "Thomas Murphy",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "KEB",
+      "room": "1110"
+    },
+    {
+      "id": "0103",
+      "instructor": "Thomas Murphy",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "KEB",
+      "room": "1110"
+    },
+    {
+      "id": "0104",
+      "instructor": "Thomas Murphy",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "KEB",
+      "room": "1110"
+    },
+    {
+      "id": "0105",
+      "instructor": "Thomas Murphy",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "KEB",
+      "room": "1110"
+    },
+    {
+      "id": "0201",
+      "instructor": "Wesley Lawson",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ESJ",
+      "room": "0215"
+    },
+    {
+      "id": "0202",
+      "instructor": "Wesley Lawson",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ESJ",
+      "room": "0215"
+    },
+    {
+      "id": "0203",
+      "instructor": "Wesley Lawson",
+      "seats": "12,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ESJ",
+      "room": "0215"
+    },
+    {
+      "id": "0204",
+      "instructor": "Wesley Lawson",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ESJ",
+      "room": "0215"
+    },
+    {
+      "id": "0205",
+      "instructor": "Wesley Lawson",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ESJ",
+      "room": "0215"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "GVPT388M",
+  "title": "Topical Investigations; Mock Trial Independent Study",
+  "credits": "1",
+  "description": "Prerequisite: Permission of department.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Mundy",
+      "seats": "15,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:30pm",
+      "end": "9:15pm",
+      "building": "TYD",
+      "room": "2108"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

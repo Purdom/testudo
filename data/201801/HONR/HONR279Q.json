@@ -1,0 +1,25 @@
+{
+  "id": "HONR279Q",
+  "title": "Honors Seminar; The Boy Who Lived, All Grown Up: Assessing the Harry Potter Books and their Adaptations",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michelle Butler",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ARC",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

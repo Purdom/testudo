@@ -1,0 +1,26 @@
+{
+  "id": "PLCY740",
+  "title": "Public Policy and the Environment",
+  "credits": "3",
+  "description": "Restriction: Must be in a major in PLCY-School of Public Policy; or permission of PLCY-School of Public Policy.\nCredit only granted for: PLCY740 or PUAF740.\nFormerly: PUAF740.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Robert Nelson",
+      "seats": "18,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "9:15am",
+      "end": "11:45am",
+      "building": "VMH",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

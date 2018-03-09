@@ -1,0 +1,25 @@
+{
+  "id": "CPSG101",
+  "title": "College Park Scholars: Science & Global Change First-Year Colloquium II",
+  "credits": "1",
+  "description": "Prerequisite: CPSG100.\nRestriction: Students must be enrolled in the College Park Scholars Science & Global Change (CPSG) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Holtz",
+      "seats": "91,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "4:50pm",
+      "building": "CCC",
+      "room": "1100"
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars-Science and Global Change"
+}

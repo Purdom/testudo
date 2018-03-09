@@ -1,0 +1,26 @@
+{
+  "id": "UGST200",
+  "title": "Intercultural Campus Leadership",
+  "credits": "3",
+  "description": "Intercultural Campus Leadership (ICL) is designed to explore intercultural campus leadership skills through the lens of understanding group identity differences, multicultural competence, senior administrative leadership in higher education environments, and the foundations of effective advocacy for social justice and change.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shaunna Payne Gold",
+      "seats": "30,",
+      "open-seats": "23,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "BPS",
+      "room": "1238"
+    }
+  ],
+  "term": "201801",
+  "department": "Undergraduate Studies"
+}

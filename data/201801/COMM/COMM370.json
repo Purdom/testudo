@@ -1,0 +1,27 @@
+{
+  "id": "COMM370",
+  "title": "Mediated Communication",
+  "credits": "3",
+  "description": "Prerequisite: COMM250.\nRestriction: Junior standing or higher.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "Soyoung Bae",
+      "seats": "40,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "BLD3",
+      "room": "4211"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

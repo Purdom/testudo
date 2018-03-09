@@ -1,0 +1,27 @@
+{
+  "id": "JAPN401",
+  "title": "Readings in Modern Japanese Literature",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in JAPN302; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Kern",
+      "seats": "15,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMZ",
+      "room": "3118"
+    }
+  ],
+  "term": "201801",
+  "department": "Japanese"
+}

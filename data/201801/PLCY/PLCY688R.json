@@ -1,0 +1,38 @@
+{
+  "id": "PLCY688R",
+  "title": "Topics in Public Policy; Public Budgeting and Financial Management",
+  "credits": "2",
+  "description": "Restricted to PLCY majors or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Juan Martinez Guzman",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "1:30pm",
+      "end": "4:00pm",
+      "building": "VMH",
+      "room": "1203"
+    },
+    {
+      "id": "0201",
+      "instructor": "Juan Martinez Guzman",
+      "seats": "25,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "9:15am",
+      "end": "11:45am",
+      "building": "VMH",
+      "room": "1203"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

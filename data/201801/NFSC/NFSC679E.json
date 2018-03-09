@@ -1,0 +1,25 @@
+{
+  "id": "NFSC679E",
+  "title": "Selected Topics in Food Science; .Mechanics of Food Processing",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Rohan Tikekar",
+      "seats": "30,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "KEY",
+      "room": "0116"
+    }
+  ],
+  "term": "201801",
+  "department": "Nutrition and Food Science"
+}

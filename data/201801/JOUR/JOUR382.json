@@ -1,0 +1,27 @@
+{
+  "id": "JOUR382",
+  "title": "Sports Writing and Reporting",
+  "credits": "3",
+  "description": "Prerequisite: JOUR320; and permission of JOUR-Philip Merrill College of Journalism.\nCredit only granted for: JOUR328B or JOUR382.\nFormerly: JOUR328B.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kevin Blackistone",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "11:15am",
+      "building": "KNI",
+      "room": "1206"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

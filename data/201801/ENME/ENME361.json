@@ -1,0 +1,39 @@
+{
+  "id": "ENME361",
+  "title": "Vibration, Controls and Optimization I",
+  "credits": "3",
+  "description": "Prerequisite: ENES220, ENES221, and MATH246; and (ENME271 or MATH206).\nRestriction: Must be in Engineering: Mechanical program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Miao Yu",
+      "seats": "120,",
+      "open-seats": "41,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "JMP",
+      "room": "3201"
+    },
+    {
+      "id": "0301",
+      "instructor": "Abhijit Dasgupta",
+      "seats": "75,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "MCB",
+      "room": "1207"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

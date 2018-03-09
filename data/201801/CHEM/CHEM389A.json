@@ -1,0 +1,25 @@
+{
+  "id": "CHEM389A",
+  "title": "Pedagogy and Instruction in Chemistry; Instruction in Chemistry",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lee Friedman",
+      "seats": "25,",
+      "open-seats": "25,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

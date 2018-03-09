@@ -1,0 +1,26 @@
+{
+  "id": "BMGT468R",
+  "title": "Special Topics in Management and Organization; Fearless Founders: New Venture Practicum",
+  "credits": "3",
+  "description": "Restriction: Permission of BMGT-Robert H. Smith School of Business. Also offered as ENES498R. Credit granted for ENES498R or BMGT468R.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elana Fine",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:00pm",
+      "end": "7:40pm",
+      "building": "VMH",
+      "room": "1415"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

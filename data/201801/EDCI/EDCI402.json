@@ -1,0 +1,25 @@
+{
+  "id": "EDCI402",
+  "title": "Student Teaching in Secondary Schools: Art",
+  "credits": "2 -",
+  "description": "Prerequisite: EDCI405.\nRestriction: Minimum cumulative GPA of 2.75; and must be in Secondary Educ: Art program; and permission of Teaching and Learning, Policy and Leadership Department.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Susan Hendricks",
+      "seats": "18,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

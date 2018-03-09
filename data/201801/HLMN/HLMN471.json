@@ -1,0 +1,25 @@
+{
+  "id": "HLMN471",
+  "title": "Entrepreneurial Finance",
+  "credits": "3",
+  "description": "Restriction: Restricted to students in the Hillman Entrepreneurs Program.\nCredit only granted for: HLMN471, ENES466 or BMGT365.\nAdditional information: HLMN471 may not count toward any BMGT major or minor degree.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Brian Baick",
+      "seats": "60,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "1:00pm",
+      "end": "3:30pm",
+      "building": "ESJ",
+      "room": "2212"
+    }
+  ],
+  "term": "201801",
+  "department": "Hillman Entrepreneurs Program"
+}

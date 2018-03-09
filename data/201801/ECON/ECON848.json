@@ -1,0 +1,26 @@
+{
+  "id": "ECON848",
+  "title": "Workshop in International Trade, Institutional Economics and Political Economy",
+  "credits": "2",
+  "description": "ECON graduate students only.",
+  "grading-method": [
+    "S-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Peter Murrell",
+      "seats": "30,",
+      "open-seats": "29,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TYD",
+      "room": "1132"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "COMM760",
+  "title": "Seminar in Political Communication",
+  "credits": "3",
+  "description": "Formerly: SPCH760.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PCF1",
+      "instructor": "Shawn Parry-Giles",
+      "seats": "20,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:00am",
+      "end": "11:50am",
+      "building": "SKN",
+      "room": "2130"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

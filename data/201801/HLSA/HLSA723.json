@@ -1,0 +1,26 @@
+{
+  "id": "HLSA723",
+  "title": "Health Policy Analysis and Advocacy",
+  "credits": "3",
+  "description": "Prerequisite: HLSA601.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dylan Roby",
+      "seats": "25,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "ATL",
+      "room": "2316"
+    }
+  ],
+  "term": "201801",
+  "department": "Health Services Administration"
+}

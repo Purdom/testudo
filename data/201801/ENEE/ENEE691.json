@@ -1,0 +1,26 @@
+{
+  "id": "ENEE691",
+  "title": "Optical Communication Systems",
+  "credits": "3",
+  "description": "Optical components and systems. Measures of performance of optical communication systems. Topics include: single and multi-mode optical fibers, DFB and DBR lasers, transmitters and receivers, pin and APD detectors, noise analysis, receiver sensitivity modulation formats, system performance, bit-error-rate, power budget, TDM and WDM systems, network architecture.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mario Dagenais",
+      "seats": "30,",
+      "open-seats": "25,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "EGR",
+      "room": "2154"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

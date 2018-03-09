@@ -1,0 +1,26 @@
+{
+  "id": "ENCE688R",
+  "title": "Advanced Topics in Civil Engineering; Civil Information Systems",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mark Austin",
+      "seats": "25,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "EGR",
+      "room": "3114"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

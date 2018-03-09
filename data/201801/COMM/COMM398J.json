@@ -1,0 +1,25 @@
+{
+  "id": "COMM398J",
+  "title": "Selected Topics in Communication; Communcation and Advanced Digital Imaging",
+  "credits": "3",
+  "description": "Continuation of COMM398N (although COMM398N is not a prerequisite). Concentration is on advanced visual imaging, with theme-based projects that incorporate advanced features of Photoshop CC, including raw imaging.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "Robert Coleman",
+      "seats": "25,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:45pm",
+      "building": "BLD3",
+      "room": "3216"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

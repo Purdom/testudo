@@ -1,0 +1,51 @@
+{
+  "id": "ARTT210",
+  "title": "Elements of Drawing II",
+  "credits": "3",
+  "description": "Prerequisite: ARTT110.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Clayton Dunklin",
+      "seats": "16,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "11:30am",
+      "building": "ASY",
+      "room": "2315"
+    },
+    {
+      "id": "0201",
+      "instructor": "Emily Conover",
+      "seats": "16,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "ASY",
+      "room": "2315"
+    },
+    {
+      "id": "0301",
+      "instructor": "Lillian Hoover",
+      "seats": "16,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "3:00pm",
+      "building": "ASY",
+      "room": "2315"
+    }
+  ],
+  "term": "201801",
+  "department": "Art Studio"
+}

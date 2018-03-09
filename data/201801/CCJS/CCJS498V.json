@@ -1,0 +1,27 @@
+{
+  "id": "CCJS498V",
+  "title": "Selected Topics in Criminology and Criminal Justice; Rules of Engagement: Evidence in Criminal Trials",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "James Trusty",
+      "seats": "40,",
+      "open-seats": "26,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:30pm",
+      "end": "9:00pm",
+      "building": "BLD3",
+      "room": "3226"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

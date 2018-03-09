@@ -1,0 +1,27 @@
+{
+  "id": "ECON397",
+  "title": "Honors Thesis",
+  "credits": "3",
+  "description": "Prerequisite: ECON396.\nRestriction: Must be a candidate for honors in economics.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nuno Limao",
+      "seats": "15,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TYD",
+      "room": "1108"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

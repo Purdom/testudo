@@ -1,0 +1,26 @@
+{
+  "id": "ECON744",
+  "title": "Advanced Topics in International Economics",
+  "credits": "3",
+  "description": "Prerequisite: ECON601 and ECON602.\nCredit only granted for: ECON698M or ECON744.\nFormerly: ECON698M.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ina Simonovska",
+      "seats": "25,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TYD",
+      "room": "2110"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

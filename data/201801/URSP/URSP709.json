@@ -1,0 +1,26 @@
+{
+  "id": "URSP709",
+  "title": "Field Instruction",
+  "credits": "3",
+  "description": "Prerequistes: URSP600, URSP604, URSP605 or permission of the department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Casey Dawkins",
+      "seats": "10,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Urban Studies and Planning"
+}

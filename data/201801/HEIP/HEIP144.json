@@ -1,0 +1,51 @@
+{
+  "id": "HEIP144",
+  "title": "Contemporary Issues in Entrepreneurship and Innovation",
+  "credits": "3",
+  "description": "Prerequisite: HEIP143.\nRestriction: Must be in the Entrepreneurship and Innovation Program (EIP).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jay Smith",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "LPA",
+      "room": "0100"
+    },
+    {
+      "id": "0201",
+      "instructor": "Ryan Elza,",
+      "seats": "30,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "LPA",
+      "room": "0100"
+    },
+    {
+      "id": "0301",
+      "instructor": "Jay Smith",
+      "seats": "30,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "LPA",
+      "room": "0100"
+    }
+  ],
+  "term": "201801",
+  "department": "Entrepreneurship and Innovation"
+}

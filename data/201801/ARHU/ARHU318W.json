@@ -1,0 +1,25 @@
+{
+  "id": "ARHU318W",
+  "title": "Writers' House Colloquium: Creative Writing Across Languages and Cultures; Screenwriting/Scriptwriting",
+  "credits": "1",
+  "description": "Restricted to Jimenez-Porter Writers' House students.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Douglas Kern",
+      "seats": "15,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "5:15pm",
+      "building": "QAN",
+      "room": "1132"
+    }
+  ],
+  "term": "201801",
+  "department": "Arts and Humanities"
+}

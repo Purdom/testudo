@@ -1,0 +1,27 @@
+{
+  "id": "UNIV399",
+  "title": "Experiential Learning in Undergraduate Studies",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Joan Burton,",
+      "seats": "10,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "University Courses"
+}

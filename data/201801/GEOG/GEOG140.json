@@ -1,0 +1,87 @@
+{
+  "id": "GEOG140",
+  "title": "Natural Disasters: Earthquakes, Floods, and Fires",
+  "credits": "3",
+  "description": "Catastrophic Environmental Events (CCE) that are becoming more common i this time of global environmental change and it is essential that today's students be equipped with the knowledge and skills to be leaders as we, as a society, understand the upheaval that these CCEs are causing. Students will examine how CEEs shape human society and ecosystem from the interdisciplinary perspective afforded by the field of Geography. Students will use the latest geographic science concepts and techniques in exploring these events. Using satellite imagery they will gain a multi-scale perspective of the ecological and societal aspects of the events.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Keith Yearwood",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "LEF",
+      "room": "2205"
+    },
+    {
+      "id": "0102",
+      "instructor": "Keith Yearwood",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "LEF",
+      "room": "2205"
+    },
+    {
+      "id": "0103",
+      "instructor": "Keith Yearwood",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "LEF",
+      "room": "2205"
+    },
+    {
+      "id": "0104",
+      "instructor": "Keith Yearwood",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "LEF",
+      "room": "2205"
+    },
+    {
+      "id": "0105",
+      "instructor": "Keith Yearwood",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "LEF",
+      "room": "2205"
+    },
+    {
+      "id": "0106",
+      "instructor": "Keith Yearwood",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "LEF",
+      "room": "2205"
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "INAG105",
+  "title": "Soils and Fertilizers",
+  "credits": "3",
+  "description": "Restriction: Must be in a major in AGNR-College of Agriculture & Natural Resources; or permission of AGNR-Institute of Applied Agriculture department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kenneth Ingram",
+      "seats": "15,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "JUL",
+      "room": "1123"
+    },
+    {
+      "id": "0102",
+      "instructor": "Kenneth Ingram",
+      "seats": "15,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "JUL",
+      "room": "1123"
+    }
+  ],
+  "term": "201801",
+  "department": "Institute of Applied Agriculture"
+}

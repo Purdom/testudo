@@ -1,0 +1,27 @@
+{
+  "id": "GEOL457",
+  "title": "Seismology",
+  "credits": "3",
+  "description": "Prerequisite: GEOL120 or GEOL100; and (MATH141, GEOL110, and MATH140). Or permission of CMNS-Geology department.\nRecommended: PHYS171, PHYS141, or PHYS161.\nRestriction: Non-degree-seeking students require the permission of the instructor.\nCredit only granted for: GEOL457 or GEOL489A.\nFormerly: GEOL489A.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Vedran Lekic",
+      "seats": "10,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PLS",
+      "room": "1172"
+    }
+  ],
+  "term": "201801",
+  "department": "Geology"
+}

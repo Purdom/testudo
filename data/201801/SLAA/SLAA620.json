@@ -1,0 +1,26 @@
+{
+  "id": "SLAA620",
+  "title": "Second Language Research Methodologies",
+  "credits": "3",
+  "description": "Prerequisite: SLAA610; and must have completed or be concurrently enrolled in SLAA611.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Steven Ross",
+      "seats": "15,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "JMZ",
+      "room": "2125"
+    }
+  ],
+  "term": "201801",
+  "department": "Second Language Acquisition and Application"
+}

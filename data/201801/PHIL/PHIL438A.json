@@ -1,0 +1,27 @@
+{
+  "id": "PHIL438A",
+  "title": "Topics in Value Theory; Philosophy in the Age of Revolutions",
+  "credits": "3",
+  "description": "An examination of philosophical writings that emerge from, and were often interventions in, the political and social transformations that began in the 17th and 18th centuries. Topics include domination, freedom, feminist thought, civil disobedience, and political violence.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kalewold Kalewold",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "SQH",
+      "room": "1123"
+    }
+  ],
+  "term": "201801",
+  "department": "Philosophy"
+}

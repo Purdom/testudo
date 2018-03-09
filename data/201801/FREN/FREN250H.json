@@ -1,0 +1,39 @@
+{
+  "id": "FREN250H",
+  "title": "Introduction to Cultural and Textual Analysis",
+  "credits": "3",
+  "description": "Prerequisite: FREN204; or students who have taken courses with comparable content may contact the department.\nRestriction: Must not be a native/fluent speaker of French.\nCredit only granted for: FREN250 or FREN250H.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Morgan McMahon",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TYD",
+      "room": "2108"
+    },
+    {
+      "id": "0201",
+      "instructor": "Cae Joseph-Massena",
+      "seats": "25,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "JMZ",
+      "room": "3120"
+    }
+  ],
+  "term": "201801",
+  "department": "French"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ARTT479E",
+  "title": "Advanced Digital Media Studio; Art and Electronics",
+  "credits": "3",
+  "description": "Prerequisite: ARTT370 or permission of Department. Studio course exploring the basics of building circuits with electronic components, motors, sensors, and Arduino technology in the context of interactive art and kinetic sculpture. Students must pay a $40.00 studio lab fee.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Cy Keener",
+      "seats": "14,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "3:00pm",
+      "building": "ASY",
+      "room": "3304"
+    }
+  ],
+  "term": "201801",
+  "department": "Art Studio"
+}

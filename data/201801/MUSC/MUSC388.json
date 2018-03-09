@@ -1,0 +1,61 @@
+{
+  "id": "MUSC388",
+  "title": "Music Internship",
+  "credits": "3",
+  "description": "Prerequisite: permission of instructor.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lori DeBoy",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0201",
+      "instructor": "Instructor: TBA",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0301",
+      "instructor": "Edward Maclary",
+      "seats": "5,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0401",
+      "instructor": "Instructor: TBA",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

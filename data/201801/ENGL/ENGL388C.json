@@ -1,0 +1,26 @@
+{
+  "id": "ENGL388C",
+  "title": "Writing Internship; Writing for Change",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ARHU-English department. Recommended: ENGL101. Restriction: Requires application and references.\"",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Justin Lohr",
+      "seats": "18,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "TWS",
+      "room": "0207"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "BCHM889M",
+  "title": "Seminar; Modern Methods in NMR and Structural Biology",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Instructor: TBA",
+      "seats": "10,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Biochemistry"
+}

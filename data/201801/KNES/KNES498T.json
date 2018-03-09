@@ -1,0 +1,27 @@
+{
+  "id": "KNES498T",
+  "title": "Special Topics in Kinesiology; Principles and Applications of Exercise Rehabilitation",
+  "credits": "3",
+  "description": "Prerequisites: KNES300/KNES300H and KNES360/KNES360H. Students will learn the basic principles of exercise and rehabilitation of commonly seen injuries in a clinical setting. They will also learn basic assessment techniques, review normal ranges of motion, and determine how the function of the muscles directly affects the rehabilitation process.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Larry Plotkin",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "SPH",
+      "room": "0307"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

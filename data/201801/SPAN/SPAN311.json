@@ -1,0 +1,39 @@
+{
+  "id": "SPAN311",
+  "title": "Advanced Communication I",
+  "credits": "3",
+  "description": "Prerequisite: SPAN301; and must have completed or be concurrently enrolled in SPAN303.\nRestriction: Must not be a native/fluent speaker of Spanish.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Manel Lacorte",
+      "seats": "20,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "JMZ",
+      "room": "1215"
+    },
+    {
+      "id": "0201",
+      "instructor": "Maria Bort Caballero",
+      "seats": "20,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "JMZ",
+      "room": "2206"
+    }
+  ],
+  "term": "201801",
+  "department": "Spanish"
+}

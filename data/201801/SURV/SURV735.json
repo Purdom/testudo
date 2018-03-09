@@ -1,0 +1,26 @@
+{
+  "id": "SURV735",
+  "title": "Data Confidentiality and Statistical Disclosure Control",
+  "credits": "2",
+  "description": "Prerequisite: Must have familiarity with the statistical software R; and must have completed a basic statistics course in regression modeling.\nRestriction: Permission of BSOS-Joint Program in Survey Methodology department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SVW1",
+      "instructor": "Jorg Drechsler",
+      "seats": "15,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "3:00pm",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Survey Methodology"
+}

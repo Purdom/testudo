@@ -1,0 +1,25 @@
+{
+  "id": "CMSC389R",
+  "title": "Special Topics in Computer Science; Introduction to Ethical Hacking",
+  "credits": "1",
+  "description": "Prerequisite: CMSC216 and CMSC250 with a grade of C- or better. An introduction to ethical hacking geared towards entering the competitive world of cybersecurity Capture the Flag (CTF) competitions. Applications to a career in digital forensics, penetration testing, cryptology, and secure software development.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Levin",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "CSI",
+      "room": "2118"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "AMSC762",
+  "title": "Data Analysis Project",
+  "credits": "1",
+  "description": "This course cannot be used to meet any of the Applied Statistics Area's seminar requirements. Offered yearly, required of and limited to MS non-thesis and doctoral students in Applied Statistics Area, for whom the resulting projects serve as a Qualifying Exam component. After 5-6 lectures or presentations on components of successful data analyses and write-ups, 3-4 sessions will discuss previous student project submissions. The culminating project, to be completed in a two week period between semesters, is an analysis and written report of one of three project choices made available each year to represent a spectrum of realistic applied statistical problems.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Konstantina Trivisa",
+      "seats": "20,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Applied Mathematics & Scientific Computation"
+}

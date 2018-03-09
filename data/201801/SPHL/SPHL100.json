@@ -1,0 +1,25 @@
+{
+  "id": "SPHL100",
+  "title": "Foundations of Public Health",
+  "credits": "3",
+  "description": "Restriction: Must be in a major in SPHL-School of Public Health.\nCredit only granted for: SPHL100, PHSC300 or SPHL600.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Gold",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "SPH",
+      "room": "1302"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Health"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "BMGT434",
+  "title": "Analytics Consulting: Cases and Projects",
+  "credits": "3",
+  "description": "Prerequisite: BMGT332; and (MATH120 or MATH140; or must have completed MATH220). Or students who have taken courses with comparable content may contact the department.\nRestriction: Must be in a major in BMGT-Robert H. Smith School of Business.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Pamela Armstrong",
+      "seats": "35,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1418"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

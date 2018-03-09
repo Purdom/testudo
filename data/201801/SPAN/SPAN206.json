@@ -1,0 +1,27 @@
+{
+  "id": "SPAN206",
+  "title": "Spanish for Heritage Speakers I",
+  "credits": "3",
+  "description": "Prerequisite: Native or near native knowledge of and no formal education in Spanish.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Evelyn Canabal-Torres",
+      "seats": "25,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "JMZ",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "Spanish"
+}

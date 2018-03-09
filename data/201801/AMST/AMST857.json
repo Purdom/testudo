@@ -1,0 +1,37 @@
+{
+  "id": "AMST857",
+  "title": "Museum Scholarship Practicum",
+  "credits": "3 -",
+  "description": "Prerequisite: AMST856; and permission of Museum Scholarship Program required.\nAlso offered as: ANTH857, HIST811.\nCredit only granted for: AMST857, ANTH857, or HIST811.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0401",
+      "instructor": "Mary Sies",
+      "seats": "2,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "1005",
+      "instructor": "Judith Freidenberg",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "American Studies"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "BSCI334",
+  "title": "Mammalogy",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in BSCI207. And minimum grade of C- in BSCI160 and BSCI161; or minimum grade of C- in BSCI106.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Katerina Thompson",
+      "seats": "75,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PLS",
+      "room": "1140"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

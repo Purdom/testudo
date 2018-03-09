@@ -1,0 +1,27 @@
+{
+  "id": "BIOE389F",
+  "title": "Special Projects in Bioengineering; iGEM Research Seminar",
+  "credits": "2",
+  "description": "Restriction: permission of instructor. Also offered as BIOE389F. Credit granted for BSCI338F or BIOE389F.\n\nThis course cannot be counted towards BIOE technical elective requirements.\n\nThis course is open to iGEM team members to develop a synthetic biology research project for the internatial Genentically Engineered Machines competition.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jason Kahn,",
+      "seats": "25,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:00pm",
+      "end": "4:50pm",
+      "building": "BPS",
+      "room": "0283"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

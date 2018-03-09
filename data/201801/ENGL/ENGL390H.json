@@ -1,0 +1,37 @@
+{
+  "id": "ENGL390H",
+  "title": "Science Writing",
+  "credits": "3",
+  "description": "Prerequisite: ENGL101; or students who have taken courses with comparable content may contact the department.\nRestriction: Must have earned a minimum of 60 credits; and junior standing or higher.\nCredit only granted for: ENGL390 or ENGL393S.\nFormerly: ENGL393S.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Marybeth Shea",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "TWS",
+      "room": "0224"
+    },
+    {
+      "id": "0301",
+      "instructor": "Marybeth Shea",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TWS",
+      "room": "0224"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

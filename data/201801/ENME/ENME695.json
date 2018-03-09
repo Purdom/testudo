@@ -1,0 +1,50 @@
+{
+  "id": "ENME695",
+  "title": "Design for Reliability",
+  "credits": "3",
+  "description": "Reliability is the ability of a product or system to perform as intended (i.e., without failure and within specified performance limits) for a specified time, in its life-cycle conditions. Knowledge of reliability concepts and principles, as well as risk assessment, mitigation and management strategies prepares engineers to contribute effectively to product development and life cycle management. This course teaches the fundamental knowledge and skills in reliability as it pertains to the design, manufacture, and use of electrical, mechanical, and electro-mechanical products. Topics cover the suitability of the supply chain members to contribute towards development, manufacturing, distribution and support of reliable products; efficient and cost-effective design and manufacture of reliable products; process capability and process control; derating, uprating, FMMEA, reliability prediction and reliability allocation; how to plan and implement product testing to assess reliability; how to analyze degradation, failure, and return data to estimate fundamental reliability parameters; root cause analysis; and reliability issues associated with warranties, regulatory requirements, and liabilities.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Pecht,",
+      "seats": "29,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "9:30am",
+      "end": "12:10pm",
+      "building": "JMP",
+      "room": "2217"
+    },
+    {
+      "id": "ER01",
+      "instructor": "Michael Pecht,",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "RE01",
+      "instructor": "Michael Pecht,",
+      "seats": "20,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ITAL203",
+  "title": "Intensive Intermediate Italian",
+  "credits": "4",
+  "description": "Prerequisite: ITAL103; or must have appropriate Foreign Language Placement Test (FLPT) score.\nRestriction: Must not have completed ITAL122; and must not be a fluent/native speaker of Italian.\nCredit only granted for: ITAL203 or ITAL122.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Federica Deigan",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMZ",
+      "room": "1124"
+    },
+    {
+      "id": "0301",
+      "instructor": "Instructor: TBA",
+      "seats": "25,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMZ",
+      "room": "3122"
+    }
+  ],
+  "term": "201801",
+  "department": "Italian"
+}

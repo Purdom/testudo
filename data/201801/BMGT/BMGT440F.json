@@ -1,0 +1,25 @@
+{
+  "id": "BMGT440F",
+  "title": "Advanced Financial Management",
+  "credits": "3",
+  "description": "Prerequisite: BMGT340.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "FP01",
+      "instructor": "Susan White",
+      "seats": "35,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1415"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

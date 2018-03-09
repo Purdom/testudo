@@ -1,0 +1,61 @@
+{
+  "id": "ENGL142",
+  "title": "Literary Maryland",
+  "credits": "3",
+  "description": "Credit only granted for: ENGL142 or ENGL289M.\nFormerly: ENGL289M.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Randy Ontiveros",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ESJ",
+      "room": "1202"
+    },
+    {
+      "id": "0102",
+      "instructor": "Randy Ontiveros",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ESJ",
+      "room": "1202"
+    },
+    {
+      "id": "0103",
+      "instructor": "Randy Ontiveros",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ESJ",
+      "room": "1202"
+    },
+    {
+      "id": "0104",
+      "instructor": "Randy Ontiveros",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ESJ",
+      "room": "1202"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

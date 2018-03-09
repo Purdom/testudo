@@ -1,0 +1,25 @@
+{
+  "id": "FIRE153",
+  "title": "FIRE SEMESTER 2: Found In Translation",
+  "credits": "3",
+  "description": "Recommended: FIRE120.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Vivek Advani",
+      "seats": "36,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "ATL",
+      "room": "2339"
+    }
+  ],
+  "term": "201801",
+  "department": "First-Year Innovation & Research Experience"
+}

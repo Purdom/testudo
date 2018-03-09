@@ -1,0 +1,27 @@
+{
+  "id": "SPAN306",
+  "title": "Spanish for Heritage Speakers II",
+  "credits": "3",
+  "description": "Prerequisite: SPAN206.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Evelyn Canabal-Torres",
+      "seats": "25,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "JMZ",
+      "room": "3120"
+    }
+  ],
+  "term": "201801",
+  "department": "Spanish"
+}

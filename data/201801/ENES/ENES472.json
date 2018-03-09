@@ -1,0 +1,27 @@
+{
+  "id": "ENES472",
+  "title": "International Business Cultures in Engineering and Technology",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ENGR-A. James Clark School of Engineering.\nRestriction: Sophomore standing or higher.\nAlso offered as: SLLC472.\nCredit only granted for: ARHU439B, ARHU439E, ARHU439T, ENES472, SLLC471, SLLC472, or SLLC473.\nFormerly: ARHU439T.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Brian Dillehay",
+      "seats": "45,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "6:00pm",
+      "end": "7:45pm",
+      "building": "EGR",
+      "room": "0108"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

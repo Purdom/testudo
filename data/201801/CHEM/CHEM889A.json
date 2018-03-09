@@ -1,0 +1,26 @@
+{
+  "id": "CHEM889A",
+  "title": "Seminar; Analytical, Nuclear and Environmental Chemistry",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Instructor: TBA",
+      "seats": "25,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "3:00pm",
+      "end": "5:00pm",
+      "building": "CHM",
+      "room": "0112"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

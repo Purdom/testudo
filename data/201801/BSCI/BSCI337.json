@@ -1,0 +1,38 @@
+{
+  "id": "BSCI337",
+  "title": "Biology of Insects",
+  "credits": "4",
+  "description": "Prerequisite: BSCI160 and BSCI161; or BSCI106; or permission of CMNS-Entomology department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jian Wang",
+      "seats": "18,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PLS",
+      "room": "1113"
+    },
+    {
+      "id": "0102",
+      "instructor": "Jian Wang",
+      "seats": "18,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PLS",
+      "room": "1113"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

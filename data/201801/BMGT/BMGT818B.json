@@ -1,0 +1,26 @@
+{
+  "id": "BMGT818B",
+  "title": "Special Topics in Accounting and Information Assurance; Topics in Financial Accounting",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Kimbrough",
+      "seats": "12,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "4:00pm",
+      "building": "VMH",
+      "room": "4335"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ARMY105",
+  "title": "Basic Military Science II",
+  "credits": "3",
+  "description": "Restriction: Students must meet Officer candidate criteria to participate in field training.\nCredit only granted for: ARMY119 or ARMY105.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Larry Rentz",
+      "seats": "40,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "SQH",
+      "room": "1105"
+    },
+    {
+      "id": "0102",
+      "instructor": "Larry Rentz",
+      "seats": "40,",
+      "open-seats": "28,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "PLS",
+      "room": "1119"
+    }
+  ],
+  "term": "201801",
+  "department": "Army"
+}

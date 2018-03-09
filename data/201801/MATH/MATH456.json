@@ -1,0 +1,39 @@
+{
+  "id": "MATH456",
+  "title": "Cryptology",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed two 400-level MATH courses (not to include MATH 461, 478, and 480's) with a minimum grade of C-. Or minimum grade of C- in CMSC351 and CMSC330; and permission of CMNS-Mathematics department.\nAlso offered as: CMSC456.\nCredit only granted for: MATH456 or CMSC456.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lawrence Washington",
+      "seats": "75,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PLS",
+      "room": "1130"
+    },
+    {
+      "id": "0201",
+      "instructor": "Jonathan Katz",
+      "seats": "78,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ESJ",
+      "room": "2212"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

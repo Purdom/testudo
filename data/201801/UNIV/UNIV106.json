@@ -1,0 +1,51 @@
+{
+  "id": "UNIV106",
+  "title": "The Transfer Student in the University",
+  "credits": "1",
+  "description": "Restriction: Must be a first-semester Letters and Sciences transfer student.\nCredit only granted for: UNIV106 or EDCP108G.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jeffrey Kodis",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TLF",
+      "room": "1103"
+    },
+    {
+      "id": "0102",
+      "instructor": "Melissa Hyre",
+      "seats": "19,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ARC",
+      "room": "1125"
+    },
+    {
+      "id": "0103",
+      "instructor": "Leslie Lindeman",
+      "seats": "20,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:00pm",
+      "end": "4:15pm",
+      "building": "JMZ",
+      "room": "0120"
+    }
+  ],
+  "term": "201801",
+  "department": "University Courses"
+}

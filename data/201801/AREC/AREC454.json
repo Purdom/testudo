@@ -1,0 +1,27 @@
+{
+  "id": "AREC454",
+  "title": "The Economics of Climate Change",
+  "credits": "3",
+  "description": "Prerequisite: ECON326 or AREC326.\nRestriction: Must be in one of the following programs (Agricultural and Resource Economics; Environmental Science & Policy-Env Economics; Agricultural and Resource Economics: Agribusiness) ; or must be minors in Agribusiness Economics (#AG01), Environmental Economics and Policy (#AG02), or Resource and Agricultural Policy in Economic Development (#AG03).\nCredit only granted for: AREC454 or AREC489C.\nFormerly: AREC489C.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Anna Alberini",
+      "seats": "38,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "ATL",
+      "room": "2428"
+    }
+  ],
+  "term": "201801",
+  "department": "Agricultural and Resource Economics"
+}

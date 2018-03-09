@@ -1,0 +1,27 @@
+{
+  "id": "ANTH442",
+  "title": "Public Archeology",
+  "credits": "3",
+  "description": "Credit only granted for: ANTH442, ANTH448V, or ANTH642.\nFormerly: ANTH448V.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tracy Jenkins",
+      "seats": "25,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "WDS",
+      "room": "0104"
+    }
+  ],
+  "term": "201801",
+  "department": "Anthropology"
+}

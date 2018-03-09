@@ -1,0 +1,38 @@
+{
+  "id": "INST126",
+  "title": "Introduction to Programming for Information Science",
+  "credits": "3",
+  "description": "Prerequisite: MATH115; or must have math eligibility of MATH130 or higher; or permission of instructor.\nRestriction: Must not have completed INST326 or CMSC131; and must be in Information Science program.\nCredit only granted for: CMSC106, CMSC122, OR INST126.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Bill Kules",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ESJ",
+      "room": "1215"
+    },
+    {
+      "id": "0102",
+      "instructor": "Jonathan Brier",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ESJ",
+      "room": "0215"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

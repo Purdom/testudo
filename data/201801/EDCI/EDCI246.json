@@ -1,0 +1,37 @@
+{
+  "id": "EDCI246",
+  "title": "Good Stories: Teaching Narratives for Peace and Justice",
+  "credits": "3",
+  "description": "Through the study and use of oral storytelling and digital technologies explore qualities and characteristics of what makes a good story and how stories can be used to advance peace and justice on both individual and social levels.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Margaret Peterson",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PHY",
+      "room": "1201"
+    },
+    {
+      "id": "0102",
+      "instructor": "Margaret Peterson",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PHY",
+      "room": "1201"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

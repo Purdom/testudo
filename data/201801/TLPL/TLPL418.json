@@ -1,0 +1,49 @@
+{
+  "id": "TLPL418",
+  "title": "Teaching Residency",
+  "credits": "9",
+  "description": "Limited to elementary majors who have previously applied. Students must pay a $750.00 lab fee.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Deborah Lewin",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0201",
+      "instructor": "Susan Denvir",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0301",
+      "instructor": "Tracy Dunheimer",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Teaching and Learning, Policy and Leadership"
+}

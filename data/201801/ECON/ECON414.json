@@ -1,0 +1,51 @@
+{
+  "id": "ECON414",
+  "title": "Game Theory",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (ECON306, ECON326); and 1 course with a minimum grade of C- from (ECON230, BMGT230, ECON321, STAT400).\nRestriction: Must be in one of the following programs (Economics Bachelor of Arts; Economics Bachelor of Science).\nCredit only granted for: CMSC474, ECON414, GVPT399A or GVPT390.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gustavo Saraiva",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "TYD",
+      "room": "1114"
+    },
+    {
+      "id": "0201",
+      "instructor": "Yong Paek",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TYD",
+      "room": "1118"
+    },
+    {
+      "id": "0301",
+      "instructor": "Erin Moody",
+      "seats": "70,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TYD",
+      "room": "1102"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

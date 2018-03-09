@@ -1,0 +1,27 @@
+{
+  "id": "KNES385H",
+  "title": "Motor Control and Learning",
+  "credits": "3",
+  "description": "Restriction: Must be in a major within SPHL-Kinesiology department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Rodolphe Gentili",
+      "seats": "4,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "SPH",
+      "room": "1312"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

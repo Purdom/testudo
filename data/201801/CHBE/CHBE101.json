@@ -1,0 +1,27 @@
+{
+  "id": "CHBE101",
+  "title": "Introduction to Chemical and Biomolecular Engineering",
+  "credits": "3",
+  "description": "Prerequisite: CHEM135; or students who have taken courses with comparable content may contact the department.\nCorequisite: MATH141.\nRestriction: Must be in Engineering: Chemical program; or permission of ENGR-Chemical & Biomolecular Engineering department.\nCredit only granted for: CHBE101 or ENCH215.\nFormerly: ENCH215.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Taylor Woehl",
+      "seats": "120,",
+      "open-seats": "48,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "JMP",
+      "room": "3201"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemical and Biomolecular Engineering"
+}

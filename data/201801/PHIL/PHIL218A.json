@@ -1,0 +1,27 @@
+{
+  "id": "PHIL218A",
+  "title": "Issues in in Epistemology/Metaphysics; Reasoning for Humans: Clear Thinking in an Uncertain World",
+  "credits": "3",
+  "description": "What makes some transitions of thought rational or reasonable and others irrational or erratic? This course will use methods from logic and probability to analyze experiments about how humans reason and philosophical questions about the nature of reasoning, with special emphasis on different philosophical aspects of the problem of induction and on the relation between probability, deductive logic and inductive logic.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Eric Pacuit",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMZ",
+      "room": "0208"
+    }
+  ],
+  "term": "201801",
+  "department": "Philosophy"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "DANC319",
+  "title": "Foundations of Technique IV",
+  "credits": "3",
+  "description": "Prerequisite: DANC318 and permission of department. Students must pay $25 lab fee.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Patrik Widrig",
+      "seats": "10,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:30pm",
+      "end": "2:20pm",
+      "building": "PAC",
+      "room": "1908"
+    }
+  ],
+  "term": "201801",
+  "department": "Dance"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "HIST408L",
+  "title": "Senior Seminar; Individual Liberties and War: From the Revolution to the War on Terror",
+  "credits": "3",
+  "description": "Prerequisite: Permission of department. This course will examine the tension between individual liberties - such as the freedom of the press, the free exchange of ideas, the right to assemble and petition government,the right to a jury trial of ones peers, the right to bear arms, to mention a few - and the expectation that the people are obligated to support their government during a time of war.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Chiles",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "TLF",
+      "room": "2100"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

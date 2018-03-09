@@ -1,0 +1,26 @@
+{
+  "id": "COMM657",
+  "title": "Professional Practice Forum in Interpreting: Career Portfolio and Exams",
+  "credits": "1",
+  "description": "Prerequisite: COMM719, COMM769, and COMM729; and admissions test for second-year courses; and permission of ARHU-Communication department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PG01",
+      "instructor": "Esperanza Pombo Lopez-Barron,",
+      "seats": "16,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "SKN",
+      "room": "3118"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

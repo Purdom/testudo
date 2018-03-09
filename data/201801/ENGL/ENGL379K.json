@@ -1,0 +1,27 @@
+{
+  "id": "ENGL379K",
+  "title": "Special Topics in Literature; From Hiroshima to Hollywood: America through the Lens of Cold War Literature and Film",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kelly Singleton",
+      "seats": "25,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TWS",
+      "room": "1106"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

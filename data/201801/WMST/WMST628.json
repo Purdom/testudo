@@ -1,0 +1,25 @@
+{
+  "id": "WMST628",
+  "title": "Women's Studies Colloquium",
+  "credits": "1",
+  "description": "For WMST students only.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Carol Stabile",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Women's Studies"
+}

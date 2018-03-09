@@ -1,0 +1,27 @@
+{
+  "id": "DANC138D",
+  "title": "World Dance Forms; Pilates and Conditioning",
+  "credits": "2",
+  "description": "Students must pay $25 lab fee.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Stacey Carlson",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PAC",
+      "room": "1611"
+    }
+  ],
+  "term": "201801",
+  "department": "Dance"
+}

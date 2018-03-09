@@ -1,0 +1,26 @@
+{
+  "id": "CHBE495",
+  "title": "Nanoparticle Aerosol Dynamics and Particle Technology",
+  "credits": "3",
+  "description": "Restriction: Must be in a major within the ENGR-Chemical & Biomolecular Engineering department; and permission of ENGR-Chemical & Biomolecular Engineering department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Zachariah",
+      "seats": "20,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CHM",
+      "room": "0128"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemical and Biomolecular Engineering"
+}

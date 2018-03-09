@@ -1,0 +1,62 @@
+{
+  "id": "JOUR353",
+  "title": "News Bureau: Multimedia Reporting",
+  "credits": "3",
+  "description": "Prerequisite: JOUR352; and permission of JOUR-Philip Merrill College of Journalism; and (JOUR320 or JOUR360).",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Karen Denny",
+      "seats": "8,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0301",
+      "instructor": "James Carroll",
+      "seats": "8,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0401",
+      "instructor": "Deborah Nelson",
+      "seats": "8,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0501",
+      "instructor": "Thomas Bettag",
+      "seats": "8,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "BMGT488F",
+  "title": "Special Topics in Logistics, Business, and Public Policy; Introduction to Sports Management II",
+  "credits": "3",
+  "description": "Restricted to Sports Management Fellows students (FPSM).",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "FP01",
+      "instructor": "Timothy Heggans",
+      "seats": "32,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "VMH",
+      "room": "1336"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

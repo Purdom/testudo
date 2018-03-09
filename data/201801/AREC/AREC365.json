@@ -1,0 +1,27 @@
+{
+  "id": "AREC365",
+  "title": "World Hunger, Population, and Food Supplies",
+  "credits": "3",
+  "description": "An introduction to the problem of world hunger and possible solutions to it. World demand, supply, and distribution of food. Alternatives for leveling off world food demand, increasing the supply of food, and improving its distribution. Environmental limitations to increasing world food production.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Howard Leathers",
+      "seats": "286,",
+      "open-seats": "60,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ARC",
+      "room": "0204"
+    }
+  ],
+  "term": "201801",
+  "department": "Agricultural and Resource Economics"
+}

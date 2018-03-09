@@ -1,0 +1,38 @@
+{
+  "id": "ARHU275",
+  "title": "Writing to be Seen: Scriptwriting for Theatre, Film, and Television",
+  "credits": "3",
+  "description": "Also offered as: ENGL275.\nCredit only granted for: ENGL278D, ENGL275, ARHU319B or ARHU275.\nFormerly: ENGL278D; ARHU319B.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Douglas Kern",
+      "seats": "17,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "KEY",
+      "room": "0120"
+    },
+    {
+      "id": "0102",
+      "instructor": "Douglas Kern",
+      "seats": "3,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "KEY",
+      "room": "0120"
+    }
+  ],
+  "term": "201801",
+  "department": "Arts and Humanities"
+}

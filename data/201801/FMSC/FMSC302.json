@@ -1,0 +1,27 @@
+{
+  "id": "FMSC302",
+  "title": "Research Methods in Family Science",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed an introductory statistics course.\nRestriction: Must be in a major within SPHL-Family Science department.\nCredit only granted for: FMSC302 or FMST302.\nFormerly: FMST302.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ryan Blick",
+      "seats": "75,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "SPH",
+      "room": "1303"
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "NACS728M",
+  "title": "Selected Topics in Neuroscience and Cognitive Science; Grant Writing",
+  "credits": "2",
+  "description": "Also offered as BIOL709A. Credit granted for NACS728M or BIOL709A. Instruction in grant-writing skill, introduction to resources, discussions on how to make your grant competitive, and insight into the review process. The goal will be to have each participant submit an NRSA.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elizabeth Quinlan",
+      "seats": "10,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "1:00pm",
+      "end": "3:00pm",
+      "building": "BRB",
+      "room": "3101"
+    }
+  ],
+  "term": "201801",
+  "department": "Neuroscience & Cognitive Science"
+}

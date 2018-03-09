@@ -1,0 +1,27 @@
+{
+  "id": "LING410",
+  "title": "Grammar and Meaning",
+  "credits": "3",
+  "description": "Prerequisite: Permission of instructor; or LING311.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alexander Williams",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "SKN",
+      "room": "1112"
+    }
+  ],
+  "term": "201801",
+  "department": "Linguistics"
+}

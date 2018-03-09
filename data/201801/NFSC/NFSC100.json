@@ -1,0 +1,159 @@
+{
+  "id": "NFSC100",
+  "title": "Elements of Nutrition",
+  "credits": "3",
+  "description": "Fundamentals of human nutrition. Nutrient requirements related to changing individual and family needs.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hee-Jung Song",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TYD",
+      "room": "0130"
+    },
+    {
+      "id": "0102",
+      "instructor": "Hee-Jung Song",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TYD",
+      "room": "0130"
+    },
+    {
+      "id": "0103",
+      "instructor": "Hee-Jung Song",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TYD",
+      "room": "0130"
+    },
+    {
+      "id": "0104",
+      "instructor": "Hee-Jung Song",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TYD",
+      "room": "0130"
+    },
+    {
+      "id": "0105",
+      "instructor": "Hee-Jung Song",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TYD",
+      "room": "0130"
+    },
+    {
+      "id": "0106",
+      "instructor": "Hee-Jung Song",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TYD",
+      "room": "0130"
+    },
+    {
+      "id": "0108",
+      "instructor": "Hee-Jung Song",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TYD",
+      "room": "0130"
+    },
+    {
+      "id": "0110",
+      "instructor": "Hee-Jung Song",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TYD",
+      "room": "0130"
+    },
+    {
+      "id": "0111",
+      "instructor": "Hee-Jung Song",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TYD",
+      "room": "0130"
+    },
+    {
+      "id": "0113",
+      "instructor": "Hee-Jung Song",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TYD",
+      "room": "0130"
+    },
+    {
+      "id": "0117",
+      "instructor": "Hee-Jung Song",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TYD",
+      "room": "0130"
+    },
+    {
+      "id": "0118",
+      "instructor": "Hee-Jung Song",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TYD",
+      "room": "0130"
+    }
+  ],
+  "term": "201801",
+  "department": "Nutrition and Food Science"
+}

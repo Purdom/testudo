@@ -1,0 +1,26 @@
+{
+  "id": "BIOE606",
+  "title": "BIOE Graduate Studies II",
+  "credits": "1",
+  "description": "Restriction: Must be in ENGR: PhD Only-Bioengineering (Doctoral) program.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jose Aranda-Espinoza",
+      "seats": "20,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "AJC",
+      "room": "2132"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

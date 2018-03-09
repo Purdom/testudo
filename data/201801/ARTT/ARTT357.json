@@ -1,0 +1,25 @@
+{
+  "id": "ARTT357",
+  "title": "Interactive Design",
+  "credits": "3",
+  "description": "Prerequisite: ARTT355 and ARTT356.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Liese Zahabi",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "ASY",
+      "room": "2322"
+    }
+  ],
+  "term": "201801",
+  "department": "Art Studio"
+}

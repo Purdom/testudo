@@ -1,0 +1,49 @@
+{
+  "id": "CPPL101",
+  "title": "College Park Scholars: Public Leadership First-Year Colloquium II",
+  "credits": "1",
+  "description": "Prerequisite: CPPL100.\nRestriction: Students must be enrolled in the College Park Scholars Public Leadership (CPPL) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Susannah Washburn",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CCC",
+      "room": "1111"
+    },
+    {
+      "id": "0201",
+      "instructor": "Susannah Washburn",
+      "seats": "25,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CCC",
+      "room": "1105"
+    },
+    {
+      "id": "0301",
+      "instructor": "Susannah Washburn",
+      "seats": "30,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CCC",
+      "room": "1205"
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars-Public Leadership"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "MLAW404",
+  "title": "Law & Society Capstone: Implications of Technology on Law & Society",
+  "credits": "3",
+  "description": "Restriction: Student must be enrolled in the Law and Society minor.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Brandee Pettus",
+      "seats": "75,",
+      "open-seats": "30,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TYD",
+      "room": "2109"
+    }
+  ],
+  "term": "201801",
+  "department": "MPower Undergraduate Law Programs"
+}

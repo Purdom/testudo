@@ -1,0 +1,26 @@
+{
+  "id": "MUSC830C",
+  "title": "Doctoral Seminar in Music Literature",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed at least twelve hours in music history and literature.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Instructor: TBA",
+      "seats": "8,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

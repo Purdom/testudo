@@ -1,0 +1,27 @@
+{
+  "id": "ENEE359F",
+  "title": "Intermediate Topics in Computer Engineering; Advanced FPGA System Design using Verilog",
+  "credits": "3",
+  "description": "Prerequisite: permission of department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jerry Wu",
+      "seats": "12,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "AVW",
+      "room": "2446"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

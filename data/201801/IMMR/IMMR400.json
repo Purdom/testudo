@@ -1,0 +1,27 @@
+{
+  "id": "IMMR400",
+  "title": "Vital Voices: Oral Histories of the Immigrant Experience",
+  "credits": "3",
+  "description": "Recommended: HIST222; or IMMR200.\nCredit only granted for: HIST428N, IMMR400, THET428I, or THET498V..\nFormerly: HIST428N.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Esther Lee",
+      "seats": "30,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PAC",
+      "room": "1809"
+    }
+  ],
+  "term": "201801",
+  "department": "Immigration Studies"
+}

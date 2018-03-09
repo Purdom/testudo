@@ -1,0 +1,25 @@
+{
+  "id": "ENGL398L",
+  "title": "Topics in Professional Writing; Scholarly Writing in the Humanities",
+  "credits": "3",
+  "description": "Prerequisite:60 credits and completion of ENGL101. This course satisfies the professional writing requirement.An advanced composition class focusing on the norms and procedures of advanced academic writing.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0301",
+      "instructor": "Mark Forrester",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TWS",
+      "room": "0207"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

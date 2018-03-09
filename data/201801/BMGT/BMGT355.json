@@ -1,0 +1,37 @@
+{
+  "id": "BMGT355",
+  "title": "Foundations of Marketing for Non Business Majors",
+  "credits": "3",
+  "description": "Restriction: Must not have completed BMGT350; and must not be a major in the R.H. Smith School of Business.\nCredit only granted for: BMGT355 or BMGT350.\nAdditional information: Course does not apply to a Smith School degree. BMGT350 may substitute for BMGT355.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "BL01",
+      "instructor": "Mary Beth Furst",
+      "seats": "40,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SQH",
+      "room": "1120"
+    },
+    {
+      "id": "BL02",
+      "instructor": "Mary Beth Furst",
+      "seats": "40,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "SQH",
+      "room": "1120"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

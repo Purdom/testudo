@@ -1,0 +1,62 @@
+{
+  "id": "ENPM671",
+  "title": "Advanced Mechanics of Materials",
+  "credits": "3",
+  "description": "Formulate and quantitatively state the mechanical/physical responses of structural components and configurations subjected to loads, temperature, pre-strains etc. The two methods of anlysis employed are the mechanics of materials approach and the theory of elasticity approach. Analysis and design of components of structural/machine systems as experienced in aeronautical, civil, mechanical and nuclear engineering.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gilad Sharon",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "JMP",
+      "room": "2217"
+    },
+    {
+      "id": "HT01",
+      "instructor": "Gilad Sharon",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SG01",
+      "instructor": "Gilad Sharon",
+      "seats": "5,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "Gilad Sharon",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Professional Masters"
+}

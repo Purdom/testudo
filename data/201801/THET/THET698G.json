@@ -1,0 +1,26 @@
+{
+  "id": "THET698G",
+  "title": "Seminar: Theatre History; History of Theatre to 1650",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Franklin Hildy",
+      "seats": "10,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "PAC",
+      "room": "1815"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "BMGT289I",
+  "title": "Why Good Managers Make Bad Decisions",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jeff Miller",
+      "seats": "240,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1524"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

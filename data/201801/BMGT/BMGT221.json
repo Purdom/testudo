@@ -1,0 +1,181 @@
+{
+  "id": "BMGT221",
+  "title": "Principles of Accounting II",
+  "credits": "3",
+  "description": "Prerequisite: BMGT220.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gary Bulmash",
+      "seats": "35,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0102",
+      "instructor": "Gary Bulmash",
+      "seats": "35,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0103",
+      "instructor": "Gary Bulmash",
+      "seats": "35,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0104",
+      "instructor": "Gary Bulmash",
+      "seats": "35,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0201",
+      "instructor": "Gary Bulmash",
+      "seats": "35,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0202",
+      "instructor": "Gary Bulmash",
+      "seats": "35,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0203",
+      "instructor": "Gary Bulmash",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0204",
+      "instructor": "Gary Bulmash",
+      "seats": "35,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0205",
+      "instructor": "Gary Bulmash",
+      "seats": "35,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0301",
+      "instructor": "Gary Bulmash",
+      "seats": "35,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0302",
+      "instructor": "Gary Bulmash",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0303",
+      "instructor": "Gary Bulmash",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0304",
+      "instructor": "Gary Bulmash",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0305",
+      "instructor": "Gary Bulmash",
+      "seats": "35,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1524"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

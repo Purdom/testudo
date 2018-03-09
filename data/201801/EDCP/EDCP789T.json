@@ -1,0 +1,26 @@
+{
+  "id": "EDCP789T",
+  "title": "Advanced Topics in Counseling and Personnel Services; Program Planning",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Natasha Mitchell",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "2102"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

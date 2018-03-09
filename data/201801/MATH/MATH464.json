@@ -1,0 +1,27 @@
+{
+  "id": "MATH464",
+  "title": "Transform Methods for Scientists and Engineers",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (MATH246, MATH341).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tobias von Petersdorff",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "MTH",
+      "room": "0403"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

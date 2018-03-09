@@ -1,0 +1,74 @@
+{
+  "id": "ENPM685",
+  "title": "Security Tools for Information Security",
+  "credits": "3",
+  "description": "Prerequisite: Familiarity with Linux and Windows operating systems, as well as TCP/IP and basic networking concepts.\nCredit only granted for: ENPM808D or ENPM685.\nFormerly: ENPM808D.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kevin Shivers",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "JMP",
+      "room": "3201"
+    },
+    {
+      "id": "CY01",
+      "instructor": "Kevin Shivers",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "HT01",
+      "instructor": "Kevin Shivers",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SG01",
+      "instructor": "Kevin Shivers",
+      "seats": "5,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "Kevin Shivers",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Professional Masters"
+}

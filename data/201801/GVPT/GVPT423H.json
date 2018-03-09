@@ -1,0 +1,27 @@
+{
+  "id": "GVPT423H",
+  "title": "Elections and Electoral Behavior",
+  "credits": "3",
+  "description": "Prerequisite: GVPT241 and GVPT170.\nRestriction: Must be in Government & Politics program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Gimpel",
+      "seats": "20,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "TYD",
+      "room": "1114"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

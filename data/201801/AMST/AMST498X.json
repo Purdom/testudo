@@ -1,0 +1,25 @@
+{
+  "id": "AMST498X",
+  "title": "Special Topics in American Studies; Ethnography",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Asim Ali",
+      "seats": "30,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "0134"
+    }
+  ],
+  "term": "201801",
+  "department": "American Studies"
+}

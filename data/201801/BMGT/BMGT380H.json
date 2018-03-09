@@ -1,0 +1,25 @@
+{
+  "id": "BMGT380H",
+  "title": "Business Law I",
+  "credits": "3",
+  "description": "Legal aspects of business relationships. Examination of torts and business crimes, contracts and agency. The law of personal property and bailment relationships. Survey of public policy issues.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William McClenahan",
+      "seats": "35,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1418"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

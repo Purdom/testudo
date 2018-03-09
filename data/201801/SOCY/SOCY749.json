@@ -1,0 +1,26 @@
+{
+  "id": "SOCY749",
+  "title": "Advanced Special Topics in Demography; Residential Segregation",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kris Marsh",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:30pm",
+      "end": "9:00pm",
+      "building": "ASY",
+      "room": "2115"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

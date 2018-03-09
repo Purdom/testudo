@@ -1,0 +1,27 @@
+{
+  "id": "MATH402",
+  "title": "Algebraic Structures",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (MATH240, MATH341, MATH461).\nRestriction: Must not be in any of the following programs (Mathematics (Master's); Mathematics (Doctoral)).\nCredit only granted for: MATH402 or MATH403.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Allan Yashinski",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "MTH",
+      "room": "0105"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "HESP418B",
+  "title": "Clinical Practice in Speech-Language Pathology and Audiology; Speech Pathology Option",
+  "credits": "3",
+  "description": "For majors only.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Vivian Sisskin",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Hearing and Speech Sciences"
+}

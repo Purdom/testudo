@@ -1,0 +1,39 @@
+{
+  "id": "ENST233",
+  "title": "Introduction to Environmental Health",
+  "credits": "3",
+  "description": "How humans are affected by the quality of our air, water, soil, and foo supply as well as how human activities altered these survival necessities are examined. Students will learn how the evolution and prosperity of human populations have resulted in degradation of our environment and the impact of environmental degradation on the health of people.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lance Yonkos",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ANS",
+      "room": "0408"
+    },
+    {
+      "id": "0102",
+      "instructor": "Lance Yonkos",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ANS",
+      "room": "0408"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

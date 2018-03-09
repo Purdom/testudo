@@ -1,0 +1,27 @@
+{
+  "id": "ENGL293",
+  "title": "Writing in the Wireless World",
+  "credits": "3",
+  "description": "Recommended: ENGL101.\nCredit only granted for: ENGL278Z or ENGL293.\nFormerly: ENGL278Z.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Daniel Kason",
+      "seats": "22,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "0232"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "JWST319L",
+  "title": "Special Topics in Jewish Studies; Sexuality in Jewish Culture",
+  "credits": "3",
+  "description": "This course provides students with a unique exploration of texts and and films created by various Jewish authors and filmmakers, and the way they dealt with questions of gender and sexuality. The texts and films touch on the central social, economic, and cultural issues of European, American and Israeli Jewry during the middle ages, and up to the 19th and 20th centuries. It will explore how the categories of gender and sexuality changed and were represented in rich and contrasting ways according to the authorssocial norms and ideological convictions. Focusing on gender and sexuality in Jewish culture can help us better understand Jewish social norms, creativity, and history, in particular modern Jewish literatures, and film, and the Jewish encounter with modernity as a whole. We will be reading prominent writers and filmmakers such as Sholem Aleichem, Philip Roth, S. Y. Abramovitsch, Woody Allen, Celia Dropkin, I. B. Singer, Sholem Ash, Boaz Davidson, and others.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Adi Mahalel",
+      "seats": "35,",
+      "open-seats": "29,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "SQH",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "Jewish Studies"
+}

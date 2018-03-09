@@ -1,0 +1,27 @@
+{
+  "id": "ANTH467",
+  "title": "Researching Environment and Culture",
+  "credits": "3",
+  "description": "In this applied course, students use mixed methods to research a locally-based, environmental sustainability issue. Classroom time will be split between seminar discussions of theory, methods, and relevant case studies, and lab work focused on project development, data analysis, and report write up. Students are expected to spend additional time outside class on data collection, analysis, and writing",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "L Jen Shaffer",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "HBK",
+      "room": "1108"
+    }
+  ],
+  "term": "201801",
+  "department": "Anthropology"
+}

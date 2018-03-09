@@ -1,0 +1,25 @@
+{
+  "id": "BMGT455",
+  "title": "Sales Management",
+  "credits": "3",
+  "description": "Prerequisite: BMGT350.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "Kathleen Kelly",
+      "seats": "40,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "BLD2",
+      "room": "1032"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "PLCY311",
+  "title": "Women in Leadership",
+  "credits": "3",
+  "description": "Credit only granted for: PUAF311, PLCY311 or PUAF359W.\nFormerly: PUAF359W.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Anne Kaiser",
+      "seats": "35,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "TLF",
+      "room": "1126"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

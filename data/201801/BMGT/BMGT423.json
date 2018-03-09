@@ -1,0 +1,49 @@
+{
+  "id": "BMGT423",
+  "title": "Fraud Examination",
+  "credits": "3",
+  "description": "Prerequisite: BMGT310.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sandra Rose",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1418"
+    },
+    {
+      "id": "0201",
+      "instructor": "Sandra Rose",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1418"
+    },
+    {
+      "id": "0301",
+      "instructor": "Sandra Rose",
+      "seats": "40,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "VMH",
+      "room": "1206"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

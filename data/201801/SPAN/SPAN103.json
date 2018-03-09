@@ -1,0 +1,63 @@
+{
+  "id": "SPAN103",
+  "title": "Intensive Elementary Spanish",
+  "credits": "4",
+  "description": "Prerequisite: Must have appropriate Foreign Language Placement Test (FLPT) score.\nRestriction: Must not be a native/fluent speaker of Spanish.\nCredit only granted for: SPAN102 or SPAN103.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Rosario Montero Navarro",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "JMZ",
+      "room": "0205"
+    },
+    {
+      "id": "0201",
+      "instructor": "Carla Onate",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "JMZ",
+      "room": "0103"
+    },
+    {
+      "id": "0301",
+      "instructor": "Carla Onate",
+      "seats": "25,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MTuWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "JMZ",
+      "room": "0103"
+    },
+    {
+      "id": "0401",
+      "instructor": "Carla Onate",
+      "seats": "25,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MTuWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "JMZ",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "Spanish"
+}

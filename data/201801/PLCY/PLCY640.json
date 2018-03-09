@@ -1,0 +1,26 @@
+{
+  "id": "PLCY640",
+  "title": "Microeconomic and Policy Analysis",
+  "credits": "3",
+  "description": "Restriction: Must be in a major in PLCY-School of Public Policy; or permission of PLCY-School of Public Policy.\nCredit only granted for: PLCY640 or PUAF640.\nFormerly: PUAF640.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yueming Qiu",
+      "seats": "29,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:15pm",
+      "end": "6:45pm",
+      "building": "VMH",
+      "room": "1207"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

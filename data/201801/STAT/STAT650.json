@@ -1,0 +1,26 @@
+{
+  "id": "STAT650",
+  "title": "Applied Stochastic Processes",
+  "credits": "3",
+  "description": "Prerequisite: STAT410; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Eric Slud",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "MTH",
+      "room": "0409"
+    }
+  ],
+  "term": "201801",
+  "department": "Statistics and Probability"
+}

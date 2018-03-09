@@ -1,0 +1,26 @@
+{
+  "id": "KNES154N",
+  "title": "Physical Education Activities: Coed; Swimming (Beginning)",
+  "credits": "1",
+  "description": "Attendance is required on the first day of class. Students must pay a $40 instructional materials fee.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0001",
+      "instructor": "Ronald Willoughby",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "ERC",
+      "room": "B0120"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

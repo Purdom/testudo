@@ -1,0 +1,26 @@
+{
+  "id": "PSYC889",
+  "title": "Research Methods in Psychology; Cognitive and Neural Systems Seminar",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Robert Slevc",
+      "seats": "10,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "BPS",
+      "room": "1234"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

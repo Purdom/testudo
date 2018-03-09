@@ -1,0 +1,73 @@
+{
+  "id": "BMGT326",
+  "title": "Accounting Systems",
+  "credits": "3",
+  "description": "Prerequisite: BMGT221; and (BMGT201 or BMGT301).",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lei Zhou",
+      "seats": "35,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1336"
+    },
+    {
+      "id": "0201",
+      "instructor": "James McKinney",
+      "seats": "35,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1307"
+    },
+    {
+      "id": "0301",
+      "instructor": "Lei Zhou",
+      "seats": "35,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1206"
+    },
+    {
+      "id": "SG91",
+      "instructor": "Lei Zhou",
+      "seats": "40,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "BLD2",
+      "room": "1032"
+    },
+    {
+      "id": "SG92",
+      "instructor": "Lei Zhou",
+      "seats": "40,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "BLD2",
+      "room": "1032"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "GEOL656",
+  "title": "Engineering and Environmental Geology",
+  "credits": "3",
+  "description": "Prerequisite: GEOL100, GEOL110, MATH141, and PHYS141; or permission of instructor.\nRestriction: Non-degree-seeking students require the permission of the instructor.\nCredit only granted for: GEOL656 or GEOL789Z.\nFormerly: GEOL789Z.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Wenlu Zhu",
+      "seats": "10,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PLS",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "Geology"
+}

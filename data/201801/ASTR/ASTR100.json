@@ -1,0 +1,87 @@
+{
+  "id": "ASTR100",
+  "title": "Introduction to Astronomy",
+  "credits": "3",
+  "description": "Credit only granted for: ASTR100, ASTR101, or ASTR120.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alberto Bolatto",
+      "seats": "40,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0102",
+      "instructor": "Alberto Bolatto",
+      "seats": "40,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0103",
+      "instructor": "Alberto Bolatto",
+      "seats": "40,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0104",
+      "instructor": "Alberto Bolatto",
+      "seats": "40,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0105",
+      "instructor": "Alberto Bolatto",
+      "seats": "40,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0106",
+      "instructor": "Alberto Bolatto",
+      "seats": "40,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PHY",
+      "room": "1412"
+    }
+  ],
+  "term": "201801",
+  "department": "Astronomy"
+}

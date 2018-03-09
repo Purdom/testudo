@@ -1,0 +1,27 @@
+{
+  "id": "ARTT456",
+  "title": "Motion Design",
+  "credits": "3",
+  "description": "Prerequisite: ARTT355, ARTT356, and ARTT357; or permission of ARHU-Art department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Liese Zahabi",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:00am",
+      "end": "11:30am",
+      "building": "ASY",
+      "room": "2322"
+    }
+  ],
+  "term": "201801",
+  "department": "Art Studio"
+}

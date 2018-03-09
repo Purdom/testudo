@@ -1,0 +1,25 @@
+{
+  "id": "WMST619",
+  "title": "Women's Studies Teaching Practicum",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elsa Barkley Brown",
+      "seats": "10,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Women's Studies"
+}

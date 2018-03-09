@@ -1,0 +1,25 @@
+{
+  "id": "JOUR324",
+  "title": "Commentary and Editorial Writing",
+  "credits": "3",
+  "description": "Prerequisite: JOUR320 or JOUR360.\nFormerly: JOUR326.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Beecher",
+      "seats": "18,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "KNI",
+      "room": "1206"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

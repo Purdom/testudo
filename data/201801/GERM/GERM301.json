@@ -1,0 +1,27 @@
+{
+  "id": "GERM301",
+  "title": "Conversation and Composition I: The German-Speaking World",
+  "credits": "3",
+  "description": "Prerequisite: GERM204; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Wendy Timmons",
+      "seats": "20,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "JMZ",
+      "room": "2122"
+    }
+  ],
+  "term": "201801",
+  "department": "Germanic Studies"
+}

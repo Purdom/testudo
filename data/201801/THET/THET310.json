@@ -1,0 +1,27 @@
+{
+  "id": "THET310",
+  "title": "Voice for the Actor I",
+  "credits": "3",
+  "description": "Prerequisite: THET116, THET222, THET223, and TDPS201; and must Interview; and permission of ARHU-School of Theatre, Dance & Performance Studies department.\nRestriction: Sophomore standing or higher.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Lisa Nathans",
+      "seats": "18,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "PAC",
+      "room": "2740"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre"
+}

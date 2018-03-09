@@ -1,0 +1,26 @@
+{
+  "id": "ENFP653",
+  "title": "Advanced Fire Supression",
+  "credits": "3",
+  "description": "Restriction: Permission of ENGR-Fire Protection Engineering department.\nCredit only granted for: ENFP410, ENFP489L, ENFP653, or ENFP629C.\nFormerly: ENFP629C.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kenneth Isman",
+      "seats": "20,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ATL",
+      "room": "0201"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Fire Protection"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ENGL101X",
+  "title": "Academic Writing",
+  "credits": "3",
+  "description": "Additional information: Any student who has not successfully completed this course by Fall 2017 must complete this course with a minimum grade of C- in order to fulfill the General Education Fundamental Studies Academic Writing requirement.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "2003",
+      "instructor": "Martina Domnick",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SQH",
+      "room": "2120"
+    },
+    {
+      "id": "2004",
+      "instructor": "Katie Bramlett",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ASY",
+      "room": "3221"
+    },
+    {
+      "id": "2005",
+      "instructor": "Nathan Tillman",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "TWS",
+      "room": "1313"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

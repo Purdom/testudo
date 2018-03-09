@@ -1,0 +1,27 @@
+{
+  "id": "EDCI407",
+  "title": "Practicum in Art Education: Three-Dimensional",
+  "credits": "3",
+  "description": "Restriction: Must be in Secondary Educ: Art program; or must be a Pre-Art Education Major.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Margaret Walker",
+      "seats": "25,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "9:00am",
+      "end": "11:50am",
+      "building": "EDU",
+      "room": "1315"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

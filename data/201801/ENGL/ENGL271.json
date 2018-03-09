@@ -1,0 +1,63 @@
+{
+  "id": "ENGL271",
+  "title": "Writing Poems and Stories: An Introductory Workshop",
+  "credits": "3",
+  "description": "Introduction to theory and practice of writing fiction and poetry. Emphasis on critical reading of literary models. Exercises and workshop discussions with continual reference to modeling, drafting, and revising as necessary stages in a creative process.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Emily Myrick",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "KNI",
+      "room": "1103"
+    },
+    {
+      "id": "0102",
+      "instructor": "Emily Myrick",
+      "seats": "1,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "KNI",
+      "room": "1103"
+    },
+    {
+      "id": "0201",
+      "instructor": "Thibault Raoult",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "0207"
+    },
+    {
+      "id": "0301",
+      "instructor": "Amanda Allen",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "0201"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

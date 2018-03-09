@@ -1,0 +1,61 @@
+{
+  "id": "ENEE447",
+  "title": "Operating Systems",
+  "credits": "4",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (CMSC414, CMSC417, CMSC420, CMSC430, CMSC433, CMSC435, ENEE440, ENEE457); and permission of ENGR-Electrical & Computer Engineering department; and (ENEE350, CMSC330, and CMSC351).\nRestriction: Must be in Engineering: Computer program; and permission of ENGR-Electrical & Computer Engineering department.\nCredit only granted for: ENEE447, CMSC412, or ENEE459S.\nFormerly: ENEE459S.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Manoj Franklin",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CHE",
+      "room": "2108"
+    },
+    {
+      "id": "0102",
+      "instructor": "Manoj Franklin",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CHE",
+      "room": "2108"
+    },
+    {
+      "id": "0103",
+      "instructor": "Manoj Franklin",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CHE",
+      "room": "2108"
+    },
+    {
+      "id": "0104",
+      "instructor": "Manoj Franklin",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CHE",
+      "room": "2108"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

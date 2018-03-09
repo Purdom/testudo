@@ -1,0 +1,27 @@
+{
+  "id": "KNES389D",
+  "title": "Topical Investigations; Sport for Development",
+  "credits": "3",
+  "description": "Prerequisite: KNES287 with a C- or better.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Timothy Henkel",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "SPH",
+      "room": "0307"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "CHIN102",
+  "title": "Elementary Spoken Chinese",
+  "credits": "3",
+  "description": "Prerequisite: CHIN101; or students who have taken courses with comparable content may contact the department; or must have attained appropriate Foreign Language Placement Test (FLPT) score.\nCorequisite: CHIN103.\nAdditional information: Must be taken in conjunction with CHIN 103.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mei Kong",
+      "seats": "15,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "JMZ",
+      "room": "1117"
+    },
+    {
+      "id": "0201",
+      "instructor": "Mei Kong",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "JMZ",
+      "room": "0205"
+    }
+  ],
+  "term": "201801",
+  "department": "Chinese"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "CMSC764",
+  "title": "Advanced Numerical Optimization",
+  "credits": "3",
+  "description": "Prerequisite: MATH410; or permission of instructor.\nAlso offered as: AMSC607.\nCredit only granted for: AMSC607 or CMSC764.\nFormerly: CMSC878O.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Goldstein",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "CSI",
+      "room": "3120"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ANSC444",
+  "title": "Domestic Animal Endocrinology",
+  "credits": "3",
+  "description": "Prerequisite: ANSC212; or permission of instructor.\nRestriction: Must not have completed ANSC644.\nCredit only granted for: ANSC489I, ANSC444, or ANSC644.\nFormerly: ANSC489I.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Monica VanKlompenberg",
+      "seats": "20,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ANS",
+      "room": "0412"
+    }
+  ],
+  "term": "201801",
+  "department": "Animal Science"
+}

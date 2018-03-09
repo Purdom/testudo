@@ -1,0 +1,39 @@
+{
+  "id": "AMST203",
+  "title": "Popular Culture in America",
+  "credits": "3",
+  "description": "An introduction to American popular culture, its historical development, and its role as a reflection of and influence on our culture and society.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kelsey Michael",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMZ",
+      "room": "2120"
+    },
+    {
+      "id": "0201",
+      "instructor": "A Anthony",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SQH",
+      "room": "1123"
+    }
+  ],
+  "term": "201801",
+  "department": "American Studies"
+}

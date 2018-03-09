@@ -1,0 +1,27 @@
+{
+  "id": "AMST202",
+  "title": "Cultures of Everyday Life in America",
+  "credits": "3",
+  "description": "Examine the structures and patterns of everyday life in the U.S., utilizing methods such as ethnography, oral history, survey research, and textual, visual, and material cultural analysis.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christina Sessoms",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "JMZ",
+      "room": "1120"
+    }
+  ],
+  "term": "201801",
+  "department": "American Studies"
+}

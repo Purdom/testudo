@@ -1,0 +1,26 @@
+{
+  "id": "PHYS739",
+  "title": "Seminar in Theoretical Solid State Physics; Quantum Mechanical Many-Body Problems",
+  "credits": "1",
+  "description": "Advanced special students require department authorization.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sankar Das Sarma",
+      "seats": "30,",
+      "open-seats": "29,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "11:00am",
+      "end": "12:30pm",
+      "building": "PHY",
+      "room": "2205"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "AASP298Z",
+  "title": "Special Topics in African American Studies; Jazz as a Cultural Art Form",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ronald Zeigler",
+      "seats": "43,",
+      "open-seats": "32,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "NCC",
+      "room": "0130"
+    }
+  ],
+  "term": "201801",
+  "department": "African American Studies"
+}

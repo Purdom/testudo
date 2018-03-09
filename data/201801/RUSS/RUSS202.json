@@ -1,0 +1,26 @@
+{
+  "id": "RUSS202",
+  "title": "Intermediate Russian II",
+  "credits": "5",
+  "description": "Prerequisite: RUSS201; or must have appropriate Foreign Language Placement Test (FLPT) score.\nRestriction: Must not be a native/fluent speaker of Russian.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Zhanna Gerus-Vernola",
+      "seats": "15,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "JMZ",
+      "room": "3205"
+    }
+  ],
+  "term": "201801",
+  "department": "Russian"
+}

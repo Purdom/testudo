@@ -1,0 +1,25 @@
+{
+  "id": "BMGT438G",
+  "title": "Special Topics in Operations Management; Design and Innovation in Silicon Valley",
+  "credits": "3",
+  "description": "Also offered as ENES489Q. Credit granted for BMGT438G or ENES489Q. Travel to Silicon Valley during Spring Break required of all class participants.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Joseph Bailey",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "8:15pm",
+      "building": "JMP",
+      "room": "1109"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

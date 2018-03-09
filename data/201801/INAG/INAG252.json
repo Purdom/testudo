@@ -1,0 +1,26 @@
+{
+  "id": "INAG252",
+  "title": "Agricultural Public Relations",
+  "credits": "3",
+  "description": "Recommended: INAG103.\nRestriction: Students at the Institute of Applied Agriculture (IAA); or students at the College of Agriculture and Natural Resources (AGNR); or permission may be granted to other students based on available space.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Larisa Cioaca",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "JUL",
+      "room": "1123"
+    }
+  ],
+  "term": "201801",
+  "department": "Institute of Applied Agriculture"
+}

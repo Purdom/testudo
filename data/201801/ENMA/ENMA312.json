@@ -1,0 +1,39 @@
+{
+  "id": "ENMA312",
+  "title": "Experimental Methods in Materials Science",
+  "credits": "3",
+  "description": "Prerequisite: ENMA300.\nCorequisite: ENMA460.\nRestriction: Junior standing or higher.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Audaldo Ponce",
+      "seats": "12,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "KEB",
+      "room": "1135"
+    },
+    {
+      "id": "0102",
+      "instructor": "Audaldo Ponce",
+      "seats": "12,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "KEB",
+      "room": "1135"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Materials"
+}

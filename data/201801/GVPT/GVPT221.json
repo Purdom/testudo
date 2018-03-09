@@ -1,0 +1,27 @@
+{
+  "id": "GVPT221",
+  "title": "Introduction to Formal Theories of Political Behavior and Politics",
+  "credits": "3",
+  "description": "Prerequisite: GVPT170.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Piotr Swistak",
+      "seats": "30,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "TYD",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

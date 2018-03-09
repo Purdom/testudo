@@ -1,0 +1,37 @@
+{
+  "id": "BUDT758K",
+  "title": "Special Topics in Decision, Operations and Information Technologies; Computer Simulation for Business Applications",
+  "credits": "3",
+  "description": "For MS in Information Systems students only.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Sujin Kim",
+      "seats": "42,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1206"
+    },
+    {
+      "id": "0502",
+      "instructor": "Sujin Kim",
+      "seats": "30,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1518"
+    }
+  ],
+  "term": "201801",
+  "department": "Decision and Information Technologies"
+}

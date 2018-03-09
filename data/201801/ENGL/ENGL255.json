@@ -1,0 +1,27 @@
+{
+  "id": "ENGL255",
+  "title": "Literature of Science and Technology",
+  "credits": "3",
+  "description": "Credit only granted for: ENGL255 or ENGL278T.\nFormerly: ENGL278T.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Emilee Durand",
+      "seats": "30,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "TWS",
+      "room": "0205"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

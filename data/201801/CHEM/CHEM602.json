@@ -1,0 +1,26 @@
+{
+  "id": "CHEM602",
+  "title": "Advanced Inorganic Chemistry II",
+  "credits": "3",
+  "description": "Prerequisite: CHEM601; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lawrence Sita",
+      "seats": "15,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CHE",
+      "room": "2116"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

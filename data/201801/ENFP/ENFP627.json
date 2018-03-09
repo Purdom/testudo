@@ -1,0 +1,25 @@
+{
+  "id": "ENFP627",
+  "title": "Smoke Detection and Management",
+  "credits": "3",
+  "description": "Prerequisite: ENFP300.\nAlso offered as: ENFP440.\nCredit only granted for: ENFP627 or ENFP440.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kenneth Isman",
+      "seats": "10,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "CHE",
+      "room": "2118"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Fire Protection"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "EPIB651",
+  "title": "Biostatistics II",
+  "credits": "3",
+  "description": "Prerequisite: A B or higher in EPIB650 OR for students who have officially waived EPIB650, a minimum score of 70% on the EPIB650 placement exam.\nRecommended: Previous coursework and/or experience with SAS is highly recommended.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Raul Cruz-Cano",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "SPH",
+      "room": "1301"
+    }
+  ],
+  "term": "201801",
+  "department": "Epidemiology and Biostatistics"
+}

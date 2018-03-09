@@ -1,0 +1,39 @@
+{
+  "id": "CHEM399X",
+  "title": "Introduction to Chemical Research",
+  "credits": "1 -",
+  "description": "Prerequsite: permission of department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Montague-Smith",
+      "seats": "15,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0102",
+      "instructor": "Lee Friedman",
+      "seats": "30,",
+      "open-seats": "30,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

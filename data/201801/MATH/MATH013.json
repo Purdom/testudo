@@ -1,0 +1,39 @@
+{
+  "id": "MATH013",
+  "title": "Algebra for MATH 113",
+  "credits": "3",
+  "description": "A review of Intermediate High School Algebra intended for students preparing for MATH113. It is taught 5 days per week for the first 5 weeks, then leads directly into a special section of MATH113, the same semester, which also meets 5 days per week. Continuation in MATH113 is conditional on the student passing the MATHEMATICS PLACEMENT EXAM at the appropriate level. Topics include exponents, polynomials, linear equations, quadratic equations, as well as polynomial, rational, exponential, logarithm functions, and trigonometry. MATH013 does not carry any credit toward any degree at the University, nor is it graded. It leads directly to MATH113 (or MATH110), or MATH003, all of which are graded.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "1101",
+      "instructor": "Santuria Orsetti",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MTuWThF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "MTH",
+      "room": "0402"
+    },
+    {
+      "id": "1201",
+      "instructor": "Arthur Bruckheim",
+      "seats": "22,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MTuWThF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "MTH",
+      "room": "0402"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

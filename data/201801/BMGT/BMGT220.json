@@ -1,0 +1,133 @@
+{
+  "id": "BMGT220",
+  "title": "Principles of Accounting I",
+  "credits": "3",
+  "description": "Basic theory and techniques of contemporary financial accounting. Includes the accounting cycle and the preparation of financial statements for single owner and partnership forms of business organizations operating as service companies or merchandisers.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Progyan Basu",
+      "seats": "38,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1212"
+    },
+    {
+      "id": "0102",
+      "instructor": "Progyan Basu",
+      "seats": "38,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1212"
+    },
+    {
+      "id": "0103",
+      "instructor": "Progyan Basu",
+      "seats": "38,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1212"
+    },
+    {
+      "id": "0104",
+      "instructor": "Progyan Basu",
+      "seats": "38,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1212"
+    },
+    {
+      "id": "0105",
+      "instructor": "Progyan Basu",
+      "seats": "38,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1212"
+    },
+    {
+      "id": "0201",
+      "instructor": "Progyan Basu",
+      "seats": "38,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0202",
+      "instructor": "Progyan Basu",
+      "seats": "38,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0203",
+      "instructor": "Progyan Basu",
+      "seats": "38,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0204",
+      "instructor": "Progyan Basu",
+      "seats": "38,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0205",
+      "instructor": "Progyan Basu",
+      "seats": "38,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1524"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

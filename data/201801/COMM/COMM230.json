@@ -1,0 +1,63 @@
+{
+  "id": "COMM230",
+  "title": "Argumentation and Debate",
+  "credits": "3",
+  "description": "A study of the fundamental principles of reasoning, analysis, and evidence preparation of debate briefs and presentation of standard academic debate.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nora Murphy",
+      "seats": "24,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "PLS",
+      "room": "1115"
+    },
+    {
+      "id": "0201",
+      "instructor": "Morgan Hess",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TYD",
+      "room": "1114"
+    },
+    {
+      "id": "0301",
+      "instructor": "Morgan Hess",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SKN",
+      "room": "1112"
+    },
+    {
+      "id": "0401",
+      "instructor": "Nora Murphy",
+      "seats": "24,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PLS",
+      "room": "1115"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

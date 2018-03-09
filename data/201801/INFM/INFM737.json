@@ -1,0 +1,37 @@
+{
+  "id": "INFM737",
+  "title": "Information Management Capstone Experience",
+  "credits": "3",
+  "description": "Prerequisite: INFM736; and must have earned a minimum of 27 credits in the MIM Program. Or permission of instructor.\nRestriction: Must be in Information Management (Master's) program; and permission of INFO-College of Information Studies.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kathy Weaver",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "HBK",
+      "room": "0115"
+    },
+    {
+      "id": "SG01",
+      "instructor": "Kathy Weaver",
+      "seats": "30,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:00pm",
+      "end": "8:45pm",
+      "building": "BLD1",
+      "room": "108"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Management"
+}

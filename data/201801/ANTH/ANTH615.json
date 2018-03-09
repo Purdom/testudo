@@ -1,0 +1,27 @@
+{
+  "id": "ANTH615",
+  "title": "Advanced Studies in Global Health",
+  "credits": "3",
+  "description": "Credit only granted for: ANTH415 or ANTH615.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thurka Sangaramoorthy",
+      "seats": "10,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ITV",
+      "room": "1100"
+    }
+  ],
+  "term": "201801",
+  "department": "Anthropology"
+}

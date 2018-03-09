@@ -1,0 +1,26 @@
+{
+  "id": "DANC689I",
+  "title": "Special Topics in Dance; Teaching Internship",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "CE01",
+      "instructor": "Crystal Davis",
+      "seats": "5,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Dance"
+}

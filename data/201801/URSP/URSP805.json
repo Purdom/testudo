@@ -1,0 +1,25 @@
+{
+  "id": "URSP805",
+  "title": "Seminar in Research Design",
+  "credits": "3",
+  "description": "Prerequisite: URSP804 and URSP810.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sevgi Erdogan,",
+      "seats": "15,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "1:00pm",
+      "end": "3:30pm",
+      "building": "ARC",
+      "room": "1119"
+    }
+  ],
+  "term": "201801",
+  "department": "Urban Studies and Planning"
+}

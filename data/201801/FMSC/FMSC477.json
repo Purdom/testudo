@@ -1,0 +1,25 @@
+{
+  "id": "FMSC477",
+  "title": "Internship and Analysis in Family Science",
+  "credits": "3",
+  "description": "Prerequisite: FMSC383; and 9 credits in FMSC courses; and permission of SPHL-Family Science department.\nRestriction: Must be in a major within SPHL-Family Science department.\nCredit only granted for: FMSC477, FMST347, or FMST477.\nFormerly: FMST477.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kecia Ellick",
+      "seats": "90,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "5:00pm",
+      "building": "BPS",
+      "room": "1243"
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

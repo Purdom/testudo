@@ -1,0 +1,26 @@
+{
+  "id": "URSP688M",
+  "title": "Recent Developments in Urban Studies; Intermediate Geographic Information Systems",
+  "credits": "3",
+  "description": "A Partnership for Action Learning in Sustainability (PALS) course where students apply classroom learning to actual community needs.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Chao Liu",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "ARC",
+      "room": "0111"
+    }
+  ],
+  "term": "201801",
+  "department": "Urban Studies and Planning"
+}

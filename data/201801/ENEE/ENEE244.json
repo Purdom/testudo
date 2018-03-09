@@ -1,0 +1,109 @@
+{
+  "id": "ENEE244",
+  "title": "Digital Logic Design",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in CMSC132 or ENEE150; and permission of ENGR-Electrical & Computer Engineering department.\nRestriction: Sophomore standing or higher; and must be in one of the following programs (Engineering: Computer; Engineering: Electrical).",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Joseph JaJa",
+      "seats": "12,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CHE",
+      "room": "2108"
+    },
+    {
+      "id": "0102",
+      "instructor": "Joseph JaJa",
+      "seats": "12,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CHE",
+      "room": "2108"
+    },
+    {
+      "id": "0103",
+      "instructor": "Joseph JaJa",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CHE",
+      "room": "2108"
+    },
+    {
+      "id": "0104",
+      "instructor": "Joseph JaJa",
+      "seats": "12,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CHE",
+      "room": "2108"
+    },
+    {
+      "id": "0106",
+      "instructor": "Joseph JaJa",
+      "seats": "12,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CHE",
+      "room": "2108"
+    },
+    {
+      "id": "0201",
+      "instructor": "Jerry Wu",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EGR",
+      "room": "0108"
+    },
+    {
+      "id": "0202",
+      "instructor": "Jerry Wu",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EGR",
+      "room": "0108"
+    },
+    {
+      "id": "0203",
+      "instructor": "Jerry Wu",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EGR",
+      "room": "0108"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

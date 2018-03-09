@@ -1,0 +1,27 @@
+{
+  "id": "HESP418A",
+  "title": "Clinical Practice in Speech-Language Pathology and Audiology; Audiology Option",
+  "credits": "3",
+  "description": "For majors only.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sharon Palmer",
+      "seats": "10,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "LEF",
+      "room": "0111D"
+    }
+  ],
+  "term": "201801",
+  "department": "Hearing and Speech Sciences"
+}

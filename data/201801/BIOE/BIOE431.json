@@ -1,0 +1,27 @@
+{
+  "id": "BIOE431",
+  "title": "Fundamentals of Biosensor Techniques, Instrumentation, and Applications",
+  "credits": "3",
+  "description": "Prerequisite: CHEM135, PHYS260, PHYS261, BSCI330, BIOE120, BIOE121, BIOE241, and MATH246; or permission of ENGR-Fischell Department of Bioengineering department.\nRestriction: Permission of ENGR-Fischell Department of Bioengineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ian White",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ESJ",
+      "room": "1215"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

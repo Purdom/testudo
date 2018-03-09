@@ -1,0 +1,27 @@
+{
+  "id": "LING419L",
+  "title": "Topics in Syntax; Negative Dependencies and Ellipsis",
+  "credits": "3",
+  "description": "Restriction: permission of department. Formal approaches to the syntax of ellipsis and negation. The nature of different types of ellipsis (where there is meaning that is not expressed overtly as in Jo was watching TV,but Sam \"wasnt __\" or \"Jo saw someone but I dont know who ___\".) Expression of negation in natural languages (e.g. sentence negation, negative concord, and licensing of negative polarity items).How content is retrieved in cases of ellipsis and the interaction between ellipsis and negation.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gesoel Ernesto Ribeiro Mendes Junior",
+      "seats": "10,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "MMH",
+      "room": "1304"
+    }
+  ],
+  "term": "201801",
+  "department": "Linguistics"
+}

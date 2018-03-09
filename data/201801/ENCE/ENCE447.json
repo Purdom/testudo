@@ -1,0 +1,27 @@
+{
+  "id": "ENCE447",
+  "title": "Pavement Engineering",
+  "credits": "3",
+  "description": "Prerequisite: ENCE340; and permission of ENGR-Civil & Environmental Engineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Charles Schwartz",
+      "seats": "25,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "EGR",
+      "room": "3102"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

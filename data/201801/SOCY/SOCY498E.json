@@ -1,0 +1,27 @@
+{
+  "id": "SOCY498E",
+  "title": "Selected Topics in Sociology; Researching in the Middle East",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mansoor Moaddel",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ASY",
+      "room": "3207"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

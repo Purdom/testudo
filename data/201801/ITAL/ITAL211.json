@@ -1,0 +1,27 @@
+{
+  "id": "ITAL211",
+  "title": "Intermediate Conversation",
+  "credits": "3",
+  "description": "Prerequisite: ITAL203; or permission of ARHU-School of Languages, Literatures, and Cultures department.\nRestriction: Must not be a fluent/native speaker of Italian.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stefania Amodeo",
+      "seats": "20,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "JMZ",
+      "room": "3203"
+    }
+  ],
+  "term": "201801",
+  "department": "Italian"
+}

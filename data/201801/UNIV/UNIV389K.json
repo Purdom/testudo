@@ -1,0 +1,38 @@
+{
+  "id": "UNIV389K",
+  "title": "Special Topics in Undergraduate Studies; Special Topics in Experiential Learning Global Semester",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Joan Burton,",
+      "seats": "38,",
+      "open-seats": "38,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0201",
+      "instructor": "Joan Burton,",
+      "seats": "38,",
+      "open-seats": "38,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "University Courses"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "HONR219T",
+  "title": "Honors Seminar: Surviving Natural Disasters: Learning from Hurricane Katrina, Big Earthquakes, and Other Natural Hazards",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lewis Link",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "MTH",
+      "room": "0402"
+    },
+    {
+      "id": "0201",
+      "instructor": "Lewis Link",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "11:00am",
+      "end": "1:30pm",
+      "building": "CHM",
+      "room": "0127"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

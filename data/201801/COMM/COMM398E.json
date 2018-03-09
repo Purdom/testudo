@@ -1,0 +1,25 @@
+{
+  "id": "COMM398E",
+  "title": "Selected Topics in Communication; Health Communication",
+  "credits": "3",
+  "description": "Restricted to COMM majors only.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kang Namkoong",
+      "seats": "35,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "HBK",
+      "room": "0105"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

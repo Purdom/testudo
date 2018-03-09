@@ -1,0 +1,39 @@
+{
+  "id": "MATH274",
+  "title": "History of Mathematics",
+  "credits": "3",
+  "description": "Prerequisite: MATH120, MATH130, or MATH140; or must have completed MATH220.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kendall Williams",
+      "seats": "20,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "MTH",
+      "room": "0405"
+    },
+    {
+      "id": "0201",
+      "instructor": "Daniel Chazan",
+      "seats": "20,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PHY",
+      "room": "1120"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

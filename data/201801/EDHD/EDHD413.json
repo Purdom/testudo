@@ -1,0 +1,26 @@
+{
+  "id": "EDHD413",
+  "title": "Adolescent Development",
+  "credits": "3",
+  "description": "Adolescent development, including special problems encountered in contemporary culture. Observational component and individual case study.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Geetha Ramani",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "EDU",
+      "room": "3315"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Human Development"
+}

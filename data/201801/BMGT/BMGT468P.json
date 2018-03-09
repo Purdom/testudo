@@ -1,0 +1,25 @@
+{
+  "id": "BMGT468P",
+  "title": "Special Topics in Management and Organization; Practicum in Global Business",
+  "credits": "3",
+  "description": "Restricted to students in the Smith School's Global Fellows Program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "FP01",
+      "instructor": "Patricia Cleveland",
+      "seats": "26,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "7:40pm",
+      "building": "VMH",
+      "room": "1418"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "SOCY849",
+  "title": "Research Seminar in Demography",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sonalde Desai",
+      "seats": "10,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "MUSC129Q",
+  "title": "Ensemble; Korean Percussion Ensemble",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sebastian Wang",
+      "seats": "17,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "8:30pm",
+      "building": "PAC",
+      "room": "2170"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

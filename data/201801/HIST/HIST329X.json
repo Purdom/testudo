@@ -1,0 +1,27 @@
+{
+  "id": "HIST329X",
+  "title": "Special Topics in History; Mobility in History: Planes, Trains, and Automobiles",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Zeller",
+      "seats": "30,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TLF",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

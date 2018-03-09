@@ -1,0 +1,26 @@
+{
+  "id": "LATN623",
+  "title": "The Augustan Age",
+  "credits": "3",
+  "description": "Analysis of the major literary figures and genres in prose and poetry of the period from 43 BC to AD 14.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gregory Bucher",
+      "seats": "10,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "7:40pm",
+      "building": "JMZ",
+      "room": "1215"
+    }
+  ],
+  "term": "201801",
+  "department": "Latin"
+}

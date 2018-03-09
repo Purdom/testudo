@@ -1,0 +1,37 @@
+{
+  "id": "ENES114",
+  "title": "Virtus Seminar II",
+  "credits": "1",
+  "description": "Prerequisite: ENES113.\nRestriction: Students must be participants in the Virtus Living and Learning Community.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Carla Jones",
+      "seats": "50,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "5:15pm",
+      "building": "PHY",
+      "room": "1201"
+    },
+    {
+      "id": "0201",
+      "instructor": "Carla Jones",
+      "seats": "20,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

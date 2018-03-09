@@ -1,0 +1,27 @@
+{
+  "id": "KORA345",
+  "title": "Korean Language and Linguistics",
+  "credits": "3",
+  "description": "Prerequisite: KORA102 or KORA211; or permission of ARHU-School of Languages, Literatures, and Cultures department.\nCredit only granted for: KORA345 and KORA399A.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Samuel Ramsey",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMZ",
+      "room": "1124"
+    }
+  ],
+  "term": "201801",
+  "department": "Korean"
+}

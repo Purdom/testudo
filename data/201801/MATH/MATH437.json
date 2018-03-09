@@ -1,0 +1,27 @@
+{
+  "id": "MATH437",
+  "title": "Differential Forms",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (MATH241, MATH340); and 1 course with a minimum grade of C- from (MATH240, MATH341, MATH461).\nRecommended: MATH405, MATH403, MATH436, MATH410, or MATH432.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Steven Chadwick",
+      "seats": "25,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "MTH",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

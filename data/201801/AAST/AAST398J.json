@@ -1,0 +1,27 @@
+{
+  "id": "AAST398J",
+  "title": "Selected Topics in Asian American Studies; New World Arrivals: Literature of Asian American Migration and Diaspora",
+  "credits": "3",
+  "description": "Also offered as ENGL349J. Credit granted for AAST398J or ENGL349J.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Edlie Wong",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "Asian American Studies"
+}

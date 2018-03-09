@@ -1,0 +1,26 @@
+{
+  "id": "CMSC751",
+  "title": "Parallel Algorithms",
+  "credits": "3",
+  "description": "Prerequisite: CMSC451; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Uzi Vishkin",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "EGR",
+      "room": "2116"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

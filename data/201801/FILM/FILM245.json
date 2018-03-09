@@ -1,0 +1,75 @@
+{
+  "id": "FILM245",
+  "title": "Film Form and Culture",
+  "credits": "3",
+  "description": "Restriction: Must not have completed ENGL245.\nAlso offered as: ENGL245.\nCredit only granted for: CMLT214, CMLT245, ENGL245, or FILM245.\nFormerly: CMLT214.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Oliver Gaycken",
+      "seats": "25,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "TWS",
+      "room": "0320"
+    },
+    {
+      "id": "0102",
+      "instructor": "Oliver Gaycken",
+      "seats": "25,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "TWS",
+      "room": "0320"
+    },
+    {
+      "id": "0103",
+      "instructor": "Oliver Gaycken",
+      "seats": "25,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "TWS",
+      "room": "0320"
+    },
+    {
+      "id": "0104",
+      "instructor": "Oliver Gaycken",
+      "seats": "25,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "TWS",
+      "room": "0320"
+    },
+    {
+      "id": "0201",
+      "instructor": "Konstantinos Pozoukidis",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "0320"
+    }
+  ],
+  "term": "201801",
+  "department": "Film Studies"
+}

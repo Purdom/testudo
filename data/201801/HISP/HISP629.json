@@ -1,0 +1,26 @@
+{
+  "id": "HISP629",
+  "title": "Independent Studies in Historic Preservation",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dennis Pogue",
+      "seats": "1,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Historic Preservation"
+}

@@ -1,0 +1,111 @@
+{
+  "id": "AOSC201",
+  "title": "Weather and Climate Laboratory",
+  "credits": "1",
+  "description": "Corequisite: AOSC200.\nFormerly: METO201.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Leslie",
+      "seats": "26,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "ATL",
+      "room": "3426"
+    },
+    {
+      "id": "0102",
+      "instructor": "Linda Hembeck",
+      "seats": "26,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "ATL",
+      "room": "3426"
+    },
+    {
+      "id": "0103",
+      "instructor": "Ryan Bolt",
+      "seats": "26,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "8:00am",
+      "end": "9:50am",
+      "building": "ATL",
+      "room": "3426"
+    },
+    {
+      "id": "0104",
+      "instructor": "William Leslie",
+      "seats": "26,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "ATL",
+      "room": "3426"
+    },
+    {
+      "id": "0105",
+      "instructor": "Katherine Lenninger",
+      "seats": "26,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "ATL",
+      "room": "3426"
+    },
+    {
+      "id": "0106",
+      "instructor": "Alexander Kaltenbaugh",
+      "seats": "26,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "ATL",
+      "room": "3426"
+    },
+    {
+      "id": "0107",
+      "instructor": "Katherine Lenninger",
+      "seats": "26,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "5:20pm",
+      "building": "ATL",
+      "room": "3426"
+    },
+    {
+      "id": "0108",
+      "instructor": "Jebidiah Jeffery",
+      "seats": "26,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "ATL",
+      "room": "3426"
+    }
+  ],
+  "term": "201801",
+  "department": "Atmospheric and Oceanic Science"
+}

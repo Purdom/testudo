@@ -1,0 +1,37 @@
+{
+  "id": "BUFN751",
+  "title": "Financial Strategy For Corporations",
+  "credits": "2",
+  "description": "Prerequisite: BUSI640.\nRestriction: Must be in one of the following programs (Business and Management (Master's); Business and Management (Master's)).",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Pablo Slutzky",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "8:00am",
+      "end": "9:50am",
+      "building": "VMH",
+      "room": "1511"
+    },
+    {
+      "id": "DC01",
+      "instructor": "Bharat Jain",
+      "seats": "50,",
+      "open-seats": "34,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:25pm",
+      "end": "10:00pm",
+      "building": "DC",
+      "room": "C2"
+    }
+  ],
+  "term": "201801",
+  "department": "Finance"
+}

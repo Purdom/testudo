@@ -1,0 +1,27 @@
+{
+  "id": "PLSC489W",
+  "title": "Special Topics in Plant Science; Plant-Microbe Associations",
+  "credits": "3",
+  "description": "Understanding the diverse relationships between plants and their associated microbes is important for crop protection and food security. A comparative analysis of the ecology, physiology and molecular genetics of plant - microbe interactions along with their impact on society and the surrounding ecosystem. Students will learn and gain an understanding of various microbiomes and their impact on plant growth, pathogenic strategies used to overcome plant immune systems and derive nutrients from host plants, the molecular mechanisms used by plants to recognize and respond to invading pathogens, symbiotic relationships between plants and microbes, prospects of genetic engineering of plants for disease resistance",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shunyuan Xiao,",
+      "seats": "10,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PLS",
+      "room": "1172"
+    }
+  ],
+  "term": "201801",
+  "department": "Plant Sciences"
+}

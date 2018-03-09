@@ -1,0 +1,27 @@
+{
+  "id": "PSYC355",
+  "title": "Developmental Psychology",
+  "credits": "3",
+  "description": "Prerequisite: PSYC100.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tracy Riggins",
+      "seats": "150,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ESJ",
+      "room": "2208"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

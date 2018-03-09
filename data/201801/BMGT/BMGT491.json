@@ -1,0 +1,26 @@
+{
+  "id": "BMGT491",
+  "title": "Defining Consulting and Innovation Projects",
+  "credits": "3",
+  "description": "Prerequisite: BMGT190 or ENES190.\nRestriction: Restricted to QUEST Program (TQMP) students.\nAlso offered as: ENES491.\nCredit only granted for: BMGT491, ENES491 or BMGT438D.\nFormerly: BMGT438D.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Joseph Bailey",
+      "seats": "9,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "10:00am",
+      "end": "12:40pm",
+      "building": "VMH",
+      "room": "1407"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

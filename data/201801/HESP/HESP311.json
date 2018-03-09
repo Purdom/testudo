@@ -1,0 +1,27 @@
+{
+  "id": "HESP311",
+  "title": "Anatomy, Pathology and Physiology of the Auditory System",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in HESP202; or permission of BSOS-Hearing & Speech Sciences department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Rebecca Bieber",
+      "seats": "50,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "MCB",
+      "room": "1207"
+    }
+  ],
+  "term": "201801",
+  "department": "Hearing and Speech Sciences"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GEOL456",
+  "title": "Engineering Geology",
+  "credits": "3",
+  "description": "Prerequisite: PHYS141 and MATH141; and (GEOL120 or GEOL100). Or permission of CMNS-Geology department.\nRestriction: Non-degree-seeking students require the permission of the instructor.\nCredit only granted for: GEOL456 or GEOL489Z.\nFormerly: GEOL489Z.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Wenlu Zhu",
+      "seats": "10,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PLS",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "Geology"
+}

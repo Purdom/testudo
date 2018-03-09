@@ -1,0 +1,27 @@
+{
+  "id": "PHYS273",
+  "title": "Introductory Physics: Waves",
+  "credits": "3",
+  "description": "Prerequisite: MATH241 and PHYS272.\nCorequisite: PHYS274.\nCredit only granted for: (PHYS270 and PHYS271) or PHYS273.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christopher Lobb",
+      "seats": "74,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PHY",
+      "room": "1410"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

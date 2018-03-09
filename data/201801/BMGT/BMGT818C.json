@@ -1,0 +1,26 @@
+{
+  "id": "BMGT818C",
+  "title": "Special Topics in Accounting and Information Assurance; Corporate Governance and Accounting",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shijun Cheng",
+      "seats": "12,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:30pm",
+      "end": "5:45pm",
+      "building": "VMH",
+      "room": "1326"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

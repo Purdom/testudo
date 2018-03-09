@@ -1,0 +1,51 @@
+{
+  "id": "ARTT320",
+  "title": "Elements of Painting",
+  "credits": "3",
+  "description": "Prerequisite: ARTT200, ARTT210, and ARTT150; or permission of ARHU-Art department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Leslie Berns",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "3:00pm",
+      "building": "ASY",
+      "room": "3318"
+    },
+    {
+      "id": "0201",
+      "instructor": "Emily Conover",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "3:00pm",
+      "building": "ASY",
+      "room": "3316"
+    },
+    {
+      "id": "0301",
+      "instructor": "Richard Klank",
+      "seats": "12,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "11:30am",
+      "building": "ASY",
+      "room": "3322"
+    }
+  ],
+  "term": "201801",
+  "department": "Art Studio"
+}

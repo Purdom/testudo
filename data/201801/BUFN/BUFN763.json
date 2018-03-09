@@ -1,0 +1,25 @@
+{
+  "id": "BUFN763",
+  "title": "Portfolio Management",
+  "credits": "2",
+  "description": "Prerequisite: BUFN740.\nRestriction: Must be in one of the following programs (Business and Management (Master's); Business and Management (Master's)).\nCredit only granted for: BUFN700 or BUFN763.\nFormerly: BUFN700.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "DC01",
+      "instructor": "Kenneth Fuller",
+      "seats": "50,",
+      "open-seats": "30,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "6:25pm",
+      "end": "10:00pm",
+      "building": "DC",
+      "room": "C2"
+    }
+  ],
+  "term": "201801",
+  "department": "Finance"
+}

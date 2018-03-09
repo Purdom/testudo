@@ -1,0 +1,27 @@
+{
+  "id": "BSCI338R",
+  "title": "Special Topics in Biology; Darwinian Medicine",
+  "credits": "3",
+  "description": "Prerequisite: BSCI160 and BSCI161; or BSCI106. And BSCI222. Physicians and biologists have come to realize that evolutionary theory can contribute greatly to our understanding of disease processes and how we treat maladies. In this course, we will explore the integration of evolutionary biology and medical practice.This course involves lectures and readings, and students are expected to participate actively in discussions. (Sponsoring Dept: BIOL). Acceptable toward Biological Sciences specialization areas: ECEV, GENB, and PHNB.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Pepper,",
+      "seats": "30,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "2:00pm",
+      "end": "5:00pm",
+      "building": "PLS",
+      "room": "1113"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

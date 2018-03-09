@@ -1,0 +1,63 @@
+{
+  "id": "ENST200",
+  "title": "Fundamentals of Soil Science",
+  "credits": "4",
+  "description": "Corequisite: CHEM131 and CHEM132; or permission of AGNR-Environmental Science & Technology department.\nCredit only granted for: ENST200 or NRSC200.\nFormerly: NRSC200.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Matthew Bright",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CCC",
+      "room": "1205"
+    },
+    {
+      "id": "0102",
+      "instructor": "Matthew Bright",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CCC",
+      "room": "1205"
+    },
+    {
+      "id": "0103",
+      "instructor": "Matthew Bright",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CCC",
+      "room": "1205"
+    },
+    {
+      "id": "0104",
+      "instructor": "Matthew Bright",
+      "seats": "20,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CCC",
+      "room": "1205"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

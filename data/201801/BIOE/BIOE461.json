@@ -1,0 +1,25 @@
+{
+  "id": "BIOE461",
+  "title": "Synthetic Biology and Biological Engineering",
+  "credits": "3",
+  "description": "Prerequisite: BIOE120, BIOE121, BIOE241, and MATH246; or permission of ENGR-Fischell Department of Bioengineering department.\nRecommended: Completion of BSCI222 and/or BSCI330 recommended.\nRestriction: Permission of ENGR-Fischell Department of Bioengineering department.\nCredit only granted for: BIOE489G or BIOE 461.\nFormerly: BIOE489G.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Edward Eisenstein",
+      "seats": "52,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:00pm",
+      "end": "7:45pm",
+      "building": "PHY",
+      "room": "4221"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

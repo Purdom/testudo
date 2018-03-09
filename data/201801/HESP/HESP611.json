@@ -1,0 +1,26 @@
+{
+  "id": "HESP611",
+  "title": "Cognitive Disorders in Adults",
+  "credits": "2",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in HESP610; and must have knowledge of basic human neuroanatomy.\nRestriction: Must be in Hearing and Speech Sciences: M.A. (Master's) program; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yasmeen Shah",
+      "seats": "34,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "9:40am",
+      "end": "1:00pm",
+      "building": "LEF",
+      "room": "0135"
+    }
+  ],
+  "term": "201801",
+  "department": "Hearing and Speech Sciences"
+}

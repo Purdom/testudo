@@ -1,0 +1,39 @@
+{
+  "id": "CMLT280",
+  "title": "Film Art in a Global Society",
+  "credits": "3",
+  "description": "Comparative study of a variety of film traditions from around the world including cinema from Hollywood, Europe, Asia and developing countries, with a stress on different cultural contexts for film-making and viewing.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paul Cote",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TWS",
+      "room": "0205"
+    },
+    {
+      "id": "0201",
+      "instructor": "Porter Olsen",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "KEY",
+      "room": "0125"
+    }
+  ],
+  "term": "201801",
+  "department": "Comparative Literature"
+}

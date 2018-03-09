@@ -1,0 +1,38 @@
+{
+  "id": "SURV656",
+  "title": "Web Survey Methodology",
+  "credits": "1",
+  "description": "Restriction: Must have completed SURV400; or must have completed SURV623; or permission of instructor. And permission of BSOS-Joint Program in Survey Methodology department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SVW1",
+      "instructor": "Instructor: TBA",
+      "seats": "8,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "SVW2",
+      "instructor": "Instructor: TBA",
+      "seats": "8,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Survey Methodology"
+}

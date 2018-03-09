@@ -1,0 +1,25 @@
+{
+  "id": "HONR269L",
+  "title": "Honors Seminar; Cracking the Secrets of the Universe Using Computers: Re-discovering the Higgs & Searching for Invisible Matter-Part II",
+  "credits": "3",
+  "description": "The second part of a two-semester Honors research seminar. Part one of this series was offered in the Fall 2017 semester. For permission to enroll, please contact Dr. Shabnam Jabeen at Jabeen@umd.edu.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sarah Eno,",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PHY",
+      "room": "3301"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "HIST353",
+  "title": "America in the Revolutionary Era, 1763-1815",
+  "credits": "3",
+  "description": "Prerequisite: HIST200, HIST210, HIST213, HIST254, or HIST275; or must have completed HIST156; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Holly Brewer",
+      "seats": "40,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "KEY",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

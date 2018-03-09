@@ -1,0 +1,25 @@
+{
+  "id": "ENES305",
+  "title": "RISE Leadership Seminar",
+  "credits": "1",
+  "description": "Prerequisite: Permission of ENGR-A. James Clark School of Engineering; and ENES304.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christopher Davis",
+      "seats": "38,",
+      "open-seats": "24,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "6:00pm",
+      "building": "JMP",
+      "room": "2217"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

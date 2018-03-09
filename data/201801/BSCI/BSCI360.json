@@ -1,0 +1,39 @@
+{
+  "id": "BSCI360",
+  "title": "Principles of Animal Behavior",
+  "credits": "3",
+  "description": "Prerequisite: BSCI160 and BSCI161; or BSCI106. And BSCI170 and BSCI171; or BSCI105. And BSCI222.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gerald Borgia",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "PLS",
+      "room": "1119"
+    },
+    {
+      "id": "0102",
+      "instructor": "Gerald Borgia",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "PLS",
+      "room": "1119"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

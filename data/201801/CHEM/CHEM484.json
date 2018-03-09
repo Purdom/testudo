@@ -1,0 +1,39 @@
+{
+  "id": "CHEM484",
+  "title": "Physical Chemistry Laboratory II",
+  "credits": "2",
+  "description": "Prerequisite: CHEM481 and CHEM483; and must have completed or be concurrently enrolled in CHEM482.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Earle Stone",
+      "seats": "12,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:30am",
+      "end": "10:20am",
+      "building": "CHM",
+      "room": "1224"
+    },
+    {
+      "id": "0103",
+      "instructor": "Earle Stone",
+      "seats": "12,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:30am",
+      "end": "10:20am",
+      "building": "CHM",
+      "room": "1224"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "KNES282",
+  "title": "Basic Care and Prevention of Athletic Injuries",
+  "credits": "3",
+  "description": "Restriction: Must be in a major within the SPHL-Kinesiology department.\nCredit only granted for: KNES282 or KNES381.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Joanne Klossner",
+      "seats": "36,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "SPH",
+      "room": "0308"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

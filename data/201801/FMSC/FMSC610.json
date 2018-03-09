@@ -1,0 +1,26 @@
+{
+  "id": "FMSC610",
+  "title": "Research Methods in Family Science",
+  "credits": "3",
+  "description": "Prerequisite: EDMS645; or students who have taken courses with comparable content may contact the department.\nCredit only granted for: FMSC610 or FMST610.\nFormerly: FMST610.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Julia Steinberg",
+      "seats": "15,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "1:00pm",
+      "end": "3:45pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

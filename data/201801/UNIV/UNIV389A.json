@@ -1,0 +1,51 @@
+{
+  "id": "UNIV389A",
+  "title": "Special Topics in Undergraduate Studies; Army ROTC Independent Study Projects",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Larry Rentz",
+      "seats": "10,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0102",
+      "instructor": "Larry Rentz",
+      "seats": "10,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0103",
+      "instructor": "Larry Rentz",
+      "seats": "10,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "University Courses"
+}

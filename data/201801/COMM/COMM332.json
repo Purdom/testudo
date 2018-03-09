@@ -1,0 +1,27 @@
+{
+  "id": "COMM332",
+  "title": "News Editing for Public Relations",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in COMM331; or students who have taken courses with comparable content may contact the department. And permission of ARHU-Communication department.\nRestriction: Must be in Communication program.\nCredit only granted for: JOUR202, COMM232, or COMM332.\nFormerly: COMM232.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Pamela Grant",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "EGR",
+      "room": "3140"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

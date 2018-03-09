@@ -1,0 +1,27 @@
+{
+  "id": "MIEH333",
+  "title": "Every Drop Counts: Water, Food and Global Public Health",
+  "credits": "3",
+  "description": "Prerequisite: ENSP101 or MIEH300; or permission of department.\nCredit only granted for: MIEH333 or ENSP360.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sarah Allard",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ATL",
+      "room": "2416"
+    }
+  ],
+  "term": "201801",
+  "department": "Maryland Institute for Applied Environmental Health"
+}

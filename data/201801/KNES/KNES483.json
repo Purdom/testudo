@@ -1,0 +1,26 @@
+{
+  "id": "KNES483",
+  "title": "Sport Marketing and Media",
+  "credits": "3",
+  "description": "Prerequisite: KNES287.\nRestriction: Junior standing or higher; and must be in a major within SPHL-Kinesiology department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stephen McDaniel",
+      "seats": "32,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SPH",
+      "room": "0305"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

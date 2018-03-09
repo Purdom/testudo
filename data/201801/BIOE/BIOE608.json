@@ -1,0 +1,26 @@
+{
+  "id": "BIOE608",
+  "title": "Bioengineering Seminar Series",
+  "credits": "1",
+  "description": "Restriction: Must be in one of the following programs (ENGR: PhD Only-Bioengineering (Master's); ENGR: PhD Only-Bioengineering (Doctoral)).",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Steven Jay",
+      "seats": "25,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "AJC",
+      "room": "2132"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

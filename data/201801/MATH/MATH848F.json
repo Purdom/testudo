@@ -1,0 +1,26 @@
+{
+  "id": "MATH848F",
+  "title": "Selected Topics in Geometry and Topology; Holomorophic Bundles on Kaehler Manifolds",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Richard Wentworth",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "MTH",
+      "room": "0102"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

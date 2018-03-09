@@ -1,0 +1,25 @@
+{
+  "id": "EDCP686",
+  "title": "Counseling Psychology Didactic Practicum in Career Interventions",
+  "credits": "3",
+  "description": "Prerequisite: For Counseling Psychology majors only.\nFormerly: EDCP777.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kelly Lee",
+      "seats": "8,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "4:00pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ENCE715",
+  "title": "Earthquake Engineering",
+  "credits": "3",
+  "description": "Restriction: Permission of instructor.\nFormerly: ENCE755.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yunfeng Zhang",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "EGR",
+      "room": "3114"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

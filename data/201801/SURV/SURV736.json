@@ -1,0 +1,38 @@
+{
+  "id": "SURV736",
+  "title": "Introduction to Web Scraping with R",
+  "credits": "1",
+  "description": "Prerequisite: Students are expected to be familiar with the statistical software R.\nRecommended: Knowledge about the tidyverse packages, in particular, dplyr, plyr, magrittr, and stringr.\nRestriction: Permission of BSOS-Joint Program in Survey Methodology department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SVW1",
+      "instructor": "Instructor: TBA",
+      "seats": "8,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "11:00am",
+      "end": "12:00pm",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "SVW2",
+      "instructor": "Instructor: TBA",
+      "seats": "8,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:00pm",
+      "end": "1:00pm",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Survey Methodology"
+}

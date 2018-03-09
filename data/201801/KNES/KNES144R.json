@@ -1,0 +1,26 @@
+{
+  "id": "KNES144R",
+  "title": "Physical Education Activities: Coed; Karate (Intermediate)",
+  "credits": "2",
+  "description": "Attendance is required on the first day of class. Students must pay a $40 instructional materials fee.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0001",
+      "instructor": "Kenneth Klotz",
+      "seats": "35,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "12:00pm",
+      "building": "SPH",
+      "room": "0107"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "ARCH402",
+  "title": "Architecture Design Studio III",
+  "credits": "6",
+  "description": "Prerequisite: Minimum grade of C- in ARCH401.\nRestriction: Must be in Architecture (B.S.) program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Brittany Williams",
+      "seats": "54,",
+      "open-seats": "41,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "6:00pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0102",
+      "instructor": "Brittany Williams,",
+      "seats": "18,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "6:00pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0103",
+      "instructor": "Brittany Williams,",
+      "seats": "18,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "6:00pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0104",
+      "instructor": "Julie Gabrielli",
+      "seats": "15,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "6:00pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

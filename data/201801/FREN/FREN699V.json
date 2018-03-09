@@ -1,0 +1,26 @@
+{
+  "id": "FREN699V",
+  "title": "Seminar; Literary History of the French-Speaking Caribbean",
+  "credits": "3",
+  "description": "Taught in French.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Valerie Orlando",
+      "seats": "10,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "JMZ",
+      "room": "3106A"
+    }
+  ],
+  "term": "201801",
+  "department": "French"
+}

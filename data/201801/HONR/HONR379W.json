@@ -1,0 +1,37 @@
+{
+  "id": "HONR379W",
+  "title": "Honors Independent Study; Writing Internship: Maryland General Assembly Pre-Professional Writing Internship",
+  "credits": "6",
+  "description": "Prerequisite: permission of department and completion of either ENGL381 or HONR368A. Also offered as ENGL388M. Credit granted for ENGL388M or HONR379W.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Lowderbaugh",
+      "seats": "15,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0201",
+      "instructor": "Thomas Lowderbaugh",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

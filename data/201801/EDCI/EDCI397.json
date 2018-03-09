@@ -1,0 +1,51 @@
+{
+  "id": "EDCI397",
+  "title": "Principles and Methods of Teaching in Elementary Schools",
+  "credits": "3",
+  "description": "Corequisite: EDCI322, EDCI362, TLPL306, and EDCI489.\nRestriction: Must be in Elementary Education program; and minimum cumulative GPA of 2.75. Or permission of EDUC-Teaching and Learning, Policy and Leadership department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lisa Bote",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "12:30pm",
+      "end": "3:15pm",
+      "building": "EDU",
+      "room": "2212"
+    },
+    {
+      "id": "0201",
+      "instructor": "Lisa Bote",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:00am",
+      "end": "11:45am",
+      "building": "EDU",
+      "room": "2212"
+    },
+    {
+      "id": "0301",
+      "instructor": "Lisa Bote",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "12:30pm",
+      "end": "3:15pm",
+      "building": "EDU",
+      "room": "1121"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

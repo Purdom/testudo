@@ -1,0 +1,27 @@
+{
+  "id": "JWST281",
+  "title": "Yiddish I",
+  "credits": "3",
+  "description": "Introduction to the Yiddish language, with emphasis on speaking, reading, and writing skills. Students will also learn the history of the language, its significance to Jewish culture, its origins and basic structure.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Adi Mahalel",
+      "seats": "20,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "SQH",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "Jewish Studies"
+}

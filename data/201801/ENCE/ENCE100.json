@@ -1,0 +1,27 @@
+{
+  "id": "ENCE100",
+  "title": "Introduction to Civil and Environmental Engineering",
+  "credits": "1",
+  "description": "An overview of the department of Civil and Environment Engineering. Students are introduced to the undergraduate curriculum and will be exposed to other undergraduate and graduate students at various points in their program. The course blends panel presentations by seniors and graduate students, faculty and practitioners with a project and book review to be performed by the students.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kaye Brubaker",
+      "seats": "100,",
+      "open-seats": "34,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "EGR",
+      "room": "1202"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

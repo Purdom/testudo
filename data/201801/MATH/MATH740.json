@@ -1,0 +1,26 @@
+{
+  "id": "MATH740",
+  "title": "Fundamental Concepts of Differential Geometry",
+  "credits": "3",
+  "description": "Prerequisite: MATH405, MATH411, and MATH730; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Goldman",
+      "seats": "20,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "MTH",
+      "room": "B0431"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "PLCY215",
+  "title": "Innovation and Social Change: Creating Change for Good",
+  "credits": "3",
+  "description": "Credit only granted for: PLCY215 or PUAF215.\nFormerly: PUAF215.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Patricia Bory",
+      "seats": "30,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "1320"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

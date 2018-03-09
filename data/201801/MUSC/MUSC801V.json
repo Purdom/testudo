@@ -1,0 +1,26 @@
+{
+  "id": "MUSC801V",
+  "title": "Advanced Seminar in Music Pedagogy",
+  "credits": "3",
+  "description": "Prerequisite: MUSC400; or students who have taken courses with comparable content may contact the department.\nRestriction: Permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Martha Randall",
+      "seats": "15,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:00pm",
+      "end": "5:30pm",
+      "building": "PAC",
+      "room": "3168"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

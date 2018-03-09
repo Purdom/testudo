@@ -1,0 +1,25 @@
+{
+  "id": "ENEE351",
+  "title": "Algorithms and Data Structures",
+  "credits": "4",
+  "description": "Prerequisite: Minimum grade of C- in ENEE150 and ENEE244.\nRestriction: Permission of ENGR-Electrical & Computer Engineering department; and must be in the Computer Engineering Minor.\nCredit only granted for: ENEE351 or CMSC351.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yasser Shoukry",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "CHE",
+      "room": "2136"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

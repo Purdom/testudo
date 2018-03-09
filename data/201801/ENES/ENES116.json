@@ -1,0 +1,39 @@
+{
+  "id": "ENES116",
+  "title": "FLEXUS Living and Learning Community Seminar II",
+  "credits": "1",
+  "description": "Prerequisite: ENES115.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Veronica Perrigan",
+      "seats": "60,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "5:15pm",
+      "building": "ESJ",
+      "room": "1215"
+    },
+    {
+      "id": "0102",
+      "instructor": "Veronica Perrigan",
+      "seats": "10,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ARCH673",
+  "title": "Building Culture Seminar",
+  "credits": "3",
+  "description": "Restriction: Permission of ARCH-Architecture Program.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Amy Gardner",
+      "seats": "15,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "ARC",
+      "room": "1123"
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

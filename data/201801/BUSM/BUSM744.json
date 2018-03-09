@@ -1,0 +1,25 @@
+{
+  "id": "BUSM744",
+  "title": "Portfolio Management",
+  "credits": "2",
+  "description": "Prerequisite: BUSM610; and BUSM731.\nRestriction: Must be in Business and Management (Master's) program; or permission of BMGT-Robert H. Smith School of Business.\nCredit only granted for: BUFN763 or BUSM744.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Russell Wermers",
+      "seats": "50,",
+      "open-seats": "28,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:50am",
+      "building": "VMH",
+      "room": "1511"
+    }
+  ],
+  "term": "201801",
+  "department": "Full-Time MBA Program"
+}

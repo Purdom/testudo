@@ -1,0 +1,26 @@
+{
+  "id": "MIEH770",
+  "title": "Law and Policy in Environmental Health",
+  "credits": "3",
+  "description": "Prerequisite: MIEH600.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Devon Payne-Sturges",
+      "seats": "20,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:00pm",
+      "end": "5:45pm",
+      "building": "SPH",
+      "room": "0307"
+    }
+  ],
+  "term": "201801",
+  "department": "Maryland Institute for Applied Environmental Health"
+}

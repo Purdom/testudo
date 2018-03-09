@@ -1,0 +1,39 @@
+{
+  "id": "COMM425",
+  "title": "Negotiation and Conflict Management",
+  "credits": "3",
+  "description": "Role of communication in shaping negotiation and conflict processes and outcomes.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lauren Edelstein",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "HBK",
+      "room": "0115"
+    },
+    {
+      "id": "SG91",
+      "instructor": "David Payne",
+      "seats": "40,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "BLD3",
+      "room": "4211"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

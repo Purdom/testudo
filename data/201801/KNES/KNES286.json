@@ -1,0 +1,27 @@
+{
+  "id": "KNES286",
+  "title": "Empowering Healthy Physical Activity",
+  "credits": "3",
+  "description": "Learn evidence-based techniques that health professionals use to promote physical activity programs that meet the needs of diverse populations. Develop and implement an intervention plan targeting a specific population.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Marvin Scott",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "SPH",
+      "room": "0302"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

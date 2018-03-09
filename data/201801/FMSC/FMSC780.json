@@ -1,0 +1,26 @@
+{
+  "id": "FMSC780",
+  "title": "Qualitative Methods in Family and Health Research",
+  "credits": "3",
+  "description": "Credit only granted for: FMSC780 or FMST780.\nFormerly: FMST780.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kevin Roy",
+      "seats": "15,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "1:00pm",
+      "end": "3:45pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

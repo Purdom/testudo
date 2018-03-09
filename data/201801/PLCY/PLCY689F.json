@@ -1,0 +1,26 @@
+{
+  "id": "PLCY689F",
+  "title": "Public Policy Topics; Current Issues in Federal Acquisition",
+  "credits": "3",
+  "description": "Also offered as BUSI758P and ENSE698F. Credit granted for PUAF689F, BUSI758P or ENSE698F.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Greenwalt",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:15pm",
+      "end": "6:45pm",
+      "building": "VMH",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

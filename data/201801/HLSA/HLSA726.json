@@ -1,0 +1,26 @@
+{
+  "id": "HLSA726",
+  "title": "Financial and Management Accounting in Health Care",
+  "credits": "3",
+  "description": "Learn the basics of financial and management accounting within health care organizations. This introductory level course will focus on management accounting in health care and provide the student with basic analytical and practice oriented cost accounting concepts and problems. More advanced issues in the interface of accounting and health care policies will be discussed using articles and cases. The goal of the course is for the student to understand general and specific issues in the discipline of financial and management accounting. At the end of the course, the student will be able to describe and analyze key cost concepts related to decision-making and reporting and will be able to reflect on potential challenges with the use of management accounting tools in the specific setting of health care organizations. The focus is on management accounting, but financial accounting elements will be supplied in order to provide a full overview and insights of accounting in health care organizations.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Denise Smith",
+      "seats": "25,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Health Services Administration"
+}

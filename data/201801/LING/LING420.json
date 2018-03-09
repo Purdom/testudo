@@ -1,0 +1,27 @@
+{
+  "id": "LING420",
+  "title": "Word Formation",
+  "credits": "3",
+  "description": "Prerequisite: LING321 and LING311.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Omer Preminger",
+      "seats": "20,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "HBK",
+      "room": "0125"
+    }
+  ],
+  "term": "201801",
+  "department": "Linguistics"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ENCE670",
+  "title": "Highway Traffic Characteristics and Measurements",
+  "credits": "3",
+  "description": "Prerequisite: ENCE470; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "TS01",
+      "instructor": "Gang-Len Chang",
+      "seats": "20,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

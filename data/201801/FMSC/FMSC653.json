@@ -1,0 +1,26 @@
+{
+  "id": "FMSC653",
+  "title": "Advanced Application of MFT Models and Techniques",
+  "credits": "3",
+  "description": "Prerequisite: FMSC652.\nRestriction: Must be in Couple and Family Therapy (Master's) program.\nCredit only granted for: FMSC653 or FMST653.\nFormerly: FMSC653.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Patricia Barros",
+      "seats": "15,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:00am",
+      "end": "11:45am",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

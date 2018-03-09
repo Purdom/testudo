@@ -1,0 +1,25 @@
+{
+  "id": "EDCI434",
+  "title": "Pedagogy of Teaching English Language Learners",
+  "credits": "3",
+  "description": "A survey of the historical and current approaches, methods, and techniques of teaching English to speakers of other languages, from grammar translation and audiolingual to communicative and task-based approaches will be presented. Additionally, successful classroom practices that address the needs of culturally diverse and language minority students will be analyzed. Students will have the opportunity to discuss, probe and apply theories and principles to hands-on teaching practices in real-life settings. Digital technologies that assist teaching English language learners (ELLs) will be emphasized as well.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andres Garcia",
+      "seats": "24,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "EDU",
+      "room": "2212"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

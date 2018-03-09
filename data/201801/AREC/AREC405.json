@@ -1,0 +1,27 @@
+{
+  "id": "AREC405",
+  "title": "Economics of Production",
+  "credits": "3",
+  "description": "Prerequisite: ECON326 or AREC326; or students who have taken courses with comparable content may contact the department.\nRestriction: Must be in one of the following programs (Agricultural and Resource Economics; Environmental Science & Policy-Env Economics; Agricultural and Resource Economics: Agribusiness) ; or must be minors in Agribusiness Economics (#AG01), Environmental Economics and Policy (#AG02), or Resource and Agricultural Policy in Economic Development (#AG03).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Chambers",
+      "seats": "45,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "SQH",
+      "room": "1121"
+    }
+  ],
+  "term": "201801",
+  "department": "Agricultural and Resource Economics"
+}

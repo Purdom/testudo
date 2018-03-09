@@ -1,0 +1,37 @@
+{
+  "id": "AOSC663",
+  "title": "Water and Climate Systems",
+  "credits": "3",
+  "description": "Prerequisite: AOSC610; and undergraduate level hydrology and/or hydrogeology, familiarity with differential calculus and equations. Please consult with instructor for details.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Fernando Miralles-Wilhelm",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:30pm",
+      "end": "5:45pm",
+      "building": "ATL",
+      "room": "2416"
+    },
+    {
+      "id": "AM01",
+      "instructor": "Fernando Miralles-Wilhelm",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:30pm",
+      "end": "5:45pm",
+      "building": "ATL",
+      "room": "2416"
+    }
+  ],
+  "term": "201801",
+  "department": "Atmospheric and Oceanic Science"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "EDHI755",
+  "title": "Federal Policies in Post-Secondary Education",
+  "credits": "3",
+  "description": "Credit only granted for: EDHI755, EDPL755, or EDPS755.\nFormerly: EDPL755.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Marvin Titus",
+      "seats": "15,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:45pm",
+      "building": "EDU",
+      "room": "2102"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Leadership, Higher Ed and International Ed"
+}

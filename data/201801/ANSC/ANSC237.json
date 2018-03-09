@@ -1,0 +1,25 @@
+{
+  "id": "ANSC237",
+  "title": "Equine Reproductive Management",
+  "credits": "3",
+  "description": "Prerequisite: ANSC232.\nCredit only granted for: ANSC237 or INAG233.\nAdditional information: Course participation will include nightly checks of mares in the two weeks prior to parturition, and out-of-class time imprinting and working with newborn foals.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Amy Burk",
+      "seats": "16,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "ANS",
+      "room": "0412"
+    }
+  ],
+  "term": "201801",
+  "department": "Animal Science"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "INST466",
+  "title": "Technology, Culture, and Society",
+  "credits": "3",
+  "description": "Prerequisite: INST201.\nRestriction: Must be in Information Science program; or permission of INFO-College of Information Studies.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jessica Vitak",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ESJ",
+      "room": "1309"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

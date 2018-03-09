@@ -1,0 +1,25 @@
+{
+  "id": "HLTH491",
+  "title": "Community Health Internship",
+  "credits": "12",
+  "description": "Prerequisite: HLTH490.\nRestriction: Must be in Community Health program.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tracy Kennedy",
+      "seats": "75,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:30pm",
+      "end": "1:50pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Health"
+}

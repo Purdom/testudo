@@ -1,0 +1,26 @@
+{
+  "id": "MEES708M",
+  "title": "Advanced Topics in Marine-Estuarine-Environmental Science; Environmental Statistic II",
+  "credits": "3",
+  "description": "Taught over the Interactive Video Network (IVN).\n\nThis course will extend statistical training of the students to advanced topics of time series analysis and spatial statistics. After taking this course, students will be familiar with a variety of state-of-the-art approaches for qualitative analysis of time- and space-dependent data. Students will become competent users of these methods by practicing them in class and in their homework assignments using the statistical programming language R.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Viacheslav Lyubchich,",
+      "seats": "30,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "5:00pm",
+      "building": "HJP",
+      "room": "1213C"
+    }
+  ],
+  "term": "201801",
+  "department": "Marine-Estuarine-Environmental Sciences"
+}

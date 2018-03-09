@@ -1,0 +1,27 @@
+{
+  "id": "FMSC430",
+  "title": "Gender Issues in Families",
+  "credits": "3",
+  "description": "Prerequisite: SOCY100, SOCY105, or PSYC100.\nAlso offered as: WMST430.\nCredit only granted for: FMSC430, FMST430, or WMST430.\nFormerly: FMST430.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Samuel Allen",
+      "seats": "45,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SPH",
+      "room": "0308"
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

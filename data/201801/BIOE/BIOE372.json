@@ -1,0 +1,37 @@
+{
+  "id": "BIOE372",
+  "title": "Biostatistics for Experimental Design and Data Analysis",
+  "credits": "3",
+  "description": "Prerequisite: BIOE120, BIOE121, and BIOE241.\nRecommended: MATH246.\nRestriction: Permission of ENGR-Fischell Department of Bioengineering department.\nCredit only granted for: BIOE372 or STAT464.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Angela Jones",
+      "seats": "23,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "AJC",
+      "room": "2132"
+    },
+    {
+      "id": "0102",
+      "instructor": "Angela Jones",
+      "seats": "23,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "AJC",
+      "room": "2132"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

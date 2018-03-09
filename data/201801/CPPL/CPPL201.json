@@ -1,0 +1,25 @@
+{
+  "id": "CPPL201",
+  "title": "College Park Scholars: Public Leadership - Applied Leadership Capstone II",
+  "credits": "2",
+  "description": "Prerequisite: CPPL200.\nRestriction: Students must be enrolled in the College Park Scholars Public Leadership (CPPL) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Susannah Washburn",
+      "seats": "80,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "6:00pm",
+      "building": "CCC",
+      "room": "1205"
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars-Public Leadership"
+}

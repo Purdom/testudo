@@ -1,0 +1,27 @@
+{
+  "id": "PHIL309P",
+  "title": "Philosophical Problems; Philosophy, Politics and Economics",
+  "credits": "3",
+  "description": "Prerequisite: 6 hours of philosophy The course will introduce rational choice theory, social choice theory, and game theory, and discuss how these mathematical theories are used in the social sciences (especially in economics and political science).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Eric Pacuit",
+      "seats": "30,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "BPS",
+      "room": "0283"
+    }
+  ],
+  "term": "201801",
+  "department": "Philosophy"
+}

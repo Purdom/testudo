@@ -1,0 +1,27 @@
+{
+  "id": "ENST334",
+  "title": "Environmental Toxicology",
+  "credits": "3",
+  "description": "Prerequisite: CHEM131, CHEM132, and BSCI207; or permission of AGNR-Environmental Science & Technology department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Daniel Fisher",
+      "seats": "35,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ANS",
+      "room": "0412"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "HONR218J",
+  "title": "Honors Seminar; Sustainability and Development: From the Individual to the Global",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dorith Grant-Wisdom",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TWS",
+      "room": "1320"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

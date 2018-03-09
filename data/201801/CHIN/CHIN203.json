@@ -1,0 +1,25 @@
+{
+  "id": "CHIN203",
+  "title": "Intermediate Spoken Chinese II",
+  "credits": "3",
+  "description": "Prerequisite: CHIN201; or students who have taken courses with comparable content may contact the department; or must have attained appropriate Foreign Language Placement Test (FLPT) score.\nCorequisite: CHIN204.\nAdditional information: Must be taken in conjunction with CHIN204.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Guiling Hu",
+      "seats": "15,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "JMZ",
+      "room": "0120"
+    }
+  ],
+  "term": "201801",
+  "department": "Chinese"
+}

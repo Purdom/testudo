@@ -1,0 +1,26 @@
+{
+  "id": "ENAE791",
+  "title": "Launch and Entry Vehicle Design",
+  "credits": "3",
+  "description": "Prerequisite: ENAE601.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Akin",
+      "seats": "20,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EGR",
+      "room": "1102"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

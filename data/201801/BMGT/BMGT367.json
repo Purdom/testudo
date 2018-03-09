@@ -1,0 +1,73 @@
+{
+  "id": "BMGT367",
+  "title": "Career Search Strategies in Business",
+  "credits": "1",
+  "description": "Restriction: Must be in a major in BMGT-Robert H. Smith School of Business.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michelle Doan,",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:00pm",
+      "end": "5:50pm",
+      "building": "VMH",
+      "room": "1212"
+    },
+    {
+      "id": "0201",
+      "instructor": "Meghan Houston,",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "5:50pm",
+      "building": "VMH",
+      "room": "1333"
+    },
+    {
+      "id": "0301",
+      "instructor": "Lawrence Silver,",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "5:50pm",
+      "building": "VMH",
+      "room": "1212"
+    },
+    {
+      "id": "0401",
+      "instructor": "Erin Saddler,",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:00pm",
+      "end": "5:50pm",
+      "building": "VMH",
+      "room": "1333"
+    },
+    {
+      "id": "0501",
+      "instructor": "Michelle Doan,",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:00pm",
+      "end": "6:50pm",
+      "building": "VMH",
+      "room": "1330"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "CMSC122",
+  "title": "Introduction to Computer Programming via the Web",
+  "credits": "3",
+  "description": "Restriction: Must not have completed any courses from CMSC131-499 course range; and must not be concurrently enrolled in CMSC131.\nCredit only granted for: CMSC122 or CMSC198N.\nFormerly: CMSC198N.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Fawzi Emad",
+      "seats": "85,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "CSI",
+      "room": "3117"
+    },
+    {
+      "id": "0201",
+      "instructor": "Fawzi Emad",
+      "seats": "85,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "CSI",
+      "room": "3117"
+    },
+    {
+      "id": "0301",
+      "instructor": "Fawzi Emad",
+      "seats": "85,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "CSI",
+      "room": "3117"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "PHIL640",
+  "title": "Value Theory",
+  "credits": "3",
+  "description": "A basic course in value theory for beginning graduate students, coverin a number of topics in depth, to provide a springboard for further study and research in the area.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dan Moller",
+      "seats": "15,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:30pm",
+      "end": "7:00pm",
+      "building": "SKN",
+      "room": "1116"
+    }
+  ],
+  "term": "201801",
+  "department": "Philosophy"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "EDHI888",
+  "title": "Apprenticeship in Education",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sharon Fries-Britt",
+      "seats": "5,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "2701",
+      "instructor": "Marvin Titus",
+      "seats": "5,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "3501",
+      "instructor": "Alberto Cabrera",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Education Leadership, Higher Ed and International Ed"
+}

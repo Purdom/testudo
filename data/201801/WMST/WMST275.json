@@ -1,0 +1,39 @@
+{
+  "id": "WMST275",
+  "title": "World Literature by Women",
+  "credits": "3",
+  "description": "Also offered as: CMLT275.\nCredit only granted for: WMST275 or CMLT275.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Fatima Azam",
+      "seats": "30,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "WDS",
+      "room": "1130"
+    },
+    {
+      "id": "0201",
+      "instructor": "Keisha Allan",
+      "seats": "30,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "KEY",
+      "room": "0121"
+    }
+  ],
+  "term": "201801",
+  "department": "Women's Studies"
+}

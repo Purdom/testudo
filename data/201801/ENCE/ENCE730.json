@@ -1,0 +1,26 @@
+{
+  "id": "ENCE730",
+  "title": "Environmental and Water Resource Systems II",
+  "credits": "3",
+  "description": "Prerequisite: ENCE630; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Richard McCuen",
+      "seats": "10,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "MTH",
+      "room": "2300"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

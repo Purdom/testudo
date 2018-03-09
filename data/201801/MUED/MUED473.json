@@ -1,0 +1,25 @@
+{
+  "id": "MUED473",
+  "title": "Teaching General Music for Instrumentalists",
+  "credits": "2",
+  "description": "Prerequisite: MUED311; and MUED320.\nRestriction: Must be in Music Education program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Ruybalid",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:00am",
+      "end": "10:40am",
+      "building": "PAC",
+      "room": "2130A"
+    }
+  ],
+  "term": "201801",
+  "department": "Music Education"
+}

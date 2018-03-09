@@ -1,0 +1,27 @@
+{
+  "id": "COMM472",
+  "title": "Nonverbal Communication",
+  "credits": "3",
+  "description": "Nonverbal communication in human interaction theory and research on proxemics, kinesics and paralanguage as expression of relationship, affect and orientation within and across cultures.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "Judith Tenney",
+      "seats": "40,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "BLD3",
+      "room": "2225"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

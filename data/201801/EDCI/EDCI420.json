@@ -1,0 +1,27 @@
+{
+  "id": "EDCI420",
+  "title": "Student Teaching Seminar in Secondary Education: Social Studies",
+  "credits": "1",
+  "description": "Prerequisite: EDCI426 and EDCI427.\nCorequisite: EDCI421 and EDCI422.\nRestriction: Minimum cumulative GPA of 2.75.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alison Jovanovic",
+      "seats": "30,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:30pm",
+      "end": "7:30pm",
+      "building": "ASY",
+      "room": "3203"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

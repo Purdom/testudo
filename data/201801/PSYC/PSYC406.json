@@ -1,0 +1,27 @@
+{
+  "id": "PSYC406",
+  "title": "Neuroethology",
+  "credits": "3",
+  "description": "Prerequisite: PSYC301.\nRestriction: Must be in Psychology program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jens Herberholz",
+      "seats": "40,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "BPS",
+      "room": "1236"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

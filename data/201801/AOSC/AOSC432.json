@@ -1,0 +1,39 @@
+{
+  "id": "AOSC432",
+  "title": "Dynamics of the Atmosphere and Ocean",
+  "credits": "3",
+  "description": "Prerequisite: AOSC431.\nCorequisite: MATH246.\nCredit only granted for: AOSC432, METO432, or AOSC632.\nFormerly: METO432.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Corinne Hartin",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ATL",
+      "room": "2416"
+    },
+    {
+      "id": "AM01",
+      "instructor": "Corinne Hartin",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ATL",
+      "room": "2416"
+    }
+  ],
+  "term": "201801",
+  "department": "Atmospheric and Oceanic Science"
+}

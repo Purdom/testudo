@@ -1,0 +1,37 @@
+{
+  "id": "ENEE445",
+  "title": "Computer Laboratory",
+  "credits": "2",
+  "description": "Prerequisite: Minimum grade of C- in ENEE205; or minimum grade of C- in ENEE206. And minimum grade of C- in ENEE350; and must have earned a minimum grade of regular (letter) C- in all 200-level ENEE courses; and permission of ENGR-Electrical & Computer Engineering department.\nRestriction: Must be in one of the following programs (Engineering: Computer; Engineering: Electrical).",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Hawkins",
+      "seats": "12,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "EGR",
+      "room": "3114"
+    },
+    {
+      "id": "0102",
+      "instructor": "William Hawkins",
+      "seats": "12,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "EGR",
+      "room": "3114"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

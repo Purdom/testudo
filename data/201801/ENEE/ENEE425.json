@@ -1,0 +1,25 @@
+{
+  "id": "ENEE425",
+  "title": "Digital Signal Processing",
+  "credits": "3",
+  "description": "Prerequisite: ENEE322; and completion of all lower-division technical courses in the EE curriculum.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Raghuveer Rao",
+      "seats": "35,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "JMP",
+      "room": "1202"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

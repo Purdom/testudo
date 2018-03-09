@@ -1,0 +1,51 @@
+{
+  "id": "JOUR200",
+  "title": "Journalism History, Roles and Structures",
+  "credits": "3",
+  "description": "Introduction to the study of journalism from the standpoint of media history and sociology.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Carole Lee",
+      "seats": "30,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "KNI",
+      "room": "3202"
+    },
+    {
+      "id": "0201",
+      "instructor": "Ira Chinoy",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "KNI",
+      "room": "1208"
+    },
+    {
+      "id": "0301",
+      "instructor": "Carl Stepp",
+      "seats": "30,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "KNI",
+      "room": "3202"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

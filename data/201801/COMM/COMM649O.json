@@ -1,0 +1,38 @@
+{
+  "id": "COMM649O",
+  "title": "Translation for Specific Domains; Portuguese into English/English into Portuguese",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "XGE1",
+      "instructor": "Mirna Soares Andrade",
+      "seats": "16,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:00pm",
+      "end": "6:50pm",
+      "building": "SKN",
+      "room": "3117"
+    },
+    {
+      "id": "XGP1",
+      "instructor": "Robert Feron",
+      "seats": "16,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:00pm",
+      "end": "7:50pm",
+      "building": "SKN",
+      "room": "3117"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

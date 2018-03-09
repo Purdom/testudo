@@ -1,0 +1,39 @@
+{
+  "id": "MATH121",
+  "title": "Elementary Calculus II",
+  "credits": "3",
+  "description": "Prerequisite: MATH120, MATH130, or MATH140; or must have completed MATH220.\nRestriction: Not open to students majoring in mathematics, engineering, the biological sciences, biochemistry, chemistry, or the physical sciences.\nCredit only granted for: MATH121, MATH131, MATH141, or MATH221.\nFormerly: MATH 221.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jacob Renn",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "MTH",
+      "room": "0407"
+    },
+    {
+      "id": "0201",
+      "instructor": "Jacob Renn",
+      "seats": "25,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "MTH",
+      "room": "0407"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

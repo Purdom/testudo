@@ -1,0 +1,25 @@
+{
+  "id": "MUSC229D",
+  "title": "Ensemble; Wind Orchestra",
+  "credits": "1",
+  "description": "Open by audition. Contact instructor to make arrangements.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Votta",
+      "seats": "50,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "6:30pm",
+      "building": "PAC",
+      "room": "2540"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

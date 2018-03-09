@@ -1,0 +1,26 @@
+{
+  "id": "HIST639D",
+  "title": "Special Topics in History; Readings in Atlantic History",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alejandro Caneque",
+      "seats": "10,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TLF",
+      "room": "2108"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

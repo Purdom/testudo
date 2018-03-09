@@ -1,0 +1,26 @@
+{
+  "id": "EDCI613",
+  "title": "Practice and Theory in Teaching Second Language Learners",
+  "credits": "3",
+  "description": "Corequisite: EDCI637 or EDCI689; or permission of EDUC-Teaching and Learning, Policy and Leadership department.\nCredit only granted for: EDCI613 or EDCI688B.\nFormerly: EDCI688B.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Megan DeStefano",
+      "seats": "22,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:00pm",
+      "end": "7:45pm",
+      "building": "ASY",
+      "room": "3217"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

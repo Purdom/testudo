@@ -1,0 +1,27 @@
+{
+  "id": "ARTH346",
+  "title": "Nineteenth-Century European Art from 1850",
+  "credits": "3",
+  "description": "Major trends from Realism and Impressionism to Symbolism, exploring the historical context, in which concepts of gender, class, and race are integral to the transformation of Western art.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dena Crosson",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ASY",
+      "room": "3211"
+    }
+  ],
+  "term": "201801",
+  "department": "Art History & Archaeology"
+}

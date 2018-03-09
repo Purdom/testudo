@@ -1,0 +1,39 @@
+{
+  "id": "KNES260",
+  "title": "Science of Physical Activity and Cardiovascular Health",
+  "credits": "3",
+  "description": "Course details (1) the public health importance of and the processes underlying cardiovascular disease, (2) the risk factors for cardiovascular disease and the methods whereby they were identified, and (3) the principles of the scientific evidence supporting the use of physical activity to prevent cardiovascular disease.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andrea Romeo",
+      "seats": "18,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "SPH",
+      "room": "1303"
+    },
+    {
+      "id": "0103",
+      "instructor": "Andrea Romeo",
+      "seats": "18,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "SPH",
+      "room": "1303"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

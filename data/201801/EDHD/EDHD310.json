@@ -1,0 +1,25 @@
+{
+  "id": "EDHD310",
+  "title": "Your Brain on Education: The Neuroscience of Learning and Development",
+  "credits": "3",
+  "description": "Prerequisite: PSYC100.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Donald Bolger",
+      "seats": "54,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ARC",
+      "room": "1105"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Human Development"
+}

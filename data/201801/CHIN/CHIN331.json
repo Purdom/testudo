@@ -1,0 +1,39 @@
+{
+  "id": "CHIN331",
+  "title": "Chinese Calligraphy: Theory and Practice",
+  "credits": "3",
+  "description": "Prerequisite: CHIN220; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yuli Wang",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "JMZ",
+      "room": "0205"
+    },
+    {
+      "id": "0201",
+      "instructor": "Yuli Wang",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "1:00pm",
+      "end": "3:30pm",
+      "building": "JMZ",
+      "room": "0205"
+    }
+  ],
+  "term": "201801",
+  "department": "Chinese"
+}

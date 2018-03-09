@@ -1,0 +1,26 @@
+{
+  "id": "ARHU286",
+  "title": "Experiential Learning",
+  "credits": "3 -",
+  "description": "Prerequisite: Permission of ARHU-College of Arts & Humanities.\nRestriction: Minimum cumulative GPA of 2.5; and must be in a major in ARHU-College of Arts & Humanities; and must have earned a minimum of 12 credits.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paula Nadler",
+      "seats": "3,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Arts and Humanities"
+}

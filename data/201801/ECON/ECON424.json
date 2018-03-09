@@ -1,0 +1,63 @@
+{
+  "id": "ECON424",
+  "title": "Applied Econometrics",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (ECON305, ECON306, ECON325, ECON326); and 1 course with a minimum grade of C- from (ECON230, BMGT230, ECON321).\nRestriction: Must be in Economics Bachelor of Arts program.\nCredit only granted for: ECON422 or ECON424.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hossein Abbasi",
+      "seats": "38,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TYD",
+      "room": "2111"
+    },
+    {
+      "id": "0201",
+      "instructor": "Hossein Abbasi",
+      "seats": "38,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TYD",
+      "room": "2111"
+    },
+    {
+      "id": "0301",
+      "instructor": "Yue Chao",
+      "seats": "38,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "TYD",
+      "room": "2111"
+    },
+    {
+      "id": "0401",
+      "instructor": "Fo Aflagah",
+      "seats": "38,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "TYD",
+      "room": "2102"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

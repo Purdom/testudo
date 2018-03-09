@@ -1,0 +1,111 @@
+{
+  "id": "DANC398",
+  "title": "Directed Studies in Dance",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Patrik Widrig",
+      "seats": "10,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0201",
+      "instructor": "Sara Pearson",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0301",
+      "instructor": "Maura Keefe",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0401",
+      "instructor": "Alvin Mayes",
+      "seats": "10,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0501",
+      "instructor": "Paul Jackson",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0701",
+      "instructor": "Crystal Davis",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0801",
+      "instructor": "Xan Burley,",
+      "seats": "5,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "1001",
+      "instructor": "Adriane Fang",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Dance"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "EDCI770",
+  "title": "Foundations of Science Education",
+  "credits": "3",
+  "description": "Prerequisite: TLPL620 or TLPL625; or permission of EDUC-Teaching and Learning, Policy and Leadership department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Diane Ketelhut",
+      "seats": "20,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "2212"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

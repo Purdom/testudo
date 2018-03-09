@@ -1,0 +1,25 @@
+{
+  "id": "MUSC329O",
+  "title": "Ensemble; Opera Chorus",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Aaron Peisner",
+      "seats": "30,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "4:00pm",
+      "end": "6:00pm",
+      "building": "PAC",
+      "room": "2170"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

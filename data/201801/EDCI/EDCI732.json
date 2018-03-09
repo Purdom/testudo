@@ -1,0 +1,26 @@
+{
+  "id": "EDCI732",
+  "title": "Second Language Acquisition",
+  "credits": "3",
+  "description": "Restriction: Permission of EDUC-Teaching and Learning, Policy and Leadership department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ethan Sewall",
+      "seats": "20,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:00pm",
+      "end": "7:45pm",
+      "building": "EDU",
+      "room": "3315"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

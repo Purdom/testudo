@@ -1,0 +1,50 @@
+{
+  "id": "INST335",
+  "title": "Teams and Organizations",
+  "credits": "3",
+  "description": "Prerequisite: PSYC100; and (INST201; or must have completed INST301).\nRestriction: Must be in Information Science program; and permission of INFO-College of Information Studies.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Philip Piety",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ARC",
+      "room": "1103"
+    },
+    {
+      "id": "0102",
+      "instructor": "Taverekere Srikantaiah",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "HBK",
+      "room": "0115"
+    },
+    {
+      "id": "0103",
+      "instructor": "Ping Wang",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:00pm",
+      "end": "8:45pm",
+      "building": "ESJ",
+      "room": "0215"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

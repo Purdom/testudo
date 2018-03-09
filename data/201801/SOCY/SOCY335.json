@@ -1,0 +1,27 @@
+{
+  "id": "SOCY335",
+  "title": "Sociology of Health and Illness",
+  "credits": "3",
+  "description": "An exploration of the social model to studying health and illness: how meanings and experiences of health and illness are socially produced. How experiences are shaped by the interaction of external social environments (culture, community) and the internal environment (human body), and by socio-demographic variables (race, class, gender, etc.). Disparities in health and healthcare delivery, medicalization of society, determinants of health, social construction of illness, and the social organization of health care.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alex Parkhouse",
+      "seats": "80,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ASY",
+      "room": "1213"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

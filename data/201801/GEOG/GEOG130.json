@@ -1,0 +1,135 @@
+{
+  "id": "GEOG130",
+  "title": "Developing Countries",
+  "credits": "3",
+  "description": "An introduction to the geographic characteristics of the development problems and prospects of developing countries. Spatial distribution of poverty, employment, migration and urban growth, agricultural productivity, rural development, policies and international trade. Portraits of selected developing countries.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ronald Luna",
+      "seats": "23,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "LEF",
+      "room": "2205"
+    },
+    {
+      "id": "0102",
+      "instructor": "Ronald Luna",
+      "seats": "23,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "LEF",
+      "room": "2205"
+    },
+    {
+      "id": "0103",
+      "instructor": "Ronald Luna",
+      "seats": "23,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "LEF",
+      "room": "2205"
+    },
+    {
+      "id": "0104",
+      "instructor": "Ronald Luna",
+      "seats": "23,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "LEF",
+      "room": "2205"
+    },
+    {
+      "id": "0105",
+      "instructor": "Ronald Luna",
+      "seats": "23,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "LEF",
+      "room": "2205"
+    },
+    {
+      "id": "0106",
+      "instructor": "Ronald Luna",
+      "seats": "23,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "LEF",
+      "room": "2205"
+    },
+    {
+      "id": "0107",
+      "instructor": "Ronald Luna",
+      "seats": "23,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "LEF",
+      "room": "2205"
+    },
+    {
+      "id": "0108",
+      "instructor": "Ronald Luna",
+      "seats": "23,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "LEF",
+      "room": "2205"
+    },
+    {
+      "id": "0109",
+      "instructor": "Ronald Luna",
+      "seats": "23,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "LEF",
+      "room": "2205"
+    },
+    {
+      "id": "0110",
+      "instructor": "Ronald Luna",
+      "seats": "23,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "LEF",
+      "room": "2205"
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

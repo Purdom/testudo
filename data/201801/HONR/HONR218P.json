@@ -1,0 +1,25 @@
+{
+  "id": "HONR218P",
+  "title": "Honors Seminar; Immigration: Personal Stories and Policy Changes",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sara Schotland",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "TYD",
+      "room": "0111"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

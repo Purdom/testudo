@@ -1,0 +1,26 @@
+{
+  "id": "LING879B",
+  "title": "Seminar in Semantics; Modality: Grammar, Meaning, and Acquisition",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Valentine Hacquard",
+      "seats": "15,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "5:00pm",
+      "building": "MMH",
+      "room": "1108B"
+    }
+  ],
+  "term": "201801",
+  "department": "Linguistics"
+}

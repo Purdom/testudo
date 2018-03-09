@@ -1,0 +1,27 @@
+{
+  "id": "PSYC289D",
+  "title": "Living the Good Life: The Psychology of Happiness",
+  "credits": "3",
+  "description": "What are the secrets to living a happy life? This course will introduce students to contemporary scientific approaches to studying age-old questions about how to get happy.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dylan Selterman",
+      "seats": "117,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "BPS",
+      "room": "1243"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

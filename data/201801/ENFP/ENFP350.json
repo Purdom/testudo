@@ -1,0 +1,27 @@
+{
+  "id": "ENFP350",
+  "title": "Professional Development Seminar",
+  "credits": "1",
+  "description": "Prerequisite: Permission of ENGR-Fire Protection Engineering department.\nRestriction: Junior standing or higher.\nCredit only granted for: ENFP350 or ENFP450.\nFormerly: ENFP450.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Anthony Militello",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "BPS",
+      "room": "1236"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Fire Protection"
+}

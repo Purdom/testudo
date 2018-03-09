@@ -1,0 +1,26 @@
+{
+  "id": "BMGT841",
+  "title": "Seminar in Corporate Finance",
+  "credits": "3",
+  "description": "Prerequisite: Permission of BMGT-Robert H. Smith School of Business.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Maria Bustamante,",
+      "seats": "10,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "9:30am",
+      "end": "12:00pm",
+      "building": "VMH",
+      "room": "3332"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

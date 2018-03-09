@@ -1,0 +1,37 @@
+{
+  "id": "ENGL144",
+  "title": "Breaking News: Contemporary Literature, Media and the State",
+  "credits": "3",
+  "description": "Credit only granted for: ENGL144 or ENGL289X.\nFormerly: ENGL289X.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paul Cote",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TWS",
+      "room": "0236"
+    },
+    {
+      "id": "0201",
+      "instructor": "Paul Cote",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TWS",
+      "room": "0201"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

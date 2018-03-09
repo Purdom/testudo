@@ -1,0 +1,26 @@
+{
+  "id": "ENCH648D",
+  "title": "Special Problems in Chemical Engineering; Biopharmaceutical Process Development and Manufacturing",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Deborah Goldberg",
+      "seats": "5,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PHY",
+      "room": "0405"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Chemical"
+}

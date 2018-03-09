@@ -1,0 +1,27 @@
+{
+  "id": "ENGL348B",
+  "title": "Literary Works by Women; Haunted Histories: Contemporary African American Gothic",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Laura Williams",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

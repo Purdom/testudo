@@ -1,0 +1,25 @@
+{
+  "id": "HONR348M",
+  "title": "Advanced Honors Seminar; Stock Market",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David McCandlish,",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "5:00pm",
+      "building": "ANA",
+      "room": "0120"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

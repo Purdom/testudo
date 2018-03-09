@@ -1,0 +1,38 @@
+{
+  "id": "COMM629N",
+  "title": "Introduction to Simultaneous Interpretation; English into Russian/Russian into English",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "XGE1",
+      "instructor": "Sergei Chernov",
+      "seats": "16,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Sa",
+      "start": "11:00am",
+      "end": "11:30am",
+      "building": "SKN",
+      "room": "3118"
+    },
+    {
+      "id": "XGR1",
+      "instructor": "Nikolai Sorokin",
+      "seats": "16,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "SKN",
+      "room": "3118"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

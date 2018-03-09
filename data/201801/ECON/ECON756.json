@@ -1,0 +1,26 @@
+{
+  "id": "ECON756",
+  "title": "Empirical Political Economics",
+  "credits": "3",
+  "description": "An introduction to empirical political economy. Determinants of individual political behavior and the impact of political rules on economic outcomes will both be analyzed. Modern applied econometric techniques will also be covered.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ethan Kaplan",
+      "seats": "20,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TYD",
+      "room": "0101"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

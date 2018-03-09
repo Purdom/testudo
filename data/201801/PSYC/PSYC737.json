@@ -1,0 +1,26 @@
+{
+  "id": "PSYC737",
+  "title": "Research Methods in Industrial/Organizational Psychology",
+  "credits": "3",
+  "description": "Prerequisite: PSYC603; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paul Hanges",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "BPS",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

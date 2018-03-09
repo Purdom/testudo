@@ -1,0 +1,25 @@
+{
+  "id": "BCHM698",
+  "title": "Literature Seminar in Biochemistry",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Instructor: TBA",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Biochemistry"
+}

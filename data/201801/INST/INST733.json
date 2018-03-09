@@ -1,0 +1,26 @@
+{
+  "id": "INST733",
+  "title": "Database Design",
+  "credits": "3",
+  "description": "Prerequisite: LBSC690, LBSC671, or INFM603; or permission of instructor.\nRestriction: Permission of INFO-College of Information Studies.\nCredit only granted for: INST733 or LBSC793.\nFormerly: LBSC793.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "ML01",
+      "instructor": "David Loshin",
+      "seats": "30,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

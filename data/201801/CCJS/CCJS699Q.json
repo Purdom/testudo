@@ -1,0 +1,26 @@
+{
+  "id": "CCJS699Q",
+  "title": "Special Criminological Problems; Punishment and Inequality",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Wade Jacobsen",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "LEF",
+      "room": "2220CC"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

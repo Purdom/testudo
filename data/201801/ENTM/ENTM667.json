@@ -1,0 +1,25 @@
+{
+  "id": "ENTM667",
+  "title": "Aquatic Entomology",
+  "credits": "3",
+  "description": "Biology, ecology, and taxonomy of aquatic insects in lotic and lentic habitats, their adaptation to aquatic life, their function in aquatic ecosystems, and their relationship to environmental deterioration.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Lamp",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "PLS",
+      "room": "1158"
+    }
+  ],
+  "term": "201801",
+  "department": "Entomology"
+}

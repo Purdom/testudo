@@ -1,0 +1,38 @@
+{
+  "id": "EDCP789",
+  "title": "Advanced Topics in Counseling and Personnel Services",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Matthew Miller",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "5101",
+      "instructor": "Candace Moore",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

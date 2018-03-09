@@ -1,0 +1,51 @@
+{
+  "id": "ENES216",
+  "title": "FLEXUS Living and Learning Community Seminar IV",
+  "credits": "1",
+  "description": "Prerequisite: ENES115, ENES116, and ENES215.\nRestriction: Restricted to second year FLEXUS participants.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mary Bowden,",
+      "seats": "40,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "5:15pm",
+      "building": "CHM",
+      "room": "1224"
+    },
+    {
+      "id": "0102",
+      "instructor": "Mary Bowden,",
+      "seats": "35,",
+      "open-seats": "28,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0103",
+      "instructor": "Mary Bowden,",
+      "seats": "30,",
+      "open-seats": "26,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:15pm",
+      "end": "5:30pm",
+      "building": "MTH",
+      "room": "B0427"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

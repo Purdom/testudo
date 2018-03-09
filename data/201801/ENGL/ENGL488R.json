@@ -1,0 +1,27 @@
+{
+  "id": "ENGL488R",
+  "title": "Topics in Advanced Writing; Qualitative Research Methods",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sara Wilder",
+      "seats": "18,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "TWS",
+      "room": "1106"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

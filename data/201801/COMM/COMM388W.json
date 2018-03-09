@@ -1,0 +1,26 @@
+{
+  "id": "COMM388W",
+  "title": "Communication Practicum; Professional Communication & Writing",
+  "credits": "1",
+  "description": "The course is designed for intensive study of problems in writing for communication professionals based on principles of grammar, style, clarity, and argument structure. In addition, students will identify and apply the principles of writing across diverse contexts.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shawn Parry-Giles",
+      "seats": "35,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "SKN",
+      "room": "1115"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

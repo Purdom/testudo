@@ -1,0 +1,75 @@
+{
+  "id": "CCJS300",
+  "title": "Criminological and Criminal Justice Research Methods",
+  "credits": "3",
+  "description": "Prerequisite: CCJS100 and CCJS105; and (PSYC200, CCJS200, ECON321, BMGT230, or SOCY201).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Laure Brooks",
+      "seats": "60,",
+      "open-seats": "45,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "LEF",
+      "room": "2166"
+    },
+    {
+      "id": "0201",
+      "instructor": "Laure Brooks",
+      "seats": "60,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "LEF",
+      "room": "2166"
+    },
+    {
+      "id": "0301",
+      "instructor": "Alan Lehman",
+      "seats": "60,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "SQH",
+      "room": "1119"
+    },
+    {
+      "id": "0401",
+      "instructor": "Alan Lehman",
+      "seats": "60,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SQH",
+      "room": "1119"
+    },
+    {
+      "id": "SG91",
+      "instructor": "Thomas Alexander",
+      "seats": "40,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "11:00am",
+      "end": "1:30pm",
+      "building": "BLD3",
+      "room": "3206"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "EDCP717",
+  "title": "Evaluation of Research in Counseling",
+  "credits": "3",
+  "description": "Restriction: Permission of EDUC-Counseling, Higher Education and Special Education department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Cixin Wang",
+      "seats": "10,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "9:30am",
+      "end": "12:15pm",
+      "building": "EDU",
+      "room": "2102"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

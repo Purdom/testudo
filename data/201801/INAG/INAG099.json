@@ -1,0 +1,25 @@
+{
+  "id": "INAG099",
+  "title": "Cooperative Education",
+  "credits": "0",
+  "description": "Restriction: Co-op is open to sustainable agriculture and agricultural business management students who have completed a minimum of 45 credit hours, have a minimum GPA of 2.0, and have advisor's permission.\n\nCooperative Education, the culminating 22-week field experience in your program, is a collaborative partnership between the Institute of Applied Agriculture and the employer to provide a quality academic and practical training for students. Each student's co-op will vary according to the unique career direction the student wishes to pursue and is intended to accompany seminars and activities previously acquired in the IAA program. Upon completion of the course, students will have established contacts in the industry and substantial documentation to develop a personal portfolio.\n\nThis course has a $250 fee.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Meredith Epstein",
+      "seats": "15,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Institute of Applied Agriculture"
+}

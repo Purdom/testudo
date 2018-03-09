@@ -1,0 +1,61 @@
+{
+  "id": "ENEE461",
+  "title": "Control Systems Laboratory",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in ENEE205; and minimum grade of C- in ENEE322; and must have earned a minimum grade of regular (letter) C- in all required 200-level ENEE courses; and permission of ENGR-Electrical & Computer Engineering department.\nRestriction: Must be in one of the following programs (Engineering: Computer; Engineering: Electrical).\nCredit only granted for: ENEE461, ENME461, or ENME489N.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Levine",
+      "seats": "14,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "KEB",
+      "room": "1110"
+    },
+    {
+      "id": "0102",
+      "instructor": "William Levine",
+      "seats": "14,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "KEB",
+      "room": "1110"
+    },
+    {
+      "id": "0103",
+      "instructor": "William Levine",
+      "seats": "14,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "KEB",
+      "room": "1110"
+    },
+    {
+      "id": "0104",
+      "instructor": "William Levine",
+      "seats": "14,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "KEB",
+      "room": "1110"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

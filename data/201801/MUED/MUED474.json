@@ -1,0 +1,25 @@
+{
+  "id": "MUED474",
+  "title": "Field Experiences: Pre-Student Teaching",
+  "credits": "1",
+  "description": "Prerequisite: MUED420 and MUED411; or (MUED472 and MUED471).\nRestriction: Permission of ARHU-School of Music department; and senior standing.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Hewitt",
+      "seats": "15,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:30pm",
+      "end": "8:30pm",
+      "building": "PAC",
+      "room": "2130A"
+    }
+  ],
+  "term": "201801",
+  "department": "Music Education"
+}

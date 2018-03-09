@@ -1,0 +1,27 @@
+{
+  "id": "PHYS272H",
+  "title": "Introductory Physics: Fields",
+  "credits": "3",
+  "description": "Prerequisite: PHYS161 or PHYS171; and MATH141; and must have completed or be concurrently enrolled in MATH241.\nCredit only granted for: PHYS142, (PHYS260 and PHYS261) or PHYS272..\nAdditional information: CORE Distributive Studies Physical Sciences Laboratory Course only when taken concurrently with PHYS275.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kaustubh Agashe",
+      "seats": "60,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PHY",
+      "room": "1201"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "LATN488O",
+  "title": "Latin Readings; Latin Readings: The Augustan Age",
+  "credits": "3",
+  "description": "A survey of Roman culture in the brilliant age of the first emperor, Augustus (31 BC - AD 14), anchored in readings, in Latin, from contemporary Latin literature. In addition to the literature, substantial time will be devoted to architecture, art, and historyand links between themto discern what makes \"Augustan\" culture so distinctive.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gregory Bucher",
+      "seats": "7,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "7:40pm",
+      "building": "JMZ",
+      "room": "1215"
+    }
+  ],
+  "term": "201801",
+  "department": "Latin"
+}

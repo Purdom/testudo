@@ -1,0 +1,27 @@
+{
+  "id": "PSYC424",
+  "title": "Communication and Persuasion",
+  "credits": "3",
+  "description": "Prerequisite: PSYC221 and PSYC200.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "Edward Pallas",
+      "seats": "40,",
+      "open-seats": "24,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "9:30am",
+      "end": "12:00pm",
+      "building": "BLD3",
+      "room": "3226"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

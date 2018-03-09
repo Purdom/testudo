@@ -1,0 +1,27 @@
+{
+  "id": "HLSA714",
+  "title": "Economic Evaluation of Medical Care",
+  "credits": "3",
+  "description": "Prerequisite: HLSA601 and EPIB650; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michel Boudreaux",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "SPH",
+      "room": "0301"
+    }
+  ],
+  "term": "201801",
+  "department": "Health Services Administration"
+}

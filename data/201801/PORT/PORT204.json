@@ -1,0 +1,27 @@
+{
+  "id": "PORT204",
+  "title": "Intensive Intermediate Portuguese",
+  "credits": "4",
+  "description": "Prerequisite: PORT104; or must have appropriate Foreign Language Placement Test (FLPT) score.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Regina Igel",
+      "seats": "25,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "JMZ",
+      "room": "1117"
+    }
+  ],
+  "term": "201801",
+  "department": "Portuguese"
+}

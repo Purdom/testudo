@@ -1,0 +1,26 @@
+{
+  "id": "HESP602",
+  "title": "Advanced Seminar in Neurological Bases of Communication",
+  "credits": "2",
+  "description": "Prerequisite: An undergraduate course in human neuroanatomy.\nRestriction: Permission of BSOS-Hearing & Speech Sciences department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yasmeen Shah",
+      "seats": "30,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "1:00pm",
+      "end": "2:40pm",
+      "building": "LEF",
+      "room": "0135"
+    }
+  ],
+  "term": "201801",
+  "department": "Hearing and Speech Sciences"
+}

@@ -1,0 +1,110 @@
+{
+  "id": "KNES300",
+  "title": "Biomechanics of Human Motion",
+  "credits": "4",
+  "description": "Prerequisite: Minimum grade of C- in BSCI201. And 1 course with a minimum grade of C- from (MATH112, MATH113, MATH115); or (must have completed one General Education: Fundamental Studies-Math course with a minimum grade of C-; and must have math eligibility of MATH140 or higher).\nRecommended: PHYS121.\nRestriction: Must be in a major within SPHL-Kinesiology department.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jae Kun Shim",
+      "seats": "18,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "4:15pm",
+      "building": "JMZ",
+      "room": "0220"
+    },
+    {
+      "id": "0102",
+      "instructor": "Jae Kun Shim",
+      "seats": "18,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "4:15pm",
+      "building": "JMZ",
+      "room": "0220"
+    },
+    {
+      "id": "0103",
+      "instructor": "Jae Kun Shim",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "4:15pm",
+      "building": "JMZ",
+      "room": "0220"
+    },
+    {
+      "id": "0104",
+      "instructor": "Jae Kun Shim",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "4:15pm",
+      "building": "JMZ",
+      "room": "0220"
+    },
+    {
+      "id": "0105",
+      "instructor": "Jae Kun Shim",
+      "seats": "18,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "4:15pm",
+      "building": "JMZ",
+      "room": "0220"
+    },
+    {
+      "id": "0106",
+      "instructor": "Jae Kun Shim",
+      "seats": "18,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "4:15pm",
+      "building": "JMZ",
+      "room": "0220"
+    },
+    {
+      "id": "0107",
+      "instructor": "Jae Kun Shim",
+      "seats": "18,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "4:15pm",
+      "building": "JMZ",
+      "room": "0220"
+    },
+    {
+      "id": "0108",
+      "instructor": "Jae Kun Shim",
+      "seats": "18,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "4:15pm",
+      "building": "JMZ",
+      "room": "0220"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

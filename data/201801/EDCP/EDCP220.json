@@ -1,0 +1,39 @@
+{
+  "id": "EDCP220",
+  "title": "Introduction to Human Diversity in Social Institutions",
+  "credits": "3",
+  "description": "This highly-interactive format focuses on individual and social identities in the U.S., group differences and intergroup relations, systems of privilege and oppression, and advocacy for social justice. Topics will include diversity related to race, ethnicity, gender, sexual orientation, social class, (dis)ability, and religion. Course fulfills CORE requirements in diversity, social/behavioral bases, and interdisciplinary study. Some sections restricted.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Katherine Morales",
+      "seats": "18,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "EDU",
+      "room": "3315"
+    },
+    {
+      "id": "0201",
+      "instructor": "Ha Ahn",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "KNI",
+      "room": "1105"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

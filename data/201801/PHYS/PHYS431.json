@@ -1,0 +1,27 @@
+{
+  "id": "PHYS431",
+  "title": "Properties of Matter",
+  "credits": "3",
+  "description": "Prerequisite: PHYS271, PHYS270, and MATH241; and (PHYS401 or PHYS420).\nAlso offered as: ENMA460.\nCredit only granted for: ENMA460 or PHYS431.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ichiro Takeuchi",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "PHY",
+      "room": "1402"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "BIOE340",
+  "title": "Modeling Physiological Systems and Lab",
+  "credits": "4",
+  "description": "Prerequisite: BSCI330, BIOE120, BIOE121, BIOE241, and MATH246.\nRestriction: Permission of ENGR-Fischell Department of Bioengineering department.\nCredit only granted for: BIOE340 or (BSCI440 and BSCI441).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Steven Jay",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PLS",
+      "room": "1130"
+    },
+    {
+      "id": "0102",
+      "instructor": "Steven Jay",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PLS",
+      "room": "1130"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

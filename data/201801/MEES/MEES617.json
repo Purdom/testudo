@@ -1,0 +1,26 @@
+{
+  "id": "MEES617",
+  "title": "Hydrological Effects of Land Use Change",
+  "credits": "3",
+  "description": "Prerequisite: Statistics course and hydrology course or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Keith Eshleman",
+      "seats": "15,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "10:00am",
+      "end": "11:30am",
+      "building": "HJP",
+      "room": "1213B"
+    }
+  ],
+  "term": "201801",
+  "department": "Marine-Estuarine-Environmental Sciences"
+}

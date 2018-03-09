@@ -1,0 +1,27 @@
+{
+  "id": "FREN302",
+  "title": "Translation: French to English",
+  "credits": "3",
+  "description": "Prerequisite: FREN301; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Herve Campangne",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "JMZ",
+      "room": "1120"
+    }
+  ],
+  "term": "201801",
+  "department": "French"
+}

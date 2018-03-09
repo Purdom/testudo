@@ -1,0 +1,26 @@
+{
+  "id": "MEES618C",
+  "title": "Seminars in Marine Estuarine Environmental Sciences; Next Generation Sequence and Analysis",
+  "credits": "2",
+  "description": "This course is designed to expose the student to a broad range of sequence analysis tools with lectures, computer lab, and project based components. The primary learning outcome is to develop inde- pendence in troubleshooting sequence analysis with the large-scale sequence datasets that have become common. In addition, an overview of the major types of analysis and assembly processes will be given, with adjustments to emphasize specific student projects. Taught over the Interactive Video Network (IVN).",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tsvetan Bachvaroff",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:00pm",
+      "end": "5:00pm",
+      "building": "HJP",
+      "room": "1213B"
+    }
+  ],
+  "term": "201801",
+  "department": "Marine-Estuarine-Environmental Sciences"
+}

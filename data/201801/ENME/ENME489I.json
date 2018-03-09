@@ -1,0 +1,27 @@
+{
+  "id": "ENME489I",
+  "title": "Special Topics in Mechanical Engineering; Computational Fluid Mechanics",
+  "credits": "3",
+  "description": "Prerequisite: ENES221, ENME271, ENME331, and permission of department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Peter Bernard",
+      "seats": "25,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "EGR",
+      "room": "0135"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

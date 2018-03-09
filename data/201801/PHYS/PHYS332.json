@@ -1,0 +1,27 @@
+{
+  "id": "PHYS332",
+  "title": "Physics for Life Sciences II",
+  "credits": "4",
+  "description": "Prerequisite: PHYS331; or PHYS131; or students who have taken courses with comparable content may contact the department.\nCredit only granted for: PHYS122, PHYS132, or PHYS332.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "Marco Colombini",
+      "seats": "30,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "BLD3",
+      "room": "2131"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ARMY402",
+  "title": "Advanced Military Leadership IV",
+  "credits": "3",
+  "description": "The military system and code of ethics in the military environment is studied. Topics include code of conduct during all forms of military operations, the Geneva Conventions and the ethical decision making process. Also includes a laboratory in applied leadership skills, fitness excellence and two field exercises.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Larry Rentz",
+      "seats": "30,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "2:30pm",
+      "building": "ESJ",
+      "room": "2309"
+    }
+  ],
+  "term": "201801",
+  "department": "Army"
+}

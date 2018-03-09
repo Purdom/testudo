@@ -1,0 +1,25 @@
+{
+  "id": "EDUC498",
+  "title": "Selected Topics in Education",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jessica Haddaway",
+      "seats": "60,",
+      "open-seats": "51,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Education"
+}

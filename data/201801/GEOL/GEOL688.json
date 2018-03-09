@@ -1,0 +1,25 @@
+{
+  "id": "GEOL688",
+  "title": "Geology Colloquium",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nicholas Schmerr",
+      "seats": "30,",
+      "open-seats": "29,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "3:00pm",
+      "end": "4:30pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Geology"
+}

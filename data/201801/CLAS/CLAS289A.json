@@ -1,0 +1,75 @@
+{
+  "id": "CLAS289A",
+  "title": "Are We Rome?",
+  "credits": "3",
+  "description": "America, from its very origins as an independent nation, saw itself as the new Rome: our system of government is built on Roman precedents, our national buildings look as if they came from the Roman Forum, and our leisure activities take us to stadiums modeled on the Colosseum. Our relationship to Rome, however, raises our greatest anxiety: will America fall as Rome did? In 1776, the year of American independence, Edward Gibbon published his History of the Decline and Fall of the Roman Empire ; America has been thinking about the trajectory of our history alongside Rome's from the very beginning.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gregory Staley",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0102",
+      "instructor": "Gregory Staley",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0103",
+      "instructor": "Gregory Staley",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0104",
+      "instructor": "Gregory Staley",
+      "seats": "25,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0105",
+      "instructor": "Gregory Staley",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "ESJ",
+      "room": "2208"
+    }
+  ],
+  "term": "201801",
+  "department": "Classics"
+}

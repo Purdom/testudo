@@ -1,0 +1,26 @@
+{
+  "id": "ENAE682",
+  "title": "Hypersonic Aerodynamics",
+  "credits": "3",
+  "description": "Restriction: Permission of ENGR-Aerospace Engineering department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stuart Laurence",
+      "seats": "20,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "JMP",
+      "room": "1109"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

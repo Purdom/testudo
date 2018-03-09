@@ -1,0 +1,39 @@
+{
+  "id": "HESP120",
+  "title": "Introduction to Linguistics",
+  "credits": "3",
+  "description": "Additional information: HESP120 is required for HESP majors. HESP majors may not substitute LING200.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michelle Morrison",
+      "seats": "45,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "LEF",
+      "room": "2208"
+    },
+    {
+      "id": "0201",
+      "instructor": "Jose Ortiz",
+      "seats": "45,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SQH",
+      "room": "1121"
+    }
+  ],
+  "term": "201801",
+  "department": "Hearing and Speech Sciences"
+}

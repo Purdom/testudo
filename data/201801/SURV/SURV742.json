@@ -1,0 +1,26 @@
+{
+  "id": "SURV742",
+  "title": "Inference from Complex Surveys",
+  "credits": "3",
+  "description": "Prerequisite: SURV440.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Fay",
+      "seats": "20,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "1:00pm",
+      "end": "2:30pm",
+      "building": "LEF",
+      "room": "1218"
+    }
+  ],
+  "term": "201801",
+  "department": "Survey Methodology"
+}

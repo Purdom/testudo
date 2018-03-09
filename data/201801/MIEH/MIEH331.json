@@ -1,0 +1,27 @@
+{
+  "id": "MIEH331",
+  "title": "The Built Environment, Sustainability, and Public Health: The Good, the Bad, and the Ugly",
+  "credits": "3",
+  "description": "Recommended: Completion of MIEH300 with a C- or higher is recommended.\nRestriction: Must have earned a minimum of 45 credits.\nCredit only granted for: MIEH215 or MIEH331.\nFormerly: MIEH215.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sacoby Wilson",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "SPH",
+      "room": "1303"
+    }
+  ],
+  "term": "201801",
+  "department": "Maryland Institute for Applied Environmental Health"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ENME466",
+  "title": "Lean Six Sigma",
+  "credits": "3",
+  "description": "Prerequisite: ENME392, BMGT230, or STAT400; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Bigio",
+      "seats": "40,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EGR",
+      "room": "0135"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

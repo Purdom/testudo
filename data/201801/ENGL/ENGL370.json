@@ -1,0 +1,27 @@
+{
+  "id": "ENGL370",
+  "title": "Junior Honors Conference",
+  "credits": "1",
+  "description": "Restriction: Candidacy for honors in English.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jason Rudy",
+      "seats": "20,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "5:00pm",
+      "building": "TWS",
+      "room": "3132"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

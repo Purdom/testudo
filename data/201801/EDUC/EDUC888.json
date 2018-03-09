@@ -1,0 +1,62 @@
+{
+  "id": "EDUC888",
+  "title": "Applied Apprenticeship in Education",
+  "credits": "1 -",
+  "description": "PGCPS II EdD Outreach Program. Registration restricted to program participants.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "IH42",
+      "instructor": "Patricia Richardson",
+      "seats": "16,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "IH81",
+      "instructor": "Margaret McLaughlin",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "IH82",
+      "instructor": "Patricia Richardson",
+      "seats": "4,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "IH84",
+      "instructor": "David Imig",
+      "seats": "4,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Education"
+}

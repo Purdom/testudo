@@ -1,0 +1,26 @@
+{
+  "id": "INFM605",
+  "title": "Users and Use Context",
+  "credits": "3",
+  "description": "Restriction: Permission of INFO-College of Information Studies.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Howard Killam",
+      "seats": "30,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:00pm",
+      "end": "8:45pm",
+      "building": "HBK",
+      "room": "0109"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Management"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "INAG131",
+  "title": "Introduction to Agricultural Policy and Communication",
+  "credits": "3",
+  "description": "Restriction: Must be a student in the Institute of Applied Agriculture; or must be in a major in AGNR-College of Agriculture & Natural Resources; or permission of AGNR-Institute of Applied Agriculture department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Meredith Epstein",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "JUL",
+      "room": "1123"
+    }
+  ],
+  "term": "201801",
+  "department": "Institute of Applied Agriculture"
+}

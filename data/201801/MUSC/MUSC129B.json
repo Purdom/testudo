@@ -1,0 +1,73 @@
+{
+  "id": "MUSC129B",
+  "title": "Ensemble; Chamber Woodwinds",
+  "credits": "1",
+  "description": "Contact instructor to make arrangements. For Music majors only.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mark Hill",
+      "seats": "40,",
+      "open-seats": "36,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PAC",
+      "room": "2201"
+    },
+    {
+      "id": "0901",
+      "instructor": "Instructor: TBA",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PAC",
+      "room": "2201"
+    },
+    {
+      "id": "1001",
+      "instructor": "Instructor: TBA",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PAC",
+      "room": "2201"
+    },
+    {
+      "id": "1101",
+      "instructor": "Instructor: TBA",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PAC",
+      "room": "2201"
+    },
+    {
+      "id": "1201",
+      "instructor": "Instructor: TBA",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PAC",
+      "room": "2201"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

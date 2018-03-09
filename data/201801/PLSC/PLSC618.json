@@ -1,0 +1,26 @@
+{
+  "id": "PLSC618",
+  "title": "Advances in Research; Critiquing Primary Plant Science Literature",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mark Carroll,",
+      "seats": "15,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "PLS",
+      "room": "1164"
+    }
+  ],
+  "term": "201801",
+  "department": "Plant Sciences"
+}

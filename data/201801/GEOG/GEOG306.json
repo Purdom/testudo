@@ -1,0 +1,39 @@
+{
+  "id": "GEOG306",
+  "title": "Introduction to Quantitative Methods for the Geographic Environmental Sciences",
+  "credits": "3",
+  "description": "Credit only granted for: BIOM301, BMGT230, CCJS200, ECON230, ECON321, EDMS451, GEOG306, GEOL351, GVPT422, JOUR405, PSYC200 or SOCY201. (These courses do not necessarily meet the same major requirements-check with your advisor to see which of these courses will count for your major).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Naijun Zhou",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "TYD",
+      "room": "1118"
+    },
+    {
+      "id": "0102",
+      "instructor": "Naijun Zhou",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "TYD",
+      "room": "1118"
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

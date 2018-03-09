@@ -1,0 +1,26 @@
+{
+  "id": "GEOG384",
+  "title": "Internship in Geography I",
+  "credits": "3",
+  "description": "Prerequisite: GEOG211, GEOG306, GEOG212, and GEOG201; and (ENGL393 or ENGL390).\nRestriction: Must be in Geography program.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Allen Eney",
+      "seats": "25,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

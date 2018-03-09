@@ -1,0 +1,25 @@
+{
+  "id": "SURV631",
+  "title": "Questionnaire Design",
+  "credits": "2",
+  "description": "Restriction: Permission of BSOS-Joint Program in Survey Methodology department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "SVW1",
+      "instructor": "Florian Keusch",
+      "seats": "10,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Survey Methodology"
+}

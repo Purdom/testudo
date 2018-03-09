@@ -1,0 +1,26 @@
+{
+  "id": "UMEI006",
+  "title": "English Pronunciation",
+  "credits": "2",
+  "description": "Restriction: Must have graduate standing.",
+  "grading-method": [
+    "S-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Charles Duquette",
+      "seats": "15,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "10:30am",
+      "building": "ATL",
+      "room": "2416"
+    }
+  ],
+  "term": "201801",
+  "department": "Maryland English Institute"
+}

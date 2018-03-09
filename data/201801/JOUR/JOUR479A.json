@@ -1,0 +1,25 @@
+{
+  "id": "JOUR479A",
+  "title": "Special Topics in Data Gathering and Analysis; Web Analytics",
+  "credits": "3",
+  "description": "Prerequisite: JOUR352; and permission of Associate Dean Rafael Lorente (rlorente@umd.edu). Students will learn how to analyze and measure digital audiences using real-time analytics tools. We'll explore which metrics matter (page views, unique visitors, time on site, referrals, etc.) and how to define success. Course meets at The Washington Post.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mark Smith",
+      "seats": "12,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "10:00am",
+      "end": "12:45pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

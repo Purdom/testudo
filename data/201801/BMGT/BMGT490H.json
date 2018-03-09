@@ -1,0 +1,25 @@
+{
+  "id": "BMGT490H",
+  "title": "Quest Consulting and Innovation Practicum",
+  "credits": "4",
+  "description": "Prerequisite: ENES390 or BMGT390.\nAlso offered as: ENES490.\nCredit only granted for: BMGT490 or ENES490.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christina Elson,",
+      "seats": "45,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "7:40pm",
+      "building": "VMH",
+      "room": "1415"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

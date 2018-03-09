@@ -1,0 +1,26 @@
+{
+  "id": "SLAA649R",
+  "title": "Special Topics in Second Language Acquisition; Research Critique",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Steven Ross",
+      "seats": "10,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "JMZ",
+      "room": "1117"
+    }
+  ],
+  "term": "201801",
+  "department": "Second Language Acquisition and Application"
+}

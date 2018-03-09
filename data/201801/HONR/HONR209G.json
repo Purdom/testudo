@@ -1,0 +1,25 @@
+{
+  "id": "HONR209G",
+  "title": "Honors Seminar; Elements of Drawing for Non-Majors",
+  "credits": "3",
+  "description": "Students must pay a $40.00 studio lab fee.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Patrick Craig",
+      "seats": "16,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "3:00pm",
+      "building": "ASY",
+      "room": "2315"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

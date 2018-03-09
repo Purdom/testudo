@@ -1,0 +1,27 @@
+{
+  "id": "HIST428B",
+  "title": "Selected Topics in History; Seven Revolutions in Postwar Africa",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paul Landau",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TLF",
+      "room": "2108"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

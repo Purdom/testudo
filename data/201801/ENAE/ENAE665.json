@@ -1,0 +1,26 @@
+{
+  "id": "ENAE665",
+  "title": "Advanced Airbreathing Propulsion",
+  "credits": "3",
+  "description": "Prerequisite: ENAE674 and ENAE455; or students who have taken courses with comparable content may contact the department.\nRestriction: Permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kenneth Yu",
+      "seats": "15,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "JMP",
+      "room": "1202"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

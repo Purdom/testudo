@@ -1,0 +1,25 @@
+{
+  "id": "COMM478",
+  "title": "Communication Colloquium",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michelle Yang",
+      "seats": "40,",
+      "open-seats": "37,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "12:00pm",
+      "end": "1:30pm",
+      "building": "SKN",
+      "room": "0200"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

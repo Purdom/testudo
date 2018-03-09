@@ -1,0 +1,27 @@
+{
+  "id": "CHIN429J",
+  "title": "Selected Topics in Chinese Studies; The Story of the Stone",
+  "credits": "3",
+  "description": "This course will serve two purposes. The first is to read in its entirety a beautiful, scholarly and complete translation of a work that one fifth of the world's population consider to be the best novel ever written. The second is to learn something about the cultural history of China, in particular beliefs and practices of daily life. Taught in English.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andrew Schonebaum",
+      "seats": "25,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMZ",
+      "room": "0120"
+    }
+  ],
+  "term": "201801",
+  "department": "Chinese"
+}

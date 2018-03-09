@@ -1,0 +1,27 @@
+{
+  "id": "PERS498L",
+  "title": "Special Topics in Persian Studies; History of Iran in the Islamic Period (7th Century to the Present)",
+  "credits": "3",
+  "description": "Also offered as HIST429L and RELS419X. Credit granted for PERS498L, HIST429L, or RELS419X. An overview of the salient features of the cultural and social history of Iran over the past millennium and a half.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ahmet Karamustafa",
+      "seats": "15,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "HJP",
+      "room": "3120"
+    }
+  ],
+  "term": "201801",
+  "department": "Persian"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "COMM619E",
+  "title": "Consecutive Interpretation; Sight Translation; Chinese into English/English into Chinese",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "XGC1",
+      "instructor": "Irina Knizhnik",
+      "seats": "16,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:00pm",
+      "end": "6:50pm",
+      "building": "PLS",
+      "room": "1113"
+    },
+    {
+      "id": "XGE1",
+      "instructor": "Yu Tang",
+      "seats": "16,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "7:00pm",
+      "end": "7:50pm",
+      "building": "PLS",
+      "room": "1168"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

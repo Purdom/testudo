@@ -1,0 +1,74 @@
+{
+  "id": "ENPM650",
+  "title": "Solar Thermal Energy Systems",
+  "credits": "3",
+  "description": "Covers a review of related fundamentals, including limitations imposed by thermodynamics, solar spectral characteristics, measurement, and analytical models to predict solar irradiance with respect to time, location and orientation. The course will then examine the characteristics of various components in solar thermal systems with particular emphasis on flat plate and concentrating collectors, fixed and tracking collector systems, heat exchangers and thermal storage to understand how they work and how their performance is influenced by their design. The course will then lead to an examination of systems and system performance, including system design, predicted energy savings and related economics. The course will introduce low temperature applications such as solar hot water, space heating and water distillation, as well as concentrating solar energy for solar thermo-chemical processes to produce hydrogen and solar power generation systems. A project of importance to the development of Solar Thermal Power Systems will be assigned.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Brian Valentine",
+      "seats": "20,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "JMP",
+      "room": "2217"
+    },
+    {
+      "id": "HT01",
+      "instructor": "Brian Valentine",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "ME01",
+      "instructor": "Brian Valentine",
+      "seats": "20,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "SG01",
+      "instructor": "Brian Valentine",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "Brian Valentine",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Professional Masters"
+}

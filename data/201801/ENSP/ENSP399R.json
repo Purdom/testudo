@@ -1,0 +1,51 @@
+{
+  "id": "ENSP399R",
+  "title": "Special Topics in Environmental Science and Policy; Research",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Melissa Kenney,",
+      "seats": "15,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "10:00am",
+      "end": "1:00pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0301",
+      "instructor": "Instructor: TBA",
+      "seats": "15,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "1001",
+      "instructor": "Jennifer Murrow",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Policy"
+}

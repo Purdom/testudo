@@ -1,0 +1,27 @@
+{
+  "id": "ARCH478C",
+  "title": "Selected Topics in Architecture; Careers in Architecture",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Albert Rubeling",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "ARC",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

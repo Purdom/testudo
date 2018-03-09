@@ -1,0 +1,39 @@
+{
+  "id": "PSYC221",
+  "title": "Social Psychology",
+  "credits": "3",
+  "description": "Prerequisite: PSYC100.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Meg O'Neill",
+      "seats": "150,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "BRB",
+      "room": "1101"
+    },
+    {
+      "id": "0201",
+      "instructor": "Meg O'Neill",
+      "seats": "150,",
+      "open-seats": "27,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "BRB",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

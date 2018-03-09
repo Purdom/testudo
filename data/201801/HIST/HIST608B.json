@@ -1,0 +1,26 @@
+{
+  "id": "HIST608B",
+  "title": "General Seminar; American History",
+  "credits": "3",
+  "description": "Prerequisite: permission of department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Sicilia",
+      "seats": "12,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:00pm",
+      "end": "8:30pm",
+      "building": "TLF",
+      "room": "2103"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

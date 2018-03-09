@@ -1,0 +1,49 @@
+{
+  "id": "BMGT321",
+  "title": "Managerial Accounting",
+  "credits": "3",
+  "description": "Prerequisite: BMGT221.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shijun Cheng",
+      "seats": "35,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1206"
+    },
+    {
+      "id": "0201",
+      "instructor": "Shijun Cheng",
+      "seats": "35,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1206"
+    },
+    {
+      "id": "0301",
+      "instructor": "Shijun Cheng",
+      "seats": "35,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1206"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

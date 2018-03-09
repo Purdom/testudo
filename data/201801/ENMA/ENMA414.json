@@ -1,0 +1,25 @@
+{
+  "id": "ENMA414",
+  "title": "Introduction to Solid State Ionics",
+  "credits": "3",
+  "description": "Prerequisite: ENMA300; and permission of ENGR-Materials Science & Engineering department.\nCredit only granted for: ENMA414 or ENMA489W.\nFormerly: ENMA489W.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Eric Wachsman",
+      "seats": "15,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "CHE",
+      "room": "2136"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Materials"
+}

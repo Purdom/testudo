@@ -1,0 +1,25 @@
+{
+  "id": "CMSC389N",
+  "title": "Special Topics in Computer Science; Introduction to PHP & Javascript",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in CMSC250 and CMSC216; and permission of CMNS-Computer Science department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nelson Padua-Perez",
+      "seats": "130,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ESJ",
+      "room": "2204"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

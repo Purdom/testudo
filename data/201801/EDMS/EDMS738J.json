@@ -1,0 +1,26 @@
+{
+  "id": "EDMS738J",
+  "title": "Seminar in Special Problems in Measurement; Computer Adaptive Testing",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hong Jiao",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "0220"
+    }
+  ],
+  "term": "201801",
+  "department": "Measurement, Statistics, and Evaluation"
+}

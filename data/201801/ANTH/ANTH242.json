@@ -1,0 +1,27 @@
+{
+  "id": "ANTH242",
+  "title": "Fire, Farming and Climate Change: An Archaeology Take on the History of Human Impacts on our Planet",
+  "credits": "3",
+  "description": "An examination of why climate changes, the methods for recording climate change, and discuss case studies of the varied responses of past human societies to climate change in differentgeographic regions and time periods with varying socio-political and economic systems.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "George Hambrecht",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ESJ",
+      "room": "1202"
+    }
+  ],
+  "term": "201801",
+  "department": "Anthropology"
+}

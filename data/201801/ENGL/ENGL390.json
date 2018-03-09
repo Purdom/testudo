@@ -1,0 +1,181 @@
+{
+  "id": "ENGL390",
+  "title": "Science Writing",
+  "credits": "3",
+  "description": "Prerequisite: ENGL101; or students who have taken courses with comparable content may contact the department.\nRestriction: Must have earned a minimum of 60 credits; and junior standing or higher.\nCredit only granted for: ENGL390 or ENGL393S.\nFormerly: ENGL393S.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Marybeth Shea",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "TWS",
+      "room": "0224"
+    },
+    {
+      "id": "0301",
+      "instructor": "Katherine Oneill",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TWS",
+      "room": "1105"
+    },
+    {
+      "id": "0401",
+      "instructor": "Katherine Oneill",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "TWS",
+      "room": "1105"
+    },
+    {
+      "id": "0501",
+      "instructor": "Katherine Oneill",
+      "seats": "19,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "TWS",
+      "room": "0207"
+    },
+    {
+      "id": "1001",
+      "instructor": "Robin Allen-Klein",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "TWS",
+      "room": "0201"
+    },
+    {
+      "id": "1101",
+      "instructor": "Robin Allen-Klein",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "KNI",
+      "room": "1105"
+    },
+    {
+      "id": "1102",
+      "instructor": "Diana Friedman",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ARC",
+      "room": "1127"
+    },
+    {
+      "id": "1301",
+      "instructor": "Diana Friedman",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TWS",
+      "room": "1321"
+    },
+    {
+      "id": "1701",
+      "instructor": "Richard Reynnells",
+      "seats": "19,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:30pm",
+      "end": "9:10pm",
+      "building": "TWS",
+      "room": "0207"
+    },
+    {
+      "id": "1801",
+      "instructor": "Richard Reynnells",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:30pm",
+      "end": "9:10pm",
+      "building": "TWS",
+      "room": "0236"
+    },
+    {
+      "id": "9001",
+      "instructor": "John Matthews",
+      "seats": "19,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "9002",
+      "instructor": "John Matthews",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "9003",
+      "instructor": "John Matthews",
+      "seats": "19,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "9004",
+      "instructor": "John Matthews",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

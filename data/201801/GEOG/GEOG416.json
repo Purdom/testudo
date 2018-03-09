@@ -1,0 +1,27 @@
+{
+  "id": "GEOG416",
+  "title": "Conceptualizing and Modeling Human-Environmental Interactions",
+  "credits": "3",
+  "description": "Prerequisite: Permission of BSOS-Geography department. Or GEOG306, STAT100, MATH107, or MATH111; and (GEOG201 and GEOG202); and (GEOG331 or GEOG330).\nCorequisite: MATH130, MATH140, or MATH120; or MATH220.\nCredit only granted for: GEOG416 or GEOG498N.\nFormerly: GEOG498N.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kuishuang Feng",
+      "seats": "25,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "LEF",
+      "room": "1158"
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

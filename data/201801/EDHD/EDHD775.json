@@ -1,0 +1,25 @@
+{
+  "id": "EDHD775",
+  "title": "Human Development and Neuroscience",
+  "credits": "3",
+  "description": "Prerequisite: EDHD601; or permission of EDUC-Human Development and Quantitative Methodology department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Donald Bolger",
+      "seats": "20,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "10:00am",
+      "end": "12:45pm",
+      "building": "EDU",
+      "room": "2102"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Human Development"
+}

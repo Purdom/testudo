@@ -1,0 +1,26 @@
+{
+  "id": "STAT601",
+  "title": "Probability Theory II",
+  "credits": "3",
+  "description": "Prerequisite: STAT600.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Leonid Koralov",
+      "seats": "25,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "MTH",
+      "room": "0102"
+    }
+  ],
+  "term": "201801",
+  "department": "Statistics and Probability"
+}

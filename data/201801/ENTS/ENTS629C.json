@@ -1,0 +1,26 @@
+{
+  "id": "ENTS629C",
+  "title": "Special Topics in Cybersecurity; Fundamentals of IT Systems Security",
+  "credits": "3",
+  "description": "Restricted to ENTS majors.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Reza Eftekari",
+      "seats": "30,",
+      "open-seats": "23,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "9:00am",
+      "end": "11:45am",
+      "building": "EGR",
+      "room": "0135"
+    }
+  ],
+  "term": "201801",
+  "department": "Telecommunications"
+}

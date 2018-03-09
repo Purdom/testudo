@@ -1,0 +1,26 @@
+{
+  "id": "MIEH600",
+  "title": "Foundations of Environmental Health",
+  "credits": "3",
+  "description": "Credit only granted for: HLTH761 or MIEH600.\nFormerly: HLTH761.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paul Turner",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "1:00pm",
+      "end": "3:45pm",
+      "building": "SPH",
+      "room": "0303"
+    }
+  ],
+  "term": "201801",
+  "department": "Maryland Institute for Applied Environmental Health"
+}

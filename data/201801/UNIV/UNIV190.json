@@ -1,0 +1,27 @@
+{
+  "id": "UNIV190",
+  "title": "National Scholarships for International Goals",
+  "credits": "1",
+  "description": "Restriction: Freshman or Sophomore Standing.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Leslie Brice",
+      "seats": "20,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "MMH",
+      "room": "1304"
+    }
+  ],
+  "term": "201801",
+  "department": "University Courses"
+}

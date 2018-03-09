@@ -1,0 +1,26 @@
+{
+  "id": "URSP640",
+  "title": "Growth Management and Environmental Planning",
+  "credits": "3",
+  "description": "Topics associated with growth management, defined as policies and strategies by which governments attempted to control the amount, location, pace, pattern and quality of development within their jurisdictions.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Marccus Hendricks",
+      "seats": "25,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "ARC",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Urban Studies and Planning"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "INST728V",
+  "title": "Special Topics in Information Studies; Digital Educational Infrastructures: Practice, Theories, and Evidence of Sociotechnical Systems",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Philip Piety",
+      "seats": "10,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:00pm",
+      "end": "8:45pm",
+      "building": "HBK",
+      "room": "4113"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

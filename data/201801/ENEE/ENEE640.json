@@ -1,0 +1,26 @@
+{
+  "id": "ENEE640",
+  "title": "Digital CMOS VLSI Design",
+  "credits": "3",
+  "description": "Prerequisite: ENEE303 and ENEE350; or students who have taken courses with comparable content may contact the department; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ankur Srivastava",
+      "seats": "40,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EGR",
+      "room": "0135"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "STAT470",
+  "title": "Actuarial Mathematics",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (MATH240, MATH461, MATH341); and 1 course with a minimum grade of C- from (MATH340, MATH241).\nRecommended: STAT400.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Susan Mazzullo",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "ITV",
+      "room": "1100"
+    }
+  ],
+  "term": "201801",
+  "department": "Statistics and Probability"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "BSCI416",
+  "title": "Human Genetics",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in BSCI410.\nRecommended: BSCI330.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Moult,",
+      "seats": "48,",
+      "open-seats": "25,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "HJP",
+      "room": "2242"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

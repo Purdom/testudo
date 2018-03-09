@@ -1,0 +1,37 @@
+{
+  "id": "BIOE689X",
+  "title": "Special Topics in Bioengineering; Additive Manufacturing for Bioengineering Applications",
+  "credits": "3",
+  "description": "For Master of Engineering students only or with permission of department",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Keith Herold",
+      "seats": "30,",
+      "open-seats": "23,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "7:00pm",
+      "building": "HBK",
+      "room": "0123"
+    },
+    {
+      "id": "BI01",
+      "instructor": "Keith Herold",
+      "seats": "15,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

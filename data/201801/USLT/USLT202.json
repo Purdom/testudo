@@ -1,0 +1,27 @@
+{
+  "id": "USLT202",
+  "title": "US Latina/o Studies II: A Contemporary Overview 1960's to present",
+  "credits": "3",
+  "description": "Interdisciplinary course on emerging populations of Latinos in the 20th century with a focus on the multiple waves of latino immigration as a result of neocolonialism, imperialism, globalization and transnationalism. Examines the positioning of immigrant waves in the political, sociocultural and historical contexts of US Latinidades.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Perla Guerrero",
+      "seats": "30,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "JMZ",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "Latina/o Studies"
+}

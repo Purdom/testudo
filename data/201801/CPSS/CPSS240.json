@@ -1,0 +1,37 @@
+{
+  "id": "CPSS240",
+  "title": "College Park Scholars: Science, Technology & Society - Service-Learning Practicum",
+  "credits": "3",
+  "description": "Prerequisite: CPSS101; or permission of instructor.\nRestriction: Matriculation into the College Park Scholars Science, Technology & Society (CPSS) program; or permission of instructor.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Matthew Aruch",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CCC",
+      "room": "1205"
+    },
+    {
+      "id": "0201",
+      "instructor": "Matthew Aruch",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CCC",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars-Science, Technology and Society"
+}

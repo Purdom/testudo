@@ -1,0 +1,26 @@
+{
+  "id": "KNES161K",
+  "title": "Physical Education Activities: Coed; Cardio Kickboxing (Beginning)",
+  "credits": "2",
+  "description": "Attendance is required beginning the first day of class Students must pay a $40 instructional materials fee.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0001",
+      "instructor": "Laura Rush",
+      "seats": "50,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "1:00pm",
+      "end": "3:00pm",
+      "building": "ERC",
+      "room": "0105"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ENPM620",
+  "title": "Computer Aided Engineering Analysis",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ENGR-Office of Advanced Engineering Education.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "ME01",
+      "instructor": "Gilad Sharon",
+      "seats": "20,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Professional Masters"
+}

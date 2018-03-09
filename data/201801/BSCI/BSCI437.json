@@ -1,0 +1,27 @@
+{
+  "id": "BSCI437",
+  "title": "General Virology",
+  "credits": "3",
+  "description": "Prerequisite: BSCI222; or permission of CMNS-Biological Sciences UG Program.\nRestriction: Junior standing or higher.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jeffrey DeStefano",
+      "seats": "80,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "MCB",
+      "room": "1207"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SPAN204",
+  "title": "Spanish Grammar Review",
+  "credits": "3",
+  "description": "Prerequisite: SPAN203; or must have appropriate Foreign Language Placement Test (FLPT) score.\nRestriction: Not open to fluent/native speakers of Spanish.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sofia Maurette",
+      "seats": "25,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "JMZ",
+      "room": "0125"
+    },
+    {
+      "id": "0201",
+      "instructor": "Nelida Devesa-Gomez",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ASY",
+      "room": "3221"
+    },
+    {
+      "id": "0301",
+      "instructor": "Sofia Maurette",
+      "seats": "25,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "JMZ",
+      "room": "2123"
+    }
+  ],
+  "term": "201801",
+  "department": "Spanish"
+}

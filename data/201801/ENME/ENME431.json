@@ -1,0 +1,27 @@
+{
+  "id": "ENME431",
+  "title": "Nuclear Reactor Systems and Safety",
+  "credits": "3",
+  "description": "Prerequisite: MATH246.\nRecommended: ENME430.\nRestriction: Permission of ENGR-Mechanical Engineering department.\nAlso offered as: ENNU465.\nCredit only granted for: ENNU465 and ENME431.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Sanders",
+      "seats": "35,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMP",
+      "room": "2121"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "ENES220",
+  "title": "Mechanics II",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in ENES102; and (MATH141 and PHYS161).\nRestriction: Must be in a major in ENGR-A. James Clark School of Engineering; and must not be in Engineering: Electrical program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Beigel",
+      "seats": "45,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "EGR",
+      "room": "0108"
+    },
+    {
+      "id": "0102",
+      "instructor": "Peter Chang",
+      "seats": "45,",
+      "open-seats": "40,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "EGR",
+      "room": "1108"
+    },
+    {
+      "id": "0103",
+      "instructor": "Teng Li",
+      "seats": "45,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "KEB",
+      "room": "1110"
+    },
+    {
+      "id": "0105",
+      "instructor": "Bongtae Han",
+      "seats": "45,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PHY",
+      "room": "4221"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

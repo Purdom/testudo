@@ -1,0 +1,49 @@
+{
+  "id": "BMGT417",
+  "title": "Taxation of Corporations, Partnerships and Estates",
+  "credits": "3",
+  "description": "Prerequisite: BMGT221.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Leslie Mostow",
+      "seats": "40,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "VMH",
+      "room": "1202"
+    },
+    {
+      "id": "SG91",
+      "instructor": "Thomas Kelley",
+      "seats": "40,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "BLD3",
+      "room": "4215"
+    },
+    {
+      "id": "SG92",
+      "instructor": "Thomas Kelley",
+      "seats": "40,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "BLD3",
+      "room": "4215"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

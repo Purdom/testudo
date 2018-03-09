@@ -1,0 +1,61 @@
+{
+  "id": "CPSN101",
+  "title": "College Park Scholars: International Studies First-Year Colloquium II",
+  "credits": "1",
+  "description": "Prerequisite: CPSN100.\nRestriction: Students must be enrolled in the College Park Scholars International Studies (CPSN) program.\nAdditional information: When paired with the successful completion of CPSN 100, students will earn Diversity/Cultural Competence General Education credits.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Coates,",
+      "seats": "25,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CCC",
+      "room": "1100"
+    },
+    {
+      "id": "0102",
+      "instructor": "Michael Coates,",
+      "seats": "25,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CBD",
+      "room": "1140"
+    },
+    {
+      "id": "0103",
+      "instructor": "James Glass,",
+      "seats": "25,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CCC",
+      "room": "1115"
+    },
+    {
+      "id": "0104",
+      "instructor": "James Glass,",
+      "seats": "25,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CCC",
+      "room": "1200"
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars-International Studies"
+}

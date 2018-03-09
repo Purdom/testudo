@@ -1,0 +1,25 @@
+{
+  "id": "ARCH470",
+  "title": "Computer Applications in Architecture",
+  "credits": "3",
+  "description": "Prerequisite: ARCH400; or permission of ARCH-Architecture Program.\nRestriction: Must be in Architecture (B.S.) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andrew Lindberg",
+      "seats": "22,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:30pm",
+      "building": "ARC",
+      "room": "1115"
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

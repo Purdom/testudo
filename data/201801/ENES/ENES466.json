@@ -1,0 +1,37 @@
+{
+  "id": "ENES466",
+  "title": "Leading and Financing the Technology Venture",
+  "credits": "3",
+  "description": "Restriction: Permission of ENGR-Maryland Technology Enterprise Institute.\nCredit only granted for: ENES466, BMGT365 or HLMN471.\nAdditional information: Course may not be used to fulfill any BMGT major or minor program requirement.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Pratt",
+      "seats": "30,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "SQH",
+      "room": "1103"
+    },
+    {
+      "id": "0201",
+      "instructor": "Michael Pratt",
+      "seats": "43,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

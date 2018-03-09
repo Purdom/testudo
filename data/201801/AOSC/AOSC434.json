@@ -1,0 +1,39 @@
+{
+  "id": "AOSC434",
+  "title": "Air Pollution",
+  "credits": "3",
+  "description": "Prerequisite: MATH241; or permission of CMNS-Atmospheric & Oceanic Science department.\nFormerly: METO434.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Russell Dickerson",
+      "seats": "25,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ATL",
+      "room": "1114"
+    },
+    {
+      "id": "AM01",
+      "instructor": "Russell Dickerson",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ATL",
+      "room": "1114"
+    }
+  ],
+  "term": "201801",
+  "department": "Atmospheric and Oceanic Science"
+}

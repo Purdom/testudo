@@ -1,0 +1,25 @@
+{
+  "id": "CHEM134",
+  "title": "Chemical Principles for Engineering",
+  "credits": "1",
+  "description": "Prerequisite: Minimum grade of C- in CHEM131; or minimum grade of C- in CHEM146.\nCredit only granted for: CHEM 134 or CHEM 135.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Earle Stone",
+      "seats": "155,",
+      "open-seats": "31,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "ESJ",
+      "room": "2208"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

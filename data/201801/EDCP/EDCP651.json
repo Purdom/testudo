@@ -1,0 +1,26 @@
+{
+  "id": "EDCP651",
+  "title": "Group Counseling in Schools",
+  "credits": "3",
+  "description": "Prerequisite: EDCP616; and for school counseling and school psychology students only.\nRestriction: Permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Richard Shin",
+      "seats": "10,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "JMZ",
+      "room": "1123"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

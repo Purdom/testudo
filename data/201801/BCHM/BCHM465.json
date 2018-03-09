@@ -1,0 +1,27 @@
+{
+  "id": "BCHM465",
+  "title": "Biochemistry III",
+  "credits": "3",
+  "description": "Prerequisite: BCHM461 or BCHM463; and a grade of C- or better in the prerequisite is required for College of Computer, Mathematical, and Natural Sciences majors and recommended for all students.\nRecommended: BCHM462.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paul Paukstelis",
+      "seats": "80,",
+      "open-seats": "36,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "CHM",
+      "room": "1402"
+    }
+  ],
+  "term": "201801",
+  "department": "Biochemistry"
+}

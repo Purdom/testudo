@@ -1,0 +1,27 @@
+{
+  "id": "ISRL349C",
+  "title": "Investigating Topics in Israel Studies; The history of urbanization and urban culture in Israel",
+  "credits": "3",
+  "description": "Urbanization in Mandatory Palestine and the State of Israel from World War I to the present, analyzing the unique Israeli urban experience, Jewish and Arabs, as well as the shared experience of the two nations. Focus on Tel Aviv, Jaffa and the metropolitan area of Gush Dan.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Eran Eldar",
+      "seats": "40,",
+      "open-seats": "38,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TYD",
+      "room": "2108"
+    }
+  ],
+  "term": "201801",
+  "department": "Israel Studies"
+}

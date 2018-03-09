@@ -1,0 +1,26 @@
+{
+  "id": "NACS642",
+  "title": "Cognitive Neuroscience",
+  "credits": "4",
+  "description": "A study of the fundamental concepts and techniques of cognitive neuroscience. Hands-on experience with three critically different cognitive neuroscience methods: EEG, MEG, and fMRI.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ellen Lau",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "10:00am",
+      "end": "12:00pm",
+      "building": "COL",
+      "room": "0211"
+    }
+  ],
+  "term": "201801",
+  "department": "Neuroscience & Cognitive Science"
+}

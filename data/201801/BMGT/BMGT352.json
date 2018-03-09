@@ -1,0 +1,25 @@
+{
+  "id": "BMGT352",
+  "title": "Customer-Centric Innovation",
+  "credits": "3",
+  "description": "Prerequisite: BMGT350.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yogesh Joshi",
+      "seats": "35,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1415"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

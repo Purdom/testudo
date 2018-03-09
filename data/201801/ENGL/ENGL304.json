@@ -1,0 +1,27 @@
+{
+  "id": "ENGL304",
+  "title": "The Major Works of Shakespeare",
+  "credits": "3",
+  "description": "Restriction: Must not have completed ENGL403 or ENGL404.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elizabeth McClure",
+      "seats": "29,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "TWS",
+      "room": "0221"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

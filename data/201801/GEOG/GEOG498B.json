@@ -1,0 +1,27 @@
+{
+  "id": "GEOG498B",
+  "title": "Topical Investigations; Coupled Human and Natural Systems",
+  "credits": "3",
+  "description": "This course considers various ways of understanding interactions and feedback loops between human and natural systems. We begin with core readings on coupled systems, then proceed into different methods for researching such systems. Students will gain fundamental understandings of this emerging area, opportunities to \"'practice\" appropriate methodological approaches, and a chance to conduct their own research.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christina Prell",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "TYD",
+      "room": "0111"
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

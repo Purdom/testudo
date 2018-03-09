@@ -1,0 +1,86 @@
+{
+  "id": "ENME600",
+  "title": "Engineering Design Methods",
+  "credits": "3",
+  "description": "An introductory graduate level course in critical thinking about formal methods for design in Mechanical Engineering. Course participants gain background on these methods and the creative potential each offers to designers. Participants will formulate, present, and discuss their own opinions on the value and appropriate use of design materials for mechanical engineering.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Linda Schmidt",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "JMP",
+      "room": "2222"
+    },
+    {
+      "id": "ER01",
+      "instructor": "Linda Schmidt",
+      "seats": "5,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "HT01",
+      "instructor": "Linda Schmidt",
+      "seats": "2,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "RE01",
+      "instructor": "Linda Schmidt",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "SG01",
+      "instructor": "Linda Schmidt",
+      "seats": "2,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "Linda Schmidt",
+      "seats": "2,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

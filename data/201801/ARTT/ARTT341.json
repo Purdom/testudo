@@ -1,0 +1,27 @@
+{
+  "id": "ARTT341",
+  "title": "Elements of Printmaking: Woodcut and Relief",
+  "credits": "3",
+  "description": "Prerequisite: ARTT200, ARTT210, and ARTT150; or permission of ARHU-Art department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alessandra Echeverri",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "11:30am",
+      "building": "ASY",
+      "room": "1317"
+    }
+  ],
+  "term": "201801",
+  "department": "Art Studio"
+}

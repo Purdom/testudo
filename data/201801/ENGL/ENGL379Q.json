@@ -1,0 +1,27 @@
+{
+  "id": "ENGL379Q",
+  "title": "Special Topics in Literature; The American Dream in Ethnic American Literature",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Kolakoski",
+      "seats": "25,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TWS",
+      "room": "0221"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

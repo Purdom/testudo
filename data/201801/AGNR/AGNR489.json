@@ -1,0 +1,27 @@
+{
+  "id": "AGNR489",
+  "title": "Field Experience; Travel Study Seminar",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Evelyn Cooper",
+      "seats": "2,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Agriculture and Natural Resources"
+}

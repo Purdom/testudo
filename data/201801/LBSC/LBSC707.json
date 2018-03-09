@@ -1,0 +1,26 @@
+{
+  "id": "LBSC707",
+  "title": "Field Study in Information Service",
+  "credits": "3",
+  "description": "Prerequisite: LBSC602, LBSC671, and LBSC631; and must have completed an additional 9 credits. Or permission of instructor.\nRestriction: Must be in Library and Information Science (Master's) program; and permission of INFO-College of Information Studies.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "ML01",
+      "instructor": "Rocco Debonis",
+      "seats": "25,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Library Science"
+}

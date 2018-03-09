@@ -1,0 +1,26 @@
+{
+  "id": "EDCP870",
+  "title": "Professional Issues Seminar",
+  "credits": "3",
+  "description": "Credit only granted for: EDCP656 or EDCP870.\nFormerly: EDCP656.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paul Gold",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "ASY",
+      "room": "3211"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

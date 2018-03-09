@@ -1,0 +1,109 @@
+{
+  "id": "ENGL392",
+  "title": "Legal Writing",
+  "credits": "3",
+  "description": "Prerequisite: ENGL101; or students who have taken courses with comparable content may contact the department.\nRestriction: Must have earned a minimum of 60 credits.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Robin Earnest",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "TWS",
+      "room": "0232"
+    },
+    {
+      "id": "0301",
+      "instructor": "Robin Earnest",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TWS",
+      "room": "0230"
+    },
+    {
+      "id": "1101",
+      "instructor": "William Schatz",
+      "seats": "19,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "KNI",
+      "room": "1103"
+    },
+    {
+      "id": "1201",
+      "instructor": "William Schatz",
+      "seats": "19,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TWS",
+      "room": "0234"
+    },
+    {
+      "id": "1301",
+      "instructor": "John Kim",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TWS",
+      "room": "0234"
+    },
+    {
+      "id": "1601",
+      "instructor": "Michael Winett",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:30pm",
+      "end": "9:10pm",
+      "building": "TWS",
+      "room": "0232"
+    },
+    {
+      "id": "1701",
+      "instructor": "Michael Winett",
+      "seats": "19,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:30pm",
+      "end": "9:10pm",
+      "building": "TWS",
+      "room": "0232"
+    },
+    {
+      "id": "1801",
+      "instructor": "Michael Winett",
+      "seats": "19,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:30pm",
+      "end": "9:10pm",
+      "building": "TWS",
+      "room": "0232"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

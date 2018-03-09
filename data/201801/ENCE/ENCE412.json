@@ -1,0 +1,27 @@
+{
+  "id": "ENCE412",
+  "title": "Environmental Engineering Unit Operations",
+  "credits": "3",
+  "description": "Prerequisite: ENCE305 and ENCE310; and permission of ENGR-Civil & Environmental Engineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Allen Davis",
+      "seats": "43,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "EGR",
+      "room": "3106"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

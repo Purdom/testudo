@@ -1,0 +1,27 @@
+{
+  "id": "ARTT479C",
+  "title": "Advanced Digital Media Studio; Sound Art: Practice and Theory",
+  "credits": "3",
+  "description": "Prerequisite: ARTT370. Students must pay a $40.00 studio lab fee. Basics of sound recording, mixing, and processing, as well as creative applications of sound used for screen-based practices, performance and installation art. Theoretical concepts central to sound as an artistic medium are also introduced.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shannon Collis",
+      "seats": "12,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "ASY",
+      "room": "3304"
+    }
+  ],
+  "term": "201801",
+  "department": "Art Studio"
+}

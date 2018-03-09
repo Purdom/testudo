@@ -1,0 +1,49 @@
+{
+  "id": "ANTH857",
+  "title": "Museum Scholarship Practicum",
+  "credits": "3 -",
+  "description": "Prerequisite: HIST810.\nRestriction: Permission of Museum Scholarship Program required.\nAlso offered as: HIST811, AMST857.\nCredit only granted for: ANTH857, AMST857, or HIST811.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mary Alexander",
+      "seats": "5,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0401",
+      "instructor": "Instructor: TBA",
+      "seats": "2,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "1005",
+      "instructor": "Judith Freidenberg",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Anthropology"
+}

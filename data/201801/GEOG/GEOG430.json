@@ -1,0 +1,27 @@
+{
+  "id": "GEOG430",
+  "title": "Climate, Energy, and Policy",
+  "credits": "3",
+  "description": "Prerequisite: Permission of BSOS-Geography department. Or GEOG201 or GEOG202; and (GEOG306 and GEOG301).\nAlso offered as: GEOG630.\nCredit only granted for: GEOG430, GEOG630 or GEOG498E.\nFormerly: GEOG498E.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Giovanni Baiocchi",
+      "seats": "24,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "LEF",
+      "room": "1201"
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

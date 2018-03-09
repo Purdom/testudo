@@ -1,0 +1,27 @@
+{
+  "id": "ECON230",
+  "title": "Applied Economic Statistics",
+  "credits": "3",
+  "description": "Prerequisite: Must have math eligibility of MATH113 or higher; or 1 course with a minimum grade of C- from (MATH107, MATH110). And minimum grade of C- in ECON200 and ECON201.\nRecommended: Students should already have basic familiarity with Microsoft Excel or similar spreadsheet software.\nRestriction: Must be in Economics Bachelor of Arts program.\nCredit only granted for: BIOM301, BMGT230, CCJS200, ECON230, ECON321, EDMS451, GEOG306, GEOL351, GVPT422, INST314, JOUR405, PSYC200 or SOCY201. (These courses do not necessarily meet the same major requirements-check with your advisor to see which of these courses will count for your major).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Satyendra Verma",
+      "seats": "70,",
+      "open-seats": "35,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ESJ",
+      "room": "0215"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

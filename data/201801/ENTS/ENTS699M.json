@@ -1,0 +1,26 @@
+{
+  "id": "ENTS699M",
+  "title": "Independent Study in Telecommunications; Python Programming",
+  "credits": "1",
+  "description": "Click here for more course information.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Dellomo",
+      "seats": "10,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Telecommunications"
+}

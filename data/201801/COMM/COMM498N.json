@@ -1,0 +1,27 @@
+{
+  "id": "COMM498N",
+  "title": "Seminar; Creating the Narrative: Genre-Filmmaking and Dramatic Structure",
+  "credits": "3",
+  "description": "First time filmmakers often use genre traditions to break into the profession. In this class we will explore the history, motifs, and technique of the horror, suspense and romantic comedy genres.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "Adam Nixon",
+      "seats": "30,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:15pm",
+      "end": "6:45pm",
+      "building": "BLD3",
+      "room": "3216"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

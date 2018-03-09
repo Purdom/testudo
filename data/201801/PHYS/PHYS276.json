@@ -1,0 +1,63 @@
+{
+  "id": "PHYS276",
+  "title": "Experimental Physics II: Electricity and Magnetism",
+  "credits": "2",
+  "description": "Prerequisite: PHYS272 and PHYS275.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sarah Eno",
+      "seats": "12,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "1:00pm",
+      "end": "4:50pm",
+      "building": "PHY",
+      "room": "3120"
+    },
+    {
+      "id": "0201",
+      "instructor": "Sarah Eno",
+      "seats": "12,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "1:00pm",
+      "end": "4:50pm",
+      "building": "PHY",
+      "room": "3120"
+    },
+    {
+      "id": "0301",
+      "instructor": "Ki-Yong Kim",
+      "seats": "12,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "5:50pm",
+      "building": "PHY",
+      "room": "3120"
+    },
+    {
+      "id": "0401",
+      "instructor": "Ki-Yong Kim",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "5:50pm",
+      "building": "PHY",
+      "room": "3120"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

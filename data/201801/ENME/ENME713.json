@@ -1,0 +1,27 @@
+{
+  "id": "ENME713",
+  "title": "Nanoparticle Aerosol Dynamics",
+  "credits": "3",
+  "description": "Restriction: Permission of instructor.\nAlso offered as: CHEM608.\nCredit only granted for: ENME713 or ENME808M.\nFormerly: ENME808M.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Zachariah",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CHM",
+      "room": "0128"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

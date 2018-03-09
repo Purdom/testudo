@@ -1,0 +1,133 @@
+{
+  "id": "ENEE101",
+  "title": "Introduction to Electrical & Computer Engineering",
+  "credits": "3",
+  "description": "Corequisite: MATH140. And corequisite: ENEE140 or CMSC131; or a score of 5 on the A Java AP exam; or a score of 4 or 5 on the AB Java AP exam; or satisfactory performance on the department's placement exam.\nRestriction: Must be in one of the following programs (Engineering: Electrical; Engineering: Computer) ; and students cannot enroll in ENEE101 and ENES100 in the same semester.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ramalingam Chellappa",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ESJ",
+      "room": "1224"
+    },
+    {
+      "id": "0102",
+      "instructor": "Ramalingam Chellappa",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ESJ",
+      "room": "1224"
+    },
+    {
+      "id": "0103",
+      "instructor": "Ramalingam Chellappa",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ESJ",
+      "room": "1224"
+    },
+    {
+      "id": "0104",
+      "instructor": "Ramalingam Chellappa",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ESJ",
+      "room": "1224"
+    },
+    {
+      "id": "0105",
+      "instructor": "Ramalingam Chellappa",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ESJ",
+      "room": "1224"
+    },
+    {
+      "id": "0106",
+      "instructor": "Ramalingam Chellappa",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ESJ",
+      "room": "1224"
+    },
+    {
+      "id": "0107",
+      "instructor": "Ramalingam Chellappa",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ESJ",
+      "room": "1224"
+    },
+    {
+      "id": "0108",
+      "instructor": "Ramalingam Chellappa",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ESJ",
+      "room": "1224"
+    },
+    {
+      "id": "0109",
+      "instructor": "Ramalingam Chellappa",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ESJ",
+      "room": "1224"
+    },
+    {
+      "id": "0110",
+      "instructor": "Ramalingam Chellappa",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ESJ",
+      "room": "1224"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

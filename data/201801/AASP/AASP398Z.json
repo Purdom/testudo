@@ -1,0 +1,27 @@
+{
+  "id": "AASP398Z",
+  "title": "Selected Topics in the African Diaspora; Black Contributions to History",
+  "credits": "3",
+  "description": "This course is an in-depth quest of Africa's contributions to humanity in sciences and philosophy from Egyptian antiquity to the scramble of Africa era. It will enlighten students to the undeniable African discoveries in various areas of scholarship and their stolen legacy. It will also allow students to appreciate numerous African unacknowledged achievements and reveal the premises of a new philosophy largely founded on the sciences and scientific experience, which could, perhaps one day, reconcile humanity to itself.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "George Kintiba",
+      "seats": "35,",
+      "open-seats": "28,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "11:15am",
+      "building": "WDS",
+      "room": "0104"
+    }
+  ],
+  "term": "201801",
+  "department": "African American Studies"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "SOCY645",
+  "title": "Sociology of the Self Concept",
+  "credits": "3",
+  "description": "Theory and empirical research dealing with the social determination and social consequences of the self-concept. Sociological, psychological, and psychoanalytic approaches to the self.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Rashawn Ray",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "ASY",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "ENCE664",
+  "title": "Legal Aspects of Engineering Design and Construction",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ENGR-Civil & Environmental Engineering department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Powell,",
+      "seats": "50,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "JMP",
+      "room": "2121"
+    },
+    {
+      "id": "HT01",
+      "instructor": "Thomas Powell,",
+      "seats": "20,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "SG01",
+      "instructor": "Thomas Barham,",
+      "seats": "20,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "Thomas Barham,",
+      "seats": "20,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

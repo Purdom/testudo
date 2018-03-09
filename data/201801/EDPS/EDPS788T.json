@@ -1,0 +1,26 @@
+{
+  "id": "EDPS788T",
+  "title": "Special Topics in Education Policy and Administration; Core II",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Diane Ketelhut",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "2101"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Policy Studies"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "LING641",
+  "title": "Issues in Psycholinguistics",
+  "credits": "3",
+  "description": "Prerequisite: LING640.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Colin Phillips",
+      "seats": "15,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "1:30pm",
+      "building": "MMH",
+      "room": "1108B"
+    }
+  ],
+  "term": "201801",
+  "department": "Linguistics"
+}

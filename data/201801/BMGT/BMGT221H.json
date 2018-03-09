@@ -1,0 +1,25 @@
+{
+  "id": "BMGT221H",
+  "title": "Principles of Accounting II",
+  "credits": "3",
+  "description": "Prerequisite: BMGT220.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Martin Loeb",
+      "seats": "35,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1336"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

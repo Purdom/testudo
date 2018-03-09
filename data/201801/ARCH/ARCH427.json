@@ -1,0 +1,27 @@
+{
+  "id": "ARCH427",
+  "title": "Theories of Architecture",
+  "credits": "3",
+  "description": "Prerequisite: ARCH426; or permission of ARCH-Architecture Program.\nRestriction: Must be in Architecture (B.S.) program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Mogensen",
+      "seats": "15,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "7:00pm",
+      "end": "8:15pm",
+      "building": "ATL",
+      "room": "2316"
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

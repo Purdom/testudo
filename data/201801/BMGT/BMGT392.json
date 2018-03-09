@@ -1,0 +1,37 @@
+{
+  "id": "BMGT392",
+  "title": "Introduction to International Business Management",
+  "credits": "3",
+  "description": "Prerequisite: ECON200.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Matthew Arnold",
+      "seats": "40,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "VMH",
+      "room": "1412"
+    },
+    {
+      "id": "SG91",
+      "instructor": "Richard Hutchins",
+      "seats": "50,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "BLD3",
+      "room": "4202"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

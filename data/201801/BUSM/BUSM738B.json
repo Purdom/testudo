@@ -1,0 +1,25 @@
+{
+  "id": "BUSM738B",
+  "title": "Investment Fund Management; New Market Venture Fund",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mark Grovic",
+      "seats": "15,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "VMH",
+      "room": "2505"
+    }
+  ],
+  "term": "201801",
+  "department": "Full-Time MBA Program"
+}

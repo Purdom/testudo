@@ -1,0 +1,38 @@
+{
+  "id": "COMM749F",
+  "title": "Advanced Simultaneous Interpretation; Spanish into English/English into Spanish",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "XGE1",
+      "instructor": "Karin Ruckhaus",
+      "seats": "16,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "SKN",
+      "room": "3118"
+    },
+    {
+      "id": "XGS1",
+      "instructor": "Rosalinda Meza-Steel",
+      "seats": "16,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "Sa",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "SKN",
+      "room": "3118"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

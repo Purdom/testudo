@@ -1,0 +1,27 @@
+{
+  "id": "THET325",
+  "title": "Actor's Process I",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in THET310; or permission of Instructor. And must audition; and permission of ARHU-School of Theatre, Dance & Performance Studies department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Mitchell Hebert",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "PAC",
+      "room": "3730"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre"
+}

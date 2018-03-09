@@ -1,0 +1,75 @@
+{
+  "id": "EDCP108I",
+  "title": "College and Career Advancement: Concepts and Skills; Academic Transitions to Internships",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hawi Bekele Bengessa",
+      "seats": "30,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "0201",
+      "instructor": "Erin Rooney-Eckel",
+      "seats": "30,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "0301",
+      "instructor": "Maria Bowman",
+      "seats": "30,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "0401",
+      "instructor": "Hawi Bekele Bengessa",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "0501",
+      "instructor": "Alicia Montague",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

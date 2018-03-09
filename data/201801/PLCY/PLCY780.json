@@ -1,0 +1,26 @@
+{
+  "id": "PLCY780",
+  "title": "The American Foreign Policy-Making Process",
+  "credits": "3",
+  "description": "Restriction: Must be in a major in PLCY-School of Public Policy; or permission of PLCY-School of Public Policy.\nCredit only granted for: PLCY780 or PUAF780.\nFormerly: PUAF780.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Jonas Siegel",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "1:30pm",
+      "end": "4:00pm",
+      "building": "VMH",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

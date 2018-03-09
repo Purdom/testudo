@@ -1,0 +1,27 @@
+{
+  "id": "MUSC448F",
+  "title": "Selected Topics in Music; Style Analysis",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Fry",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PAC",
+      "room": "3160"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

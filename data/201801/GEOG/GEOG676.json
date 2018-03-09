@@ -1,0 +1,26 @@
+{
+  "id": "GEOG676",
+  "title": "Advanced Programming for Geography and Remote Sensing",
+  "credits": "3",
+  "description": "Prerequisite: GEOG376; or permission of BSOS-Geography department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Louis Giglio",
+      "seats": "25,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:30pm",
+      "end": "7:00pm",
+      "building": "LEF",
+      "room": "1171"
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "BSST631",
+  "title": "Societal Impacts of and Responses to Terrorism",
+  "credits": "3",
+  "description": "Restriction: Must be in Terrorism Analysis Graduate Certificate Program; or permission of department.\nCredit only granted for: BSOS631 or BSST631.\nFormerly: BSOS631.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "ST01",
+      "instructor": "Emina Herovic",
+      "seats": "35,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "6:00pm",
+      "end": "8:30pm",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Terrorism Studies"
+}

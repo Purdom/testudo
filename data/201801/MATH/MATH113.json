@@ -1,0 +1,147 @@
+{
+  "id": "MATH113",
+  "title": "College Algebra and Trigonometry",
+  "credits": "3",
+  "description": "Prerequisite: Must have math eligibility of MATH113 or higher; and math eligibility is based on the Math Placement Exam or the successful completion of MATH 003 with appropriate eligibility.\nRestriction: Must not have completed MATH120, MATH140, MATH112, MATH115, or MATH130; and must not have completed any course with a prerequisite of MATH120, MATH130, MATH140 or MATH220; and must not have completed MATH220.\nCredit only granted for: Students who have credits for MATH113 may not also receive credits for MATH107, MATH110, MATH112, or MATH115.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Zachary Greenberg",
+      "seats": "27,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "MTH",
+      "room": "0401"
+    },
+    {
+      "id": "0102",
+      "instructor": "Shin Song",
+      "seats": "27,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "MTH",
+      "room": "0306"
+    },
+    {
+      "id": "0103",
+      "instructor": "Brandon Alexander",
+      "seats": "27,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "MTH",
+      "room": "B0429"
+    },
+    {
+      "id": "0201",
+      "instructor": "Zachary Greenberg",
+      "seats": "27,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "MTH",
+      "room": "0401"
+    },
+    {
+      "id": "0202",
+      "instructor": "Shin Song",
+      "seats": "27,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "MTH",
+      "room": "0306"
+    },
+    {
+      "id": "0203",
+      "instructor": "Brandon Alexander",
+      "seats": "27,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "MTH",
+      "room": "B0429"
+    },
+    {
+      "id": "0204",
+      "instructor": "Jacqueline Stone",
+      "seats": "27,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "MTH",
+      "room": "0407"
+    },
+    {
+      "id": "0301",
+      "instructor": "Mirna Pinsky",
+      "seats": "27,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "MTH",
+      "room": "0105"
+    },
+    {
+      "id": "0302",
+      "instructor": "Charles Daly",
+      "seats": "27,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "MTH",
+      "room": "B0427"
+    },
+    {
+      "id": "0401",
+      "instructor": "Mirna Pinsky",
+      "seats": "27,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "MTH",
+      "room": "0105"
+    },
+    {
+      "id": "0402",
+      "instructor": "Charles Daly",
+      "seats": "27,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "MTH",
+      "room": "B0427"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

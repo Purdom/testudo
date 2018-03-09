@@ -1,0 +1,26 @@
+{
+  "id": "EDCI788A",
+  "title": "Selected Topics in Teacher Education; Linguistics in Education",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jeff MacSwan",
+      "seats": "30,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "7:45pm",
+      "building": "EDU",
+      "room": "1121"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

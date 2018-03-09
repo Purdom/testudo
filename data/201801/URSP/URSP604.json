@@ -1,0 +1,26 @@
+{
+  "id": "URSP604",
+  "title": "The Planning Process",
+  "credits": "3",
+  "description": "Credit only granted for: URSP604, URBS656, or URBS604.\nFormerly: URBS604.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ariel Bierbaum",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "ARC",
+      "room": "1105"
+    }
+  ],
+  "term": "201801",
+  "department": "Urban Studies and Planning"
+}

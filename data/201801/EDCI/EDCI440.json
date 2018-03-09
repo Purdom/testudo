@@ -1,0 +1,25 @@
+{
+  "id": "EDCI440",
+  "title": "Internship Seminar in Secondary Education: English",
+  "credits": "1",
+  "description": "Prerequisite: EDCI447 and EDCI467.\nCorequisite: EDCI441 and EDCI474.\nRestriction: Must be in Secondary Educ: English Language Arts program; and minimum cumulative GPA of 2.75. Or permission of EDUC-Teaching, Learning, Policy and Leadership department.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Peggy Wilson",
+      "seats": "35,",
+      "open-seats": "27,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:15pm",
+      "end": "7:15pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

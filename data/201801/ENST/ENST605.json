@@ -1,0 +1,26 @@
+{
+  "id": "ENST605",
+  "title": "Energy and Environment",
+  "credits": "3",
+  "description": "Prerequisite: MATH120; or must have completed MATH220; or students who have taken courses with comparable content may contact the department.\nAlso offered as: ENST405.\nCredit only granted for: ENST405, ENST605, NRMT489Z, or MEES698Z.\nFormerly: MEES698Z.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Tilley",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:00pm",
+      "end": "8:50pm",
+      "building": "ANS",
+      "room": "1422"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

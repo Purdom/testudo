@@ -1,0 +1,25 @@
+{
+  "id": "PHYS457",
+  "title": "Introduction to Quantum Computing",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (MATH240, PHYS274); and 1 course with a minimum grade of C- from (CMSC351, PHYS373).\nCorequisite: Permission of CMNS-Physics department.\nAlso offered as: CMSC457.\nCredit only granted for: PHYS457 or CMSC457.\nAdditional information: No previous background in quantum mechanics is required.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Xiaodi Wu",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CSI",
+      "room": "1122"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

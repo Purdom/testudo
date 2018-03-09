@@ -1,0 +1,26 @@
+{
+  "id": "INST736",
+  "title": "Computational Linguistics II",
+  "credits": "3",
+  "description": "Prerequisite: LING723 or CMSC723; or permission of instructor.\nRestriction: Permission of INFO-College of Information Studies.\nAlso offered as: CMSC773, LING773.\nCredit only granted for: INST736, INST728C, CMSC773, LING773, or LBSC774.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Philip Resnik",
+      "seats": "30,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:30pm",
+      "end": "4:00pm",
+      "building": "WDS",
+      "room": "0104"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "BUSI785",
+  "title": "Project Management in Dynamic Environments",
+  "credits": "2",
+  "description": "Restriction: Must be in one of the following programs (Business and Management (Master's); Business and Management (Master's)) ; or permission of BMGT-Robert H. Smith School of Business.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Barnet Corwin",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "VMH",
+      "room": "1511"
+    },
+    {
+      "id": "0502",
+      "instructor": "Barnet Corwin",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "VMH",
+      "room": "1511"
+    },
+    {
+      "id": "0503",
+      "instructor": "Barnet Corwin",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "VMH",
+      "room": "2505"
+    }
+  ],
+  "term": "201801",
+  "department": "Part-Time MBA Program"
+}

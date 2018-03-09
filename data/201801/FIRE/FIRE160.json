@@ -1,0 +1,25 @@
+{
+  "id": "FIRE160",
+  "title": "FIRE SEMESTER 2: Transgenerational Brain Initiative",
+  "credits": "3",
+  "description": "Recommended: FIRE120.\nRestriction: Must be in the program FIRE.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yun Choi",
+      "seats": "36,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "ATL",
+      "room": "2339"
+    }
+  ],
+  "term": "201801",
+  "department": "First-Year Innovation & Research Experience"
+}

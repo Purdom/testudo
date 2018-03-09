@@ -1,0 +1,27 @@
+{
+  "id": "GERM403",
+  "title": "Advanced Composition",
+  "credits": "3",
+  "description": "Prerequisite: GERM302; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Regina Ianozi",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMZ",
+      "room": "3205"
+    }
+  ],
+  "term": "201801",
+  "department": "Germanic Studies"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "MUSC454",
+  "title": "Jazz Improvisation II",
+  "credits": "3",
+  "description": "Prerequisite: MUSC453; or students who have taken courses with comparable content may contact the department. And permission of ARHU-School of Music department.\nCredit only granted for: MUSC346 or MUSC454.\nFormerly: MUSC346.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gerard Kunkel",
+      "seats": "5,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "12:30pm",
+      "end": "3:00pm",
+      "building": "PAC",
+      "room": "1208"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GVPT356",
+  "title": "Capstone in International Development",
+  "credits": "3",
+  "description": "Prerequisite: GVPT354.\nRestriction: Enrollment is restricted to students in the Minor in International Development and Conflict Management; and sophomore standing or higher; and permission of BSOS-Government & Politics department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jacob Lewis",
+      "seats": "40,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "TYD",
+      "room": "0111"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

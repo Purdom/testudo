@@ -1,0 +1,26 @@
+{
+  "id": "COMM619F",
+  "title": "Consecutive Interpretation; French into English/English into French",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "XGF1",
+      "instructor": "Gerard Francois",
+      "seats": "16,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "9:30am",
+      "end": "11:30am",
+      "building": "SKN",
+      "room": "3117"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

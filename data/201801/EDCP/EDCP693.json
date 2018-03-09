@@ -1,0 +1,25 @@
+{
+  "id": "EDCP693",
+  "title": "Assessment in Counseling Psychology ii",
+  "credits": "3",
+  "description": "Prerequisite: For Counseling Psychology majors only.\nAlso offered as: PSYC693.\nFormerly: EDCP789F.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Matthew Miller",
+      "seats": "20,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "10:00am",
+      "end": "1:00pm",
+      "building": "EDU",
+      "room": "2102"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

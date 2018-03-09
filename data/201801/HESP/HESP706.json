@@ -1,0 +1,26 @@
+{
+  "id": "HESP706",
+  "title": "Advanced Clinical Audiology",
+  "credits": "3",
+  "description": "Prerequisite: HESP606; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Samira Anderson",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "LEF",
+      "room": "0135"
+    }
+  ],
+  "term": "201801",
+  "department": "Hearing and Speech Sciences"
+}

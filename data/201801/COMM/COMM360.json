@@ -1,0 +1,27 @@
+{
+  "id": "COMM360",
+  "title": "The Rhetoric of Black America",
+  "credits": "3",
+  "description": "An historical-critical survey of the rhetoric of Black Americans from the colonial period to the present.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Meridith Styer",
+      "seats": "35,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "HBK",
+      "room": "0105"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

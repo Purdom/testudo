@@ -1,0 +1,25 @@
+{
+  "id": "BMGT435",
+  "title": "Business Process Simulation",
+  "credits": "3",
+  "description": "Prerequisite: BMGT231 or BMGT230; or students who have taken courses with comparable content may contact the department.\nRestriction: Must be in a major in BMGT-Robert H. Smith School of Business.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kazim Ruhi",
+      "seats": "38,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1333"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

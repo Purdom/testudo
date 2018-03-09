@@ -1,0 +1,27 @@
+{
+  "id": "BIOE371",
+  "title": "Linear Systems and Ordinary Differential Equations for Bioengineering Applications",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in MATH246.\nRestriction: Permission of ENGR-Fischell Department of Bioengineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lan Ma",
+      "seats": "80,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "CHE",
+      "room": "2108"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

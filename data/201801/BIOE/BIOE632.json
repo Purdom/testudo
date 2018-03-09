@@ -1,0 +1,26 @@
+{
+  "id": "BIOE632",
+  "title": "Biophotonic Imaging and Microscopy",
+  "credits": "3",
+  "description": "Recommended: BIOE420.\nRestriction: Permission of ENGR-Fischell Department of Bioengineering department.\nCredit only granted for: BIOE432, BIOE632, or BIOE689C.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Giuliano Scarcelli",
+      "seats": "40,",
+      "open-seats": "33,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "AJC",
+      "room": "2132"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

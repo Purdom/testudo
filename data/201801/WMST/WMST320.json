@@ -1,0 +1,27 @@
+{
+  "id": "WMST320",
+  "title": "Women in Classical Antiquity",
+  "credits": "3",
+  "description": "Also offered as: CLAS320.\nCredit only granted for: CLAS320 or WMST320.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lillian Doherty",
+      "seats": "35,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "SQH",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "Women's Studies"
+}

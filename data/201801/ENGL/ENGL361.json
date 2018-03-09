@@ -1,0 +1,25 @@
+{
+  "id": "ENGL361",
+  "title": "Recovering Oral Histories",
+  "credits": "3",
+  "description": "Prerequisite: Students must have completed one course in English, Latin American Studies, or Education.\nCredit only granted for: ENGL261 or ENGL361.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Merle Collins",
+      "seats": "15,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "TWS",
+      "room": "0214"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

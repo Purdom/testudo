@@ -1,0 +1,39 @@
+{
+  "id": "MATH246H",
+  "title": "Differential Equations for Scientists and Engineers",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in MATH141.\nCredit only granted for: MATH246 or MATH341.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thibaut Castan",
+      "seats": "29,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PHY",
+      "room": "1402"
+    },
+    {
+      "id": "0201",
+      "instructor": "Yanir Rubinstein",
+      "seats": "27,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "MTH",
+      "room": "1308"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

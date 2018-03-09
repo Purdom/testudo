@@ -1,0 +1,26 @@
+{
+  "id": "MIEH720",
+  "title": "Principles of Toxicology",
+  "credits": "3",
+  "description": "Prerequisite: MIEH600.\nRecommended: Must have completed some coursework in chemistry and/or biology.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paul Turner",
+      "seats": "25,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "1:00pm",
+      "end": "3:45pm",
+      "building": "SPH",
+      "room": "0307"
+    }
+  ],
+  "term": "201801",
+  "department": "Maryland Institute for Applied Environmental Health"
+}

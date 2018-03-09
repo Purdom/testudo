@@ -1,0 +1,51 @@
+{
+  "id": "PHYS375",
+  "title": "Experimental Physics III: Electromagnetic Waves, Optics and Modern Physics",
+  "credits": "3",
+  "description": "Prerequisite: PHYS276 and PHYS273.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Wendell Hill,",
+      "seats": "12,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "PHY",
+      "room": "1402"
+    },
+    {
+      "id": "0201",
+      "instructor": "Wendell Hill,",
+      "seats": "11,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "PHY",
+      "room": "1402"
+    },
+    {
+      "id": "0301",
+      "instructor": "Wendell Hill,",
+      "seats": "11,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "PHY",
+      "room": "1402"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

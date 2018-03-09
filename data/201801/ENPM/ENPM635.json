@@ -1,0 +1,74 @@
+{
+  "id": "ENPM635",
+  "title": "Thermal Systems Design Analysis",
+  "credits": "3",
+  "description": "Evaluates the trade-offs associted with thermal systems. Use of softwar for system simulation, evaluation and optimization. Applications include power and refrigeration systems, electronics cooling, distillation columns, dehumidifying coils, and co-generation systems.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Karim Amrane",
+      "seats": "17,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "JMP",
+      "room": "2120"
+    },
+    {
+      "id": "HT01",
+      "instructor": "Karim Amrane",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "ME01",
+      "instructor": "Karim Amrane",
+      "seats": "20,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "SG01",
+      "instructor": "Karim Amrane",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "Karim Amrane",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Professional Masters"
+}

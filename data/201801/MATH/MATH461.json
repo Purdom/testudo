@@ -1,0 +1,159 @@
+{
+  "id": "MATH461",
+  "title": "Linear Algebra for Scientists and Engineers",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in MATH141; and must have completed any MATH or STAT course with a prerequisite of MATH141.\nCredit only granted for: MATH240, MATH341, or MATH461.\nAdditional information: This course may not be used towards the upper level math requirements for MATH/STAT majors.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0111",
+      "instructor": "Allan Yashinski",
+      "seats": "29,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ARM",
+      "room": "0126"
+    },
+    {
+      "id": "0112",
+      "instructor": "Allan Yashinski",
+      "seats": "29,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ARM",
+      "room": "0126"
+    },
+    {
+      "id": "0121",
+      "instructor": "Allan Yashinski",
+      "seats": "27,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ARM",
+      "room": "0126"
+    },
+    {
+      "id": "0122",
+      "instructor": "Allan Yashinski",
+      "seats": "29,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ARM",
+      "room": "0126"
+    },
+    {
+      "id": "0123",
+      "instructor": "Allan Yashinski",
+      "seats": "29,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ARM",
+      "room": "0126"
+    },
+    {
+      "id": "0131",
+      "instructor": "Allan Yashinski",
+      "seats": "29,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ARM",
+      "room": "0126"
+    },
+    {
+      "id": "0132",
+      "instructor": "Allan Yashinski",
+      "seats": "29,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ARM",
+      "room": "0126"
+    },
+    {
+      "id": "0141",
+      "instructor": "Allan Yashinski",
+      "seats": "29,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ARM",
+      "room": "0126"
+    },
+    {
+      "id": "0142",
+      "instructor": "Allan Yashinski",
+      "seats": "29,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ARM",
+      "room": "0126"
+    },
+    {
+      "id": "0211",
+      "instructor": "Stephen Balady",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ARM",
+      "room": "0135"
+    },
+    {
+      "id": "0221",
+      "instructor": "Stephen Balady",
+      "seats": "30,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ARM",
+      "room": "0135"
+    },
+    {
+      "id": "0231",
+      "instructor": "Stephen Balady",
+      "seats": "30,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ARM",
+      "room": "0135"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

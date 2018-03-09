@@ -1,0 +1,123 @@
+{
+  "id": "PHIL170",
+  "title": "Introduction to Logic",
+  "credits": "3",
+  "description": "Development of analytical reasoning skills through study of formal logics, reasoning systems, and fallacious inference patterns.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sungwon Woo",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0102",
+      "instructor": "Sungwon Woo",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0103",
+      "instructor": "Sungwon Woo",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0104",
+      "instructor": "Sungwon Woo",
+      "seats": "22,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0105",
+      "instructor": "Sungwon Woo",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0106",
+      "instructor": "Sungwon Woo",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0107",
+      "instructor": "Sungwon Woo",
+      "seats": "25,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0108",
+      "instructor": "Sungwon Woo",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0109",
+      "instructor": "Sungwon Woo",
+      "seats": "25,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PHY",
+      "room": "1412"
+    }
+  ],
+  "term": "201801",
+  "department": "Philosophy"
+}

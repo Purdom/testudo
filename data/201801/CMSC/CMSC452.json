@@ -1,0 +1,25 @@
+{
+  "id": "CMSC452",
+  "title": "Elementary Theory of Computation",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in CMSC351; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Gasarch",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "CSI",
+      "room": "1121"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

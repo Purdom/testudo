@@ -1,0 +1,26 @@
+{
+  "id": "PHYS799B",
+  "title": "Master's Thesis Research",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Cohen",
+      "seats": "10,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

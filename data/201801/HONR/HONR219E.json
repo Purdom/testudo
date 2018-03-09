@@ -1,0 +1,25 @@
+{
+  "id": "HONR219E",
+  "title": "Honors Seminar; The Psychology of Love and Money",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ryan Curtis",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SYM",
+      "room": "0209"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

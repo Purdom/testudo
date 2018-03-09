@@ -1,0 +1,25 @@
+{
+  "id": "MUSC229U",
+  "title": "Ensemble; University Band",
+  "credits": "1",
+  "description": "Open by audition. Contact instructor to make arrangements.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Craig Potter",
+      "seats": "150,",
+      "open-seats": "47,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "7:30pm",
+      "end": "9:30pm",
+      "building": "PAC",
+      "room": "2540"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

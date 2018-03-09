@@ -1,0 +1,27 @@
+{
+  "id": "CHIN315",
+  "title": "Modern Chinese Literature in Translation",
+  "credits": "3",
+  "description": "Major works of fiction and drama from 1920 to the present read in the context of social and literary change. Emphasis on western and traditional Chinese influences on the writers and their works. No knowledge of Chinese required.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Satoru Hashimoto",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "JMZ",
+      "room": "2207"
+    }
+  ],
+  "term": "201801",
+  "department": "Chinese"
+}

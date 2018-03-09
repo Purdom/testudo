@@ -1,0 +1,27 @@
+{
+  "id": "LGBT488C",
+  "title": "Seminar in Lesbian, Gay, Bisexual, and Transgender Studies; Queer Theories: Canons and Counter Genealogies",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christina Hanhardt",
+      "seats": "12,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "WDS",
+      "room": "2101R"
+    }
+  ],
+  "term": "201801",
+  "department": "Lesbian Gay Bisexual Transgender Studies"
+}

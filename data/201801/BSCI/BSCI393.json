@@ -1,0 +1,27 @@
+{
+  "id": "BSCI393",
+  "title": "Biology of Extinct Animals Laboratory",
+  "credits": "1",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in BSCI392.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Bretton Kent",
+      "seats": "32,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "PLS",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

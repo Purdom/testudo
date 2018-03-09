@@ -1,0 +1,123 @@
+{
+  "id": "WMST250",
+  "title": "Introduction to Women's Studies: Women, Art and Culture",
+  "credits": "3",
+  "description": "An examination of women's creative powers as expressed in selected examples of music, film, art, drama, poetry, fiction, and other literature. Explores women's creativity in relation to families, religion, education, ethnicity, class, sexuality, and within a cultural tradition shaped by women.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0103",
+      "instructor": "Nat Baldino",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "8:00am",
+      "end": "8:50am",
+      "building": "WDS",
+      "room": "0104"
+    },
+    {
+      "id": "0201",
+      "instructor": "Michele Prince",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "WDS",
+      "room": "1114"
+    },
+    {
+      "id": "0301",
+      "instructor": "Melissa Stevens",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "BPS",
+      "room": "1232"
+    },
+    {
+      "id": "0701",
+      "instructor": "Clara Montague",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "JMZ",
+      "room": "1215"
+    },
+    {
+      "id": "0702",
+      "instructor": "Elsa Barkley Brown",
+      "seats": "40,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "HBK",
+      "room": "0109"
+    },
+    {
+      "id": "0901",
+      "instructor": "Nat Baldino",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SYM",
+      "room": "0209"
+    },
+    {
+      "id": "0902",
+      "instructor": "Elsa Barkley Brown",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "SQH",
+      "room": "1119"
+    },
+    {
+      "id": "1301",
+      "instructor": "Cara Snyder",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "SQH",
+      "room": "1123"
+    },
+    {
+      "id": "1401",
+      "instructor": "Courtney Cook",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "JMZ",
+      "room": "0125"
+    }
+  ],
+  "term": "201801",
+  "department": "Women's Studies"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "NFSC678M",
+  "title": "Selected Topics in Nutrition; Current Topics in Nutrition and Inflammatory Disease",
+  "credits": "3",
+  "description": "Analysis of current topics related to diet, nutrition, and inflammatory disease at cellular, molecular and biochemical level. Further, this course will provide overview of the current methods, and in vitro/vivo model systems used in research. Syllabus includes topics relevant to dietary regulation of genes/proteins and their impact on inflammatory diseases. This course is designed to help students to understand and apply current scientific concepts and research methods, and to obtain necessary skills in evaluation/interpretation of evidence based scientific data.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shaik Rahaman",
+      "seats": "20,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:15pm",
+      "end": "5:00pm",
+      "building": "MMH",
+      "room": "3112"
+    }
+  ],
+  "term": "201801",
+  "department": "Nutrition and Food Science"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ECON602",
+  "title": "Macroeconomic Analysis II",
+  "credits": "3",
+  "description": "Prerequisite: ECON601; or permission of BSOS-Economics department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Haltiwanger,",
+      "seats": "48,",
+      "open-seats": "27,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TYD",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

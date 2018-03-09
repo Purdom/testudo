@@ -1,0 +1,26 @@
+{
+  "id": "CHEM647",
+  "title": "Organic Synthesis",
+  "credits": "3",
+  "description": "The use of new reagents in organic reactions; multistep syntheses leading to natural products of biological interest; stereospecific and regiospecific reactions and their use in total synthesis.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Philip DeShong",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "CHM",
+      "room": "1228"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "COMM201",
+  "title": "Introduction to Public Relations",
+  "credits": "3",
+  "description": "Basic concepts and principles of public relations. Roles in organizations and society; history; skills and practices of public relations; theories and models of effective and ethical public relations.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Erich Sommerfeldt",
+      "seats": "35,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "SQH",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

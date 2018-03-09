@@ -1,0 +1,62 @@
+{
+  "id": "ENPM809G",
+  "title": "Special Topics in Engineering; Network Data Science",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jennifer Golbeck,",
+      "seats": "40,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:20pm",
+      "end": "6:00pm",
+      "building": "JMP",
+      "room": "2121"
+    },
+    {
+      "id": "HT01",
+      "instructor": "Jennifer Golbeck,",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:20pm",
+      "end": "6:00pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SG01",
+      "instructor": "Jennifer Golbeck,",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:20pm",
+      "end": "6:00pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "Jennifer Golbeck,",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:20pm",
+      "end": "6:00pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Professional Masters"
+}

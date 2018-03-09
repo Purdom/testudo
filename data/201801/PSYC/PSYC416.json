@@ -1,0 +1,27 @@
+{
+  "id": "PSYC416",
+  "title": "Development of Attachment in Infancy and Childhood: Theory, Research, Methods, and Clinical Implications",
+  "credits": "3",
+  "description": "Prerequisite: PSYC355; or permission of instructor.\nRestriction: Must be in a major within the BSOS-Psychology department.\nCredit only granted for: PSYC309J or PSYC416.\nFormerly: PSYC309J.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jude Cassidy",
+      "seats": "80,",
+      "open-seats": "24,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "BPS",
+      "room": "1243"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

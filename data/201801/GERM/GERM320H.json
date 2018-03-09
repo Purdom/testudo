@@ -1,0 +1,27 @@
+{
+  "id": "GERM320H",
+  "title": "Survey of German Studies",
+  "credits": "3",
+  "description": "Prerequisite: GERM301; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Peter Beicken",
+      "seats": "25,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMZ",
+      "room": "3203"
+    }
+  ],
+  "term": "201801",
+  "department": "Germanic Studies"
+}

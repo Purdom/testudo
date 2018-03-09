@@ -1,0 +1,25 @@
+{
+  "id": "CMSC426",
+  "title": "Computer Vision",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in CMSC330 and CMSC351; or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.\nRestriction: Permission of CMNS-Computer Science department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Aloimonos",
+      "seats": "70,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CSI",
+      "room": "2117"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

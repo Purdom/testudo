@@ -1,0 +1,27 @@
+{
+  "id": "AASP498K",
+  "title": "Special Topics in Black Culture; Black Masculinities in Art, Music, and Dance",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jason Nichols",
+      "seats": "35,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "SQH",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "African American Studies"
+}

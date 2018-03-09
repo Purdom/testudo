@@ -1,0 +1,61 @@
+{
+  "id": "BMGT484",
+  "title": "Digital Marketing",
+  "credits": "3",
+  "description": "Prerequisite: BMGT350.\nRestriction: Must be in a major in BMGT-Robert H. Smith School of Business.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kalinda Ukanwa Zeiger",
+      "seats": "35,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "3505"
+    },
+    {
+      "id": "0201",
+      "instructor": "Michael Trusov",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "3505"
+    },
+    {
+      "id": "0301",
+      "instructor": "Michael Trusov",
+      "seats": "35,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "3505"
+    },
+    {
+      "id": "0401",
+      "instructor": "Michael Trusov",
+      "seats": "35,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "3505"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

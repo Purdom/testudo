@@ -1,0 +1,25 @@
+{
+  "id": "HLSA766",
+  "title": "Foundational Readings in Health Services Research",
+  "credits": "3",
+  "description": "Prerequisite: Completion of the six HLSA Health Services Research core courses.\nRestriction: Enrolled in the Health Services Ph.D. program.\nCredit only granted for: HLSA766.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michel Boudreaux",
+      "seats": "12,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "1:00pm",
+      "end": "3:45pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Health Services Administration"
+}

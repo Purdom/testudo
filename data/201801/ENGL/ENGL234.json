@@ -1,0 +1,39 @@
+{
+  "id": "ENGL234",
+  "title": "African-American Literature and Culture",
+  "credits": "3",
+  "description": "An exploration of the stories black authors tell about themselves, their communities, and the nation as informed by time and place, gender, sexuality, and class. African American perspective themes such as art, childhood, sexuality, marriage, alienation and mortality, as well as representations of slavery, Reconstruction, racial violence and the Nadir, legalized racism and segregation, black patriotism and black ex-patriots, the optimism of integration, and the prospects of a post-racial America.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mary Washington",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TWS",
+      "room": "0214"
+    },
+    {
+      "id": "0102",
+      "instructor": "Sarah Bonnie",
+      "seats": "30,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "TWS",
+      "room": "0221"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

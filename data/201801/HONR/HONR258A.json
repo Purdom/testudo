@@ -1,0 +1,25 @@
+{
+  "id": "HONR258A",
+  "title": "Honors Seminar; Renewing the Body: The Science Behind Regeneration and Immortality",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alexandra Bely",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "BPS",
+      "room": "2249"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

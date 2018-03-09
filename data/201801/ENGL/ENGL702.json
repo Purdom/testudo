@@ -1,0 +1,26 @@
+{
+  "id": "ENGL702",
+  "title": "Cultures of Theory",
+  "credits": "3",
+  "description": "Prerequisite: An introductory course in critical theory.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kari Kraus",
+      "seats": "11,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:30pm",
+      "end": "9:00pm",
+      "building": "TWS",
+      "room": "3134"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

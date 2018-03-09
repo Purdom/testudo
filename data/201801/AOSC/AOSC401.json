@@ -1,0 +1,27 @@
+{
+  "id": "AOSC401",
+  "title": "Climate Dynamics and Earth System Science",
+  "credits": "3",
+  "description": "Prerequisite: AOSC400 or AOSC200; and MATH141; and (PHYS161 or PHYS171). Or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Zhanqing Li",
+      "seats": "25,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ATL",
+      "room": "2428"
+    }
+  ],
+  "term": "201801",
+  "department": "Atmospheric and Oceanic Science"
+}

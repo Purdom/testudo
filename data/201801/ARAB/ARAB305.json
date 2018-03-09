@@ -1,0 +1,39 @@
+{
+  "id": "ARAB305",
+  "title": "Advanced Modern Standard Arabic II",
+  "credits": "3",
+  "description": "Prerequisite: ARAB304; or students who have taken courses with comparable content may contact the department.\nRestriction: Must not be a fluent/native speaker of Arabic.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dina El-Hefnawy",
+      "seats": "15,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMZ",
+      "room": "2122"
+    },
+    {
+      "id": "0201",
+      "instructor": "Peter Glanville",
+      "seats": "15,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "4:15pm",
+      "building": "JMZ",
+      "room": "1215"
+    }
+  ],
+  "term": "201801",
+  "department": "Arabic"
+}

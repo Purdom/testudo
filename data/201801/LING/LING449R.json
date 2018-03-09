@@ -1,0 +1,27 @@
+{
+  "id": "LING449R",
+  "title": "Topics in Psycholinguistics; Syntactic and Semantic Arguments in Language Acquisition",
+  "credits": "3",
+  "description": "Prerequisite: LING311. Some experimental background is recommended (e.g., LING440, LING444, PSYC300, HESP300, HESP400, or psycho/ling lab experience. Investigation into representations of arguments in syntax and semantics and how those representations are acquired. Formal approaches to predicate argument structure, clause structure, and thematic relations. Relations between verb meanings and distributions, and theories of how these are used by children learning language. Critical examination of primary-source experimental literature in first language acquisition. Principles of experimental design; final project in which students design their own psycholinguistic experiment.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Laurel Perkins",
+      "seats": "10,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "MMH",
+      "room": "1401G"
+    }
+  ],
+  "term": "201801",
+  "department": "Linguistics"
+}

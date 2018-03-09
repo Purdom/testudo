@@ -1,0 +1,87 @@
+{
+  "id": "GVPT331",
+  "title": "Courts, Law and Justice",
+  "credits": "3",
+  "description": "Prerequisite: GVPT170.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Spivey",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "JMZ",
+      "room": "0220"
+    },
+    {
+      "id": "0102",
+      "instructor": "Michael Spivey",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "JMZ",
+      "room": "0220"
+    },
+    {
+      "id": "0103",
+      "instructor": "Michael Spivey",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "JMZ",
+      "room": "0220"
+    },
+    {
+      "id": "0104",
+      "instructor": "Michael Spivey",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "JMZ",
+      "room": "0220"
+    },
+    {
+      "id": "0105",
+      "instructor": "Michael Spivey",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "JMZ",
+      "room": "0220"
+    },
+    {
+      "id": "0106",
+      "instructor": "Michael Spivey",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "JMZ",
+      "room": "0220"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

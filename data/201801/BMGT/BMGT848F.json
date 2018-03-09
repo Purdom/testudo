@@ -1,0 +1,26 @@
+{
+  "id": "BMGT848F",
+  "title": "Special Topics in Finance; Workshop in Finance Research",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Liu Yang",
+      "seats": "12,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "10:00am",
+      "end": "12:00pm",
+      "building": "VMH",
+      "room": "1412"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

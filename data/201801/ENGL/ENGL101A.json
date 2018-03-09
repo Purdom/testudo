@@ -1,0 +1,25 @@
+{
+  "id": "ENGL101A",
+  "title": "Academic Writing",
+  "credits": "3",
+  "description": "Additional information: Any student who has not successfully completed this course by Fall 2017 must complete this course with a minimum grade of C- in order to fulfill the General Education Fundamental Studies Academic Writing requirement.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "1703",
+      "instructor": "Robert Lucci",
+      "seats": "15,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TWS",
+      "room": "0201"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "PHIL808F",
+  "title": "Seminar in the Problems of Philosophy; Varieties of Explanation",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Harjit Bhogal",
+      "seats": "15,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "SKN",
+      "room": "1116"
+    }
+  ],
+  "term": "201801",
+  "department": "Philosophy"
+}

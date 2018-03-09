@@ -1,0 +1,27 @@
+{
+  "id": "ARTH389A",
+  "title": "Special Topics in Art History and Archaeology; The Art of Drawing: A Left and Right Brain Experience",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Beryl Bland",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "ASY",
+      "room": "3215"
+    }
+  ],
+  "term": "201801",
+  "department": "Art History & Archaeology"
+}

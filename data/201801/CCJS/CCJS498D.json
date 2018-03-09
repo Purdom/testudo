@@ -1,0 +1,27 @@
+{
+  "id": "CCJS498D",
+  "title": "Selected Topics in Criminology and Criminal Justice; Crisis Management and Leadership for Public Safety",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "Charles Jordan",
+      "seats": "40,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "11:00am",
+      "end": "1:30pm",
+      "building": "BLD3",
+      "room": "2226"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

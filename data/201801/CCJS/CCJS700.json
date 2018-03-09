@@ -1,0 +1,25 @@
+{
+  "id": "CCJS700",
+  "title": "Advanced Research Methods in Criminology and Criminal Justice",
+  "credits": "3",
+  "description": "Prerequisite: CCJS610.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lauren Porter",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "LEF",
+      "room": "1171"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

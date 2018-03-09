@@ -1,0 +1,26 @@
+{
+  "id": "MATH660",
+  "title": "Complex Analysis I",
+  "credits": "3",
+  "description": "Prerequisite: MATH410; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Jakobson",
+      "seats": "25,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "MTH",
+      "room": "1313"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "HONR218T",
+  "title": "Honors Seminar; Political Theater: On Stage and in Washington",
+  "credits": "3",
+  "description": "Students must contribute $20.00 toward theater ticket purchases.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nelson Pressley",
+      "seats": "20,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ANA",
+      "room": "0120"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

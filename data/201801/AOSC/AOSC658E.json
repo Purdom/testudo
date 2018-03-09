@@ -1,0 +1,26 @@
+{
+  "id": "AOSC658E",
+  "title": "Special Topics in Meteorology; Data Assimilation",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stephen Penny",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "PLS",
+      "room": "1176"
+    }
+  ],
+  "term": "201801",
+  "department": "Atmospheric and Oceanic Science"
+}

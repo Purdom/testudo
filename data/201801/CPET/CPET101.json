@@ -1,0 +1,49 @@
+{
+  "id": "CPET101",
+  "title": "College Park Scholars: Environment, Technology & Economy First-Year Colloquium II",
+  "credits": "1",
+  "description": "Prerequisite: CPET100.\nRestriction: Students must be enrolled in the College Park Scholars Environment, Technology & Economy (CPET) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lucas Hays,",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:10pm",
+      "end": "6:30pm",
+      "building": "CCC",
+      "room": "1100"
+    },
+    {
+      "id": "0102",
+      "instructor": "Lucas Hays,",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:10pm",
+      "end": "6:30pm",
+      "building": "CCC",
+      "room": "1100"
+    },
+    {
+      "id": "0103",
+      "instructor": "Lauren Gilmartin,",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:10pm",
+      "end": "6:30pm",
+      "building": "CCC",
+      "room": "1100"
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars-Environment, Technology & Economy"
+}

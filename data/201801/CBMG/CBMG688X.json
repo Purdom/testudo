@@ -1,0 +1,26 @@
+{
+  "id": "CBMG688X",
+  "title": "Special Topics in Cell Biology and Molecular Genetics; Virology Program",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Anne Simon",
+      "seats": "20,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "3:00pm",
+      "end": "5:00pm",
+      "building": "HJP",
+      "room": "1216"
+    }
+  ],
+  "term": "201801",
+  "department": "Cell Biology & Molecular Genetics"
+}

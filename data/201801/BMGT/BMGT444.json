@@ -1,0 +1,25 @@
+{
+  "id": "BMGT444",
+  "title": "Futures and Options Contracts",
+  "credits": "3",
+  "description": "Prerequisite: BMGT343.\nCredit only granted for: BMGT444 or MATH424.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dilip Madan",
+      "seats": "55,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "VMH",
+      "room": "1202"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

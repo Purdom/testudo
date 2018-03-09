@@ -1,0 +1,39 @@
+{
+  "id": "BIOE241",
+  "title": "Biocomputational Methods",
+  "credits": "3",
+  "description": "Restriction: Permission of ENGR-Fischell Department of Bioengineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Lan Ma",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "KEB",
+      "room": "2111"
+    },
+    {
+      "id": "0301",
+      "instructor": "Lan Ma",
+      "seats": "40,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "KEB",
+      "room": "2111"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

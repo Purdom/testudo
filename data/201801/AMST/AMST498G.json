@@ -1,0 +1,25 @@
+{
+  "id": "AMST498G",
+  "title": "Special Topics in American Studies; Latinas/os on the Silver Screen",
+  "credits": "3",
+  "description": "Prerequisite: At least three credit hours of prior coureswork in AMST. Also offered as USLT498A. Credit granted for AMST498G or USLT498A.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Chester",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TWS",
+      "room": "1321"
+    }
+  ],
+  "term": "201801",
+  "department": "American Studies"
+}

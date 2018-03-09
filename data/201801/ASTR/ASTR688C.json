@@ -1,0 +1,25 @@
+{
+  "id": "ASTR688C",
+  "title": "Special Topics in Modern Astronomy; Seminar in Modern Astronomy Research",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Massimo Ricotti",
+      "seats": "30,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "5:30pm",
+      "building": "ATL",
+      "room": "2400"
+    }
+  ],
+  "term": "201801",
+  "department": "Astronomy"
+}

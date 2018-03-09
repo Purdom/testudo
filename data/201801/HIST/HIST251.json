@@ -1,0 +1,27 @@
+{
+  "id": "HIST251",
+  "title": "Latin America Since Independence",
+  "credits": "3",
+  "description": "Also offered as: HIST251.\nCredit only granted for: HIST251 or LASC251.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Daniel Richter",
+      "seats": "60,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "HJP",
+      "room": "2242"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

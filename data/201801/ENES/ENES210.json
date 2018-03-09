@@ -1,0 +1,111 @@
+{
+  "id": "ENES210",
+  "title": "Entrepreneurial Opportunity Analysis and Decision-Making in 21st Century Technology Ventures",
+  "credits": "3",
+  "description": "This multi-disciplinary course helps students learn the principles of entrepreneurial opportunity analysis and decision-making in an increasingly dynamic and technically-inclined society. Emphasis is placed on how aspiring technology entrepreneurs can develop their entrepreneurial perspectives to develop winning entrepreneurial plans for their future ventures.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Green",
+      "seats": "120,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "ESJ",
+      "room": "ONLINE"
+    },
+    {
+      "id": "0102",
+      "instructor": "James Green",
+      "seats": "120,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "ESJ",
+      "room": "ONLINE"
+    },
+    {
+      "id": "0103",
+      "instructor": "James Green",
+      "seats": "120,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "ESJ",
+      "room": "ONLINE"
+    },
+    {
+      "id": "0104",
+      "instructor": "James Green",
+      "seats": "120,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "4:20pm",
+      "building": "ESJ",
+      "room": "ONLINE"
+    },
+    {
+      "id": "0105",
+      "instructor": "James Green",
+      "seats": "120,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "ESJ",
+      "room": "ONLINE"
+    },
+    {
+      "id": "0106",
+      "instructor": "James Green",
+      "seats": "120,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "ESJ",
+      "room": "ONLINE"
+    },
+    {
+      "id": "0107",
+      "instructor": "James Green",
+      "seats": "120,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "ESJ",
+      "room": "ONLINE"
+    },
+    {
+      "id": "0108",
+      "instructor": "James Green",
+      "seats": "120,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:30pm",
+      "end": "4:20pm",
+      "building": "ESJ",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

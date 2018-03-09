@@ -1,0 +1,27 @@
+{
+  "id": "ARTH351",
+  "title": "Art Since 1945",
+  "credits": "3",
+  "description": "Visual art since 1945, with an emphasis on North America and Europe.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Greg Metcalf",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ASY",
+      "room": "3211"
+    }
+  ],
+  "term": "201801",
+  "department": "Art History & Archaeology"
+}

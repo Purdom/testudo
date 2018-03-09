@@ -1,0 +1,25 @@
+{
+  "id": "EDPS788I",
+  "title": "Special Topics in Education Policy and Administration; Statistical Literacy for Education Research",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Claudia Galindo",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "2102"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Policy Studies"
+}

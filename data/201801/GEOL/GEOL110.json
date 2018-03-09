@@ -1,0 +1,98 @@
+{
+  "id": "GEOL110",
+  "title": "Physical Geology Laboratory",
+  "credits": "1",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in GEOL120 or GEOL100.\nAdditional information: CORE Distributive Studies Physical Science Laboratory Course only when taken concurrently with GEOL 100.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alan Kaufman,",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:00pm",
+      "end": "6:00pm",
+      "building": "GEO",
+      "room": "2106"
+    },
+    {
+      "id": "0201",
+      "instructor": "Alan Kaufman,",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "12:00pm",
+      "end": "3:00pm",
+      "building": "GEO",
+      "room": "2106"
+    },
+    {
+      "id": "0301",
+      "instructor": "Alan Kaufman,",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:00am",
+      "end": "12:00pm",
+      "building": "GEO",
+      "room": "2106"
+    },
+    {
+      "id": "0401",
+      "instructor": "Alan Kaufman,",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "7:00pm",
+      "building": "GEO",
+      "room": "2106"
+    },
+    {
+      "id": "0501",
+      "instructor": "Chao Gao,",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "9:00am",
+      "end": "12:00pm",
+      "building": "GEO",
+      "room": "2106"
+    },
+    {
+      "id": "0601",
+      "instructor": "Jonathan Guandique,",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "7:00pm",
+      "building": "GEO",
+      "room": "2106"
+    },
+    {
+      "id": "0901",
+      "instructor": "Jonathan Guandique,",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:00pm",
+      "end": "6:00pm",
+      "building": "GEO",
+      "room": "2106"
+    }
+  ],
+  "term": "201801",
+  "department": "Geology"
+}

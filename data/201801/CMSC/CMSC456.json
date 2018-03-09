@@ -1,0 +1,37 @@
+{
+  "id": "CMSC456",
+  "title": "Cryptology",
+  "credits": "3",
+  "description": "Prerequisite: (any two 400-level MATH courses; or (CMSC351 and CMSC330)); and permission of CMNS-Computer Science department. Or must be a CMSC graduate student.\nAlso offered as: MATH456.\nCredit only granted for: CMSC456 or MATH456.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lawrence Washington",
+      "seats": "75,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PLS",
+      "room": "1130"
+    },
+    {
+      "id": "0201",
+      "instructor": "Jonathan Katz",
+      "seats": "78,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ESJ",
+      "room": "2212"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "RDEV689I",
+  "title": "Current Topics in Real Estate Development; Design and Development Competition",
+  "credits": "3",
+  "description": "Prerequisite: Permission of department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ronald McDonald",
+      "seats": "14,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "ARC",
+      "room": "1127"
+    }
+  ],
+  "term": "201801",
+  "department": "Real Estate Development"
+}

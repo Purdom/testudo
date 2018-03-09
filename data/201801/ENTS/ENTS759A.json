@@ -1,0 +1,26 @@
+{
+  "id": "ENTS759A",
+  "title": "Advanced Topics in Communications; 3G/4G Wireless Networks and Systems",
+  "credits": "3",
+  "description": "Restricted to ENTS majors.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kamran Etemad",
+      "seats": "25,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "1:00pm",
+      "end": "3:45pm",
+      "building": "ITV",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "Telecommunications"
+}

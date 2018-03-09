@@ -1,0 +1,25 @@
+{
+  "id": "HONR268Z",
+  "title": "Honors Seminar; Catastrophic Animal and Human Disease Outbreaks: What Else Can We Do To Prevent Them?",
+  "credits": "3",
+  "description": "Credit may only be granted for HONR268Z or ANSC277.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nathaniel Tablante",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ANS",
+      "room": "0402"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

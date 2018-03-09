@@ -1,0 +1,27 @@
+{
+  "id": "PSYC436",
+  "title": "Introduction to Clinical Psychology: From Science to Practice",
+  "credits": "3",
+  "description": "Prerequisite: PSYC300.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mary Byrne",
+      "seats": "110,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TWS",
+      "room": "0320"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

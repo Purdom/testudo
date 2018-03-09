@@ -1,0 +1,27 @@
+{
+  "id": "WMST498M",
+  "title": "Advanced Special Topics in Women's Studies; Women and the Civil Rights Movement",
+  "credits": "3",
+  "description": "Also offered as AASP498I and HIST360. Credit granted for WMST498M, AASP498I, or HIST360.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elsa Barkley Brown",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "KEY",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "Women's Studies"
+}

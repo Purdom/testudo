@@ -1,0 +1,25 @@
+{
+  "id": "MITH729",
+  "title": "Colloquium in Digital Studies",
+  "credits": "1",
+  "description": "Also offered as ENGL798D. Credit granted for MITH729 or ENGL798D.Class meets in TWS 3136 on the following dates:2/2, 3/2, 4/6, and 5/4.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Matthew Kirschenbaum",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "3:00pm",
+      "end": "5:00pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Maryland Institute for Technology in the Humanities"
+}

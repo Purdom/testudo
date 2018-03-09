@@ -1,0 +1,26 @@
+{
+  "id": "EDCI667",
+  "title": "Multicultural Materials and Instruction for K-12 Readers",
+  "credits": "3",
+  "description": "Credit only granted for: EDCI667 or EDCI688E (as offered in Spring 2008).\nFormerly: EDCI688E.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jennifer Turner",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:30pm",
+      "end": "7:15pm",
+      "building": "EDU",
+      "room": "2119"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

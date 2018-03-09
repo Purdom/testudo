@@ -1,0 +1,26 @@
+{
+  "id": "ENCH609",
+  "title": "Graduate Seminar",
+  "credits": "1",
+  "description": "Advanced special students require department permission.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Amy Karlsson",
+      "seats": "30,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "11:00am",
+      "end": "12:00pm",
+      "building": "CHE",
+      "room": "2108"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Chemical"
+}

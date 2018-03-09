@@ -1,0 +1,87 @@
+{
+  "id": "PHYS275",
+  "title": "Experimental Physics I: Mechanics and Heat",
+  "credits": "2",
+  "description": "Prerequisite: PHYS161 or PHYS171; and PHYS174.\nAdditional information: CORE Physical Science Lab (PL) Course only when taken concurrently with PHYS272.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Frederick Wellstood",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "5:50pm",
+      "building": "PHY",
+      "room": "3104"
+    },
+    {
+      "id": "0201",
+      "instructor": "Frederick Wellstood",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "5:50pm",
+      "building": "PHY",
+      "room": "3104"
+    },
+    {
+      "id": "0301",
+      "instructor": "Andrew Baden",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "5:50pm",
+      "building": "PHY",
+      "room": "3104"
+    },
+    {
+      "id": "0401",
+      "instructor": "Andrew Baden",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "5:50pm",
+      "building": "PHY",
+      "room": "3104"
+    },
+    {
+      "id": "0501",
+      "instructor": "Abolhassan Jawahery",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "10:50am",
+      "building": "PHY",
+      "room": "3104"
+    },
+    {
+      "id": "0601",
+      "instructor": "Abolhassan Jawahery",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:50pm",
+      "building": "PHY",
+      "room": "3104"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

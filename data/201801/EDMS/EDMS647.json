@@ -1,0 +1,26 @@
+{
+  "id": "EDMS647",
+  "title": "Causal Inference and Evaluation Methods",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in EDMS651.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Laura Stapleton",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "1121"
+    }
+  ],
+  "term": "201801",
+  "department": "Measurement, Statistics, and Evaluation"
+}

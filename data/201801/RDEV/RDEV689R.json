@@ -1,0 +1,26 @@
+{
+  "id": "RDEV689R",
+  "title": "Current Topics in Real Estate Development; Retail Real Estate Development and Asset Management",
+  "credits": "3",
+  "description": "Prerequisite: Permission of department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nick Egelanian",
+      "seats": "15,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "ARC",
+      "room": "1127"
+    }
+  ],
+  "term": "201801",
+  "department": "Real Estate Development"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "EDCI280",
+  "title": "Looking Inside Schools and Classrooms",
+  "credits": "3",
+  "description": "An exploration of teaching in public schools, grades 1-12: student diversity, societal changes, and the expectations of teachers and public schools. Three hour per week field component.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lisa Bote",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "SQH",
+      "room": "1101"
+    },
+    {
+      "id": "0102",
+      "instructor": "Lisa Bote",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "SQH",
+      "room": "1101"
+    },
+    {
+      "id": "0103",
+      "instructor": "Lisa Bote",
+      "seats": "8,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "SQH",
+      "room": "1101"
+    },
+    {
+      "id": "0104",
+      "instructor": "Lisa Bote",
+      "seats": "10,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "SQH",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

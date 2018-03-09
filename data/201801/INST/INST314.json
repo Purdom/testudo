@@ -1,0 +1,50 @@
+{
+  "id": "INST314",
+  "title": "Statistics for Information Science",
+  "credits": "3",
+  "description": "Prerequisite: (must have completed or be concurrently enrolled in INST201; or INST301); and MATH115; and STAT100.\nRestriction: Must be in Information Science program; and permission of INFO-College of Information Studies.\nCredit only granted for: BIOM301, BMGT230, CCJS200, ECON230, ECON321, EDMS451, GEOG306, GEOL351, GVPT422, INST314, JOUR405, PSYC200 or SOCY201. (These courses do not necessarily meet the same major requirements-check with your advisor to see which of these courses will count for your major).",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shawn Janzen",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TYD",
+      "room": "1132"
+    },
+    {
+      "id": "0102",
+      "instructor": "Shawn Janzen",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SQH",
+      "room": "1119"
+    },
+    {
+      "id": "0103",
+      "instructor": "Shawn Janzen",
+      "seats": "50,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "BPS",
+      "room": "1236"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

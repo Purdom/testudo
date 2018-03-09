@@ -1,0 +1,26 @@
+{
+  "id": "ANSC688J",
+  "title": "Special Topics; Zoonotic Diseases and Control",
+  "credits": "3",
+  "description": "Prerequisites: BSCI223; recommended NFSC430; or permission of instructor.\n\nLectures will take a global perspective of foodborne diseases common to animals and man, specifically those caused by farm animal-originated human pathogens (zoonoses) and their control. A selection of important zoonoses and food safety issues will be specifically covered with an emphasis on the principles of zoonotic disease transmission and control, risk factors to humans, and surveillance mehtods.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Debabrata Biswas",
+      "seats": "6,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ANS",
+      "room": "0412"
+    }
+  ],
+  "term": "201801",
+  "department": "Animal Science"
+}

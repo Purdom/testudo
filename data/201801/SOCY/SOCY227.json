@@ -1,0 +1,39 @@
+{
+  "id": "SOCY227",
+  "title": "Introduction to the Study of Deviance",
+  "credits": "3",
+  "description": "Credit only granted for: SOCY227 or SOCY327.\nFormerly: SOCY327.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Strohecker",
+      "seats": "47,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ASY",
+      "room": "3203"
+    },
+    {
+      "id": "0201",
+      "instructor": "Alex Parkhouse",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ASY",
+      "room": "2309"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

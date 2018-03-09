@@ -1,0 +1,27 @@
+{
+  "id": "ANSC250",
+  "title": "Companion Animal Care and Management",
+  "credits": "3",
+  "description": "Credit only granted for: ANSC250 and ANSC305.\nFormerly: ANSC305.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sarah Balcom",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ANS",
+      "room": "0408"
+    }
+  ],
+  "term": "201801",
+  "department": "Animal Science"
+}

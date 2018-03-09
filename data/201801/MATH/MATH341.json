@@ -1,0 +1,39 @@
+{
+  "id": "MATH341",
+  "title": "Multivariable Calculus, Linear Algebra, Differential Equations II (Honors)",
+  "credits": "4",
+  "description": "Prerequisite: Minimum grade of C- in MATH340.\nRestriction: Open to second semester Freshmen only.\nCredit only granted for: MATH240, MATH246, MATH341 or MATH461.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Wiseley Wong",
+      "seats": "27,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "MTH",
+      "room": "0105"
+    },
+    {
+      "id": "0201",
+      "instructor": "Roohollah Ebrahimian",
+      "seats": "27,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "1:15pm",
+      "building": "MTH",
+      "room": "0401"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

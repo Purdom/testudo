@@ -1,0 +1,27 @@
+{
+  "id": "ANTH461",
+  "title": "Language as Practice",
+  "credits": "3",
+  "description": "Credit only granted for: ANTH461 or ANTH468I.\nFormerly: ANTH468I.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Janet Chernela",
+      "seats": "25,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "WDS",
+      "room": "1114"
+    }
+  ],
+  "term": "201801",
+  "department": "Anthropology"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ENST309",
+  "title": "Advanced Field Soil Morphology",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Brian Needelman",
+      "seats": "15,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "JWST699",
+  "title": "Independent Graduate Readings in Jewish Studies",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0102",
+      "instructor": "Marsha Rozenblit",
+      "seats": "1,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0103",
+      "instructor": "Hayim Lapin",
+      "seats": "2,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0107",
+      "instructor": "Charles Manekin",
+      "seats": "1,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0117",
+      "instructor": "Matthew Suriano",
+      "seats": "5,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Jewish Studies"
+}

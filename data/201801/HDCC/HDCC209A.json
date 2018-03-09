@@ -1,0 +1,27 @@
+{
+  "id": "HDCC209A",
+  "title": "Practicum in Digital Cultures and Creativity",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "DB Bauer",
+      "seats": "15,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:30pm",
+      "end": "7:15pm",
+      "building": "PFR",
+      "room": "0111"
+    }
+  ],
+  "term": "201801",
+  "department": "Design Cultures and Creativity"
+}

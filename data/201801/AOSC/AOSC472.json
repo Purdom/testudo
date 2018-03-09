@@ -1,0 +1,27 @@
+{
+  "id": "AOSC472",
+  "title": "Mesoscale Meteorology",
+  "credits": "3",
+  "description": "Prerequisite: AOSC432, AOSC600, AOSC610, or AOSC470.\nRestriction: Non-degree-seeking students require the permission of the instructor.\nAlso offered as: AOSC602.\nCredit only granted for: AOSC472 or AOSC602.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Scott Rudlosky",
+      "seats": "10,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:45pm",
+      "end": "6:00pm",
+      "building": "ATL",
+      "room": "3400"
+    }
+  ],
+  "term": "201801",
+  "department": "Atmospheric and Oceanic Science"
+}

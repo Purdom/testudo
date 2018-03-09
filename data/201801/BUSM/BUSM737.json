@@ -1,0 +1,25 @@
+{
+  "id": "BUSM737",
+  "title": "Applied Equity Analysis",
+  "credits": "2",
+  "description": "Prerequisite: BUSM610.\nRestriction: Must be in Business and Management (Master's) program; or permission of BMGT-Robert H. Smith School of Business.\nCredit only granted for: BUFN760 or BUSM737.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sarah Kroncke",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:50am",
+      "building": "VMH",
+      "room": "1511"
+    }
+  ],
+  "term": "201801",
+  "department": "Full-Time MBA Program"
+}

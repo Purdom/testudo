@@ -1,0 +1,25 @@
+{
+  "id": "MUSC658",
+  "title": "Seminar in Advanced Analysis",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas DeLio",
+      "seats": "6,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "11:00am",
+      "end": "1:30pm",
+      "building": "PAC",
+      "room": "1110C"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

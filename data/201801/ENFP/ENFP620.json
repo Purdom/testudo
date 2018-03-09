@@ -1,0 +1,26 @@
+{
+  "id": "ENFP620",
+  "title": "Fire Dynamics Laboratory",
+  "credits": "3",
+  "description": "Recommended: ENFP415.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stanislav Stoliarov",
+      "seats": "20,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "PLS",
+      "room": "1162"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Fire Protection"
+}

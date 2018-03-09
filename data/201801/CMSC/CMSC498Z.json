@@ -1,0 +1,25 @@
+{
+  "id": "CMSC498Z",
+  "title": "Selected Topics in Computer Science; Information-Centric Design of Systems",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in CMSC330 and CMSC351; or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ashok Agrawala",
+      "seats": "10,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CSI",
+      "room": "3118"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

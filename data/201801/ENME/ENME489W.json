@@ -1,0 +1,27 @@
+{
+  "id": "ENME489W",
+  "title": "Special Topics in Mechanical Engineering; Pollution and Waste Technology",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ashwani Gupta",
+      "seats": "58,",
+      "open-seats": "35,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "JMP",
+      "room": "3201"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

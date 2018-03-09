@@ -1,0 +1,27 @@
+{
+  "id": "CCJS498C",
+  "title": "Selected Topics in Criminology and Criminal Justice; Police and Campus Interaction",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sally Simpson",
+      "seats": "32,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "LEF",
+      "room": "1220"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

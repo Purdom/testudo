@@ -1,0 +1,27 @@
+{
+  "id": "BSCI392",
+  "title": "Biology of Extinct Animals",
+  "credits": "3",
+  "description": "Prerequisite: BSCI160 and BSCI161; or BSCI106.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Bretton Kent",
+      "seats": "55,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "PLS",
+      "room": "1130"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

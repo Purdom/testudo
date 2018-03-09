@@ -1,0 +1,25 @@
+{
+  "id": "ENSP360",
+  "title": "Every Drop Counts: Water, Food, and Global Public Health",
+  "credits": "3",
+  "description": "Prerequisite: ENSP101 or MIEH300; or permission of department.\nCredit only granted for: MIEH333 or ENSP360.\nAdditional information: This Pilot course is being jointly offered by the colleges of Agriculture and Natural Resources (Environmental Science and Policy Program) and the School of Public Health. It is envisioned that when this course is made permanent it will be cross-listed or offered jointly by these two programs.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sarah Allard",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ATL",
+      "room": "2416"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Policy"
+}

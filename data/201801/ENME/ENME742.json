@@ -1,0 +1,26 @@
+{
+  "id": "ENME742",
+  "title": "Urban Microclimate and Energy",
+  "credits": "3",
+  "description": "Also offered as: ENME424.\nCredit only granted for: ENME808I, ENME424 or ENME742.\nFormerly: ENME808I.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jelena Srebric",
+      "seats": "3,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "EGR",
+      "room": "1102"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

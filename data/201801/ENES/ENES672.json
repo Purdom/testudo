@@ -1,0 +1,37 @@
+{
+  "id": "ENES672",
+  "title": "Launching Technology Startup Ventures",
+  "credits": "6",
+  "description": "Prerequisite: ENES670 and ENES671.\nCredit only granted for: ENES660 or ENES672.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "PLM1",
+      "instructor": "Mark Komisky",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "PLM2",
+      "instructor": "Douglas Britton",
+      "seats": "10,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

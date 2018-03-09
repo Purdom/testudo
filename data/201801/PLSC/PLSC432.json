@@ -1,0 +1,27 @@
+{
+  "id": "PLSC432",
+  "title": "Greenhouse Crop Production",
+  "credits": "3",
+  "description": "Prerequisite: PLSC201 and PLSC202; and must have completed or be concurrently enrolled in BSCI442.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Lea-Cox",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "PLS",
+      "room": "1146"
+    }
+  ],
+  "term": "201801",
+  "department": "Plant Sciences"
+}

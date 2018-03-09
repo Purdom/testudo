@@ -1,0 +1,26 @@
+{
+  "id": "SURV616",
+  "title": "Statistical Modeling II",
+  "credits": "3",
+  "description": "Prerequisite: SURV615.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Taylor Lewis",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "7:40pm",
+      "building": "LEF",
+      "room": "2208"
+    }
+  ],
+  "term": "201801",
+  "department": "Survey Methodology"
+}

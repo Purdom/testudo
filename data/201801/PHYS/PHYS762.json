@@ -1,0 +1,26 @@
+{
+  "id": "PHYS762",
+  "title": "Plasma Physics II",
+  "credits": "3",
+  "description": "Prerequisite: PHYS761.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Drake",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PHY",
+      "room": "4222"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

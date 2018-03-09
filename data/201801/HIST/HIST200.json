@@ -1,0 +1,63 @@
+{
+  "id": "HIST200",
+  "title": "Interpreting American History: Beginnings to 1877",
+  "credits": "3",
+  "description": "Credit only granted for: HIST156 or HIST200.\nFormerly: HIST156.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Chiles",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0102",
+      "instructor": "Robert Chiles",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0103",
+      "instructor": "Robert Chiles",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0104",
+      "instructor": "Robert Chiles",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "KEY",
+      "room": "0106"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

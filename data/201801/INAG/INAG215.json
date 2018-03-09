@@ -1,0 +1,27 @@
+{
+  "id": "INAG215",
+  "title": "Business Management Principles for Turf Facilities",
+  "credits": "3",
+  "description": "Recommended: INAG107; or PLSC305.\nRestriction: Must be in a major within the AGNR-Institute of Applied Agriculture department; or must be in one of the following programs (Plant Sciences; Plant Sciences: Horticulture & Crop Production; Plant Sciences: Landscape Management; Plant Sciences: Plant Science; Plant Sciences: Turf & Golf Course Mgmt) ; or permission of AGNR-Institute of Applied Agriculture department.\nAdditional information: Enrollment priority is given to students majoring in Turfgrass and Golf Course Management in the Institute of Applied Agriculture and Plant Science and Landscape Architecture.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Geoffrey Rinehart",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "JUL",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "Institute of Applied Agriculture"
+}

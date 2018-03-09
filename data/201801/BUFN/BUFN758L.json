@@ -1,0 +1,37 @@
+{
+  "id": "BUFN758L",
+  "title": "Special Topics in Finance; FinTech: Business Disruptions, Innovations, and Opportunities",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Nagpurnanand Prabhala",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "VMH",
+      "room": "1330"
+    },
+    {
+      "id": "0502",
+      "instructor": "Nagpurnanand Prabhala",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "VMH",
+      "room": "1330"
+    }
+  ],
+  "term": "201801",
+  "department": "Finance"
+}

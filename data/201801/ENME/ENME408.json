@@ -1,0 +1,27 @@
+{
+  "id": "ENME408",
+  "title": "Selected Topics in Engineering Design; Automotive Design",
+  "credits": "3",
+  "description": "Restriction: Must be in Engineering: Mechanical program; and senior standing. Or permission of ENGR-Mechanical Engineering department. Repeatable to 6 credits if content differs.\n\nCreativity and innovation in design. Generalized performance analysis, reliability and optimization as applied to the design of components and engineering systems. Use of computers in design of multivariable systems.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Leonard Hamilton",
+      "seats": "50,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "CHE",
+      "room": "2110"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

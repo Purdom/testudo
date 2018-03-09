@@ -1,0 +1,25 @@
+{
+  "id": "EDSP433",
+  "title": "Families and Culture in Early Intervention (Birth-5)",
+  "credits": "3",
+  "description": "Prerequisite: EDHD314 and EDHD425; and (EDHD419 or EDSP420).\nCorequisite: EDSP430, EDSP315, and EDHD431.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paula Beckman",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "10:00am",
+      "end": "12:00pm",
+      "building": "EDU",
+      "room": "2101"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Special"
+}

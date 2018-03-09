@@ -1,0 +1,25 @@
+{
+  "id": "BUMO758A",
+  "title": "Special Topics in Management and Organization; Strategic Growth for Emerging Social & Commercial Ventures",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "GS01",
+      "instructor": "Jonathan Aberman",
+      "seats": "50,",
+      "open-seats": "30,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:25pm",
+      "end": "10:00pm",
+      "building": "BLD2",
+      "room": "2032"
+    }
+  ],
+  "term": "201801",
+  "department": "Management and Organization"
+}

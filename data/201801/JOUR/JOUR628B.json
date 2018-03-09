@@ -1,0 +1,26 @@
+{
+  "id": "JOUR628B",
+  "title": "Specialized Topics in News Writing and Reporting; Sports Reporting and Writing",
+  "credits": "3",
+  "description": "Prerequisite: JOUR320.\n\nThis course will give students full and wide-ranging instruction in all aspects of sports reporting and writing, from the history of the craft to its mechanics, including how to prepare to report and write sports stories, incorporating photography, audio, video and interactive mechanics and the laying out and editing of them. We will also discuss ethics, objectivity, fairness and the future of sports journalism.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kevin Blackistone",
+      "seats": "3,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "11:15am",
+      "building": "KNI",
+      "room": "1206"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

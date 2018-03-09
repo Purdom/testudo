@@ -1,0 +1,38 @@
+{
+  "id": "GVPT722",
+  "title": "Advanced Quantitative Methods For Political Science",
+  "credits": "3",
+  "description": "Prerequisite: GVPT622; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Patrick Wohlfarth",
+      "seats": "12,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "12:30pm",
+      "end": "3:15pm",
+      "building": "LEF",
+      "room": "0225"
+    },
+    {
+      "id": "0201",
+      "instructor": "Patrick Wohlfarth",
+      "seats": "12,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

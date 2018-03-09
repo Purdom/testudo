@@ -1,0 +1,27 @@
+{
+  "id": "ENAE414",
+  "title": "Aerodynamics II",
+  "credits": "3",
+  "description": "Prerequisite: ENAE311.\nRestriction: Must be in Engineering: Aerospace program; or permission of ENGR-Aerospace Engineering department. And junior standing or higher.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andrew Lind,",
+      "seats": "80,",
+      "open-seats": "29,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ATL",
+      "room": "1113"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

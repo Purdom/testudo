@@ -1,0 +1,27 @@
+{
+  "id": "NFSC315",
+  "title": "Nutrition During the Life Cycle",
+  "credits": "3",
+  "description": "Prerequisite: NFSC100.\nFormerly: NUTR315.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Jackson,",
+      "seats": "101,",
+      "open-seats": "32,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TYD",
+      "room": "0117"
+    }
+  ],
+  "term": "201801",
+  "department": "Nutrition and Food Science"
+}

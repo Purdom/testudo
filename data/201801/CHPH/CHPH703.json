@@ -1,0 +1,27 @@
+{
+  "id": "CHPH703",
+  "title": "Introduction to Nonequilibrium Statistical Physics",
+  "credits": "3",
+  "description": "Prerequisite: PHYS603 or CHEM687; or permission of instructor.\nCredit only granted for: CHPH703, CHPH718B, CHEM703, CHEM718B, PHYS703, or PHYS798Z.\nFormerly: CHPH718B.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christopher Jarzynski",
+      "seats": "15,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "CHM",
+      "room": "1224"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemical Physics"
+}

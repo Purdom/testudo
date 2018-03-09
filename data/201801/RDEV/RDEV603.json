@@ -1,0 +1,25 @@
+{
+  "id": "RDEV603",
+  "title": "Introduction to Real Property Finance",
+  "credits": "3",
+  "description": "Restriction: Permission of the Department.\nCredit only granted for: RDEV688Z, RDEV689V, or RDEV603.\nFormerly: RDEV688Z and RDEV689V.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Dwyer",
+      "seats": "25,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "ARC",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Real Estate Development"
+}

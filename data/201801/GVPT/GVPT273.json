@@ -1,0 +1,51 @@
+{
+  "id": "GVPT273",
+  "title": "Introduction to Environmental Politics",
+  "credits": "3",
+  "description": "An overview of modern environmental philosophy, politics, and policy, exploring environmental politics in the US by way of comparison with other developed and developing countries.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jennifer Hadden",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "TYD",
+      "room": "2109"
+    },
+    {
+      "id": "0102",
+      "instructor": "Jennifer Hadden",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "TYD",
+      "room": "2109"
+    },
+    {
+      "id": "0103",
+      "instructor": "Jennifer Hadden",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "TYD",
+      "room": "2109"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

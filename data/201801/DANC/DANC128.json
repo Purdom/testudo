@@ -1,0 +1,27 @@
+{
+  "id": "DANC128",
+  "title": "Fundamentals of Ballet",
+  "credits": "2",
+  "description": "Students must pay $25 lab fee.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Ronya Anderson",
+      "seats": "29,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PAC",
+      "room": "1908"
+    }
+  ],
+  "term": "201801",
+  "department": "Dance"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "ENME462",
+  "title": "Vibrations, Controls, and Optimization II",
+  "credits": "3",
+  "description": "Prerequisite: ENME351 and ENME361.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Munther Hassouneh,",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "HJP",
+      "room": "0226"
+    },
+    {
+      "id": "0102",
+      "instructor": "Munther Hassouneh,",
+      "seats": "42,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "HJP",
+      "room": "0226"
+    },
+    {
+      "id": "0103",
+      "instructor": "Munther Hassouneh,",
+      "seats": "42,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "HJP",
+      "room": "0226"
+    },
+    {
+      "id": "0104",
+      "instructor": "Munther Hassouneh,",
+      "seats": "40,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "HJP",
+      "room": "0226"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

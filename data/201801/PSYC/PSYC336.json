@@ -1,0 +1,27 @@
+{
+  "id": "PSYC336",
+  "title": "Psychology of Women",
+  "credits": "3",
+  "description": "Prerequisite: PSYC100.\nAlso offered as: WMST336.\nCredit only granted for: PSYC336 or WMST336.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elizabeth Sauber",
+      "seats": "110,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "BPS",
+      "room": "1250"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

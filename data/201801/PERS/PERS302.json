@@ -1,0 +1,27 @@
+{
+  "id": "PERS302",
+  "title": "Advanced Persian II",
+  "credits": "3",
+  "description": "Prerequisite: PERS301; or students who have taken courses with comparable content may contact the department.\nRestriction: Must not be native/fluent speaker of Persian.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ali Abasi",
+      "seats": "15,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "HJP",
+      "room": "2114"
+    }
+  ],
+  "term": "201801",
+  "department": "Persian"
+}

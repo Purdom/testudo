@@ -1,0 +1,27 @@
+{
+  "id": "HLTH130",
+  "title": "Introduction to Public and Community Health",
+  "credits": "3",
+  "description": "Restriction: Must not have completed HLTH105; and non-majors must have 45 or fewer credits.\nCredit only granted for: HLTH105 or HLTH130.\nFormerly: HLTH105.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Donna Howard",
+      "seats": "120,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "SPH",
+      "room": "1312"
+    }
+  ],
+  "term": "201801",
+  "department": "Health"
+}

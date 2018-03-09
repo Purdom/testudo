@@ -1,0 +1,25 @@
+{
+  "id": "BMGT888W",
+  "title": "Special Topics in Supply Chain Management; Workshop in Supply Chain Management",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Windle",
+      "seats": "10,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "1:00pm",
+      "end": "2:30pm",
+      "building": "VMH",
+      "room": "3332"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

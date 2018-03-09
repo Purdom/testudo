@@ -1,0 +1,25 @@
+{
+  "id": "ECON488W",
+  "title": "Applied Market Research Practicum; Wealth Management Fundamentals",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Neri",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "7:00pm",
+      "building": "TYD",
+      "room": "2108"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

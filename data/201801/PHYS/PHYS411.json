@@ -1,0 +1,27 @@
+{
+  "id": "PHYS411",
+  "title": "Intermediate Electricity and Magnetism",
+  "credits": "4",
+  "description": "Prerequisite: PHYS373.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Daniel Lathrop",
+      "seats": "63,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PHY",
+      "room": "1201"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

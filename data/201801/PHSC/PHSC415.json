@@ -1,0 +1,61 @@
+{
+  "id": "PHSC415",
+  "title": "Essentials of Public Health Biology: The Cell, The Individual, and Disease",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in BSCI202.\nRecommended: BSCI223.\nRestriction: Must be in Public Health Science program; and junior standing or higher.\nCredit only granted for: PHSC415, SPHL415 or SPHL498J.\nFormerly: SPHL415 and SPHL498J.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jessica O'Hara",
+      "seats": "23,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0102",
+      "instructor": "Jessica O'Hara",
+      "seats": "23,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0104",
+      "instructor": "Jessica O'Hara",
+      "seats": "23,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0105",
+      "instructor": "Jessica O'Hara",
+      "seats": "23,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ESJ",
+      "room": "2208"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Health Science"
+}

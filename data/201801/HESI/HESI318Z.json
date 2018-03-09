@@ -1,0 +1,27 @@
+{
+  "id": "HESI318Z",
+  "title": "Applied Contextual Leadership; Work for Change",
+  "credits": "3",
+  "description": "Prerequisite: Students must be accepted into the Work for Change program with the permission of department. Individuals must have an internship at a local nonprofit or government agency secured for 8-10 hours per week before the start of class. Please contact Deborah Slosberg (slosberg@umd.edu) for more information.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kyle Kastler",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:00pm",
+      "building": "EDU",
+      "room": "3233"
+    }
+  ],
+  "term": "201801",
+  "department": "Higher Ed, Student Affairs, and International Ed Policy"
+}

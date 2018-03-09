@@ -1,0 +1,51 @@
+{
+  "id": "ENGL498",
+  "title": "Advanced Fiction Workshop; Advanced Fiction Workshop",
+  "credits": "3",
+  "description": "Prerequisite: ENGL396 or ENGL352; or permission of department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Maud Casey",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TWS",
+      "room": "3248"
+    },
+    {
+      "id": "0201",
+      "instructor": "Emily Mitchell",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TWS",
+      "room": "3248"
+    },
+    {
+      "id": "0301",
+      "instructor": "Rachel Waugh",
+      "seats": "15,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TWS",
+      "room": "3136"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

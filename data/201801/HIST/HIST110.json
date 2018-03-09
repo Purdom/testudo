@@ -1,0 +1,63 @@
+{
+  "id": "HIST110",
+  "title": "The Ancient World",
+  "credits": "3",
+  "description": "Interpretation of select literature and art of the ancient Mediterranean world with a view to illuminating the antecedents of modern culture; religion and myth in the ancient Near East; Greek philosophical, scientific, and literary invention; and the Roman tradition in politics and administration.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Weisweiler",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:20am",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0102",
+      "instructor": "John Weisweiler",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:20am",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0103",
+      "instructor": "John Weisweiler",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:20am",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0104",
+      "instructor": "John Weisweiler",
+      "seats": "20,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:20am",
+      "building": "KEY",
+      "room": "0106"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

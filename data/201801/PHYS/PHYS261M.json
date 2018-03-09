@@ -1,0 +1,27 @@
+{
+  "id": "PHYS261M",
+  "title": "General Physics: Vibrations, Waves, Heat, Electricity and Magnetism (Laboratory)",
+  "credits": "1",
+  "description": "Corequisite: PHYS260.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Instructor: TBA",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

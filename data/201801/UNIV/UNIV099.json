@@ -1,0 +1,25 @@
+{
+  "id": "UNIV099",
+  "title": "Internship Seminar",
+  "credits": "0",
+  "description": "Restriction: Must have earned a minimum cumulative GPA of 2.0 (undergraduates) or 3.0 (graduate students); and Permission of the Career Center; and permission of instructor.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Maria Bowman,",
+      "seats": "50,",
+      "open-seats": "26,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "University Courses"
+}

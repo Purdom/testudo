@@ -1,0 +1,39 @@
+{
+  "id": "CMLT270",
+  "title": "Global Literature and Social Change",
+  "credits": "3",
+  "description": "Comparative study of literature through selected literary works from several non-Western cultures, viewed cross-culturally in light of particular social, political, and economic perspectives.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Manon Soulet",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ASY",
+      "room": "3219"
+    },
+    {
+      "id": "0301",
+      "instructor": "Tung-An Wei",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "0205"
+    }
+  ],
+  "term": "201801",
+  "department": "Comparative Literature"
+}

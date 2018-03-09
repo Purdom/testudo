@@ -1,0 +1,25 @@
+{
+  "id": "BUDT758V",
+  "title": "Special Topics in Decision, Operations and Information Technologies; Operations Analytics",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Zhi-Long Chen",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:25pm",
+      "end": "10:00pm",
+      "building": "VMH",
+      "room": "1333"
+    }
+  ],
+  "term": "201801",
+  "department": "Decision and Information Technologies"
+}

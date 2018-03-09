@@ -1,0 +1,27 @@
+{
+  "id": "CCJS389H",
+  "title": "Independent Research in Criminology and Criminal Justice",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Maimon",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "KEY",
+      "room": "0124"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "PLSC235",
+  "title": "Irrigation and Drainage",
+  "credits": "3",
+  "description": "Credit only granted for: PLSC235 or PLSC489I.\nFormerly: PLSC489I.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Geoffrey Rinehart",
+      "seats": "22,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "1:00pm",
+      "building": "JUL",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "Plant Sciences"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "JOUR352",
+  "title": "Interactive Design and Development",
+  "credits": "3",
+  "description": "Prerequisite: JOUR203.\nRestriction: Must be in a major in JOUR-Philip Merrill College of Journalism.\nAlso offered as: JOUR352.\nCredit only granted for: JOUR352 or JOUR652.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mark Smith",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "7:00pm",
+      "end": "9:45pm",
+      "building": "KNI",
+      "room": "3210"
+    },
+    {
+      "id": "0301",
+      "instructor": "Leslie Walker,",
+      "seats": "17,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "3:45pm",
+      "building": "KNI",
+      "room": "2107"
+    },
+    {
+      "id": "0401",
+      "instructor": "Alexander Pyles",
+      "seats": "18,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:00pm",
+      "end": "8:45pm",
+      "building": "KNI",
+      "room": "2103"
+    },
+    {
+      "id": "0501",
+      "instructor": "Leslie Walker,",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "KNI",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

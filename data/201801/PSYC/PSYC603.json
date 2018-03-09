@@ -1,0 +1,26 @@
+{
+  "id": "PSYC603",
+  "title": "Introduction to Industrial and Organizational Psychology",
+  "credits": "3",
+  "description": "Credit only granted for: PSYC603 or PSYC730.\nFormerly: PSYC730.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michele Gelfand",
+      "seats": "20,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:00pm",
+      "end": "5:30pm",
+      "building": "BPS",
+      "room": "0283"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

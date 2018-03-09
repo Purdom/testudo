@@ -1,0 +1,27 @@
+{
+  "id": "PLCY313",
+  "title": "Advocacy in the American Political System",
+  "credits": "3",
+  "description": "Credit only granted for: PUAF313, PLCY313 or PUAF359C.\nFormerly: PUAF359C.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gerard Evans",
+      "seats": "75,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "TWS",
+      "room": "1310"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

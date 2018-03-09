@@ -1,0 +1,25 @@
+{
+  "id": "EDHD437",
+  "title": "EC/ECSE Teachers as Researchers and Reflective Practitioners",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in EDHD322, EDHD323, EDSP321, EDSP417, EDHD441, EDHD442, EDHD443, and EDHD444.\nCorequisite: EDHD432.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Judith Anderson",
+      "seats": "36,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "SQH",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Human Development"
+}

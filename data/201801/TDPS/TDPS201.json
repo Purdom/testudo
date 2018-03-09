@@ -1,0 +1,27 @@
+{
+  "id": "TDPS201",
+  "title": "Introduction to Technical Production",
+  "credits": "3",
+  "description": "Restriction: Must be in a major within ARHU-Dance department; or must be in a major within ARHU-Theatre department.\nCredit only granted for: DANC210 and THET114 or TDPS201.\nFormerly: DANC210 and THET114.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Michael Driggers",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "PAC",
+      "room": "1809"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre, Dance and Performance Studies"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ENGL456",
+  "title": "The Nineteenth-Century English Novel",
+  "credits": "3",
+  "description": "Prerequisite: Two English courses in literature; or permission of ARHU-English department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Goodwin",
+      "seats": "22,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "TWS",
+      "room": "0221"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

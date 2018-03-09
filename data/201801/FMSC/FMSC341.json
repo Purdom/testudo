@@ -1,0 +1,51 @@
+{
+  "id": "FMSC341",
+  "title": "Personal and Family Finance",
+  "credits": "3",
+  "description": "Credit only granted for: FMSC341 or FMST341.\nFormerly: FMST341.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Manouchehr Mokhtari",
+      "seats": "60,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "6:30pm",
+      "end": "7:45pm",
+      "building": "SPH",
+      "room": "1312"
+    },
+    {
+      "id": "SG91",
+      "instructor": "William Knight",
+      "seats": "100,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "SG93",
+      "instructor": "William Knight",
+      "seats": "40,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "THET440",
+  "title": "Advanced Playwriting",
+  "credits": "3",
+  "description": "Prerequisite: THET340; or permission of instructor. And permission of ARHU-School of Theatre, Dance & Performance Studies department.\nRestriction: Permission of ARHU-School of Theatre, Dance & Performance Studies department.\nCredit only granted for: THET440 or THET499P.\nFormerly: THET499P.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Jennifer Barclay Newsham",
+      "seats": "12,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "PAC",
+      "room": "1815"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre"
+}

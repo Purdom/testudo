@@ -1,0 +1,27 @@
+{
+  "id": "AOSC494",
+  "title": "Atmospheric and Oceanic Science Seminar",
+  "credits": "1",
+  "description": "Prerequisite: Minimum grade of C- in AOSC431 and AOSC432.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ning Zeng,",
+      "seats": "20,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:30pm",
+      "end": "5:00pm",
+      "building": "ATL",
+      "room": "2400"
+    }
+  ],
+  "term": "201801",
+  "department": "Atmospheric and Oceanic Science"
+}

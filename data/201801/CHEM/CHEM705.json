@@ -1,0 +1,26 @@
+{
+  "id": "CHEM705",
+  "title": "Nuclear Chemistry",
+  "credits": "3",
+  "description": "Nuclear structure models, radioactive decay processes, nuclear reactions in complex nuclei, fission, nucleosynthesis and nuclear particle accelerators.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alice Mignerey",
+      "seats": "15,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:00pm",
+      "end": "5:15pm",
+      "building": "CHM",
+      "room": "1228"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

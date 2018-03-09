@@ -1,0 +1,26 @@
+{
+  "id": "CBMG688F",
+  "title": "Special Topics in Cell Biology and Molecular Genetics; Gene Expression",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Daniel Dwyer,",
+      "seats": "35,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "4:00pm",
+      "end": "6:00pm",
+      "building": "BRB",
+      "room": "3101"
+    }
+  ],
+  "term": "201801",
+  "department": "Cell Biology & Molecular Genetics"
+}

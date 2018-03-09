@@ -1,0 +1,26 @@
+{
+  "id": "LARC641",
+  "title": "Graduate Studio II",
+  "credits": "5",
+  "description": "Prerequisite: LARC640.\nCorequisite: LARC720.\nRestriction: Permission of AGNR-Plant Science & Landscape Architecture department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dennis Nola",
+      "seats": "10,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "PLS",
+      "room": "1142"
+    }
+  ],
+  "term": "201801",
+  "department": "Landscape Architecture"
+}

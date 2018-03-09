@@ -1,0 +1,26 @@
+{
+  "id": "PHYS738",
+  "title": "Seminar in Experimental Solid State Physics; Quantum Mechanical Many-Body Problems",
+  "credits": "1",
+  "description": "Advanced special students require department authorization.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Johnpierre Paglione",
+      "seats": "30,",
+      "open-seats": "25,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "3:30pm",
+      "building": "PHY",
+      "room": "1201"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

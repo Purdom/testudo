@@ -1,0 +1,27 @@
+{
+  "id": "PHYS404",
+  "title": "Introduction to Statistical Thermodynamics",
+  "credits": "3",
+  "description": "Prerequisite: PHYS371 or PHYS420.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paulo Bedaque",
+      "seats": "84,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PHY",
+      "room": "1410"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

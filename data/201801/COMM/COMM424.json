@@ -1,0 +1,27 @@
+{
+  "id": "COMM424",
+  "title": "Communication in Complex Organizations",
+  "credits": "3",
+  "description": "Structure and function of communication within organizations: organizational climate and culture, information flow, networks and role relationships.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Raphael Mazzone",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "KEY",
+      "room": "1117"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

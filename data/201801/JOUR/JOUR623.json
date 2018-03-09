@@ -1,0 +1,26 @@
+{
+  "id": "JOUR623",
+  "title": "Mobile Journalism",
+  "credits": "3",
+  "description": "Prerequisite: Students must have basic computer skills.\nCredit only granted for: JOUR689M or JOUR623.\nFormerly: JOUR689M.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PCJ1",
+      "instructor": "Ronald Yaros",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "Sa",
+      "start": "8:30am",
+      "end": "12:15pm",
+      "building": "KNI",
+      "room": "3202"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

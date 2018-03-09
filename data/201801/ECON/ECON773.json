@@ -1,0 +1,26 @@
+{
+  "id": "ECON773",
+  "title": "Topics in Applied Public and Labor Economics",
+  "credits": "3",
+  "description": "Prerequisite: ECON603, ECON604, and ECON623; and (ECON624 or ECON626).",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nolan Pope",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "LEF",
+      "room": "1171"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

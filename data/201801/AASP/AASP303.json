@@ -1,0 +1,27 @@
+{
+  "id": "AASP303",
+  "title": "Computer Applications in African American Studies",
+  "credits": "3",
+  "description": "Prerequisite: STAT100, MATH107, MATH111, or SOCY201; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tainya Clarke",
+      "seats": "20,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:30pm",
+      "end": "6:45pm",
+      "building": "KEY",
+      "room": "0119"
+    }
+  ],
+  "term": "201801",
+  "department": "African American Studies"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "CHEM682",
+  "title": "Chemical Kinetics and Dynamics",
+  "credits": "3",
+  "description": "Prerequisite: CHEM482; or permission of instructor.\nRestriction: Restricted to graduate students or advanced undergraduates with prerequisites.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Amy Mullin",
+      "seats": "25,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "EGR",
+      "room": "0135"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

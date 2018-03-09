@@ -1,0 +1,27 @@
+{
+  "id": "ARCH465",
+  "title": "Architectural Structures II",
+  "credits": "3",
+  "description": "Restriction: Must be in a major in ARCH-Architecture Program.\nCredit only granted for: ARCH412 or ARCH465.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ming Hu",
+      "seats": "120,",
+      "open-seats": "42,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ARC",
+      "room": "0204"
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

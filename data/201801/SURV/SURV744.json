@@ -1,0 +1,26 @@
+{
+  "id": "SURV744",
+  "title": "Topics in Survey Methodology",
+  "credits": "3",
+  "description": "Prerequisite: SURV440.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yan Li",
+      "seats": "15,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "3:00pm",
+      "building": "LEF",
+      "room": "2208"
+    }
+  ],
+  "term": "201801",
+  "department": "Survey Methodology"
+}

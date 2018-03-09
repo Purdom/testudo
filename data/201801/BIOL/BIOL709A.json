@@ -1,0 +1,26 @@
+{
+  "id": "BIOL709A",
+  "title": "Selected Advanced Topics in Biology; Grant Writing",
+  "credits": "2",
+  "description": "Also offered as NACS728M. Credit granted for BIOL709A or NACS728M. Instruction in grant-writing skill, introduction to resources, discussions on how to make your grant competitive, and insight into the review process. The goal will be to have each participant submit an NRSA.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elizabeth Quinlan",
+      "seats": "10,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "1:00pm",
+      "end": "3:00pm",
+      "building": "BRB",
+      "room": "3101"
+    }
+  ],
+  "term": "201801",
+  "department": "Biology"
+}

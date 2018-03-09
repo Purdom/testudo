@@ -1,0 +1,27 @@
+{
+  "id": "ENGL256",
+  "title": "Fantasy Literature",
+  "credits": "3",
+  "description": "How fantasy employs alternate forms of representation, such as the fantastical, estranging, or impossible, which other genres would not allow. Through novels, short stories, graphic novels, and film, traces fantasy's roots in mythology and folklore, then explores how modern texts build upon or challenge these origins. Examination of literary strategies texts use to represent the world through speculative modes. How to distinguish fantasy from, and relate it to, other genres such as science fiction, horror, fairly tales, and magical realism. Fantasy's investment in world-building, history, tradition, and categories of identity such as race, class, and gender. How fantasy, as a genre, form, and world-view, is well-suited to our contemporary reality.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Uchechi Okereke-Beshel",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TWS",
+      "room": "0221"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "COMM789A",
+  "title": "Seminar: Special Topics in Intercultural Communication; Advanced Political and Legal Communication",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PG01",
+      "instructor": "Shawn Parry-Giles,",
+      "seats": "16,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "3:30pm",
+      "building": "SKN",
+      "room": "2127"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

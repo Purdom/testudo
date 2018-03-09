@@ -1,0 +1,26 @@
+{
+  "id": "ENCH781",
+  "title": "Polymer Reaction Engineering",
+  "credits": "3",
+  "description": "Prerequisite: ENCH640; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kyu Yong Choi",
+      "seats": "5,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CHE",
+      "room": "2118"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Chemical"
+}

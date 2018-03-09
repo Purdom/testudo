@@ -1,0 +1,27 @@
+{
+  "id": "ENME424",
+  "title": "Urban Microclimate and Energy",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in ENME332.\nRecommended: ENME423.\nRestriction: Permission of ENGR-Mechanical Engineering department.\nCredit only granted for: ENME424 or ENME808I.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jelena Srebric",
+      "seats": "20,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "EGR",
+      "room": "1102"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

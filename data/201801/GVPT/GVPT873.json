@@ -1,0 +1,26 @@
+{
+  "id": "GVPT873",
+  "title": "Seminar in Legislatures and Legislation",
+  "credits": "3",
+  "description": "Reports on topics assigned for individual study and reading about the composition and organization of legislatures and about the legislative process.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Frances Lee",
+      "seats": "12,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "9:30am",
+      "end": "12:15pm",
+      "building": "TYD",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "CCJS200",
+  "title": "Statistics for Criminology and Criminal Justice",
+  "credits": "3",
+  "description": "Prerequisite: CCJS100 or CCJS105. And 1 course with a minimum grade of C- from (STAT100, MATH107, MATH111, MATH120, MATH130, MATH140); or must have completed MATH220 with a minimum grade of C-.\nRestriction: Must be in Criminology and Criminal Justice program; or permission of BSOS-Criminology & Criminal Justice department.\nCredit only granted for: BIOM301, BMGT230, CCJS200, ECON230, ECON321, EDMS451, GEOG306, GEOL351, GVPT422, INST314, JOUR405, PSYC200 or SOCY201. (These courses do not necessarily meet the same major requirements-check with your advisor to see which of these courses will count for your major).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alan Lehman",
+      "seats": "30,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0102",
+      "instructor": "Alan Lehman",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0103",
+      "instructor": "Alan Lehman",
+      "seats": "30,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0104",
+      "instructor": "Alan Lehman",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0105",
+      "instructor": "Alan Lehman",
+      "seats": "30,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0106",
+      "instructor": "Alan Lehman",
+      "seats": "30,",
+      "open-seats": "24,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "MMH",
+      "room": "1400"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

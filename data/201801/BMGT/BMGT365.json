@@ -1,0 +1,25 @@
+{
+  "id": "BMGT365",
+  "title": "Entrepreneurial Finance and Private Equity",
+  "credits": "3",
+  "description": "Prerequisite: BMGT461 or BMGT361.\nRestriction: Junior standing or higher.\nCredit only granted for: BMGT365, ENES466 or HLMN471.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "Michael Padhi",
+      "seats": "40,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "4:40pm",
+      "building": "BLD2",
+      "room": "3052"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "STAT702",
+  "title": "Survival Analysis",
+  "credits": "3",
+  "description": "Prerequisite: STAT410 and STAT420; or students who have taken courses with comparable content may contact the department; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Takumi Saegusa",
+      "seats": "25,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PHY",
+      "room": "1219"
+    }
+  ],
+  "term": "201801",
+  "department": "Statistics and Probability"
+}

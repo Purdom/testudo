@@ -1,0 +1,26 @@
+{
+  "id": "CMSC798F",
+  "title": "Graduate Seminar in Computer Science; How to Conduct Great Research",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jeffrey Foster",
+      "seats": "55,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CSI",
+      "room": "3117"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

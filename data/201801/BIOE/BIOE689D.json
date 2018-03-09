@@ -1,0 +1,37 @@
+{
+  "id": "BIOE689D",
+  "title": "Special Topics in Bioengineering; Applications of Biomaterials",
+  "credits": "3",
+  "description": "For Master of Engineering students only or with permission of department",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Martha Wang",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "PLS",
+      "room": "1164"
+    },
+    {
+      "id": "BI01",
+      "instructor": "Martha Wang",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

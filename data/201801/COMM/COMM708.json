@@ -1,0 +1,25 @@
+{
+  "id": "COMM708",
+  "title": "Professional Communication: Rhetoric and Context",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "PCF1",
+      "instructor": "Mollie Kaufer",
+      "seats": "20,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "12:00pm",
+      "end": "2:50pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

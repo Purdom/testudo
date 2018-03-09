@@ -1,0 +1,27 @@
+{
+  "id": "GERM489B",
+  "title": "Social Issues in German Culture; Weimar Culture",
+  "credits": "3",
+  "description": "This course provides an overview of the significant artistic and cultural movements of the Weimar Republic, focusing on debates about modernity, political change, and the social upheaval of the interwar period. Taught in German.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hester Baer",
+      "seats": "20,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:30pm",
+      "end": "7:00pm",
+      "building": "JMZ",
+      "room": "3203"
+    }
+  ],
+  "term": "201801",
+  "department": "Germanic Studies"
+}

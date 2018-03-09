@@ -1,0 +1,39 @@
+{
+  "id": "STAT420",
+  "title": "Introduction to Statistics",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (SURV410, STAT410).\nAlso offered as: SURV420.\nCredit only granted for: STAT420 or SURV420.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tingni Sun",
+      "seats": "28,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "EGR",
+      "room": "3102"
+    },
+    {
+      "id": "0201",
+      "instructor": "Jian Lun Xu",
+      "seats": "30,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "MTH",
+      "room": "0201"
+    }
+  ],
+  "term": "201801",
+  "department": "Statistics and Probability"
+}

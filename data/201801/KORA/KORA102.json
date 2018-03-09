@@ -1,0 +1,49 @@
+{
+  "id": "KORA102",
+  "title": "Elementary Korean II",
+  "credits": "3",
+  "description": "Prerequisite: KORA101; or must have appropriate Foreign Language Placement Test (FLPT) score.\nRestriction: Must be a non-Heritage student; and permission of instructor required for new students.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Younghi Ramsey",
+      "seats": "15,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "JMZ",
+      "room": "1224"
+    },
+    {
+      "id": "0201",
+      "instructor": "Younghi Ramsey",
+      "seats": "15,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "JMZ",
+      "room": "2123"
+    },
+    {
+      "id": "0301",
+      "instructor": "Seong Minne Koh",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "JMZ",
+      "room": "0122"
+    }
+  ],
+  "term": "201801",
+  "department": "Korean"
+}

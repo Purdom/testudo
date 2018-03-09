@@ -1,0 +1,26 @@
+{
+  "id": "BCHM669L",
+  "title": "Special Topics in Biochemistry; Introduction to Structure Determination I: X-ray Crystallography and Complimentary Approaches",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nicole LaRonde",
+      "seats": "10,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "PLS",
+      "room": "5112"
+    }
+  ],
+  "term": "201801",
+  "department": "Biochemistry"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ECON644",
+  "title": "Empirical Analysis II: Introduction to Economic Models",
+  "credits": "3",
+  "description": "Prerequisite: ECON643.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PCE1",
+      "instructor": "Hossein Abbasi",
+      "seats": "30,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:30pm",
+      "end": "9:15pm",
+      "building": "MOR",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

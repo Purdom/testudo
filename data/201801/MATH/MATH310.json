@@ -1,0 +1,61 @@
+{
+  "id": "MATH310",
+  "title": "Introduction to Mathematical Proof",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in MATH141; and must have completed or be concurrently enrolled in MATH240, MATH341, or MATH461; and must have completed or be concurrently enrolled in MATH241 or MATH340.\nRestriction: Must be in a major within the CMNS-Mathematics department.\nCredit only granted for: MATH307 or MATH310.\nAdditional information: Math majors may not use this course to satisfy an upper-level requirement.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Steve Halperin",
+      "seats": "30,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "MTH",
+      "room": "0401"
+    },
+    {
+      "id": "0201",
+      "instructor": "Kathryn Truman",
+      "seats": "30,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "CHM",
+      "room": "1228"
+    },
+    {
+      "id": "0301",
+      "instructor": "Nathaniael Manning",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "MTH",
+      "room": "0106"
+    },
+    {
+      "id": "0401",
+      "instructor": "Juan Pablo Borthagaray",
+      "seats": "30,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "MTH",
+      "room": "0403"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

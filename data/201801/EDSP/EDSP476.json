@@ -1,0 +1,27 @@
+{
+  "id": "EDSP476",
+  "title": "Communicating with Sign Language",
+  "credits": "3",
+  "description": "Prerequisite: EDSP376.\nRestriction: Permission of EDUC-Counseling, Higher Education and Special Education department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Dunham",
+      "seats": "30,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "KNI",
+      "room": "1105"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Special"
+}

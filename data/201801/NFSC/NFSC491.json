@@ -1,0 +1,27 @@
+{
+  "id": "NFSC491",
+  "title": "Issues and Problems in Dietetics",
+  "credits": "3",
+  "description": "Prerequisite: NFSC350; and permission of AGNR-Nutrition and Food Science department.\nCorequisite: NFSC460.\nRestriction: Senior standing or higher; and must be in Nutrition and Food Science: Dietetics program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Rebecca Bitzer",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "8:30am",
+      "end": "10:50am",
+      "building": "HBK",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "Nutrition and Food Science"
+}

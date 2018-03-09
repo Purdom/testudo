@@ -1,0 +1,27 @@
+{
+  "id": "ARTH301",
+  "title": "Aegean Art and Archaeology",
+  "credits": "3",
+  "description": "Sites and monuments of painting, sculpture, architecture, and the minor arts of Crete, the Cycladic islands, and the Greek mainland from the earliest times to the downfall of the Mycenaean empire.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Emily Egan",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ASY",
+      "room": "3215"
+    }
+  ],
+  "term": "201801",
+  "department": "Art History & Archaeology"
+}

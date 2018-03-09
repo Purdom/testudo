@@ -1,0 +1,27 @@
+{
+  "id": "BSCI398H",
+  "title": "Biology Department Honors Seminar",
+  "credits": "1",
+  "description": "Required seminar for all students participating in departmental honors research program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "1000",
+      "instructor": "Alexandra Bely",
+      "seats": "35,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "BPS",
+      "room": "1208"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

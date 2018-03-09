@@ -1,0 +1,27 @@
+{
+  "id": "MUSC226",
+  "title": "Vocal Diction: French",
+  "credits": "1",
+  "description": "Prerequisite: Permission of ARHU-School of Music department.\nRestriction: Must be in a major within ARHU-School of Music department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Diba Alvi",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "PAC",
+      "room": "2164"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

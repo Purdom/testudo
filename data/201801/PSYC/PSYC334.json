@@ -1,0 +1,27 @@
+{
+  "id": "PSYC334",
+  "title": "Psychology of Interpersonal Relationships",
+  "credits": "3",
+  "description": "Prerequisite: PSYC100.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Edward Lemay",
+      "seats": "150,",
+      "open-seats": "51,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ESJ",
+      "room": "2204"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

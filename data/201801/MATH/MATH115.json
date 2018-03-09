@@ -1,0 +1,87 @@
+{
+  "id": "MATH115",
+  "title": "Precalculus",
+  "credits": "3",
+  "description": "Prerequisite: Must have math eligibility of MATH115 or higher; and math eligibility is based on the Math Placement Exam or the successful completion of MATH003 with appropriate eligibility. Or MATH113.\nRestriction: Must not have completed MATH140; and must not have completed any MATH or STAT course with a prerequisite of MATH140.\nCredit only granted for: Students who have credits for MATH115 may not also receive credits for MATH112 or MATH113.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0111",
+      "instructor": "Raluca Rosca",
+      "seats": "28,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0121",
+      "instructor": "Raluca Rosca",
+      "seats": "27,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0131",
+      "instructor": "Raluca Rosca",
+      "seats": "27,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0141",
+      "instructor": "Raluca Rosca",
+      "seats": "27,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0151",
+      "instructor": "Raluca Rosca",
+      "seats": "27,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0161",
+      "instructor": "Raluca Rosca",
+      "seats": "27,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ESJ",
+      "room": "2208"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

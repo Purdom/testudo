@@ -1,0 +1,26 @@
+{
+  "id": "CBMG699D",
+  "title": "Special Problems in Cell Biology and Molecular Genetics; Molecular Genetics: Bioinformatics and Computation Biology",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stephen Mount",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "3:00pm",
+      "building": "BRB",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Cell Biology & Molecular Genetics"
+}

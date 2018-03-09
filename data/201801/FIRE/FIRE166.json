@@ -1,0 +1,25 @@
+{
+  "id": "FIRE166",
+  "title": "FIRE SEMESTER 2: Evolution of Sex Differences",
+  "credits": "3",
+  "description": "Recommended: FIRE120.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ashley Nazario Toole",
+      "seats": "36,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "ATL",
+      "room": "2339"
+    }
+  ],
+  "term": "201801",
+  "department": "First-Year Innovation & Research Experience"
+}

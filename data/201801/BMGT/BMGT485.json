@@ -1,0 +1,37 @@
+{
+  "id": "BMGT485",
+  "title": "Project Management",
+  "credits": "3",
+  "description": "Prerequisite: BMGT231 or BMGT230; or students who have taken courses with comparable content may contact the department.\nRestriction: Must be in a major in BMGT-Robert H. Smith School of Business.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Anand Anandalingam",
+      "seats": "45,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1206"
+    },
+    {
+      "id": "0201",
+      "instructor": "Anand Anandalingam",
+      "seats": "45,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "VMH",
+      "room": "1202"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

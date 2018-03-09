@@ -1,0 +1,26 @@
+{
+  "id": "MATH858M",
+  "title": "Selected Topics in Analysis; Asymptotic Methods with Applications",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dionisios Margetis",
+      "seats": "25,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "EGR",
+      "room": "1102"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

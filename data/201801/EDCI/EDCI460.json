@@ -1,0 +1,25 @@
+{
+  "id": "EDCI460",
+  "title": "Student Teaching: Middle School",
+  "credits": "12",
+  "description": "Prerequisite: EDCI413.\nCorequisite: EDCI414 and EDCI425.\nRestriction: Minimum cumulative GPA of 2.5; and permission of EDUC-Teaching, Learning, Policy and Leadership department; and for Middle School Education majors only.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stacy Pritchett",
+      "seats": "20,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

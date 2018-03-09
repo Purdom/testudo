@@ -1,0 +1,25 @@
+{
+  "id": "EDSP315",
+  "title": "Inclusive Instruction: Reading Methods II",
+  "credits": "3",
+  "description": "Prerequisite: EDHD314 and EDHD425; and (EDHD419 or EDSP420).\nCorequisite: EDSP423 and EDHD431; and track 1: Must be concurrently enrolled in EDSP430 and EDSP433; OR Track 2: Must be concurrently enrolled in EDHD415 and EDHD424.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ana Taboada Barber",
+      "seats": "35,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "1:00pm",
+      "end": "3:00pm",
+      "building": "EDU",
+      "room": "2119"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Special"
+}

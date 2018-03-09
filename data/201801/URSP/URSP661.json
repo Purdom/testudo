@@ -1,0 +1,26 @@
+{
+  "id": "URSP661",
+  "title": "City and Regional Economic Development Planning",
+  "credits": "3",
+  "description": "Prerequisite: URSP606 or URSP660.\nCredit only granted for: URSP661, URBS440, or URBS661.\nFormerly: URBS661.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Li Fang",
+      "seats": "19,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "9:00am",
+      "end": "1:00pm",
+      "building": "ARC",
+      "room": "1119"
+    }
+  ],
+  "term": "201801",
+  "department": "Urban Studies and Planning"
+}

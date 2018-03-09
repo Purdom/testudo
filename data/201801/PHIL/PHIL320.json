@@ -1,0 +1,27 @@
+{
+  "id": "PHIL320",
+  "title": "Modern Philosophy",
+  "credits": "3",
+  "description": "Prerequisite: 6 credits in PHIL courses.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Aleks Knoks",
+      "seats": "30,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "KEY",
+      "room": "0126"
+    }
+  ],
+  "term": "201801",
+  "department": "Philosophy"
+}

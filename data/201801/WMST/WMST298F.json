@@ -1,0 +1,27 @@
+{
+  "id": "WMST298F",
+  "title": "Special Topics in Women's Studies; Gender and Financial Well-being",
+  "credits": "1",
+  "description": "Meets face-to-face (Jan 30, March 27, April 24) in KEY 0102 and online (Feb 13, Feb 27, and April 10).\n\nFacilitates the development of greater economic acumen among women about systems of finance and economics in the world and encourages women's critical engagement in finance and economics. The course teaches students, especially women students, the nuts and bolts of managing personal finances and encourages students to consider careers in finance, while learning skills needed for leadership.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alana Hackshaw",
+      "seats": "35,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "TBA",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Women's Studies"
+}

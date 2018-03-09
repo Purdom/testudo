@@ -1,0 +1,26 @@
+{
+  "id": "LING819D",
+  "title": "Seminar in Syntactic Theory; Ellipsis",
+  "credits": "3",
+  "description": "The development of theories of ellipsis from the early days of generative grammar to the present. Particular emphasis on \"repair by ellipsis\".",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Howard Lasnik",
+      "seats": "15,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "MMH",
+      "room": "1108B"
+    }
+  ],
+  "term": "201801",
+  "department": "Linguistics"
+}

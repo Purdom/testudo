@@ -1,0 +1,26 @@
+{
+  "id": "MEES498Q",
+  "title": "Topics in Marine-Estuarine-Environmental Sciences; Climate Change in Polar Regions",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lee Cooper,",
+      "seats": "15,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:00pm",
+      "end": "5:00pm",
+      "building": "HJP",
+      "room": "1213B"
+    }
+  ],
+  "term": "201801",
+  "department": "Marine-Estuarine-Environmental Sciences"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "MATH848X",
+  "title": "Selected Topics in Geometry and Topology; Homotopy Theory and Characteristic Classics",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jonathan Rosenberg",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "MTH",
+      "room": "B0431"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

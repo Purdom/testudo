@@ -1,0 +1,27 @@
+{
+  "id": "AMSC466",
+  "title": "Introduction to Numerical Analysis I",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (MATH240, MATH461, MATH341); and 1 course with a minimum grade of C- from (MATH340, MATH241); and 1 course with a minimum grade of C- from (CMSC106, CMSC131).\nAlso offered as: CMSC466.\nCredit only granted for: AMSC460, CMSC460, AMSC466, or CMSC466.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lise-Marie Imbert-Gerard",
+      "seats": "28,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "BPS",
+      "room": "1234"
+    }
+  ],
+  "term": "201801",
+  "department": "Applied Mathematics & Scientific Computation"
+}

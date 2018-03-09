@@ -1,0 +1,26 @@
+{
+  "id": "COMM730",
+  "title": "Seminar in Health Communication",
+  "credits": "3",
+  "description": "Formerly: SPCH730.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PG01",
+      "instructor": "Velandia-Pardo Carol-Gizell",
+      "seats": "16,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "3:50pm",
+      "building": "WDS",
+      "room": "1127"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

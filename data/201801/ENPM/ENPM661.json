@@ -1,0 +1,86 @@
+{
+  "id": "ENPM661",
+  "title": "Planning for Autonomous Robots",
+  "credits": "3",
+  "description": "Credit only granted for: ENPM661 or ENPM808C.\nFormerly: ENPM808C.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Reza Monfaredi",
+      "seats": "39,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "KEB",
+      "room": "1110"
+    },
+    {
+      "id": "0201",
+      "instructor": "Reza Monfaredi",
+      "seats": "39,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "JMP",
+      "room": "2222"
+    },
+    {
+      "id": "FL01",
+      "instructor": "Reza Monfaredi",
+      "seats": "5,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "HT01",
+      "instructor": "Reza Monfaredi",
+      "seats": "5,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SG01",
+      "instructor": "Reza Monfaredi",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "Reza Monfaredi",
+      "seats": "5,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Professional Masters"
+}

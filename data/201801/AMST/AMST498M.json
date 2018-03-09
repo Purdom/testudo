@@ -1,0 +1,25 @@
+{
+  "id": "AMST498M",
+  "title": "Special Topics in American Studies; Latinas/os and U.S. Popular Culture",
+  "credits": "3",
+  "description": "Prerequisite: At least three credit hours of prior coursework in AMST. Also offered as AMST498M. Credit only granted for USLT498B or AMST498M.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Chester",
+      "seats": "35,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "SQH",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "American Studies"
+}

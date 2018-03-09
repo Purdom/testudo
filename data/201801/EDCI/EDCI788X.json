@@ -1,0 +1,26 @@
+{
+  "id": "EDCI788X",
+  "title": "Selected Topics in Teacher Education; Race, Whiteness and Identity",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Taharee Jackson",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:45pm",
+      "building": "EDU",
+      "room": "1121"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

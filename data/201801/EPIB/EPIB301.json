@@ -1,0 +1,85 @@
+{
+  "id": "EPIB301",
+  "title": "Epidemiology for Public Health Practice",
+  "credits": "3",
+  "description": "Restriction: Must be in Public Health Science program; or must be in Community Health program. And must have earned a minimum of 45 credits.\nAlso offered as: HLTH301.\nCredit only granted for: EPIB301 or HLTH301.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Typhanye Dyer",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "SHM",
+      "room": "2102"
+    },
+    {
+      "id": "0102",
+      "instructor": "Typhanye Dyer",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "SHM",
+      "room": "2102"
+    },
+    {
+      "id": "0103",
+      "instructor": "Typhanye Dyer",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "SHM",
+      "room": "2102"
+    },
+    {
+      "id": "0104",
+      "instructor": "Typhanye Dyer",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "SHM",
+      "room": "2102"
+    },
+    {
+      "id": "0105",
+      "instructor": "Typhanye Dyer",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "SHM",
+      "room": "2102"
+    },
+    {
+      "id": "0106",
+      "instructor": "Typhanye Dyer",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "SHM",
+      "room": "2102"
+    }
+  ],
+  "term": "201801",
+  "department": "Epidemiology and Biostatistics"
+}

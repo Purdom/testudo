@@ -1,0 +1,25 @@
+{
+  "id": "BUAC758P",
+  "title": "Special Topics in Accounting and Information Assurance; Big Data and the Accounting Profession",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Lei Zhou",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "VMH",
+      "room": "1330"
+    }
+  ],
+  "term": "201801",
+  "department": "Accounting and Information Assurance"
+}

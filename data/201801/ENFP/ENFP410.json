@@ -1,0 +1,27 @@
+{
+  "id": "ENFP410",
+  "title": "Special Hazard Suppression Systems",
+  "credits": "3",
+  "description": "Prerequisite: ENFP310 and ENFP312.\nRestriction: Permission of ENGR-Fire Protection Engineering department.\nCredit only granted for: ENFP 410, ENFP489L, ENFP 653, or ENFP629C.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kenneth Isman",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "JMP",
+      "room": "1202"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Fire Protection"
+}

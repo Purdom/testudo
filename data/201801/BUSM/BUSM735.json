@@ -1,0 +1,37 @@
+{
+  "id": "BUSM735",
+  "title": "Financial Strategy for Corporations",
+  "credits": "2",
+  "description": "Prerequisite: BUSM610.\nRestriction: Must be in Business and Management (Master's) program; or permission of BMGT-Robert H. Smith School of Business.\nCredit only granted for: BUFN751 or BUSM735.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Pablo Slutzky",
+      "seats": "40,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "VMH",
+      "room": "1511"
+    },
+    {
+      "id": "0201",
+      "instructor": "Pablo Slutzky",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "VMH",
+      "room": "1511"
+    }
+  ],
+  "term": "201801",
+  "department": "Full-Time MBA Program"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "HLTH780",
+  "title": "Community Health",
+  "credits": "3",
+  "description": "Credit only granted for: HLTH740 or HLTH780.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sharon Desmond",
+      "seats": "25,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "SPH",
+      "room": "0302"
+    }
+  ],
+  "term": "201801",
+  "department": "Health"
+}

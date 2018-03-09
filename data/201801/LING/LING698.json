@@ -1,0 +1,26 @@
+{
+  "id": "LING698",
+  "title": "Directed Study; Seminar",
+  "credits": "1 -",
+  "description": "Click here for more course information.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Howard Lasnik",
+      "seats": "2,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "2:00pm",
+      "end": "4:00pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Linguistics"
+}

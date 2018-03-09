@@ -1,0 +1,25 @@
+{
+  "id": "ENEE463",
+  "title": "Digital Control Systems",
+  "credits": "3",
+  "description": "Prerequisite: ENEE322; and completion of lower-division technical courses in the EE curriculum.\nRestriction: Must be in one of the following programs (Engineering: Electrical; Engineering: Computer).\nFormerly: ENEE469E.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gilmer Blankenship",
+      "seats": "45,",
+      "open-seats": "26,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "AJC",
+      "room": "2132"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

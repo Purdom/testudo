@@ -1,0 +1,25 @@
+{
+  "id": "LARC461",
+  "title": "People and the Environment",
+  "credits": "3",
+  "description": "Repeatable to 3 credits if content differs.\nCredit only granted for: LARC489K or LARC461.\nFormerly: LARC489K.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Byoung-Suk Kweon",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "9:00am",
+      "end": "10:50am",
+      "building": "PLS",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "Landscape Architecture"
+}

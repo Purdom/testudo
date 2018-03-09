@@ -1,0 +1,38 @@
+{
+  "id": "AOSC621",
+  "title": "Physics and Chemistry of the Atmosphere II",
+  "credits": "3",
+  "description": "Prerequisite: MATH462; or students who have taken courses with comparable content may contact the department.\nFormerly: METO621.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Xin-Zhong Liang",
+      "seats": "20,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ATL",
+      "room": "2428"
+    },
+    {
+      "id": "AM01",
+      "instructor": "Xin-Zhong Liang",
+      "seats": "1,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ATL",
+      "room": "2428"
+    }
+  ],
+  "term": "201801",
+  "department": "Atmospheric and Oceanic Science"
+}

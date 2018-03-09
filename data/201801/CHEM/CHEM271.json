@@ -1,0 +1,171 @@
+{
+  "id": "CHEM271",
+  "title": "General Chemistry and Energetics",
+  "credits": "2",
+  "description": "Prerequisite: CHEM241 and CHEM242; or CHEM247. And a grade of C- or better in the prerequisites for College of Computer, Mathematical, and Natural Sciences majors and recommended for all students.\nCorequisite: CHEM272.\nCredit only granted for: CHEM113, CHEM153, CHEM271 or CHEM276.\nFormerly: CHEM113.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "2122",
+      "instructor": "John Ondov",
+      "seats": "28,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CHM",
+      "room": "1407"
+    },
+    {
+      "id": "2124",
+      "instructor": "John Ondov",
+      "seats": "28,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CHM",
+      "room": "1407"
+    },
+    {
+      "id": "2125",
+      "instructor": "John Ondov",
+      "seats": "28,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CHM",
+      "room": "1407"
+    },
+    {
+      "id": "2142",
+      "instructor": "John Ondov",
+      "seats": "28,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CHM",
+      "room": "1407"
+    },
+    {
+      "id": "2144",
+      "instructor": "John Ondov",
+      "seats": "28,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CHM",
+      "room": "1407"
+    },
+    {
+      "id": "2145",
+      "instructor": "John Ondov",
+      "seats": "28,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CHM",
+      "room": "1407"
+    },
+    {
+      "id": "2224",
+      "instructor": "John Ondov",
+      "seats": "28,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "CHM",
+      "room": "1407"
+    },
+    {
+      "id": "2227",
+      "instructor": "John Ondov",
+      "seats": "28,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "CHM",
+      "room": "1407"
+    },
+    {
+      "id": "2228",
+      "instructor": "John Ondov",
+      "seats": "28,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "CHM",
+      "room": "1407"
+    },
+    {
+      "id": "2244",
+      "instructor": "John Ondov",
+      "seats": "28,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "CHM",
+      "room": "1407"
+    },
+    {
+      "id": "2247",
+      "instructor": "John Ondov",
+      "seats": "28,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "CHM",
+      "room": "1407"
+    },
+    {
+      "id": "2248",
+      "instructor": "John Ondov",
+      "seats": "28,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "CHM",
+      "room": "1407"
+    },
+    {
+      "id": "SES1",
+      "instructor": "Daniel Gowetski",
+      "seats": "24,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:00pm",
+      "end": "7:50pm",
+      "building": "CHM",
+      "room": "1228"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

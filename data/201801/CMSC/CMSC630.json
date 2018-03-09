@@ -1,0 +1,26 @@
+{
+  "id": "CMSC630",
+  "title": "Foundations of Software Verification",
+  "credits": "3",
+  "description": "Prerequisite: CMSC330; or students who have taken courses with comparable content may contact the department; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Walter Cleaveland",
+      "seats": "30,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CSI",
+      "room": "3120"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

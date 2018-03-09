@@ -1,0 +1,26 @@
+{
+  "id": "PHYS606",
+  "title": "Electrodynamics",
+  "credits": "4",
+  "description": "Prerequisite: PHYS604; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Antonsen",
+      "seats": "49,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:40pm",
+      "building": "PHY",
+      "room": "1402"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

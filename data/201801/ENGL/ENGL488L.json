@@ -1,0 +1,27 @@
+{
+  "id": "ENGL488L",
+  "title": "Topics in Advanced Writing; Book Lab: The History of the Book & The Future of Reading",
+  "credits": "3",
+  "description": "Also offered as INST408C. Credit only granted for INST408C or ENGL488L.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kari Kraus",
+      "seats": "30,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "HBK",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

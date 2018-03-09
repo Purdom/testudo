@@ -1,0 +1,27 @@
+{
+  "id": "PHYS271M",
+  "title": "General Physics: Electrodynamics, Light, Relativity and Modern Physics (Laboratory)",
+  "credits": "1",
+  "description": "Prerequisite: PHYS261.\nCorequisite: PHYS270.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Instructor: TBA",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

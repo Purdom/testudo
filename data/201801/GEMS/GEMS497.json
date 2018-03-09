@@ -1,0 +1,169 @@
+{
+  "id": "GEMS497",
+  "title": "Team Thesis Defense",
+  "credits": "2",
+  "description": "Prerequisite: GEMS396.\nRestriction: Must be in the Gemstone program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Anil Deane",
+      "seats": "14,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0102",
+      "instructor": "Siddhartha Das",
+      "seats": "14,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:00pm",
+      "end": "6:50pm",
+      "building": "EGR",
+      "room": "0151"
+    },
+    {
+      "id": "0103",
+      "instructor": "David Zajic",
+      "seats": "14,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "7:50pm",
+      "building": "ESJ",
+      "room": "2309"
+    },
+    {
+      "id": "0104",
+      "instructor": "William Bentley",
+      "seats": "14,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "BPS",
+      "room": "1234"
+    },
+    {
+      "id": "0105",
+      "instructor": "Nam Sun Wang",
+      "seats": "14,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:00pm",
+      "end": "6:50pm",
+      "building": "BPS",
+      "room": "1234"
+    },
+    {
+      "id": "0106",
+      "instructor": "Andrew Ristvey",
+      "seats": "14,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "PLS",
+      "room": "1146"
+    },
+    {
+      "id": "0107",
+      "instructor": "Bryan Quinn",
+      "seats": "14,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "8:00am",
+      "end": "8:50am",
+      "building": "AVW",
+      "room": "1318"
+    },
+    {
+      "id": "0108",
+      "instructor": "Ben Woodard",
+      "seats": "14,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0109",
+      "instructor": "Steven Jay",
+      "seats": "14,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "JMZ",
+      "room": "0103"
+    },
+    {
+      "id": "0110",
+      "instructor": "Debabrata Biswas",
+      "seats": "14,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:00pm",
+      "end": "5:50pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0111",
+      "instructor": "Mark Fuge",
+      "seats": "14,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "1:00pm",
+      "end": "2:50pm",
+      "building": "AJC",
+      "room": "2121"
+    },
+    {
+      "id": "0112",
+      "instructor": "Yanjin Zhang",
+      "seats": "14,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "TBA",
+      "room": "0205"
+    },
+    {
+      "id": "0113",
+      "instructor": "Kristan Skendall",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Gemstone"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "COMM652",
+  "title": "Contemporary Rhetorical Theory",
+  "credits": "3",
+  "description": "Formerly: SPCH652.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Damien Pfister",
+      "seats": "15,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:30pm",
+      "end": "9:30pm",
+      "building": "SKN",
+      "room": "2127"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

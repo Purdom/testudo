@@ -1,0 +1,27 @@
+{
+  "id": "ARTH389E",
+  "title": "Special Topics in Art History and Archaeology; Intersections between Science and Visual Culture in the Early Modern World",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sarah Cantor",
+      "seats": "25,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ASY",
+      "room": "3211"
+    }
+  ],
+  "term": "201801",
+  "department": "Art History & Archaeology"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "DANC611",
+  "title": "Dance Technology and Media",
+  "credits": "3",
+  "description": "Restriction: Permission of ARHU-School of Theatre, Dance & Performance Studies department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Paul Jackson",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "2:15pm",
+      "building": "PAC",
+      "room": "1610"
+    }
+  ],
+  "term": "201801",
+  "department": "Dance"
+}

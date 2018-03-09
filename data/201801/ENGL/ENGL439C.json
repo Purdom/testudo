@@ -1,0 +1,27 @@
+{
+  "id": "ENGL439C",
+  "title": "Major American Writers after 1865; Hemingway and his Competitors",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Wyatt",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TWS",
+      "room": "0236"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

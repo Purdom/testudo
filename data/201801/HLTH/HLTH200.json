@@ -1,0 +1,27 @@
+{
+  "id": "HLTH200",
+  "title": "Introduction to Research in Community Health",
+  "credits": "3",
+  "description": "Restriction: Must be in Community Health program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lilianna Phan",
+      "seats": "75,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "SPH",
+      "room": "1303"
+    }
+  ],
+  "term": "201801",
+  "department": "Health"
+}

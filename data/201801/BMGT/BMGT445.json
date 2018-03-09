@@ -1,0 +1,49 @@
+{
+  "id": "BMGT445",
+  "title": "Banking and Financial Institutions",
+  "credits": "3",
+  "description": "Prerequisite: BMGT340.\nRecommended: ECON330 or BMGT341.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elinda Kiss",
+      "seats": "46,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1335"
+    },
+    {
+      "id": "0201",
+      "instructor": "Elinda Kiss",
+      "seats": "46,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1335"
+    },
+    {
+      "id": "0301",
+      "instructor": "Elinda Kiss",
+      "seats": "46,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1335"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

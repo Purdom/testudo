@@ -1,0 +1,26 @@
+{
+  "id": "ENCE621",
+  "title": "Uncertainty Modeling and Analysis",
+  "credits": "3",
+  "description": "Prerequisite: ENCE302; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Bilal Ayyub",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "EGR",
+      "room": "0135"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

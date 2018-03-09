@@ -1,0 +1,26 @@
+{
+  "id": "EDHI754",
+  "title": "Higher Education Finance",
+  "credits": "3",
+  "description": "Credit only granted for: EDHI754, EDPL754, or EDPS754.\nFormerly: EDPL754.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Marvin Titus",
+      "seats": "15,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "JMZ",
+      "room": "3118"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Leadership, Higher Ed and International Ed"
+}

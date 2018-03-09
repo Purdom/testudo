@@ -1,0 +1,109 @@
+{
+  "id": "ENGL398N",
+  "title": "Topics in Professional Writing; Writing for Non-Profit Organizations",
+  "credits": "3",
+  "description": "Prerequisite: 60 credits and completion of ENGL101 or equivalent. This course satisfies the professional writing requirement.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0301",
+      "instructor": "Peter Witte",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ARC",
+      "room": "1127"
+    },
+    {
+      "id": "0501",
+      "instructor": "Peter Witte",
+      "seats": "19,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ARC",
+      "room": "1127"
+    },
+    {
+      "id": "0601",
+      "instructor": "Heidi Scott",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "0230"
+    },
+    {
+      "id": "1001",
+      "instructor": "David Todd",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "TWS",
+      "room": "0230"
+    },
+    {
+      "id": "1101",
+      "instructor": "David Todd",
+      "seats": "19,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TWS",
+      "room": "0230"
+    },
+    {
+      "id": "1201",
+      "instructor": "David Todd",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TWS",
+      "room": "0230"
+    },
+    {
+      "id": "1301",
+      "instructor": "Rebecca Holden",
+      "seats": "19,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TWS",
+      "room": "0224"
+    },
+    {
+      "id": "1401",
+      "instructor": "Rebecca Holden",
+      "seats": "19,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "0224"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

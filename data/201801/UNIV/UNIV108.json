@@ -1,0 +1,85 @@
+{
+  "id": "UNIV108",
+  "title": "Business Exploration Series Colloquium",
+  "credits": "1",
+  "description": "Restriction: Must be a current student in Letters and Science.\n\nFor students interested in pursuing a business career. Students learn the fundamentals of career development and what the internship/job search process entails.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0162",
+      "instructor": "Lisa Scheeler,",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0163",
+      "instructor": "Lisa Scheeler,",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0164",
+      "instructor": "Lisa Scheeler,",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0165",
+      "instructor": "Lisa Scheeler,",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0265",
+      "instructor": "Lisa Scheeler,",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0268",
+      "instructor": "Lisa Scheeler,",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "MMH",
+      "room": "1400"
+    }
+  ],
+  "term": "201801",
+  "department": "University Courses"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "PSYC206",
+  "title": "Developmental Biopsychology",
+  "credits": "3",
+  "description": "Prerequisite: PSYC100.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Steven Brauth",
+      "seats": "40,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "BPS",
+      "room": "1236"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

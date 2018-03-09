@@ -1,0 +1,26 @@
+{
+  "id": "NFSC688",
+  "title": "Seminar in Nutrition and Food Science",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Jackson",
+      "seats": "25,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "SKN",
+      "room": "0101"
+    }
+  ],
+  "term": "201801",
+  "department": "Nutrition and Food Science"
+}

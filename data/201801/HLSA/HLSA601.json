@@ -1,0 +1,26 @@
+{
+  "id": "HLSA601",
+  "title": "Introduction to Health Systems",
+  "credits": "3",
+  "description": "Restriction: Must not have completed HLTH740.\nCredit only granted for: HLSA601, HLTH688A, or HLTH740.\nFormerly: HLTH688A or HLTH740.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jie Chen",
+      "seats": "30,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "SPH",
+      "room": "0308"
+    }
+  ],
+  "term": "201801",
+  "department": "Health Services Administration"
+}

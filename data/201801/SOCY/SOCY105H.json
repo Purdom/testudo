@@ -1,0 +1,27 @@
+{
+  "id": "SOCY105H",
+  "title": "Introduction to Contemporary Social Problems",
+  "credits": "3",
+  "description": "An examination of contemporary social problems through sociological perspectives; ways in which social problems are part of the organization of society; a detailed study of selected social problems including social conflict and social inequality.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Linda Moghadam",
+      "seats": "25,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ASY",
+      "room": "3207"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

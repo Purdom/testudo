@@ -1,0 +1,39 @@
+{
+  "id": "ENCE200",
+  "title": "Civil Engineering Computation",
+  "credits": "3",
+  "description": "Prerequisite: ENES100, MATH141, and ENES102; and permission of ENGR-Civil & Environmental Engineering department.\nCredit only granted for: ENCE200 or ENCE202.\nFormerly: ENCE202.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kaye Brubaker,",
+      "seats": "37,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "EGR",
+      "room": "1156"
+    },
+    {
+      "id": "0201",
+      "instructor": "Kaye Brubaker,",
+      "seats": "37,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EGR",
+      "room": "1156"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

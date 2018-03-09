@@ -1,0 +1,25 @@
+{
+  "id": "ENES214",
+  "title": "Virtus Seminar IV",
+  "credits": "1",
+  "description": "Prerequisite: Students must have completed ENES213.\nRestriction: Students must be participants in the Virtus Living and Learning Community.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gregory Stinson,",
+      "seats": "40,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "5:15pm",
+      "building": "PLS",
+      "room": "1119"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

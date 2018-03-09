@@ -1,0 +1,25 @@
+{
+  "id": "BISI712",
+  "title": "Responsible Conduct of Research for Biologists",
+  "credits": "1",
+  "description": "Credit only granted for: BISI712, BISI688B, or CBMG688B.\nFormerly: BISI688B and CBMG688B.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Anne Simon",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "8:00am",
+      "end": "9:50am",
+      "building": "MCB",
+      "room": "2119"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences"
+}

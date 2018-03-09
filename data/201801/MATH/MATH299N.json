@@ -1,0 +1,27 @@
+{
+  "id": "MATH299N",
+  "title": "Selected Topics in Mathematics",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Lawrence Washington",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "MTH",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "PHSC402",
+  "title": "Public Health Emergency Preparedness",
+  "credits": "3",
+  "description": "Restriction: Must be in Public Health Science program; and must have earned a minimum of 60 credits.\nCredit only granted for: PHSC402 or SPHL402.\nFormerly: SPHL402.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Marilyn London",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "PLS",
+      "room": "1119"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Health Science"
+}

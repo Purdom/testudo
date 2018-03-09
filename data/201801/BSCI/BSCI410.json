@@ -1,0 +1,27 @@
+{
+  "id": "BSCI410",
+  "title": "Molecular Genetics",
+  "credits": "3",
+  "description": "Prerequisite: BSCI222. And must have completed CHEM233; or (CHEM231 and CHEM232).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Vera Stupina,",
+      "seats": "150,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "HJP",
+      "room": "0226"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

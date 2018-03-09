@@ -1,0 +1,37 @@
+{
+  "id": "ENME201",
+  "title": "Careers in Mechanical Engineering",
+  "credits": "1",
+  "description": "The Mechanical Engineering Curriculum, Career Paths. Research areas in the Mechanical Engineering Department. The Mechanical Engineering Profession.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kenneth Kiger,",
+      "seats": "60,",
+      "open-seats": "34,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "12:30pm",
+      "end": "1:30pm",
+      "building": "JMP",
+      "room": "3201"
+    },
+    {
+      "id": "0201",
+      "instructor": "Kenneth Kiger,",
+      "seats": "15,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

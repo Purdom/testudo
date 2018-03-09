@@ -1,0 +1,25 @@
+{
+  "id": "ANSC379",
+  "title": "Animal Science Undergraduate Teaching Assistant Seminar",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sarah Balcom",
+      "seats": "10,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "ANS",
+      "room": "1408"
+    }
+  ],
+  "term": "201801",
+  "department": "Animal Science"
+}

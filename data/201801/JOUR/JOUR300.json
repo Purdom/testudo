@@ -1,0 +1,49 @@
+{
+  "id": "JOUR300",
+  "title": "Journalism Ethics",
+  "credits": "3",
+  "description": "Prerequisite: JOUR201.\nRestriction: Must be in a major in JOUR-Philip Merrill College of Journalism.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Merrilee Cox",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "KNI",
+      "room": "1103"
+    },
+    {
+      "id": "0301",
+      "instructor": "Kevin Klose",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "KNI",
+      "room": "3202"
+    },
+    {
+      "id": "0401",
+      "instructor": "Adrianne Flynn",
+      "seats": "30,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "KNI",
+      "room": "1105"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

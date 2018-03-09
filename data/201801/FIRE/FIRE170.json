@@ -1,0 +1,25 @@
+{
+  "id": "FIRE170",
+  "title": "FIRE SEMESTER 2: Phillips Virtual Culture",
+  "credits": "3",
+  "description": "Recommended: FIRE120.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kyungjin Yoo",
+      "seats": "40,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:30pm",
+      "end": "4:20pm",
+      "building": "ATL",
+      "room": "2339"
+    }
+  ],
+  "term": "201801",
+  "department": "First-Year Innovation & Research Experience"
+}

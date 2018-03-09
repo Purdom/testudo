@@ -1,0 +1,25 @@
+{
+  "id": "ENEE475",
+  "title": "Power Electronics",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in ENEE303; and must have earned a minimum grade of regular (letter) C- in all required 200-level ENEE courses; and permission of ENGR-Electrical & Computer Engineering department.\nRestriction: Must be in one of the following programs (Engineering: Electrical; Engineering: Computer).",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Isaak Mayergoyz",
+      "seats": "75,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "KEB",
+      "room": "1110"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "HLMN473",
+  "title": "Consulting in Tech Entrepreneurship",
+  "credits": "3",
+  "description": "Restriction: Restricted to students in the Hillman Entrepreneurs Program.\nAdditional information: HLMN473 may not count toward any BMGT major or minor degree.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Amy Kincaid",
+      "seats": "60,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "1:00pm",
+      "end": "3:30pm",
+      "building": "TWS",
+      "room": "1310"
+    }
+  ],
+  "term": "201801",
+  "department": "Hillman Entrepreneurs Program"
+}

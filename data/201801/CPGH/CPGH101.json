@@ -1,0 +1,25 @@
+{
+  "id": "CPGH101",
+  "title": "College Park Scholars: Global Public Health First-Year Colloquium II",
+  "credits": "1",
+  "description": "Prerequisite: CPGH100.\nRestriction: Students must be enrolled in the College Park Scholars Global Public Health (CPGH) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kaley Beins,",
+      "seats": "100,",
+      "open-seats": "36,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CCC",
+      "room": "1205"
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars-Global Public Health"
+}

@@ -1,0 +1,111 @@
+{
+  "id": "PLCY101",
+  "title": "Great Thinkers on Public Policy",
+  "credits": "3",
+  "description": "Additional information: Emphasis will be on the interdisciplinary foundations of public policy, through examining core disciplinary contributions from economics, political science, management, philosophy, and other relevant disciplines.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Donald Kettl",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0102",
+      "instructor": "Donald Kettl",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0103",
+      "instructor": "Donald Kettl",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0104",
+      "instructor": "Donald Kettl",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0105",
+      "instructor": "Donald Kettl",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0106",
+      "instructor": "Donald Kettl",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0107",
+      "instructor": "Donald Kettl",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0108",
+      "instructor": "Donald Kettl",
+      "seats": "25,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "SKN",
+      "room": "0200"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

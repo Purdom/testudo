@@ -1,0 +1,27 @@
+{
+  "id": "HIST352",
+  "title": "America in the Colonial Era, 1600-1763",
+  "credits": "3",
+  "description": "Prerequisite: HIST200, HIST210, HIST213, or HIST254; or must have completed HIST156; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Miles Bradbury",
+      "seats": "30,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TLF",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

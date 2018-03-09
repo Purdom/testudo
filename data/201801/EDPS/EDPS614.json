@@ -1,0 +1,26 @@
+{
+  "id": "EDPS614",
+  "title": "Politics of Education",
+  "credits": "3",
+  "description": "Credit only granted for: EDHI614, EDPL614, or EDPS614.\nFormerly: EDPL614.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Betty Malen",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "2101"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Policy Studies"
+}

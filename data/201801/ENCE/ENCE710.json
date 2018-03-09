@@ -1,0 +1,26 @@
+{
+  "id": "ENCE710",
+  "title": "Steel Structures I",
+  "credits": "3",
+  "description": "Formerly: ENCE656.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Chung Fu",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "7:35pm",
+      "building": "EGR",
+      "room": "1108"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ENPM601",
+  "title": "Analog and Digital Communication Systems",
+  "credits": "3",
+  "description": "Prerequisite: ENPM600; or students who have taken courses with comparable content may contact the department. And permission of ENGR-CDL-Office of Advanced Engineering Education.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "DE01",
+      "instructor": "Sasan Haghani",
+      "seats": "20,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Professional Masters"
+}

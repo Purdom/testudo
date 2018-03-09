@@ -1,0 +1,27 @@
+{
+  "id": "ANTH667",
+  "title": "Researching Environment and Culture",
+  "credits": "3",
+  "description": "Credit only granted for: ANTH467, ANTH667, ANTH468O, ANTH688O.\nFormerly: ANTH668O.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "L Jen Shaffer",
+      "seats": "5,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "HBK",
+      "room": "1108"
+    }
+  ],
+  "term": "201801",
+  "department": "Anthropology"
+}

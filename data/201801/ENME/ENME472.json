@@ -1,0 +1,75 @@
+{
+  "id": "ENME472",
+  "title": "Integrated Product and Process Development",
+  "credits": "3",
+  "description": "Prerequisite: ENME371.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gary Pertmer",
+      "seats": "36,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "EGL",
+      "room": "0101"
+    },
+    {
+      "id": "0201",
+      "instructor": "Mark Fuge",
+      "seats": "36,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "EGL",
+      "room": "0101"
+    },
+    {
+      "id": "0301",
+      "instructor": "Aris Cleanthous",
+      "seats": "36,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "EGL",
+      "room": "0101"
+    },
+    {
+      "id": "0401",
+      "instructor": "Vincent Nguyen",
+      "seats": "36,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "11:00am",
+      "end": "12:50pm",
+      "building": "EGL",
+      "room": "0101"
+    },
+    {
+      "id": "0601",
+      "instructor": "David Bigio",
+      "seats": "36,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:00pm",
+      "end": "7:50pm",
+      "building": "EGL",
+      "room": "0101"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

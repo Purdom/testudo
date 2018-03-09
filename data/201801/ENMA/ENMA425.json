@@ -1,0 +1,27 @@
+{
+  "id": "ENMA425",
+  "title": "Introduction to Biomaterials",
+  "credits": "3",
+  "description": "Recommended: ENMA300.\nRestriction: Permission of ENGR-Materials Science & Engineering department.\nAlso offered as: BIOE453.\nCredit only granted for: BIOE453, ENMA489W, or ENMA425.\nFormerly: ENMA489W.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Peter Kofinas",
+      "seats": "10,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "KEB",
+      "room": "1200"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Materials"
+}

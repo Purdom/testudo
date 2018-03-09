@@ -1,0 +1,27 @@
+{
+  "id": "EDSP289I",
+  "title": "Disability: From Stigma and Sideshow to Mainstream and Main Street",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Peter Leone",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ESJ",
+      "room": "2212"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Special"
+}

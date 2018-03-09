@@ -1,0 +1,27 @@
+{
+  "id": "EDCI475",
+  "title": "Embracing Diversity in the Classroom Community",
+  "credits": "3",
+  "description": "Restriction: Admission to teacher education program; or permission of EDUC-Teaching and Learning, Policy and Leadership department.\nCredit only granted for: EDCI475 or EDCI488L.\nFormerly: EDCI488L.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jennifer Burris",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "1315"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

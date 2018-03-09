@@ -1,0 +1,38 @@
+{
+  "id": "ENST689Z",
+  "title": "Special Topics; Introductory University Instruction",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lance Yonkos",
+      "seats": "1,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "2905",
+      "instructor": "Stephanie Yarwood",
+      "seats": "5,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

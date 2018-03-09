@@ -1,0 +1,27 @@
+{
+  "id": "ANSC327",
+  "title": "Molecular and Quantitative Animal Genetics",
+  "credits": "3",
+  "description": "Prerequisite: ANSC101, CHEM131, and ANSC103. And BSCI105; or (BSCI170 and BSCI171).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Iqbal Hamza,",
+      "seats": "80,",
+      "open-seats": "28,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ANS",
+      "room": "0408"
+    }
+  ],
+  "term": "201801",
+  "department": "Animal Science"
+}

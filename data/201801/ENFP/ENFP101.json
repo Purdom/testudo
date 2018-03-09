@@ -1,0 +1,27 @@
+{
+  "id": "ENFP101",
+  "title": "Introduction to Fire Protection Engineering",
+  "credits": "1",
+  "description": "Restriction: Permission of ENGR-Fire Protection Engineering department.\nCredit only granted for: ENFP108 or ENFP101.\nFormerly: ENFP108.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Peter Sunderland",
+      "seats": "20,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "JMP",
+      "room": "1109"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Fire Protection"
+}

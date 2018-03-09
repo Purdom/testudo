@@ -1,0 +1,25 @@
+{
+  "id": "HACS408V",
+  "title": "Advanced Seminar in Cybersecurity; Data Analysis and Visualization for Cybersecurity",
+  "credits": "3",
+  "description": "Restriction: Must be a student in the ACES (Advanced Cybersecurity Experience for Students) Minor Program. Credit only granted for HACS402 or HACS408V.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Edward Condon",
+      "seats": "25,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "ATL",
+      "room": "2416"
+    }
+  ],
+  "term": "201801",
+  "department": "ACES-Cybersecurity"
+}

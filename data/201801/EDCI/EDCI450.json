@@ -1,0 +1,27 @@
+{
+  "id": "EDCI450",
+  "title": "Internship Seminar in Secondary Education: Mathematics",
+  "credits": "1",
+  "description": "Prerequisite: EDCI457 and EDCI455.\nCorequisite: EDCI451 and EDCI474.\nRestriction: Must be in Secondary Educ: Mathematics program; and minimum cumulative GPA of 2.75. Or permission of EDUC-Teaching, Learning, Policy and Leadership department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Angela Stoltz",
+      "seats": "10,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:00pm",
+      "building": "EDU",
+      "room": "2101"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

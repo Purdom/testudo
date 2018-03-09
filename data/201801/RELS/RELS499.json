@@ -1,0 +1,27 @@
+{
+  "id": "RELS499",
+  "title": "Independent Study in Religious Studies",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0105",
+      "instructor": "Maxine Grossman",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Religious Studies"
+}

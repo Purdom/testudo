@@ -1,0 +1,27 @@
+{
+  "id": "MUSC229G",
+  "title": "Ensemble; Marching Band Repertoire",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elijah Osterloh",
+      "seats": "60,",
+      "open-seats": "35,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "10:00pm",
+      "building": "PAC",
+      "room": "2540"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

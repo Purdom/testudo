@@ -1,0 +1,157 @@
+{
+  "id": "ENEE307",
+  "title": "Electronic Circuits Design Laboratory",
+  "credits": "2",
+  "description": "Prerequisite: ENEE303; and must have earned a minimum grade of regular (letter) C- in all required 200-level ENEE courses; and permission of ENGR-Electrical & Computer Engineering department.\nRestriction: Must be in one of the following programs (Engineering: Computer; Engineering: Electrical).\nCredit only granted for: ENEE 306 or ENEE 307.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Newcomb",
+      "seats": "12,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0102",
+      "instructor": "Robert Newcomb",
+      "seats": "12,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0103",
+      "instructor": "Robert Newcomb",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0104",
+      "instructor": "Robert Newcomb",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0105",
+      "instructor": "Robert Newcomb",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0107",
+      "instructor": "Robert Newcomb",
+      "seats": "12,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0108",
+      "instructor": "Robert Newcomb",
+      "seats": "12,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0109",
+      "instructor": "Robert Newcomb",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0110",
+      "instructor": "Robert Newcomb",
+      "seats": "12,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0111",
+      "instructor": "Robert Newcomb",
+      "seats": "12,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0112",
+      "instructor": "Robert Newcomb",
+      "seats": "12,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0113",
+      "instructor": "Robert Newcomb",
+      "seats": "12,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1202"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

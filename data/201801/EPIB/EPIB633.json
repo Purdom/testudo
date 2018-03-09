@@ -1,0 +1,27 @@
+{
+  "id": "EPIB633",
+  "title": "Health Survey Design and Analysis",
+  "credits": "3",
+  "description": "Prerequisite: EPIB610; or permission of Instructor.\nRecommended: EPIB697.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Quynh Nguyen",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "3:45pm",
+      "building": "CHM",
+      "room": "1224"
+    }
+  ],
+  "term": "201801",
+  "department": "Epidemiology and Biostatistics"
+}

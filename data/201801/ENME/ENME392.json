@@ -1,0 +1,39 @@
+{
+  "id": "ENME392",
+  "title": "Statistical Methods for Product and Processes Development",
+  "credits": "3",
+  "description": "Prerequisite: MATH241.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Johan Larsson",
+      "seats": "120,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "JMP",
+      "room": "3201"
+    },
+    {
+      "id": "0201",
+      "instructor": "Michel Cukier",
+      "seats": "80,",
+      "open-seats": "62,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "KEB",
+      "room": "1110"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

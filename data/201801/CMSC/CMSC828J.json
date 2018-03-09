@@ -1,0 +1,26 @@
+{
+  "id": "CMSC828J",
+  "title": "Advanced Topics in Information Processing; Deep Learning Models for Video Analysis",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Larry Davis",
+      "seats": "40,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CSI",
+      "room": "3120"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

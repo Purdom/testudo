@@ -1,0 +1,62 @@
+{
+  "id": "ENSE624",
+  "title": "Human Factors in Systems Engineering",
+  "credits": "3",
+  "description": "Restriction: Permission of ENGR-Institute for Systems Research.\nAlso offered as: ENPM644.\nCredit only granted for: ENPM644 or ENSE624.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Beaton",
+      "seats": "40,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "JMP",
+      "room": "3201"
+    },
+    {
+      "id": "HT01",
+      "instructor": "Robert Beaton",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SG01",
+      "instructor": "Robert Beaton",
+      "seats": "5,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "Robert Beaton",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Systems Engineering"
+}

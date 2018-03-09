@@ -1,0 +1,27 @@
+{
+  "id": "CCJS498F",
+  "title": "Selected Topics in Criminology and Criminal Justice; Recruitment and Retention of Public Safety Professionals",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "Shawn Eastman",
+      "seats": "40,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "11:00am",
+      "end": "1:30pm",
+      "building": "BLD3",
+      "room": "3206"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

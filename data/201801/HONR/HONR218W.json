@@ -1,0 +1,25 @@
+{
+  "id": "HONR218W",
+  "title": "The Idea of Crime",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Laub",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "LEF",
+      "room": "2165E"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

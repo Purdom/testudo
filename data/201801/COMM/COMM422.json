@@ -1,0 +1,39 @@
+{
+  "id": "COMM422",
+  "title": "Communication Management",
+  "credits": "3",
+  "description": "Communication policies, plans, channels, and practices in the managemen of the communication function in organizations.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andrew Wolvin",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SKN",
+      "room": "0104"
+    },
+    {
+      "id": "SG91",
+      "instructor": "Judith Tenney",
+      "seats": "40,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "BLD3",
+      "room": "2225"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

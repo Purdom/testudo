@@ -1,0 +1,51 @@
+{
+  "id": "HESI217",
+  "title": "Introduction to Student Leadership",
+  "credits": "3",
+  "description": "Restriction: Freshman standing; or sophomore standing.\nCredit only granted for: HESI217 or EDCP217.\nFormerly: EDCP217.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Romina da Costa",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PLS",
+      "room": "1113"
+    },
+    {
+      "id": "0201",
+      "instructor": "Romina da Costa",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PLS",
+      "room": "1115"
+    },
+    {
+      "id": "0301",
+      "instructor": "Michael Brick",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ARC",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Higher Ed, Student Affairs, and International Ed Policy"
+}

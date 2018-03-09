@@ -1,0 +1,38 @@
+{
+  "id": "MATH214",
+  "title": "Elements of Probability and Statistics",
+  "credits": "3",
+  "description": "Prerequisite: MATH212.\nRestriction: Must be in one of the following programs (Early Childhood Education; Special Education; Elementary Education).\nCredit only granted for: MATH211 or MATH214.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alexis Boleda",
+      "seats": "22,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "8:00am",
+      "end": "8:50am",
+      "building": "ESJ",
+      "room": "B0320"
+    },
+    {
+      "id": "0201",
+      "instructor": "Alexis Boleda",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ESJ",
+      "room": "B0320"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

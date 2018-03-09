@@ -1,0 +1,26 @@
+{
+  "id": "HIST619W",
+  "title": "Special Topics in History; Readings in the Cultural and Intellectual History of the United States",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Saverio Giovacchini",
+      "seats": "12,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TLF",
+      "room": "2101"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

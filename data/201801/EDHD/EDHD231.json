@@ -1,0 +1,25 @@
+{
+  "id": "EDHD231",
+  "title": "Inside 21st Century Creativity: How Creative Ideas, Concepts, and Products are Generated",
+  "credits": "3",
+  "description": "Mechanisms of the creative mind. Psychological, social, sociological, developmental, cultural, educational, genetic and neural based roots of creativity.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kevin Dunbar",
+      "seats": "50,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "EDU",
+      "room": "3315"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Human Development"
+}

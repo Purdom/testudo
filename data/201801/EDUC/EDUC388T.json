@@ -1,0 +1,27 @@
+{
+  "id": "EDUC388T",
+  "title": "Special Topics in Education; Guided Experiences in College Teaching - UTA",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jessica Haddaway",
+      "seats": "25,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:00pm",
+      "end": "7:00pm",
+      "building": "HBK",
+      "room": "0125"
+    }
+  ],
+  "term": "201801",
+  "department": "Education"
+}

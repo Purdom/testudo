@@ -1,0 +1,39 @@
+{
+  "id": "STAT440",
+  "title": "Sampling Theory",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (STAT401, STAT420).\nCredit only granted for: STAT440 or SURV440.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Natalia Tchetcherina",
+      "seats": "27,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "CHM",
+      "room": "0124"
+    },
+    {
+      "id": "0201",
+      "instructor": "Natalia Tchetcherina",
+      "seats": "27,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CHM",
+      "room": "0124"
+    }
+  ],
+  "term": "201801",
+  "department": "Statistics and Probability"
+}

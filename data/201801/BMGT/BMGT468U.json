@@ -1,0 +1,25 @@
+{
+  "id": "BMGT468U",
+  "title": "Special Topics in Management and Organization; Fearless Founders: Social Entrepreneurship Laboratory",
+  "credits": "3",
+  "description": "Restricted to students with 45 credits earned.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andrew Bewick",
+      "seats": "30,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "VMH",
+      "room": "1411"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

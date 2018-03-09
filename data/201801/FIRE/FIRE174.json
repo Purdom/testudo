@@ -1,0 +1,25 @@
+{
+  "id": "FIRE174",
+  "title": "FIRE SEMESTER 2: African American Digital Humanities - Digital Archives",
+  "credits": "3",
+  "description": "Recommended: FIRE120.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jessica Lu",
+      "seats": "20,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:30am",
+      "end": "10:20am",
+      "building": "ATL",
+      "room": "2339"
+    }
+  ],
+  "term": "201801",
+  "department": "First-Year Innovation & Research Experience"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "EDCP655",
+  "title": "Organizational Dimensions of Student Affairs",
+  "credits": "3",
+  "description": "Prerequisite: EDCP610; or permission of EDUC-Counseling, Higher Education and Special Education department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kimberly Griffin",
+      "seats": "20,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "3233"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

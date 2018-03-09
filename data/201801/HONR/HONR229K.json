@@ -1,0 +1,25 @@
+{
+  "id": "HONR229K",
+  "title": "Honors Seminar; Achieving Justice and Equality in the 21st Century: Problems, Policies and Practices",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Cecily Hardaway",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TWS",
+      "room": "1320"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

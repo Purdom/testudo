@@ -1,0 +1,51 @@
+{
+  "id": "ARTT428",
+  "title": "Advanced Painting Studio; Advanced Painting",
+  "credits": "3",
+  "description": "Prerequisite: ARTT320 or permission of department. Repeatable to 12 credits.\n\nMulti-level painting studio emphasizing advanced concepts and processes related to oil and acrylic painting; emphasis on contemporary art issues and individual directions. Students must pay a $40.00 studio lab fee.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Patrick Craig",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:00pm",
+      "end": "5:30pm",
+      "building": "ASY",
+      "room": "3312"
+    },
+    {
+      "id": "0201",
+      "instructor": "Lillian Hoover",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "ASY",
+      "room": "3318"
+    },
+    {
+      "id": "0301",
+      "instructor": "Richard Klank",
+      "seats": "8,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "11:30am",
+      "building": "ASY",
+      "room": "3318"
+    }
+  ],
+  "term": "201801",
+  "department": "Art Studio"
+}

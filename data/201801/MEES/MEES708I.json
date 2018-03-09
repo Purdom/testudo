@@ -1,0 +1,26 @@
+{
+  "id": "MEES708I",
+  "title": "Advanced Topics in Marine-Estuarine-Environmental Science; Stable Isotope Biogeochemical Modeling",
+  "credits": "3",
+  "description": "This course will focus on the calculations and considerations necessary for using isotopes as tools for answering a variety of science questions. Examples will be taken from ecology, archaeology, physiology, climatology, and geology. The course is designed for the student who has some experience already with the basic concepts of isotope geochemistry and is ready to use those concepts quantitatively.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hali Kilbourne",
+      "seats": "15,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "8:30am",
+      "end": "10:00am",
+      "building": "HJP",
+      "room": "1213B"
+    }
+  ],
+  "term": "201801",
+  "department": "Marine-Estuarine-Environmental Sciences"
+}

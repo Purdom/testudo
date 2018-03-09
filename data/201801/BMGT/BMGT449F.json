@@ -1,0 +1,25 @@
+{
+  "id": "BMGT449F",
+  "title": "Investment Fund Management: Lemma Senbet Fund; Investment Fund Management",
+  "credits": "3",
+  "description": "Restricted to students in the Smith School's Lemma Senbet Fund Fellows program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "FP01",
+      "instructor": "Sarah Kroncke",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "10:00am",
+      "end": "12:00pm",
+      "building": "VMH",
+      "room": "2509"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

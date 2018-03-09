@@ -1,0 +1,39 @@
+{
+  "id": "STAT464",
+  "title": "Introduction to Biostatistics",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed one semester of calculus.\nRestriction: Junior standing or higher.\nCredit only granted for: BIOE372 or STAT464.\nAdditional information: Not acceptable toward degrees in MATH/STAT.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Raluca Rosca",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "MTH",
+      "room": "0402"
+    },
+    {
+      "id": "0201",
+      "instructor": "Hatice Sahinoglu",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ATL",
+      "room": "2352"
+    }
+  ],
+  "term": "201801",
+  "department": "Statistics and Probability"
+}

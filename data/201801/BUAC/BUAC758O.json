@@ -1,0 +1,25 @@
+{
+  "id": "BUAC758O",
+  "title": "Special Topics in Accounting and Information Assurance; External Auditing",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Rebecca Martin",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "VMH",
+      "room": "1520"
+    }
+  ],
+  "term": "201801",
+  "department": "Accounting and Information Assurance"
+}

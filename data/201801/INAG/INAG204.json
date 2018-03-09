@@ -1,0 +1,25 @@
+{
+  "id": "INAG204",
+  "title": "Agricultural Business Management",
+  "credits": "3",
+  "description": "Recommended: INAG102.\nRestriction: Must be in a major in AGNR-College of Agriculture & Natural Resources; or permission of AGNR-Institute of Applied Agriculture department.\nAdditional information: Priority in enrollment will be given to students within the Institute of Applied Agriculture. May not count toward any BMGT major or minor requirement.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Larisa Cioaca",
+      "seats": "27,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "JUL",
+      "room": "1123"
+    }
+  ],
+  "term": "201801",
+  "department": "Institute of Applied Agriculture"
+}

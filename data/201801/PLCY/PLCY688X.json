@@ -1,0 +1,26 @@
+{
+  "id": "PLCY688X",
+  "title": "Topics in Public Policy; Human Dignity",
+  "credits": "3",
+  "description": "Restricted to PLCY majors or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Chloe Schwenke",
+      "seats": "20,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:30pm",
+      "building": "VMH",
+      "room": "2101F"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

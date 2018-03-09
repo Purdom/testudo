@@ -1,0 +1,39 @@
+{
+  "id": "ECON200",
+  "title": "Principles of Microeconomics",
+  "credits": "3",
+  "description": "Prerequisite: MATH107 or MATH110; or must have math eligibility of MATH113 or higher.\nCredit only granted for: ECON200, AREC240, or AREC250.\nAdditional information: It is recommended that students complete ECON200 before taking ECON201.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Erin Moody",
+      "seats": "350,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TYD",
+      "room": "0130"
+    },
+    {
+      "id": "0201",
+      "instructor": "Erin Moody",
+      "seats": "350,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TYD",
+      "room": "0130"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

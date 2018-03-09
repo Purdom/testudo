@@ -1,0 +1,86 @@
+{
+  "id": "ANTH260",
+  "title": "Introduction to Sociocultural Anthropology and Linguistics",
+  "credits": "3",
+  "description": "Culture and social relationships in a wide variety of settings from small-scale to complex societies. An overview of how anthropology analyzes human behavior. Particular attention to the relationship between language and culture.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stanley Herman",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0102",
+      "instructor": "Stanley Herman",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0103",
+      "instructor": "Stanley Herman",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0104",
+      "instructor": "Stanley Herman",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0105",
+      "instructor": "Stanley Herman",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0106",
+      "instructor": "Stanley Herman",
+      "seats": "20,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "MMH",
+      "room": "1400"
+    }
+  ],
+  "term": "201801",
+  "department": "Anthropology"
+}

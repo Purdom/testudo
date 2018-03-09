@@ -1,0 +1,26 @@
+{
+  "id": "EDHI788K",
+  "title": "Special Topics in Education Policy and Administration; SABER: A Critical Analysis",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Steven Klees",
+      "seats": "20,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:45pm",
+      "building": "EDU",
+      "room": "3233"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Leadership, Higher Ed and International Ed"
+}

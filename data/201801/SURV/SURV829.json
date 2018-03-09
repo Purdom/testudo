@@ -1,0 +1,25 @@
+{
+  "id": "SURV829",
+  "title": "Doctoral Research Seminar in Survey Methodology",
+  "credits": "3 -",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stanley Presser",
+      "seats": "10,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "1:00pm",
+      "end": "3:30pm",
+      "building": "LEF",
+      "room": "1218"
+    }
+  ],
+  "term": "201801",
+  "department": "Survey Methodology"
+}

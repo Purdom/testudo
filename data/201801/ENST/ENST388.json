@@ -1,0 +1,27 @@
+{
+  "id": "ENST388",
+  "title": "Honors Thesis Research",
+  "credits": "3 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "2905",
+      "instructor": "Stephanie Yarwood",
+      "seats": "3,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

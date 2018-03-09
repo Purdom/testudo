@@ -1,0 +1,27 @@
+{
+  "id": "MUSC445",
+  "title": "Survey of the Opera",
+  "credits": "3",
+  "description": "Prerequisite: MUSC330 and MUSC331; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Olga Haldey",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PAC",
+      "room": "2160"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

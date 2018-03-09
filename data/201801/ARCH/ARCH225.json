@@ -1,0 +1,27 @@
+{
+  "id": "ARCH225",
+  "title": "History of World Architecture I",
+  "credits": "3",
+  "description": "Pre-1500 World Architecture survey course - History of Architecture structured to develop critical thinking and visually literacy with regard to the worldwide legacy of design thinking and cultural production through architecture",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Cynthia Field",
+      "seats": "244,",
+      "open-seats": "130,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ESJ",
+      "room": "0224"
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "LATN301",
+  "title": "Plautus",
+  "credits": "3",
+  "description": "Plautine drama. Literary, linguistic and socio-cultural aspects. Readings are in Latin.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gregory Staley",
+      "seats": "10,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "MMH",
+      "room": "1218"
+    }
+  ],
+  "term": "201801",
+  "department": "Latin"
+}

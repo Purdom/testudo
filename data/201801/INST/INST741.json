@@ -1,0 +1,26 @@
+{
+  "id": "INST741",
+  "title": "Social Computing Technologies and Applications",
+  "credits": "3",
+  "description": "Prerequisite: INFM603 and INFM605; or (LBSC602 and LBSC671); or permission of instructor.\nRestriction: Permission of INFO-College of Information Studies.\nCredit only granted for: INFM741 or INST741.\nFormerly: INFM741.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yla Tausczik",
+      "seats": "30,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "HBK",
+      "room": "0109"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

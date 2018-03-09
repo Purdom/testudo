@@ -1,0 +1,27 @@
+{
+  "id": "BSCI339Q",
+  "title": "Selected Topics in Biology; Diseases Due to Dysfunctional Cell Organelles",
+  "credits": "3",
+  "description": "Prerequisites: BSCI330 or BCHM461 or BCHM463.\n\nA seminar-style course aimed at giving students opportunities to research, prepare, and present advanced-level lectures on genetically linked disorders of cell organelles.\n\n(Sponsoring Dept: BIOL). Acceptable towards Biological Sciences Specialization Areas: CEBG (Cell Biology category), GENB (Cell Biology & Physiology category), and PHNB.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ibrahim Ades",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PLS",
+      "room": "1172"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

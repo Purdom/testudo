@@ -1,0 +1,27 @@
+{
+  "id": "SOCY491",
+  "title": "Experimental Research Design",
+  "credits": "3",
+  "description": "Prerequisite: SOCY490; or permission of instructor.\nAdditional information: This is the second course in the experimental research practicum 2-course sequence.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Long Doan",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ASY",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

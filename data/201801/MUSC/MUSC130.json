@@ -1,0 +1,51 @@
+{
+  "id": "MUSC130",
+  "title": "Survey of Music Literature",
+  "credits": "3",
+  "description": "Restriction: Must not be in any of the following programs (Music (Professional Program); Music Education).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Robin",
+      "seats": "25,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "BPS",
+      "room": "1250"
+    },
+    {
+      "id": "0102",
+      "instructor": "William Robin",
+      "seats": "25,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "BPS",
+      "room": "1250"
+    },
+    {
+      "id": "0103",
+      "instructor": "William Robin",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "BPS",
+      "room": "1250"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

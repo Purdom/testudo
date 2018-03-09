@@ -1,0 +1,38 @@
+{
+  "id": "EPIB610",
+  "title": "Foundations of Epidemiology",
+  "credits": "3",
+  "description": "Prerequisite: EPIB300; or equivalent undergraduate statistics or biostatistics course with a grade of C- or higher; or a score of 70% or higher on EPIB300 placement exam.\nCredit only granted for: EPIB610 or HLTH720.\nFormerly: HLTH720.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Olivia Carter-Pokras",
+      "seats": "30,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "SPH",
+      "room": "0303"
+    },
+    {
+      "id": "PLH1",
+      "instructor": "Jennifer Guida",
+      "seats": "35,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Epidemiology and Biostatistics"
+}

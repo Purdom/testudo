@@ -1,0 +1,49 @@
+{
+  "id": "EDCI305A",
+  "title": "Curriculum and Instruction Cluster",
+  "credits": "0",
+  "description": "This is a Junior Cluster.",
+  "grading-method": [
+    "NGI"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Instructor: TBA",
+      "seats": "26,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0201",
+      "instructor": "Instructor: TBA",
+      "seats": "26,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0301",
+      "instructor": "Instructor: TBA",
+      "seats": "26,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

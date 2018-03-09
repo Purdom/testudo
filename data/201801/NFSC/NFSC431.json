@@ -1,0 +1,27 @@
+{
+  "id": "NFSC431",
+  "title": "Food Quality Control",
+  "credits": "4",
+  "description": "Definition and organization of the quality control function in the food industry; preparation of specifications; statistical methods for acceptance sampling; in-plant and processed product inspection. Instrumental and sensory methods for evaluating sensory quality, identity and wholesomeness and their integration into grades and standards of quality. Statistical Process Control (SPC).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Abani Pradhan",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SKN",
+      "room": "0101"
+    }
+  ],
+  "term": "201801",
+  "department": "Nutrition and Food Science"
+}

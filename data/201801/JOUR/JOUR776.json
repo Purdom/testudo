@@ -1,0 +1,26 @@
+{
+  "id": "JOUR776",
+  "title": "Qualitative Research Methods in Journalism and Public Communication",
+  "credits": "3",
+  "description": "Credit only granted for: JOUR711 or JOUR776.\nFormerly: JOUR711.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Linda Steiner",
+      "seats": "8,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:00am",
+      "end": "11:45am",
+      "building": "KNI",
+      "room": "1109"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

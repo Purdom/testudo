@@ -1,0 +1,27 @@
+{
+  "id": "ENGL499",
+  "title": "Advanced Poetry Workshop; Advanced Poetry Workshop",
+  "credits": "3",
+  "description": "Prerequisite: ENGL397 or ENGL353; or permission of department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Schutt",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TWS",
+      "room": "3252"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

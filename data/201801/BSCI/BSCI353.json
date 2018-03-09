@@ -1,0 +1,27 @@
+{
+  "id": "BSCI353",
+  "title": "Principles of Neuroscience",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (BSCI207, BSCI330).\nCorequisite: PHYS122, PHYS142, or PHYS132.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Daniel Butts",
+      "seats": "150,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "BPS",
+      "room": "1250"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GVPT459O",
+  "title": "Seminar in Comparative Politics; Politics of Authoritarian Regimes",
+  "credits": "3",
+  "description": "Prerequisite: GVPT200 and (GVPT280 or GVPT282). Restriction: Must be in Government & Politics program; or must be in Government & Politics: International Relations program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jennifer Wallace",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TYD",
+      "room": "0102"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

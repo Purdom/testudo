@@ -1,0 +1,26 @@
+{
+  "id": "ENGL688",
+  "title": "Poetry Workshop; Poetry Workshop",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Joshua Weiner",
+      "seats": "12,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TWS",
+      "room": "3134"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

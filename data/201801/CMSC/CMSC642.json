@@ -1,0 +1,25 @@
+{
+  "id": "CMSC642",
+  "title": "Big Data Systems",
+  "credits": "3",
+  "description": "Restriction: Must be in the Data Science Post-Baccalaureate Certificate of Professional Studies program; and permission of CMNS-Computer Science department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "PCD1",
+      "instructor": "Alan Sussman",
+      "seats": "20,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:30pm",
+      "building": "CSI",
+      "room": "2120"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

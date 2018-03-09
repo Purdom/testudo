@@ -1,0 +1,38 @@
+{
+  "id": "ENTS635",
+  "title": "Decision Support Methods for Telecommunication Managers",
+  "credits": "3",
+  "description": "Restriction: Must be in Telecommunications (Master's) program.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kazim Ruhi",
+      "seats": "40,",
+      "open-seats": "25,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:30pm",
+      "end": "8:15pm",
+      "building": "SQH",
+      "room": "1105"
+    },
+    {
+      "id": "0201",
+      "instructor": "Kazim Ruhi",
+      "seats": "40,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "SQH",
+      "room": "1105"
+    }
+  ],
+  "term": "201801",
+  "department": "Telecommunications"
+}

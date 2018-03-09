@@ -1,0 +1,25 @@
+{
+  "id": "HONR209X",
+  "title": "Honors Seminar; Karl Marx: Dead or Alive?",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Vladimir Tismaneanu",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "JMZ",
+      "room": "2207"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

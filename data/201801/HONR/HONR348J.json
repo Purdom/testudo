@@ -1,0 +1,25 @@
+{
+  "id": "HONR348J",
+  "title": "Advanced Honors Seminar; Contemporary Social Issues",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Howard Smead",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "KEY",
+      "room": "0120"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

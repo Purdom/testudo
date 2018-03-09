@@ -1,0 +1,25 @@
+{
+  "id": "MUSC649A",
+  "title": "Ensemble; University of Maryland Chorale",
+  "credits": "1",
+  "description": "Audition required before permission of department will be granted. Contact instructor to make arrangements.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lucas Link,",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "4:30pm",
+      "end": "6:00pm",
+      "building": "PAC",
+      "room": "2201"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

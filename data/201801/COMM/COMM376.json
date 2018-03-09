@@ -1,0 +1,27 @@
+{
+  "id": "COMM376",
+  "title": "Communication through Advocacy Short Film",
+  "credits": "3",
+  "description": "Restriction: Must be in Communication program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "Adam Nixon",
+      "seats": "25,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:15pm",
+      "end": "6:45pm",
+      "building": "BLD3",
+      "room": "3216"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GEMS102",
+  "title": "Research Topic Exploration and Team Formation",
+  "credits": "1",
+  "description": "Restriction: Must be in the Gemstone program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kristan Skendall",
+      "seats": "180,",
+      "open-seats": "38,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:30pm",
+      "end": "6:30pm",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0113",
+      "instructor": "Kristan Skendall",
+      "seats": "1,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Gemstone"
+}

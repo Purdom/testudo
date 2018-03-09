@@ -1,0 +1,26 @@
+{
+  "id": "EDCI620",
+  "title": "Trends in Secondary School Curriculum: Social Studies",
+  "credits": "3",
+  "description": "Recent developments in educational thinking and practice on the curriculum in social studies.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "IH60",
+      "instructor": "Magdalena Gross",
+      "seats": "25,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:30pm",
+      "end": "8:30pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

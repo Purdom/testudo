@@ -1,0 +1,27 @@
+{
+  "id": "FMSC170",
+  "title": "Future of Families: Issues and Controversies",
+  "credits": "3",
+  "description": "Credit only granted for: FMSC170 or FMSC298F.\nFormerly: FMSC298F.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elise Resnick",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "SPH",
+      "room": "1302"
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

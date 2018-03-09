@@ -1,0 +1,123 @@
+{
+  "id": "RELS170",
+  "title": "Greek and Roman Mythology",
+  "credits": "3",
+  "description": "Also offered as: CLAS170.\nCredit only granted for: CLAS170 or RELS170.\nAdditional information: This course cannot be taken for language credit.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Francisco Barrenechea",
+      "seats": "25,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0102",
+      "instructor": "Francisco Barrenechea",
+      "seats": "25,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0103",
+      "instructor": "Francisco Barrenechea",
+      "seats": "25,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0104",
+      "instructor": "Francisco Barrenechea",
+      "seats": "25,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0105",
+      "instructor": "Francisco Barrenechea",
+      "seats": "25,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0201",
+      "instructor": "Francisco Barrenechea",
+      "seats": "25,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0203",
+      "instructor": "Francisco Barrenechea",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0204",
+      "instructor": "Francisco Barrenechea",
+      "seats": "25,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0205",
+      "instructor": "Francisco Barrenechea",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "MMH",
+      "room": "1400"
+    }
+  ],
+  "term": "201801",
+  "department": "Religious Studies"
+}

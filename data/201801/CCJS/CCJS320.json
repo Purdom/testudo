@@ -1,0 +1,51 @@
+{
+  "id": "CCJS320",
+  "title": "Introduction to Criminalistics",
+  "credits": "3",
+  "description": "Prerequisite: CCJS100 and CCJS230.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Mauriello",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "12:00pm",
+      "end": "2:45pm",
+      "building": "MMH",
+      "room": "ONLINE"
+    },
+    {
+      "id": "0201",
+      "instructor": "Thomas Mauriello",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:00pm",
+      "end": "5:45pm",
+      "building": "MMH",
+      "room": "ONLINE"
+    },
+    {
+      "id": "0301",
+      "instructor": "Thomas Mauriello",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:00pm",
+      "end": "8:45pm",
+      "building": "MMH",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

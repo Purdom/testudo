@@ -1,0 +1,26 @@
+{
+  "id": "NFSC678L",
+  "title": "Selected Topics in Nutrition; Diet and Optimal Human Health",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Seong-Ho Lee",
+      "seats": "5,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "MTH",
+      "room": "B0423"
+    }
+  ],
+  "term": "201801",
+  "department": "Nutrition and Food Science"
+}

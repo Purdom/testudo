@@ -1,0 +1,26 @@
+{
+  "id": "GEOG788B",
+  "title": "Selected Topics in Geography; Coupled Human and Natural Systems",
+  "credits": "3",
+  "description": "Also offered on the Interactive Video Network. Contact the MEES department for more information.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christina Prell",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "TYD",
+      "room": "0111"
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "BSCI417",
+  "title": "Microbial Pathogenesis",
+  "credits": "3",
+  "description": "Prerequisite: BSCI223 and BSCI222.\nRestriction: Junior standing or higher.\nCredit only granted for: BSCI348M or BSCI417.\nFormerly: BSCI348M.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Daniel Stein",
+      "seats": "30,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "BPS",
+      "room": "1238"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

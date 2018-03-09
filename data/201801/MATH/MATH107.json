@@ -1,0 +1,63 @@
+{
+  "id": "MATH107",
+  "title": "Introduction to Math Modeling and Probability",
+  "credits": "3",
+  "description": "Prerequisite: Must have math eligibility of Math 107 or higher; and math eligibility is based on Math Placement Exam or successful completion of MATH003 with appropriate eligibility.\nRestriction: Not open to students majoring in mathematics, engineering, business, life sciences, and the physical sciences;; and must not have completed MATH120, MATH130, or MATH140; and must not have completed MATH220; and must not have completed any MATH or STAT course with a prerequisite of MATH120, MATH130, MATH140 or MATH220.\nCredit only granted for: STAT100, MATH107, MATH110, MATH111, MATH112, or MATH113.\nFormerly: Math 110 and Math 111.\nAdditional information: Students who have credits for MATH107 may not also receive credits for STAT100, MATH110, MATH 111, MATH112, or MATH113.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jinhang Xue",
+      "seats": "29,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "MTH",
+      "room": "0302"
+    },
+    {
+      "id": "0201",
+      "instructor": "Jinhang Xue",
+      "seats": "29,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "MTH",
+      "room": "0302"
+    },
+    {
+      "id": "0301",
+      "instructor": "Sarah Burnett",
+      "seats": "29,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "MTH",
+      "room": "0302"
+    },
+    {
+      "id": "0401",
+      "instructor": "Julie Daberkow",
+      "seats": "29,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "MTH",
+      "room": "0302"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

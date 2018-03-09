@@ -1,0 +1,39 @@
+{
+  "id": "MATH241H",
+  "title": "Calculus III",
+  "credits": "4",
+  "description": "Prerequisite: Minimum grade of C- in MATH141.\nCredit only granted for: MATH241 or MATH340.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Terence Long",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "MTH",
+      "room": "0307"
+    },
+    {
+      "id": "0201",
+      "instructor": "Bradford Sanders",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "MTH",
+      "room": "0401"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

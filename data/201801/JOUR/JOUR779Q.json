@@ -1,0 +1,26 @@
+{
+  "id": "JOUR779Q",
+  "title": "Seminar in Research Problems; Synthesizing Quantitative Methods and Analytics with Social Media Behavior and Audience Engagement",
+  "credits": "3",
+  "description": "Prerequisite: JOUR775 or a course of comparable content; and permission of instructor (ryaros@umd.edu).\n\nStudents will collect and analyze data from news outlets as multiple methods are employed to investigate how analytics and human factors might predict engagement with - and social media behaviors for - news. Teams will collaborate on research with the goal of producing papers for presentation/publication.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ronald Yaros",
+      "seats": "6,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "10:00am",
+      "end": "12:45pm",
+      "building": "KNI",
+      "room": "3207"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

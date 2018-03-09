@@ -1,0 +1,25 @@
+{
+  "id": "ENGL393Q",
+  "title": "Technical Writing",
+  "credits": "3",
+  "description": "Prerequisite: ENGL101; or students who have taken courses with comparable content may contact the department.\nRestriction: Must have earned a minimum of 60 credits.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "3001",
+      "instructor": "Alexandra Calloway",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "9:00am",
+      "end": "11:40am",
+      "building": "EDU",
+      "room": "2102"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

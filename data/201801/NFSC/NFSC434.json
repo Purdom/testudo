@@ -1,0 +1,27 @@
+{
+  "id": "NFSC434",
+  "title": "Food Microbiology Laboratory",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in NFSC430.\nCredit only granted for: NFSC434 or ANSC434.\nFormerly: FDSC434.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Buchanan",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "4:00pm",
+      "building": "MMH",
+      "room": "3419"
+    }
+  ],
+  "term": "201801",
+  "department": "Nutrition and Food Science"
+}

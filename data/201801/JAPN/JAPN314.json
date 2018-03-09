@@ -1,0 +1,27 @@
+{
+  "id": "JAPN314",
+  "title": "Edo Text and Context: Origins of Japanese Popular Culture",
+  "credits": "3",
+  "description": "Intensive reading of various genres of literary and historical texts from the early modern (Edo/Tokugawa) period, read in English translation. Taught in English.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Kern",
+      "seats": "30,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "JMZ",
+      "room": "2206"
+    }
+  ],
+  "term": "201801",
+  "department": "Japanese"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ENGL383",
+  "title": "The Uses of Language",
+  "credits": "3",
+  "description": "Exploration of the social and political aspects of language use, including conversational behavior, persuasive uses of language, social dialects, and language and gender; analytical methods of pragmatics and discourse analysis.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Linda Coleman",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TWS",
+      "room": "0236"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

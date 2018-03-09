@@ -1,0 +1,37 @@
+{
+  "id": "BUDT758F",
+  "title": "Special Topics in Decision, Operations and Information Technologies; Google Online Challenge and Analytics",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Sivakumar Viswanathan",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1518"
+    },
+    {
+      "id": "0502",
+      "instructor": "Sivakumar Viswanathan",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "VMH",
+      "room": "1518"
+    }
+  ],
+  "term": "201801",
+  "department": "Decision and Information Technologies"
+}

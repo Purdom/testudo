@@ -1,0 +1,39 @@
+{
+  "id": "ENCE305",
+  "title": "Fundamentals of Engineering Fluids",
+  "credits": "3",
+  "description": "Prerequisite: ENES220, PHYS260, and PHYS261; and permission of ENGR-Civil & Environmental Engineering department.\nCredit only granted for: ENCE305 or ENCE330.\nFormerly: ENCE330.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Barton Forman",
+      "seats": "43,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "3106"
+    },
+    {
+      "id": "0301",
+      "instructor": "Richard McCuen",
+      "seats": "42,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1104"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

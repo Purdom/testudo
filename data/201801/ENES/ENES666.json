@@ -1,0 +1,25 @@
+{
+  "id": "ENES666",
+  "title": "Creative Design, Prototyping, and Testing",
+  "credits": "3",
+  "description": "Prerequisite: ENES664 and ENES665.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "PLM1",
+      "instructor": "Cait von Schnetlage",
+      "seats": "50,",
+      "open-seats": "26,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

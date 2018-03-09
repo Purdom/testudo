@@ -1,0 +1,27 @@
+{
+  "id": "PLCY303",
+  "title": "Public Economics Raising and Spending the People's Money",
+  "credits": "3",
+  "description": "Prerequisite: ECON200.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Juan Martinez Guzman",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "HBK",
+      "room": "0115"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

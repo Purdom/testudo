@@ -1,0 +1,27 @@
+{
+  "id": "BSCI464",
+  "title": "Microbial Ecology",
+  "credits": "3",
+  "description": "Prerequisite: BSCI223 and CHEM241. And must have completed CHEM243; or CHEM242.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Steven Hutcheson",
+      "seats": "25,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "MCB",
+      "room": "2119"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

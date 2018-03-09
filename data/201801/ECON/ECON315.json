@@ -1,0 +1,51 @@
+{
+  "id": "ECON315",
+  "title": "Economic Development of Underdeveloped Areas",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in ECON200 and ECON201.\nCredit only granted for: ECON315 or ECON416.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stefania Scandizzo",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "TYD",
+      "room": "0101"
+    },
+    {
+      "id": "0201",
+      "instructor": "Shanjukta Nath",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "TYD",
+      "room": "2102"
+    },
+    {
+      "id": "0301",
+      "instructor": "Bryan Hardy",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "TYD",
+      "room": "1132"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

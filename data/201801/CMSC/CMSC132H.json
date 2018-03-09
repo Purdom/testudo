@@ -1,0 +1,27 @@
+{
+  "id": "CMSC132H",
+  "title": "Object-Oriented Programming II",
+  "credits": "4",
+  "description": "Prerequisite: Minimum grade of C- in CMSC131; or must have earned a score of 5 on the A Java AP exam. Or permission of the department based on satisfactory performance on the department placement exam; and minimum grade of C- in MATH140; and permission of CMNS-Computer Science department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Laurence Herman",
+      "seats": "32,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "CSI",
+      "room": "1121"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

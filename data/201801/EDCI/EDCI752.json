@@ -1,0 +1,26 @@
+{
+  "id": "EDCI752",
+  "title": "Foundations of Mathematics Education II: Theory and Research on Mathematics Teaching",
+  "credits": "3",
+  "description": "Prerequisite: TLPL710; or permission of EDUC-Teaching and Learning, Policy and Leadership department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Imani Goffney",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "3315"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

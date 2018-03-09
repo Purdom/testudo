@@ -1,0 +1,27 @@
+{
+  "id": "ENGL212",
+  "title": "English Literature: 1800 to the Present",
+  "credits": "3",
+  "description": "Surveys the major literary movements of the period, from Romantic to Victorian to Modern. Such authors as Wordsworth, Keats, Bronte, Tennyson, Browning, Yeats, Joyce, Woolf.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lindsey O'Neil",
+      "seats": "30,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "HBK",
+      "room": "1112"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

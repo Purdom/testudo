@@ -1,0 +1,27 @@
+{
+  "id": "ENGL403",
+  "title": "Shakespeare: The Early Works",
+  "credits": "3",
+  "description": "Prerequisite: Two English courses in literature; or permission of ARHU-English department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Karen Nelson",
+      "seats": "22,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TWS",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

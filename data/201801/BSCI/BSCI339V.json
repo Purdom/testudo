@@ -1,0 +1,27 @@
+{
+  "id": "BSCI339V",
+  "title": "Selected Topics in Biology; Readings in Genetics",
+  "credits": "2",
+  "description": "Prerequisite: BSCI222.\n\nSeminar discussing current papers in genetics and evolution. Specific topics will be selected based on student interests, across the disciplines of evolutionary genetics, genomics, and molecular biology.\n\nAcceptable toward Biological Sciences specialization areas: ECEV. Other specializations should check with their advisor.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Kocher",
+      "seats": "14,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:00pm",
+      "end": "5:00pm",
+      "building": "BPS",
+      "room": "1230"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

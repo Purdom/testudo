@@ -1,0 +1,26 @@
+{
+  "id": "ENMA688",
+  "title": "Seminar in Materials Science and Engineering",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yifei Mo,",
+      "seats": "28,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "1:00pm",
+      "end": "2:30pm",
+      "building": "CHE",
+      "room": "2110"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Materials"
+}

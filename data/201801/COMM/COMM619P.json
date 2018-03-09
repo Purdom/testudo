@@ -1,0 +1,38 @@
+{
+  "id": "COMM619P",
+  "title": "Consecutive Interpretation; Sight Translation; English into Russian/Russian into English",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "XGE1",
+      "instructor": "Sergei Chernov",
+      "seats": "16,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Sa",
+      "start": "10:00am",
+      "end": "10:30am",
+      "building": "SKN",
+      "room": "3117"
+    },
+    {
+      "id": "XGR1",
+      "instructor": "Nikolai Sorokin",
+      "seats": "16,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "SKN",
+      "room": "3117"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

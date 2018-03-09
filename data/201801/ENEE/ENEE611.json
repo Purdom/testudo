@@ -1,0 +1,26 @@
+{
+  "id": "ENEE611",
+  "title": "Integrated Circuit Design and Analysis",
+  "credits": "3",
+  "description": "Recommended: ENEE610.\nCredit only granted for: ENEE611 or ENEE696.\nFormerly: ENEE696.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Timothy Horiuchi",
+      "seats": "30,",
+      "open-seats": "25,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "MTH",
+      "room": "0409"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

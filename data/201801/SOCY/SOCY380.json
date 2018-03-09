@@ -1,0 +1,27 @@
+{
+  "id": "SOCY380",
+  "title": "Honors Independent Reading in Sociology",
+  "credits": "3",
+  "description": "Restriction: Permission of BSOS-Sociology department.\nFormerly: SOCY378.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Linda Moghadam",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

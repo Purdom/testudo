@@ -1,0 +1,25 @@
+{
+  "id": "FIRE173",
+  "title": "FIRE SEMESTER 2: Deep Brain Neurotech",
+  "credits": "3",
+  "description": "Recommended: FIRE120.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nevine El-leithy",
+      "seats": "36,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ATL",
+      "room": "2339"
+    }
+  ],
+  "term": "201801",
+  "department": "First-Year Innovation & Research Experience"
+}

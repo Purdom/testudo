@@ -1,0 +1,26 @@
+{
+  "id": "KNES694",
+  "title": "Metabolic Aspects of Exercise Physiology",
+  "credits": "3",
+  "description": "Prerequisite: KNES360.\nRecommended: BCHM462 and BCHM461.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Steven Prior",
+      "seats": "15,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "SPH",
+      "room": "2334"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

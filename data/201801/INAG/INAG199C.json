@@ -1,0 +1,27 @@
+{
+  "id": "INAG199C",
+  "title": "Special Problems; in AgriScience",
+  "credits": "3",
+  "description": "Restricted to students in the AGNR-Institute of Applied Agriculture department. Others by permission of the AGNR-Institute of Applied Agriculture department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Glori Hyman",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Institute of Applied Agriculture"
+}

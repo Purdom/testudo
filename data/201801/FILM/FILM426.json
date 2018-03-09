@@ -1,0 +1,27 @@
+{
+  "id": "FILM426",
+  "title": "Modern Chinese Film and Visual Culture",
+  "credits": "3",
+  "description": "Also offered as: ARTH484.\nCredit only granted for: FILM426 or ARTH484; ARTH489F in F2012, F2011, F2008, or S2009; or ARTH488F in S2010, S2008, or F2009.\nFormerly: ARTH489F in F2012, F2011, F2008, or S2009; or ARTH488F in S2010, S2008, or F2009.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jason Kuo",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "HBK",
+      "room": "0302J"
+    }
+  ],
+  "term": "201801",
+  "department": "Film Studies"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "FIRE165",
+  "title": "FIRE SEMESTER 2: Designing Innovations",
+  "credits": "3",
+  "description": "Recommended: FIRE120.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mohammad Fazelpour",
+      "seats": "36,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "ATL",
+      "room": "2339"
+    }
+  ],
+  "term": "201801",
+  "department": "First-Year Innovation & Research Experience"
+}

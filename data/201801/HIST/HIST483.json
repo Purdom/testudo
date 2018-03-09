@@ -1,0 +1,27 @@
+{
+  "id": "HIST483",
+  "title": "History of Japan Since 1800",
+  "credits": "3",
+  "description": "Japan's renewed contact with the Western world and emergence as a modern state, industrial society, and world power, 1800-1931; and Japan's road to war, occupation, and recovery, 1931 to the present.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Louisa Rubinfien",
+      "seats": "40,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "KEY",
+      "room": "0116"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

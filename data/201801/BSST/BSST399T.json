@@ -1,0 +1,51 @@
+{
+  "id": "BSST399T",
+  "title": "Individual Study in Terrorism Studies; Teaching Terrorism",
+  "credits": "3",
+  "description": "Prerequisite: permission of department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Katherine Izsak",
+      "seats": "6,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0102",
+      "instructor": "Amy Pate",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0103",
+      "instructor": "Mansoor Moaddel",
+      "seats": "5,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Terrorism Studies"
+}

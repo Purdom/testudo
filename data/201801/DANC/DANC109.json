@@ -1,0 +1,27 @@
+{
+  "id": "DANC109",
+  "title": "Improvisation I",
+  "credits": "2",
+  "description": "Students must pay $25 lab fee.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Sara Pearson",
+      "seats": "12,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PAC",
+      "room": "1610"
+    }
+  ],
+  "term": "201801",
+  "department": "Dance"
+}

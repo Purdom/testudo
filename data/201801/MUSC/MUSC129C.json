@@ -1,0 +1,27 @@
+{
+  "id": "MUSC129C",
+  "title": "Ensemble; Chamber Brasses",
+  "credits": "1",
+  "description": "For Music majors only.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gregory Miller",
+      "seats": "30,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PAC",
+      "room": "2201"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

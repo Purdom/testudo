@@ -1,0 +1,26 @@
+{
+  "id": "ENAE788L",
+  "title": "Selected Topics in Aerospace Engineering; Optimal Estimation of Dynamic Systems",
+  "credits": "3",
+  "description": "Prerequisite: ENAE404 or equivalent, ENAE441 recommended. Optimal estimation or orbit and attitude of spacecraft. Probability conceptsin dynamic systems including measurementand modeling uncertainty. Filtering and smoothing in spacecraft navigation.Parameter and state estimation applications.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Liam Healy",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "JMZ",
+      "room": "0120"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

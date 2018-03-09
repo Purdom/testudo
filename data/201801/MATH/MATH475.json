@@ -1,0 +1,27 @@
+{
+  "id": "MATH475",
+  "title": "Combinatorics and Graph Theory",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (MATH240, MATH341); and 1 course with a minimum grade of C- from (MATH241, MATH340); and permission of CMNS-Mathematics department.\nAlso offered as: CMSC475.\nCredit only granted for: MATH475 or CMSC475.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Wiseley Wong",
+      "seats": "32,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "MTH",
+      "room": "0303"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

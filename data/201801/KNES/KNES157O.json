@@ -1,0 +1,62 @@
+{
+  "id": "KNES157O",
+  "title": "Physical Education Activities: Coed; Weight Training (Intermediate)",
+  "credits": "1",
+  "description": "Restriction: Must be in a major within SPHL-Kinesiology department.\n\nAttendance is required on the first day of class. Students must pay a $40 instructional materials fee.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0001",
+      "instructor": "Terrel Everette",
+      "seats": "32,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "1:15pm",
+      "building": "SPH",
+      "room": "0103"
+    },
+    {
+      "id": "0002",
+      "instructor": "Eric Stone",
+      "seats": "32,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:00pm",
+      "end": "1:15pm",
+      "building": "SPH",
+      "room": "0103"
+    },
+    {
+      "id": "0004",
+      "instructor": "Alyssa Foust",
+      "seats": "32,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "SPH",
+      "room": "0103"
+    },
+    {
+      "id": "0005",
+      "instructor": "Eric Stone",
+      "seats": "32,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SPH",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

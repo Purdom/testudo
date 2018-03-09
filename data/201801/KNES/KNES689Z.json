@@ -1,0 +1,26 @@
+{
+  "id": "KNES689Z",
+  "title": "Special Problems in Kinesiology; Skeletal Muscle Mechanics, Energetics, & Control",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ross Miller",
+      "seats": "15,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "SPH",
+      "room": "2334"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

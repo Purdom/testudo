@@ -1,0 +1,39 @@
+{
+  "id": "ITAL103",
+  "title": "Intensive Elementary Italian",
+  "credits": "4",
+  "description": "Prerequisite: Must have appropriate Foreign Language Placement Test (FLPT) score.\nRestriction: Not open to fluent/native speakers of Italian.\nCredit only granted for: ITAL103 or ITAL121.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Federica Deigan",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "JMZ",
+      "room": "1124"
+    },
+    {
+      "id": "0201",
+      "instructor": "Federica Deigan",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "JMZ",
+      "room": "1124"
+    }
+  ],
+  "term": "201801",
+  "department": "Italian"
+}

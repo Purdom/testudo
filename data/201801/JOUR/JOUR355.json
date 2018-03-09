@@ -1,0 +1,39 @@
+{
+  "id": "JOUR355",
+  "title": "News Bureau: Multimedia Editing and Production",
+  "credits": "3",
+  "description": "Prerequisite: JOUR202 or JOUR262; and (JOUR320 or JOUR360); and JOUR352; and permission of JOUR-Philip Merrill College of Journalism.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sean Mussenden",
+      "seats": "8,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0201",
+      "instructor": "Brooke Auxier",
+      "seats": "8,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

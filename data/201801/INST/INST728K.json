@@ -1,0 +1,26 @@
+{
+  "id": "INST728K",
+  "title": "Special Topics in Information Studies; Consumer Health Informatics",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Beth St Jean",
+      "seats": "30,",
+      "open-seats": "23,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:00pm",
+      "end": "8:45pm",
+      "building": "HBK",
+      "room": "1112"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ARCH419",
+  "title": "Independent Studies in Architectural Technology",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "2901",
+      "instructor": "Instructor: TBA",
+      "seats": "1,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

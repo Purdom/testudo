@@ -1,0 +1,25 @@
+{
+  "id": "CPSN240",
+  "title": "College Park Scholars: International Studies - Service-Learning Practicum",
+  "credits": "3",
+  "description": "Prerequisite: CPSN101.\nRestriction: Students must be enrolled in the College Park Scholars International Studies (CPSN) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Glass,",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars-International Studies"
+}

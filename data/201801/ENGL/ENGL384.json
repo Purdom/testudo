@@ -1,0 +1,27 @@
+{
+  "id": "ENGL384",
+  "title": "Concepts of Grammar",
+  "credits": "3",
+  "description": "Introduction to the basic units of grammatical description; motivation for and nature of constituent structure and syntactic categories; fundamental grammatical concepts employed in the teaching and learning of languages.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Israel",
+      "seats": "20,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "3136"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "HONR289V",
+  "title": "Honors Seminar; Mars Exploration: Past, Present, Future",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Douglas Hamilton",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "ATL",
+      "room": "0201"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

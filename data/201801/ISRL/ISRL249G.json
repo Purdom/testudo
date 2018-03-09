@@ -1,0 +1,27 @@
+{
+  "id": "ISRL249G",
+  "title": "Selected Topics in Israel Studies; Introduction to Jewish Literature",
+  "credits": "3",
+  "description": "Also offered as JWST272 and CMLT242. Credit only granted for JWST272, CMLT242, or ISRL249G. A survey of Jewish literature and introduction to methods of reading literature in general and Jewish literature in particular. Concern with what makes a literary corpus Jewish and other issues of canonicity. All texts in English translation.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Chen Edrei",
+      "seats": "30,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "KEY",
+      "room": "0121"
+    }
+  ],
+  "term": "201801",
+  "department": "Israel Studies"
+}

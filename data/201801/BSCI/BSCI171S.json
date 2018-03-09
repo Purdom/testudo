@@ -1,0 +1,37 @@
+{
+  "id": "BSCI171S",
+  "title": "Principles of Molecular & Cellular Biology Laboratory",
+  "credits": "1",
+  "description": "Prerequisite: Must have math eligibility of MATH120 or higher.\nCorequisite: BSCI170.\nRecommended: For Science majors.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "1034",
+      "instructor": "David Kirschtel",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "4:50pm",
+      "building": "HJP",
+      "room": "1229"
+    },
+    {
+      "id": "2032",
+      "instructor": "David Kirschtel",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:50pm",
+      "building": "HJP",
+      "room": "1235"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

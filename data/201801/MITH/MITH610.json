@@ -1,0 +1,25 @@
+{
+  "id": "MITH610",
+  "title": "Introduction to Digital Studies in the Arts and Humanities",
+  "credits": "3",
+  "description": "An introduction to digital studies in the arts and humanities, broadly conceived as the critical, creative, and practical engagement with digital media, methods, tools, and experiences, as well as the theoretical and conceptual bases for understanding them.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Matthew Kirschenbaum",
+      "seats": "20,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "HBK",
+      "room": "0301"
+    }
+  ],
+  "term": "201801",
+  "department": "Maryland Institute for Technology in the Humanities"
+}

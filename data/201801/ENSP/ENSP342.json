@@ -1,0 +1,27 @@
+{
+  "id": "ENSP342",
+  "title": "Environmental Threats to Oceans and Coasts: Towards an Integrated Policy Response",
+  "credits": "3",
+  "description": "Prerequisite: ENSP101 and ENSP102.\nRestriction: Must have earned a minimum of 60 credits; and permission of Environmental Science and Policy program.\nCredit only granted for: ENSP399A or ENSP342.\nFormerly: ENSP399A.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Annette Spivy",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PLS",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Policy"
+}

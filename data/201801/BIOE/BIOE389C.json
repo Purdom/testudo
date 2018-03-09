@@ -1,0 +1,26 @@
+{
+  "id": "BIOE389C",
+  "title": "Special Projects in Bioengineering; Bioengineering Design Competitions",
+  "credits": "1",
+  "description": "BIOE389 cannot be used as a technical elective towards the BIOE curriculum requirements.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Steven Jay",
+      "seats": "20,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "7:00pm",
+      "end": "9:00pm",
+      "building": "KEB",
+      "room": "1200"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

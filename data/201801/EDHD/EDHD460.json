@@ -1,0 +1,27 @@
+{
+  "id": "EDHD460",
+  "title": "Educational Psychology",
+  "credits": "3",
+  "description": "Prerequisite: PSYC100; or permission of EDUC-Human Development and Quantitative Methodology department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yuting Sun",
+      "seats": "40,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SQH",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Human Development"
+}

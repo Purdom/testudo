@@ -1,0 +1,26 @@
+{
+  "id": "EDHD780",
+  "title": "Research Methods in Human Development",
+  "credits": "3",
+  "description": "Prerequisite: EDMS651; or permission of EDUC-Human Development and Quantitative Methodology department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Richard Prather",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "3233"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Human Development"
+}

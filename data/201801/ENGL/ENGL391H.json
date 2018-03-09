@@ -1,0 +1,25 @@
+{
+  "id": "ENGL391H",
+  "title": "Advanced Composition",
+  "credits": "3",
+  "description": "Prerequisite: ENGL101; or students who have taken courses with comparable content may contact the department.\nRestriction: Must have earned a minimum of 60 credits.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Mark Forrester",
+      "seats": "19,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "TWS",
+      "room": "0234"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "ARTH255",
+  "title": "Art and Society in the Modern American World",
+  "credits": "3",
+  "description": "Explores the origins and evolution of art in the modern American world, from the late colonial era to the present, comparing major artistic movements and their historical contexts. Considers the diversity of art across Latin America and the United States, and the ways in which artworks mediate social, ethnic, political, and national identities.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Abigail McEwen",
+      "seats": "25,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ASY",
+      "room": "2203"
+    },
+    {
+      "id": "0102",
+      "instructor": "Abigail McEwen",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ASY",
+      "room": "2203"
+    },
+    {
+      "id": "0103",
+      "instructor": "Abigail McEwen",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ASY",
+      "room": "2203"
+    },
+    {
+      "id": "0104",
+      "instructor": "Abigail McEwen",
+      "seats": "25,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ASY",
+      "room": "2203"
+    }
+  ],
+  "term": "201801",
+  "department": "Art History & Archaeology"
+}

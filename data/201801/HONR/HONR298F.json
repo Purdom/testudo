@@ -1,0 +1,25 @@
+{
+  "id": "HONR298F",
+  "title": "Honors Seminar; Explaining Social Change: Fact and Fiction in Understanding Why our World Looks the Way it Does",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Meyer Kestnbaum",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TWS",
+      "room": "1321"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "BMGT457",
+  "title": "Marketing Policies and Strategies",
+  "credits": "3",
+  "description": "Prerequisite: BMGT350.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mary Harms",
+      "seats": "45,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1336"
+    },
+    {
+      "id": "0201",
+      "instructor": "Mary Harms",
+      "seats": "45,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1336"
+    },
+    {
+      "id": "0301",
+      "instructor": "Mary Harms",
+      "seats": "45,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1336"
+    },
+    {
+      "id": "SG91",
+      "instructor": "Elie Ashery",
+      "seats": "35,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "BLD2",
+      "room": "3012"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

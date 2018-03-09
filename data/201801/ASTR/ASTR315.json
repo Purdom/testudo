@@ -1,0 +1,39 @@
+{
+  "id": "ASTR315",
+  "title": "Astronomy in Practice",
+  "credits": "4",
+  "description": "Restriction: Must not be in Astronomy program.\nAdditional information: Appropriate for non-science majors.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Melissa Hayes-Gehrke",
+      "seats": "24,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ESJ",
+      "room": "0215"
+    },
+    {
+      "id": "0102",
+      "instructor": "Melissa Hayes-Gehrke",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ESJ",
+      "room": "0215"
+    }
+  ],
+  "term": "201801",
+  "department": "Astronomy"
+}

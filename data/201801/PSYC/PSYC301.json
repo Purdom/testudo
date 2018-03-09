@@ -1,0 +1,27 @@
+{
+  "id": "PSYC301",
+  "title": "Biological Basis of Behavior",
+  "credits": "3",
+  "description": "Prerequisite: PSYC100. And BSCI170 and BSCI171; or BSCI105.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Yager",
+      "seats": "150,",
+      "open-seats": "72,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "BPS",
+      "room": "1250"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

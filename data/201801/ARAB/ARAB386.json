@@ -1,0 +1,27 @@
+{
+  "id": "ARAB386",
+  "title": "Experiential Learning",
+  "credits": "3 -",
+  "description": "Restriction: Permission of ARHU-School of Languages, Literatures, and Cultures department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "2150",
+      "instructor": "Zein El-Amine",
+      "seats": "5,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Arabic"
+}

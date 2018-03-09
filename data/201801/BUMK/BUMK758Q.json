@@ -1,0 +1,25 @@
+{
+  "id": "BUMK758Q",
+  "title": "Special Topics in Marketing; Action Learning Project",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Pallassana Kannan",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "VMH",
+      "room": "1520"
+    }
+  ],
+  "term": "201801",
+  "department": "Marketing"
+}

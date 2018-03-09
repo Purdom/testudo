@@ -1,0 +1,27 @@
+{
+  "id": "ENAE420",
+  "title": "Computational Structural Mechanics",
+  "credits": "3",
+  "description": "Prerequisite: ENES220 and MATH241; and must have completed a course in linear algebra.\nRestriction: Must be in Engineering: Aerospace program; or permission of ENGR-Aerospace Engineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sung Lee",
+      "seats": "22,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "EGR",
+      "room": "1102"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

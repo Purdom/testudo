@@ -1,0 +1,25 @@
+{
+  "id": "TLTC333",
+  "title": "Fundamentals of Academic Peer Mentoring",
+  "credits": "1",
+  "description": "Restriction: Permission of TLTC required - enrollment restriction.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alexis Williams",
+      "seats": "200,",
+      "open-seats": "60,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Teaching and Learning Transformation Center"
+}

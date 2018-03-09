@@ -1,0 +1,26 @@
+{
+  "id": "THET608C",
+  "title": "Seminar: Theory and Performance Studies; Critical Race Theory and Performance",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Faedra Carpenter",
+      "seats": "10,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "1:30pm",
+      "end": "4:00pm",
+      "building": "PAC",
+      "room": "1815"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre"
+}

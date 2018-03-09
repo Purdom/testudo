@@ -1,0 +1,25 @@
+{
+  "id": "COMM398W",
+  "title": "Selected Topics in Communication; Web Design",
+  "credits": "3",
+  "description": "A basic to intermediate introduction to web design. Students will begin by developing a simple personal web site using CSS-based layouts, and progress to more complex CSS3-driven layouts. In addition to the basics of web creation, content, layout and design, this course will also emphasize basic computer skills and file management. FTP using Fetch or or Transmit, creative effects using jQuery widgets, and other techniques and topics will be discussed. This course will utilize Dreamweaver, Photoshop, Flash and Illustrator, with possible introductions to other software.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "Robert Coleman",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "BLD3",
+      "room": "3216"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

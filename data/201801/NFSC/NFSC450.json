@@ -1,0 +1,39 @@
+{
+  "id": "NFSC450",
+  "title": "Food and Nutrient Analysis",
+  "credits": "3",
+  "description": "Prerequisite: BCHM461 and NFSC100.\nFormerly: NUTR450.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elizabeth Williams",
+      "seats": "13,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "MMH",
+      "room": "3112"
+    },
+    {
+      "id": "0102",
+      "instructor": "Elizabeth Williams",
+      "seats": "13,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "MMH",
+      "room": "3112"
+    }
+  ],
+  "term": "201801",
+  "department": "Nutrition and Food Science"
+}

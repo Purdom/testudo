@@ -1,0 +1,38 @@
+{
+  "id": "KNES161N",
+  "title": "Physical Education Activities: Coed; Conditioning (Beginning)",
+  "credits": "1",
+  "description": "Schedule Adjustment is the first week of classes only. Attendance is required on the first day of class. Students must pay a $40 instructional materials fee.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0001",
+      "instructor": "Arielle Ocampo",
+      "seats": "18,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:00pm",
+      "end": "1:15pm",
+      "building": "SPH",
+      "room": "2101"
+    },
+    {
+      "id": "0002",
+      "instructor": "Arielle Ocampo",
+      "seats": "18,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:00pm",
+      "end": "1:15pm",
+      "building": "SPH",
+      "room": "2101"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

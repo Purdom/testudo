@@ -1,0 +1,26 @@
+{
+  "id": "INFM612",
+  "title": "Management of Information Programs and Services",
+  "credits": "3",
+  "description": "Restriction: Permission of INFO-College of Information Studies.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "ML01",
+      "instructor": "Taverekere Srikantaiah",
+      "seats": "25,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Management"
+}

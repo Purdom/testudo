@@ -1,0 +1,39 @@
+{
+  "id": "BSCI329",
+  "title": "Instructional Assistance Practicum",
+  "credits": "1 -",
+  "description": "Prerequiste: permission of department.\n\n(Sponsoring Dept.: BIOL). Credit cannot be applied to the requirements of any Biological Sciences Major.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "1016",
+      "instructor": "Hilary Bierman",
+      "seats": "5,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "1250",
+      "instructor": "Justicia Opoku-Edusei",
+      "seats": "20,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "PERS252",
+  "title": "Gender and Body in Iran",
+  "credits": "3",
+  "description": "Credit only granted for: PERS298A, WMST298J, or PERS252.\nFormerly: PERS298A.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ida Meftahi",
+      "seats": "30,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "JMZ",
+      "room": "2207"
+    }
+  ],
+  "term": "201801",
+  "department": "Persian"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "BMGT353",
+  "title": "Retail Management",
+  "credits": "3",
+  "description": "Prerequisite: BMGT220 and BMGT350.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mary Harms",
+      "seats": "35,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1336"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "CPET240",
+  "title": "College Park Scholars: Environment, Technology & Economy Service-Learning Practicum",
+  "credits": "1 -",
+  "description": "Restriction: Students must be matriculated into the College Park Scholars Environment, Technology & the Economy (CPET), Science, Technology & Society (CPSS), Arts (CPSA) and Business, Society, & Economy (CPBE) programs.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Caron Gala,",
+      "seats": "25,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:10pm",
+      "end": "6:30pm",
+      "building": "CCC",
+      "room": "1205"
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars-Environment, Technology & Economy"
+}

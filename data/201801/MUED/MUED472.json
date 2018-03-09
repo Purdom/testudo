@@ -1,0 +1,26 @@
+{
+  "id": "MUED472",
+  "title": "Teaching Choral Music",
+  "credits": "2",
+  "description": "Prerequisite: MUED471.\nRestriction: Must be in Music Education program.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kenneth Elpus",
+      "seats": "15,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:20pm",
+      "building": "PAC",
+      "room": "2130A"
+    }
+  ],
+  "term": "201801",
+  "department": "Music Education"
+}

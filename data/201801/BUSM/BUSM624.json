@@ -1,0 +1,37 @@
+{
+  "id": "BUSM624",
+  "title": "Operations Management",
+  "credits": "2",
+  "description": "Restriction: Must be in Business and Management (Master's) program; or permission of BMGT-Robert H. Smith School of Business.\nCredit only granted for: BUSI634 or BUSM624.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Wedad Elmaghraby",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "8:00am",
+      "end": "9:50am",
+      "building": "VMH",
+      "room": "1511"
+    },
+    {
+      "id": "0201",
+      "instructor": "Wedad Elmaghraby",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "VMH",
+      "room": "1511"
+    }
+  ],
+  "term": "201801",
+  "department": "Full-Time MBA Program"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "KNES711",
+  "title": "Professional Development and Grantsmanship",
+  "credits": "3",
+  "description": "Restriction: Must be a Doctoral student; and must be in a major in SPHL-School of Public Health.\nCredit only granted for: KNES711 or KNES789X.\nFormerly: KNES789X.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Hagberg",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "ATL",
+      "room": "1114"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "WMST298D",
+  "title": "Women's Bodies in Contention",
+  "credits": "3",
+  "description": "Despite 19th and 20th century free love movements, as well as reproductive justice movements of the late 20th century and early 21st century, women's bodies and sexualities continue to be heavily policed and legislated in ways that men's bodies are not. This course will examine the contentious making of womanhood and femininity, as well as awide array of female sexualities and subcultures, in society and culture. Using film, media, architecture, fashion, and sports, we will explore cultural representation of cisgender and transgender women, alongside policy and policy amifications that may or may not account forsexuality, ability, nation, race, or class in the regulating and legislation of women's bodies.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lamonda Horton-Stallings",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "TYD",
+      "room": "2106"
+    },
+    {
+      "id": "0102",
+      "instructor": "Lamonda Horton-Stallings",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "TYD",
+      "room": "2106"
+    },
+    {
+      "id": "0103",
+      "instructor": "Lamonda Horton-Stallings",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "TYD",
+      "room": "2106"
+    },
+    {
+      "id": "0104",
+      "instructor": "Lamonda Horton-Stallings",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "TYD",
+      "room": "2106"
+    }
+  ],
+  "term": "201801",
+  "department": "Women's Studies"
+}

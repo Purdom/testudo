@@ -1,0 +1,27 @@
+{
+  "id": "ANSC212",
+  "title": "Applied Animal Physiology",
+  "credits": "3",
+  "description": "Prerequisite: ANSC211; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Monica VanKlompenberg,",
+      "seats": "88,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ANS",
+      "room": "0408"
+    }
+  ],
+  "term": "201801",
+  "department": "Animal Science"
+}

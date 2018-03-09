@@ -1,0 +1,26 @@
+{
+  "id": "MUSC699V",
+  "title": "Selected Topics in Music",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert McReynolds",
+      "seats": "15,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

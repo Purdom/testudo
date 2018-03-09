@@ -1,0 +1,26 @@
+{
+  "id": "KNES689K",
+  "title": "Special Problems in Kinesiology; Research Design: Physical Cultural Studies",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Friedman",
+      "seats": "15,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "SPH",
+      "room": "2334"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

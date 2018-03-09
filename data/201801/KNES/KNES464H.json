@@ -1,0 +1,27 @@
+{
+  "id": "KNES464H",
+  "title": "Exercise Metabolism: Role in Health and Disease",
+  "credits": "3",
+  "description": "Prerequisite: BSCI202, KNES360, and BSCI201.\nCredit only granted for: KNES464 or KNES498L.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sarah Glancy",
+      "seats": "3,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PHY",
+      "room": "4221"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

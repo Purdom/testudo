@@ -1,0 +1,27 @@
+{
+  "id": "DANC209",
+  "title": "Dance Composition",
+  "credits": "3",
+  "description": "Prerequisite: DANC207 and permission of department. Students must pay $25 lab fee.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Alvin Mayes",
+      "seats": "15,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "12:20pm",
+      "building": "PAC",
+      "room": "1908"
+    }
+  ],
+  "term": "201801",
+  "department": "Dance"
+}

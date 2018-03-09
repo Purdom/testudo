@@ -1,0 +1,85 @@
+{
+  "id": "CHEM135",
+  "title": "General Chemistry for Engineers",
+  "credits": "3",
+  "description": "Prerequisite: Must have math eligibility of MATH120, MATH130, or MATH140.\nCredit only granted for: CHEM103, CHEM113, CHEM131, CHEM135, or CHEM146.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "3125",
+      "instructor": "Cheng Lee",
+      "seats": "38,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "CHM",
+      "room": "1407"
+    },
+    {
+      "id": "3127",
+      "instructor": "Cheng Lee",
+      "seats": "38,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "CHM",
+      "room": "1407"
+    },
+    {
+      "id": "3128",
+      "instructor": "Cheng Lee",
+      "seats": "38,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "CHM",
+      "room": "1407"
+    },
+    {
+      "id": "3145",
+      "instructor": "Cheng Lee",
+      "seats": "38,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "CHM",
+      "room": "1407"
+    },
+    {
+      "id": "3147",
+      "instructor": "Cheng Lee",
+      "seats": "38,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "CHM",
+      "room": "1407"
+    },
+    {
+      "id": "3148",
+      "instructor": "Cheng Lee",
+      "seats": "38,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "CHM",
+      "room": "1407"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

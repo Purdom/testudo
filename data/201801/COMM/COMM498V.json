@@ -1,0 +1,27 @@
+{
+  "id": "COMM498V",
+  "title": "Seminar; Visual Rhetoric",
+  "credits": "3",
+  "description": "Restriction: COMM majors (1506A) only.\n\nAn examination of the rhetorical implications of looking. Investigates how oppressed groups have been visually displayed in news photographs, museum exhibits, and in popular culture. Due to this focus on visual portrayals of cultural others, part of the class will be devoted to examining visual artifacts related to traumatic events including war, natural disasters, self-immolation, and lynching which some students mayfind disturbing. In tackling this difficult subject matter, the course will examine the intersection between responsibility and looking. Who has the right to take, display, and examine these images? Who makes this determination and what are the rhetorical implications of it.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michelle Yang",
+      "seats": "35,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "TWS",
+      "room": "0234"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

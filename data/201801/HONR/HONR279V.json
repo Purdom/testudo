@@ -1,0 +1,25 @@
+{
+  "id": "HONR279V",
+  "title": "Honors Seminar; Haves and Have Nots: The Economics and Politics of Inequali ty",
+  "credits": "3",
+  "description": "Credit may only be granted for HONR 279V or ECON 175.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ethan Kaplan",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TYD",
+      "room": "1108"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

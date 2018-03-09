@@ -1,0 +1,27 @@
+{
+  "id": "LING322",
+  "title": "Phonology II",
+  "credits": "3",
+  "description": "Prerequisite: LING321.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Amalia Gnanadesikan",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "MMH",
+      "room": "1304"
+    }
+  ],
+  "term": "201801",
+  "department": "Linguistics"
+}

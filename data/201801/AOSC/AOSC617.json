@@ -1,0 +1,38 @@
+{
+  "id": "AOSC617",
+  "title": "Atmospheric and Oceanic Climate",
+  "credits": "3",
+  "description": "Prerequisite: AOSC610; or permission of instructor.\nFormerly: METO617.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sumant Nigam",
+      "seats": "20,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ATL",
+      "room": "1114"
+    },
+    {
+      "id": "AM01",
+      "instructor": "Sumant Nigam",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ATL",
+      "room": "1114"
+    }
+  ],
+  "term": "201801",
+  "department": "Atmospheric and Oceanic Science"
+}

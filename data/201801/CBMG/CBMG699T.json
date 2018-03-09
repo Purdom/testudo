@@ -1,0 +1,26 @@
+{
+  "id": "CBMG699T",
+  "title": "Special Problems in Cell Biology and Molecular Genetics; Molecular Genetics: Genetics of Eukaryotic Model Systems",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stephen Mount",
+      "seats": "20,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "PLS",
+      "room": "1146"
+    }
+  ],
+  "term": "201801",
+  "department": "Cell Biology & Molecular Genetics"
+}

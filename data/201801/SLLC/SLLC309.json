@@ -1,0 +1,109 @@
+{
+  "id": "SLLC309",
+  "title": "Language Partner Program",
+  "credits": "1",
+  "description": "Students must be available to meet on Monday, February 12, 2018 and Monday, May 7, 2018.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mehl Penrose",
+      "seats": "10,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0102",
+      "instructor": "Mehl Penrose",
+      "seats": "10,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0103",
+      "instructor": "Mehl Penrose",
+      "seats": "10,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0104",
+      "instructor": "Mehl Penrose",
+      "seats": "10,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0105",
+      "instructor": "Mehl Penrose",
+      "seats": "10,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0106",
+      "instructor": "Mehl Penrose",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0109",
+      "instructor": "Mehl Penrose",
+      "seats": "10,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0110",
+      "instructor": "Mehl Penrose",
+      "seats": "10,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "School of Languages, Literatures and Cultures"
+}

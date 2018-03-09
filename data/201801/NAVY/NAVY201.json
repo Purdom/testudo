@@ -1,0 +1,25 @@
+{
+  "id": "NAVY201",
+  "title": "Navigation",
+  "credits": "3",
+  "description": "Restriction: Permission of UGST-Navy ROTC.\nAdditional information: Priority enrollment will be given to students enrolled in the University of Maryland NROTC program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Adam Klimas",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "ARM",
+      "room": "0120"
+    }
+  ],
+  "term": "201801",
+  "department": "Navy"
+}

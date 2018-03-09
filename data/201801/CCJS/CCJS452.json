@@ -1,0 +1,27 @@
+{
+  "id": "CCJS452",
+  "title": "Treatment of Criminals and Delinquents",
+  "credits": "3",
+  "description": "Prerequisite: CCJS105 and CCJS300.\nCredit only granted for: CCJS 342 or CCJS 452.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0301",
+      "instructor": "Sarah Tahamont",
+      "seats": "50,",
+      "open-seats": "29,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ESJ",
+      "room": "2212"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

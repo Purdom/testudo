@@ -1,0 +1,26 @@
+{
+  "id": "MEES621",
+  "title": "Biological Oceanography",
+  "credits": "4",
+  "description": "Population and community ecology of estuarine and marine systems; coastal and estuarine processes are emphasized in the context of oceans in general. Field and lab trips required.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Judith O'Neil,",
+      "seats": "15,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:00pm",
+      "end": "2:00pm",
+      "building": "HJP",
+      "room": "1213B"
+    }
+  ],
+  "term": "201801",
+  "department": "Marine-Estuarine-Environmental Sciences"
+}

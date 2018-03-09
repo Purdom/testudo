@@ -1,0 +1,75 @@
+{
+  "id": "COMM331",
+  "title": "News Writing and Reporting for Public Relations",
+  "credits": "3",
+  "description": "Prerequisite: COMM201; and must have completed or be concurrently enrolled in JOUR181.\nRestriction: Must be in Communication program; and (sophomore standing; or junior standing). Or permission of ARHU-Communication department.\nCredit only granted for: JOUR201, COMM231, or COMM331.\nFormerly: COMM231.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Luke Capizzo",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "ATL",
+      "room": "1410"
+    },
+    {
+      "id": "0201",
+      "instructor": "Susan Simon",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "EGR",
+      "room": "3140"
+    },
+    {
+      "id": "0301",
+      "instructor": "Karen Naumann",
+      "seats": "18,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "8:00am",
+      "end": "9:50am",
+      "building": "ATL",
+      "room": "1410"
+    },
+    {
+      "id": "0401",
+      "instructor": "Vijaya Bohlmann",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "EGR",
+      "room": "3140"
+    },
+    {
+      "id": "0501",
+      "instructor": "Vijaya Bohlmann",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "EGR",
+      "room": "3140"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "PHIL209N",
+  "title": "Know Thyself: Wisdom Through Cognitive Science",
+  "credits": "3",
+  "description": "How do we improve our decision making? Reflection on the practical implications of some recent findings in cognitive science.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Peter Carruthers",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0102",
+      "instructor": "Peter Carruthers",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0103",
+      "instructor": "Peter Carruthers",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0104",
+      "instructor": "Peter Carruthers",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0105",
+      "instructor": "Peter Carruthers",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0106",
+      "instructor": "Peter Carruthers",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "MMH",
+      "room": "1400"
+    }
+  ],
+  "term": "201801",
+  "department": "Philosophy"
+}

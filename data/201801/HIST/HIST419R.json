@@ -1,0 +1,27 @@
+{
+  "id": "HIST419R",
+  "title": "Special Topics in History; Social History of Medicine: Health and the Body in Modern USHistory",
+  "credits": "3",
+  "description": "Examines how American societys relationship to health and the body changed over time; how medical knowledge and technological advancements contributed to this understanding; how medical knowledge about the body has informed concepts of race, gender, class, sexuality and disability; and how the pursuit of this knowledge generated ethical questions about medicine and its impact on society. Specialized medical/scientific knowledge is not required for this course.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Chantel Rodriguez",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "11:00am",
+      "end": "12:50pm",
+      "building": "TLF",
+      "room": "2103"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

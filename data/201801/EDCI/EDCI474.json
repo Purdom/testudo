@@ -1,0 +1,27 @@
+{
+  "id": "EDCI474",
+  "title": "Teaching Academically, Culturally, and Linguistically Diverse Students in Secondary Education",
+  "credits": "2",
+  "description": "Corequisite: Enrolled in internship/certification area.\nRestriction: Must be in one of the following programs (Secondary Educ: Science; Secondary Educ: English Language Arts; Secondary Educ: Mathematics; Secondary Educ: Foreign Languages; Secondary Educ: Social Studies; Secondary Educ: Art) ; and minimum cumulative GPA of 2.75. Or permission of EDUC-Teaching, Learning, Policy and Leadership department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christina Budde,",
+      "seats": "40,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "6:50pm",
+      "building": "TYD",
+      "room": "2111"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

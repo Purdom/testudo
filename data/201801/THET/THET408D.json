@@ -1,0 +1,27 @@
+{
+  "id": "THET408D",
+  "title": "Seminar: Theory and Performance Studies; Dramaturgy",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Faedra Carpenter",
+      "seats": "6,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "1:15pm",
+      "building": "PAC",
+      "room": "1815"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre"
+}

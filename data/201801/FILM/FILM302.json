@@ -1,0 +1,27 @@
+{
+  "id": "FILM302",
+  "title": "Cinema History II: The Sound Era",
+  "credits": "3",
+  "description": "Prerequisite: ENGL245, FILM245, SLLC283, or FILM283.\nRestriction: Must have permission of the Film Studies program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Eric Zakim",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1207"
+    }
+  ],
+  "term": "201801",
+  "department": "Film Studies"
+}

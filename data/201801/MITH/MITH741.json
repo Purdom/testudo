@@ -1,0 +1,25 @@
+{
+  "id": "MITH741",
+  "title": "Performing the Digital Humanities",
+  "credits": "3",
+  "description": "Prerequisite: MITH610; or permission of instructor.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Susan Wiesner",
+      "seats": "15,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:00pm",
+      "end": "6:00pm",
+      "building": "HBK",
+      "room": "0301A"
+    }
+  ],
+  "term": "201801",
+  "department": "Maryland Institute for Technology in the Humanities"
+}

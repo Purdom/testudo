@@ -1,0 +1,49 @@
+{
+  "id": "ENEE380",
+  "title": "Electromagnetic Theory",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in MATH241, PHYS270, and PHYS271; and completion of all lower-division technical courses in the EE curriculum; and permission of ENGR-Electrical & Computer Engineering department.\nRestriction: Must be in Engineering: Electrical program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Wesley Lawson",
+      "seats": "20,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "EGR",
+      "room": "1108"
+    },
+    {
+      "id": "0202",
+      "instructor": "Wesley Lawson",
+      "seats": "20,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "EGR",
+      "room": "1108"
+    },
+    {
+      "id": "0203",
+      "instructor": "Wesley Lawson",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "EGR",
+      "room": "1108"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

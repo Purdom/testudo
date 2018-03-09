@@ -1,0 +1,27 @@
+{
+  "id": "ENMA482",
+  "title": "Introduction to Electron Microscopy",
+  "credits": "3",
+  "description": "Prerequisite: PHYS142, PHYS122, or PHYS260.\nCredit only granted for: ENMA482 or ENMA489J.\nFormerly: ENMA489J.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Cumings",
+      "seats": "30,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CHE",
+      "room": "2136"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Materials"
+}

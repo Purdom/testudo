@@ -1,0 +1,25 @@
+{
+  "id": "CHBE457",
+  "title": "Design and Processing of Polymers for Biomedical Devices",
+  "credits": "3",
+  "description": "Prerequisite: MATH246; and CHEM231; and (CHBE301, ENMA461, or BIOE232).\nRecommended: Knowledge of basic fluid dynamics: CHBE422/BIOE331 or equivalent.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Peter Kofinas",
+      "seats": "40,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "KEB",
+      "room": "1200"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemical and Biomolecular Engineering"
+}

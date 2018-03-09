@@ -1,0 +1,27 @@
+{
+  "id": "JWST272",
+  "title": "Introduction to Jewish Literature",
+  "credits": "3",
+  "description": "Also offered as: CMLT242.\nCredit only granted for: CMLT242 or JWST272.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Chen Edrei",
+      "seats": "30,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "KEY",
+      "room": "0121"
+    }
+  ],
+  "term": "201801",
+  "department": "Jewish Studies"
+}

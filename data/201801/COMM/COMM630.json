@@ -1,0 +1,26 @@
+{
+  "id": "COMM630",
+  "title": "Seminar in Public Relations Management",
+  "credits": "3",
+  "description": "Credit only granted for: COMM630 or JOUR630.\nFormerly: JOUR630.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elizabeth Toth",
+      "seats": "15,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "6:30pm",
+      "building": "SKN",
+      "room": "2127"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

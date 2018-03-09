@@ -1,0 +1,27 @@
+{
+  "id": "PHIL428A",
+  "title": "Topics in the History of Philosophy; Postcolonialism",
+  "credits": "3",
+  "description": "Also offered as ANTH469L, AMST489F, ENGL479O, LASC448K, and HIST419L. Credit only granted for HIST419L, ANTH469L, AMST489F, ENGL479O, LASC448K, or PHIL428A.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Maffie",
+      "seats": "40,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "KEY",
+      "room": "0126"
+    }
+  ],
+  "term": "201801",
+  "department": "Philosophy"
+}

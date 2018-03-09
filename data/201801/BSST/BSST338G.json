@@ -1,0 +1,27 @@
+{
+  "id": "BSST338G",
+  "title": "Special Topics in Terrorism Studies; Ideology and Social Conditions in the Making of Terrorism",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mansoor Moaddel",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "10:00am",
+      "end": "11:15am",
+      "building": "JMZ",
+      "room": "1215"
+    }
+  ],
+  "term": "201801",
+  "department": "Terrorism Studies"
+}

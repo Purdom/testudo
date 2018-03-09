@@ -1,0 +1,25 @@
+{
+  "id": "ENGL101H",
+  "title": "Academic Writing",
+  "credits": "3",
+  "description": "Additional information: Any student who has not successfully completed this course by Fall 2017 must complete this course with a minimum grade of C- in order to fulfill the General Education Fundamental Studies Academic Writing requirement.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0408",
+      "instructor": "Stephanie Allen",
+      "seats": "19,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "JMZ",
+      "room": "1122"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

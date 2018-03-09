@@ -1,0 +1,25 @@
+{
+  "id": "AMST498D",
+  "title": "Special Topics in American Studies; AFRICANA THOUGHT IN AMERICAS",
+  "credits": "3",
+  "description": "Also offered as PHIL308C. Credit only granted for AMST498D or PHIL308C.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Maffie",
+      "seats": "35,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TWS",
+      "room": "0134"
+    }
+  ],
+  "term": "201801",
+  "department": "American Studies"
+}

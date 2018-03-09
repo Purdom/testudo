@@ -1,0 +1,27 @@
+{
+  "id": "GVPT454",
+  "title": "Seminar in the International Relations of China",
+  "credits": "3",
+  "description": "Prerequisite: GVPT200.\nRestriction: Must be in Government & Politics program; and junior standing or higher. Or must be in Government & Politics: International Relations program; and junior standing or higher.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Margaret Pearson",
+      "seats": "30,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TYD",
+      "room": "2102"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

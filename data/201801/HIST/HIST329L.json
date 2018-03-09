@@ -1,0 +1,27 @@
+{
+  "id": "HIST329L",
+  "title": "Special Topics in History; Riches and Ruin: A Global History of Capitalism",
+  "credits": "3",
+  "description": "Surveys the development of capitalism since the 1500s from a global perspective, focusing on Asia, Africa, and Latin America. Topics include commodity flows, labor migration, the environment, markets, and entrepreneurs. Engagement with key scholarly debates, primary sources, and digital methods.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mircea Raianu",
+      "seats": "40,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ASY",
+      "room": "3207"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "GEOL789B",
+  "title": "Recent Advances in Geology; Planetary Habitability and Surface Chemistry",
+  "credits": "3",
+  "description": "An introduction to the fundamental principles of astrochemistry and astrobiology, followed by a survey of the geological history, surface habitability and biosignature preservation potential of bodies within our solar system and a survey of exoplanets.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ricardo Arevalo",
+      "seats": "10,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PLS",
+      "room": "1162"
+    }
+  ],
+  "term": "201801",
+  "department": "Geology"
+}

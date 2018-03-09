@@ -1,0 +1,63 @@
+{
+  "id": "ANTH240",
+  "title": "Introduction to Archaeology",
+  "credits": "3",
+  "description": "Exploration of the variety of past human societies and cultures through archaeology, from the emergence of anatomically modern humans to the more recent historical past.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mark Leone",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "WDS",
+      "room": "1114"
+    },
+    {
+      "id": "0201",
+      "instructor": "Stephen Brighton",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0202",
+      "instructor": "Stephen Brighton",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0203",
+      "instructor": "Stephen Brighton",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "MMH",
+      "room": "1400"
+    }
+  ],
+  "term": "201801",
+  "department": "Anthropology"
+}

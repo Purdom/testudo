@@ -1,0 +1,27 @@
+{
+  "id": "FILM329R",
+  "title": "Special Topics in National/International Cinemas; The Mafia: From Corleone to Hollywood",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mauro Resmini",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "HBK",
+      "room": "0302H"
+    }
+  ],
+  "term": "201801",
+  "department": "Film Studies"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "MUED729",
+  "title": "Doctoral Colloquium in Music Education",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "S-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Hewitt",
+      "seats": "10,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Music Education"
+}

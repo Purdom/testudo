@@ -1,0 +1,25 @@
+{
+  "id": "BMGT424",
+  "title": "Advanced Accounting",
+  "credits": "3",
+  "description": "Prerequisite: BMGT311.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Samuel Handwerger",
+      "seats": "35,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1335"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

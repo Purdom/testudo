@@ -1,0 +1,37 @@
+{
+  "id": "BSCI423",
+  "title": "Immunology Laboratory",
+  "credits": "2",
+  "description": "Prerequisite: BSCI223 and BSCI222.\nCorequisite: BSCI422.\nRestriction: Junior standing or higher.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Wenxia Song",
+      "seats": "18,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "MCB",
+      "room": "1143"
+    },
+    {
+      "id": "0103",
+      "instructor": "Wenxia Song",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "2:50pm",
+      "building": "MCB",
+      "room": "1135"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

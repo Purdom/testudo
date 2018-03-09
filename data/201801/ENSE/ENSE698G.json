@@ -1,0 +1,50 @@
+{
+  "id": "ENSE698G",
+  "title": "Special Topics in Systems Engineering; Human Reliability Analysis",
+  "credits": "3",
+  "description": "Also offered as ENRE645. Credit granted for ENRE645 or ENSE698G. Methods of solving practical human reliability problems, cognitive and behavioral modeling, task analysis, performance shaping factors, error classification, distribution of human performance and uncertainty bounds , sources of human error probability data, human error risk mitigation, examples and case studies.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Monifa Vaughn-Cooke",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:00am",
+      "end": "11:40am",
+      "building": "JMP",
+      "room": "2217"
+    },
+    {
+      "id": "ER01",
+      "instructor": "Monifa Vaughn-Cooke",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "RE01",
+      "instructor": "Monifa Vaughn-Cooke",
+      "seats": "10,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Systems Engineering"
+}

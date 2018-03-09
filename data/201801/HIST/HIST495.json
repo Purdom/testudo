@@ -1,0 +1,27 @@
+{
+  "id": "HIST495",
+  "title": "Women in Medieval Culture and Society",
+  "credits": "3",
+  "description": "Also offered as: WMST455.\nCredit only granted for: HIST495 or WMST455.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Janna Bianchini",
+      "seats": "30,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMZ",
+      "room": "0122"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

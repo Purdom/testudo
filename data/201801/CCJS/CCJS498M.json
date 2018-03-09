@@ -1,0 +1,27 @@
+{
+  "id": "CCJS498M",
+  "title": "Selected Topics in Criminology and Criminal Justice; Crime Mapping",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "Marcus Boyd",
+      "seats": "30,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "BLD3",
+      "room": "2215"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "MATH206",
+  "title": "Introduction to Matlab",
+  "credits": "1",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (MATH141, MATH131).\nCredit only granted for: CMSC206, CMSC298M, MATH206, or MATH299M.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Justin Wyss-Gallifent",
+      "seats": "500,",
+      "open-seats": "47,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

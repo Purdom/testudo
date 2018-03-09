@@ -1,0 +1,39 @@
+{
+  "id": "ECON416",
+  "title": "Theory of Economic Development",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in ECON326; and 1 course with a minimum grade of C- from (ECON321, STAT400).\nRestriction: Must be in Economics Bachelor of Science program.\nCredit only granted for: ECON315 or ECON416.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jessica Goldberg",
+      "seats": "25,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TYD",
+      "room": "1101"
+    },
+    {
+      "id": "0201",
+      "instructor": "Jessica Goldberg",
+      "seats": "25,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TYD",
+      "room": "1118"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

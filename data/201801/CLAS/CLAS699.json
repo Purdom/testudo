@@ -1,0 +1,26 @@
+{
+  "id": "CLAS699",
+  "title": "Independent Study in Classical Civilization",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0401",
+      "instructor": "Lillian Doherty",
+      "seats": "1,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Classics"
+}

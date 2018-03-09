@@ -1,0 +1,26 @@
+{
+  "id": "ASTR320",
+  "title": "Theoretical Astrophysics",
+  "credits": "3",
+  "description": "Prerequisite: ASTR121; and (PHYS270 and PHYS271; or PHYS273). Or permission of CMNS-Astronomy department.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lee Mundy",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ATL",
+      "room": "2416"
+    }
+  ],
+  "term": "201801",
+  "department": "Astronomy"
+}

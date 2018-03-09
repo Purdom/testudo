@@ -1,0 +1,26 @@
+{
+  "id": "PLSC619",
+  "title": "Seminars in Plant Science and Landscape Architecture",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Joseph Roberts",
+      "seats": "60,",
+      "open-seats": "54,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:30pm",
+      "end": "5:50pm",
+      "building": "PLS",
+      "room": "1140"
+    }
+  ],
+  "term": "201801",
+  "department": "Plant Sciences"
+}

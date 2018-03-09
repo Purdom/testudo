@@ -1,0 +1,27 @@
+{
+  "id": "ENME427",
+  "title": "CSI Mechanical: Finding Reasons for Compromised Structural Integity",
+  "credits": "3",
+  "description": "Prerequisite: ENES220 and ENME382.\nRestriction: Permission of ENGR-Mechanical Engineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Patrick McCluskey",
+      "seats": "55,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "PHY",
+      "room": "1204"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

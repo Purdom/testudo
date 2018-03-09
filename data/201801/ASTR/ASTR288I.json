@@ -1,0 +1,27 @@
+{
+  "id": "ASTR288I",
+  "title": "Special Projects in Astronomy; Introduction to the Astronomy Major",
+  "credits": "1",
+  "description": "Restriction: Permission of CMNS-Astronomy department.\n\nIntroduces new Astronomy majors to the possible career paths that they might choose upon completion of an undergraduate Astronomy degree, soft skills that would be useful in these possible careers, and useful skills and knowledge to better prepare them for research as an undergraduate.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elizabeth Tarantino",
+      "seats": "15,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "ATL",
+      "room": "1114"
+    }
+  ],
+  "term": "201801",
+  "department": "Astronomy"
+}

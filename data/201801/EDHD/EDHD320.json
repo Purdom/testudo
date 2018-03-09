@@ -1,0 +1,74 @@
+{
+  "id": "EDHD320",
+  "title": "Human Development Through the Life Span",
+  "credits": "3",
+  "description": "Central concepts related to parameters of human development, individual and social, which arise throughout the life span. Continuity and change within the developing individual.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jennie Lee-Kim",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "EDU",
+      "room": "1121"
+    },
+    {
+      "id": "0201",
+      "instructor": "Jennie Lee-Kim",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "EDU",
+      "room": "1121"
+    },
+    {
+      "id": "0301",
+      "instructor": "Olga Walker",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "0401",
+      "instructor": "Olga Walker",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "0501",
+      "instructor": "Susan Klauda",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "ASY",
+      "room": "3211"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Human Development"
+}

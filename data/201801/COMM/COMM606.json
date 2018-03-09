@@ -1,0 +1,26 @@
+{
+  "id": "COMM606",
+  "title": "Seminar in Communication Management",
+  "credits": "3",
+  "description": "Restriction: Restricted to GCPS (Z045) in Communication; or must be in Public Management-Executive Masters (Master's) program.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PG01",
+      "instructor": "Elisabetta Ullmann,",
+      "seats": "16,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "9:00am",
+      "end": "11:50am",
+      "building": "SKN",
+      "room": "2127"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

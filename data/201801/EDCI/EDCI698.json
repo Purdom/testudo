@@ -1,0 +1,25 @@
+{
+  "id": "EDCI698",
+  "title": "Conducting Research on Teaching",
+  "credits": "1 -",
+  "description": "EDCI Outreach, permission of department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kathleen Travers",
+      "seats": "10,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:00pm",
+      "end": "7:45pm",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

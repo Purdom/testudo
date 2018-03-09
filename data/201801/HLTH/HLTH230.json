@@ -1,0 +1,27 @@
+{
+  "id": "HLTH230",
+  "title": "Introduction to Health Behavior",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in HLTH130.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Craig Fryer",
+      "seats": "75,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "SPH",
+      "room": "1303"
+    }
+  ],
+  "term": "201801",
+  "department": "Health"
+}

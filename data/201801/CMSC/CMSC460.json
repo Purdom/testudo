@@ -1,0 +1,49 @@
+{
+  "id": "CMSC460",
+  "title": "Computational Methods",
+  "credits": "3",
+  "description": "Prerequisite: MATH240 and MATH241; and (CMSC106 or CMSC131); and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.\nAlso offered as: AMSC460.\nCredit only granted for: AMSC460, AMSC466, CMSC460, or CMSC466.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Daisy Dahiya",
+      "seats": "28,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CHE",
+      "room": "2145"
+    },
+    {
+      "id": "0201",
+      "instructor": "Doron Levy",
+      "seats": "32,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "HBK",
+      "room": "1108"
+    },
+    {
+      "id": "0401",
+      "instructor": "Heyrim Cho",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PLS",
+      "room": "1172"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

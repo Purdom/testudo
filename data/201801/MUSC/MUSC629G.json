@@ -1,0 +1,25 @@
+{
+  "id": "MUSC629G",
+  "title": "Ensemble; Balinese Gamelan",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "I Suadin",
+      "seats": "5,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "8:30pm",
+      "building": "PAC",
+      "room": "1230"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

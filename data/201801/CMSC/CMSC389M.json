@@ -1,0 +1,25 @@
+{
+  "id": "CMSC389M",
+  "title": "Special Topics in Computer Science; SLAM: Why Robots Don't Crash",
+  "credits": "1",
+  "description": "Prerequisite: CMSC216 and CMSC330 with a grade of C- or better. Restriction: Permission of the CMNS-Computer Science Department.\n\nStudents will be provided with a practical and lightly theoretical understanding of the most popular algorithms that solve the Simultaneous Localization and Mapping (SLAM) problem to enable self driving car technology. An emphasis will be placed on the probabilistic methods that underpin the SLAM problem.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Larry Davis",
+      "seats": "30,",
+      "open-seats": "23,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "CSI",
+      "room": "2118"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

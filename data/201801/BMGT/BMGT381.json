@@ -1,0 +1,25 @@
+{
+  "id": "BMGT381",
+  "title": "Business Law II",
+  "credits": "3",
+  "description": "Prerequisite: BMGT380; or permission of BMGT-Robert H. Smith School of Business.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William McClenahan",
+      "seats": "50,",
+      "open-seats": "27,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1311"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

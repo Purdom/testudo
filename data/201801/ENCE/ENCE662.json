@@ -1,0 +1,26 @@
+{
+  "id": "ENCE662",
+  "title": "Introduction to Project Management",
+  "credits": "3",
+  "description": "Introduction to project management including: overview and concepts of project management (principles, body of knowledge, strategies); planning successful projects (defining, specifying, delivery options, scheduling, budgeting); implementing (organizing the team, work assignments, team building, effective leadership); executing (performance measurement, maintaining the schedule, adjustments/mid-course corrections, record keeping, status reporting, communications, managing conflict, time management); and closeout(performance measurement, maintaining the schedule, adjustments/mid-course corrections, record keeping, status reporting, communications, managing conflict, time management).",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PM01",
+      "instructor": "John Cable",
+      "seats": "35,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

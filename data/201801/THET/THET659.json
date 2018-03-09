@@ -1,0 +1,26 @@
+{
+  "id": "THET659",
+  "title": "Advanced Design Studio in Lighting",
+  "credits": "3",
+  "description": "Students must pay $25 lab fee.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Andrew Cissna",
+      "seats": "15,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "1:00pm",
+      "end": "4:00pm",
+      "building": "PAC",
+      "room": "2727"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ENGL243",
+  "title": "What is Poetry?",
+  "credits": "3",
+  "description": "An exploration of arguably the most complex, profound, and ubiquitous expression of human experience. Study through close reading of significant forms and conventions of Western poetic tradition. Poetry's roots in oral and folk traditions and connections to popular song forms.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0401",
+      "instructor": "Gerard Holmes",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "TWS",
+      "room": "0214"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

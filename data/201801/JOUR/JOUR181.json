@@ -1,0 +1,39 @@
+{
+  "id": "JOUR181",
+  "title": "Grammar for Journalists",
+  "credits": "1",
+  "description": "Credit only granted for: ENGL181, ENGL281, or JOUR181.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Linda Coleman",
+      "seats": "144,",
+      "open-seats": "106,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "BPS",
+      "room": "1250"
+    },
+    {
+      "id": "0201",
+      "instructor": "Linda Coleman",
+      "seats": "70,",
+      "open-seats": "41,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "KNI",
+      "room": "1208"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

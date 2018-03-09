@@ -1,0 +1,51 @@
+{
+  "id": "EDPS210",
+  "title": "Historical and Philosophical Perspectives on Education",
+  "credits": "3",
+  "description": "Credit only granted for: EDPL210 or EDPS210.\nFormerly: EDPL210.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Campbell Scribner",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "EDU",
+      "room": "2119"
+    },
+    {
+      "id": "0201",
+      "instructor": "Erin Janulis",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "JMZ",
+      "room": "0125"
+    },
+    {
+      "id": "0301",
+      "instructor": "Jennifer Burris",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "HBK",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Policy Studies"
+}

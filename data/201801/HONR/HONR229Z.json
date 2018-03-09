@@ -1,0 +1,25 @@
+{
+  "id": "HONR229Z",
+  "title": "Honors Seminar; Trickster, Slacker, Clown, Fool: Fiction Seminar and Workshop",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thibault Raoult",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TWS",
+      "room": "3136"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

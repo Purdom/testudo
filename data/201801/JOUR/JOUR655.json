@@ -1,0 +1,38 @@
+{
+  "id": "JOUR655",
+  "title": "Advanced Online News Bureau",
+  "credits": "6",
+  "description": "Prerequisite: JOUR603 or JOUR620; and (JOUR504 and JOUR652). Or permission of JOUR-Philip Merrill College of Journalism.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sean Mussenden",
+      "seats": "4,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0201",
+      "instructor": "Brooke Auxier",
+      "seats": "4,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

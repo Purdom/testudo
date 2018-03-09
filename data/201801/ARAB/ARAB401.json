@@ -1,0 +1,27 @@
+{
+  "id": "ARAB401",
+  "title": "Readings in Arabic Literature",
+  "credits": "3",
+  "description": "Prerequisite: ARAB305; or permission of ARHU-School of Languages, Literatures, and Cultures department.\nRestriction: Must not be a fluent/native speaker of Arabic.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sayed Elsisi",
+      "seats": "15,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "JMZ",
+      "room": "1120"
+    }
+  ],
+  "term": "201801",
+  "department": "Arabic"
+}

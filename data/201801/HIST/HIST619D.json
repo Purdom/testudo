@@ -1,0 +1,26 @@
+{
+  "id": "HIST619D",
+  "title": "Special Topics in History; Comparative European Empires",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mikhail Dolbilov",
+      "seats": "12,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:00pm",
+      "end": "8:30pm",
+      "building": "TLF",
+      "room": "2108"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

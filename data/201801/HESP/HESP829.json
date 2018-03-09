@@ -1,0 +1,38 @@
+{
+  "id": "HESP829",
+  "title": "Clinical Internship Residency",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "1301",
+      "instructor": "Instructor: TBA",
+      "seats": "30,",
+      "open-seats": "30,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "3201",
+      "instructor": "Nicole Nguyen",
+      "seats": "5,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Hearing and Speech Sciences"
+}

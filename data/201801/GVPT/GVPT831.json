@@ -1,0 +1,38 @@
+{
+  "id": "GVPT831",
+  "title": "Formal Theories of Politics I",
+  "credits": "3",
+  "description": "Survey of major formal theories of politics, with emphasis on those theories based on the assumptions of rationality. The theory of public goods, game theory, coalition theory, and the theoretical properties of voting systems.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kathleen Cunningham",
+      "seats": "12,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "12:30pm",
+      "end": "3:15pm",
+      "building": "TYD",
+      "room": "1136"
+    },
+    {
+      "id": "0201",
+      "instructor": "Kathleen Cunningham",
+      "seats": "12,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

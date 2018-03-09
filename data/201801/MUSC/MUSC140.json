@@ -1,0 +1,62 @@
+{
+  "id": "MUSC140",
+  "title": "Music Fundamentals I",
+  "credits": "3",
+  "description": "Restriction: Must not be in any of the following programs (Music (Professional Program); Music Education).",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dominic Ellis",
+      "seats": "13,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PAC",
+      "room": "2168"
+    },
+    {
+      "id": "0102",
+      "instructor": "Dominic Ellis",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PAC",
+      "room": "2168"
+    },
+    {
+      "id": "0201",
+      "instructor": "Dominic Ellis",
+      "seats": "13,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "PAC",
+      "room": "2168"
+    },
+    {
+      "id": "0202",
+      "instructor": "Dominic Ellis",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "PAC",
+      "room": "2168"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

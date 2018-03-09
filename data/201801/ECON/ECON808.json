@@ -1,0 +1,50 @@
+{
+  "id": "ECON808",
+  "title": "Workshop on Macroeconomics, International Macroeconomics and International Finance",
+  "credits": "2",
+  "description": "ECON graduate students only.",
+  "grading-method": [
+    "S-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "L Stevens",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TYD",
+      "room": "0102"
+    },
+    {
+      "id": "0201",
+      "instructor": "Allan Drazen",
+      "seats": "15,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0301",
+      "instructor": "Eunhee Lee",
+      "seats": "15,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ENCE444",
+  "title": "Experimental Methods in Geotechnical Structural Engineering",
+  "credits": "3",
+  "description": "Prerequisite: ENCE353 and ENCE340; and permission of ENGR-Civil & Environmental Engineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yunfeng Zhang,",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "EGR",
+      "room": "0135"
+    },
+    {
+      "id": "0102",
+      "instructor": "Mohamed Aggour,",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "AJC",
+      "room": "2119"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

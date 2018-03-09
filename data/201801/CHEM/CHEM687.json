@@ -1,0 +1,26 @@
+{
+  "id": "CHEM687",
+  "title": "Statistical Mechanics and Chemistry",
+  "credits": "3",
+  "description": "Prerequisite: CHEM684; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Pratyush Tiwary",
+      "seats": "20,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PLS",
+      "room": "1168"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

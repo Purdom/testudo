@@ -1,0 +1,25 @@
+{
+  "id": "ASTR688S",
+  "title": "Special Topics in Modern Astronomy; Practical Astrostatistics",
+  "credits": "1",
+  "description": "We will present a practical approach to astrostatistics, in which we will emphasize an understanding of the assumptions underlying \"black box\" approaches and will whenever possible use real data sets as examples. We will reinforce these ideas by presenting examples in the published literature of statistical errors in data analysis. Some light coding will be required, in any language that is convenient for a given student.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Miller",
+      "seats": "20,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:00pm",
+      "end": "5:50pm",
+      "building": "ATL",
+      "room": "1109"
+    }
+  ],
+  "term": "201801",
+  "department": "Astronomy"
+}

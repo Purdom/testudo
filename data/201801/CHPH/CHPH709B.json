@@ -1,0 +1,26 @@
+{
+  "id": "CHPH709B",
+  "title": "Seminar in Chemical Physics; Statistical Physics",
+  "credits": "1",
+  "description": "Also offered as PHYS709. Credit granted for PHYS709 or CHPH709B.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Weeks",
+      "seats": "30,",
+      "open-seats": "24,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "1:15pm",
+      "end": "2:30pm",
+      "building": "IPT",
+      "room": "1116"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemical Physics"
+}

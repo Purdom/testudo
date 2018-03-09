@@ -1,0 +1,25 @@
+{
+  "id": "BUAC758W",
+  "title": "Special Topics in Accounting and Information Assurance; Taxation of Not-for-Profit Entities",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Samuel Handwerger",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "6:00pm",
+      "end": "7:50pm",
+      "building": "VMH",
+      "room": "1333"
+    }
+  ],
+  "term": "201801",
+  "department": "Accounting and Information Assurance"
+}

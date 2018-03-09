@@ -1,0 +1,26 @@
+{
+  "id": "MUSC801A",
+  "title": "Advanced Seminar in Music Pedagogy",
+  "credits": "3",
+  "description": "Prerequisite: MUSC400; or students who have taken courses with comparable content may contact the department.\nRestriction: Permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert McReynolds",
+      "seats": "10,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "9:30am",
+      "end": "12:30pm",
+      "building": "PAC",
+      "room": "2126"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

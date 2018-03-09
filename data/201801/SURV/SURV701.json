@@ -1,0 +1,26 @@
+{
+  "id": "SURV701",
+  "title": "Analysis of Complex Sample Data",
+  "credits": "3",
+  "description": "Prerequisite: SURV625.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SVW1",
+      "instructor": "Benjamin Reist",
+      "seats": "8,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "9:00am",
+      "end": "10:00am",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Survey Methodology"
+}

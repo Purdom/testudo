@@ -1,0 +1,27 @@
+{
+  "id": "PHIL408B",
+  "title": "Topics in Contemporary Philosophy; Bayesian Epistemology",
+  "credits": "3",
+  "description": "Prerequisite: 6 hours of PHIL course work.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Aidan Lyon",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Philosophy"
+}

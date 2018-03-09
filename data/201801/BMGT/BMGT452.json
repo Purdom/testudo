@@ -1,0 +1,49 @@
+{
+  "id": "BMGT452",
+  "title": "Marketing Research Methods",
+  "credits": "3",
+  "description": "Prerequisite: BMGT350 and BMGT230.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Min Kim",
+      "seats": "32,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1336"
+    },
+    {
+      "id": "0201",
+      "instructor": "Bruno Jacobs",
+      "seats": "32,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1307"
+    },
+    {
+      "id": "0301",
+      "instructor": "Bruno Jacobs",
+      "seats": "32,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1307"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

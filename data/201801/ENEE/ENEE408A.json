@@ -1,0 +1,27 @@
+{
+  "id": "ENEE408A",
+  "title": "Capstone Design Project:Microprocessor-Based Design",
+  "credits": "3",
+  "description": "Prerequisite: ENEE440.\n\nThis course provides a team-based experience in the design and implementation of a microprocessor-based system to solve a real-world problem. A product specification or client requirement forms the basis for the student teams development of an initial technical design specification. The team then divides into smaller groups for the parallel development of hardware and software subsystems of the product device. Upon completion and test of the various subsystems, software and hardware components are integrated into the system prototype and the system is tested and documented.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Hawkins",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "EGR",
+      "room": "3114"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

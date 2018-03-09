@@ -1,0 +1,26 @@
+{
+  "id": "KNES602",
+  "title": "Physical Activity Program Planning and Evaluation",
+  "credits": "3",
+  "description": "Recommended: KNES600.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Brit Saksvig",
+      "seats": "10,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "3:30pm",
+      "building": "SPH",
+      "room": "2334"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

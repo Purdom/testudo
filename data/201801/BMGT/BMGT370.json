@@ -1,0 +1,37 @@
+{
+  "id": "BMGT370",
+  "title": "Introduction to Transportation",
+  "credits": "3",
+  "description": "An overview of the transportation field with an emphasis on freight movements from the perspective of both providers of capacity and users of freight services. Examines the characteristics of the freight modes and the role of each mode as a major component of logistics and supply chain management. Explores the economics, energy use, and finances of each mode as well as the impact of government policies on each mode's future. Discussion of infrastructure and capacity needs of the transportation system and its ability to support the economy.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Geoffrey Milsom",
+      "seats": "40,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "VMH",
+      "room": "1411"
+    },
+    {
+      "id": "0201",
+      "instructor": "Geoffrey Milsom",
+      "seats": "40,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1411"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

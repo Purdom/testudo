@@ -1,0 +1,26 @@
+{
+  "id": "BMGT868P",
+  "title": "Special Topics in Organizational Behavior/Human Resource Management; Organizational Behavior and Human Resource Management Presentations",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Instructor: TBA",
+      "seats": "10,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "11:00am",
+      "end": "12:30pm",
+      "building": "VMH",
+      "room": "2509"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

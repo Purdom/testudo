@@ -1,0 +1,26 @@
+{
+  "id": "BCHM675",
+  "title": "Biophysical Chemistry",
+  "credits": "3",
+  "description": "Prerequisite: CHEM481 and BCHM461; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dorothy Beckett",
+      "seats": "25,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CHM",
+      "room": "0124"
+    }
+  ],
+  "term": "201801",
+  "department": "Biochemistry"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "LING330",
+  "title": "Historical Linguistics",
+  "credits": "3",
+  "description": "Prerequisite: LING321.\nRecommended: LING311.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Margaret Antonisse",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "MMH",
+      "room": "1304"
+    }
+  ],
+  "term": "201801",
+  "department": "Linguistics"
+}

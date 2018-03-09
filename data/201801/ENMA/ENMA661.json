@@ -1,0 +1,26 @@
+{
+  "id": "ENMA661",
+  "title": "Kinetics of Reactions in Materials",
+  "credits": "3",
+  "description": "Prerequisite: ENMA660.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Manfred Wuttig",
+      "seats": "28,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CHE",
+      "room": "2145"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Materials"
+}

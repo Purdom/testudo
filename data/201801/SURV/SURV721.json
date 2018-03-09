@@ -1,0 +1,26 @@
+{
+  "id": "SURV721",
+  "title": "Total Survey Error and Data Quality II",
+  "credits": "2",
+  "description": "Prerequisite: SURV720.\nRestriction: Permission of instructor.\nCredit only granted for: (SURV720 and SURV721) or SURV723.\nFormerly: SURV723.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sunghee Lee",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "9:00am",
+      "end": "11:30am",
+      "building": "LEF",
+      "room": "1208"
+    }
+  ],
+  "term": "201801",
+  "department": "Survey Methodology"
+}

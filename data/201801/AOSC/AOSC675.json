@@ -1,0 +1,38 @@
+{
+  "id": "AOSC675",
+  "title": "Carbon Cycle and Climate: Past, Present, and Future",
+  "credits": "3",
+  "description": "The fundamentals of the Earth's carbon cycle, a key biogeochemical cycl that controls Earth's climate and life. The changing characteristics of the carbon cycle on several timescales, ranging from geological, interannual, and the more recent anthropogenic influences on carbon cycle and climate. The carbon cycle in the atmosphere, land, ocean, and the biosphere. The underlying human activities such as fossil fuel burning and deforestation that are responsible for the increase in the atmosphere CO2 and our future options in dealing with the carbon problem such as alternative energy and carbon sequestration.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ning Zeng",
+      "seats": "25,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:30pm",
+      "end": "5:00pm",
+      "building": "ATL",
+      "room": "2316"
+    },
+    {
+      "id": "AM01",
+      "instructor": "Ning Zeng",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:30pm",
+      "end": "5:00pm",
+      "building": "ATL",
+      "room": "2316"
+    }
+  ],
+  "term": "201801",
+  "department": "Atmospheric and Oceanic Science"
+}

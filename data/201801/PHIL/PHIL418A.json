@@ -1,0 +1,27 @@
+{
+  "id": "PHIL418A",
+  "title": "Topics in Epistemology/Metaphysics; Time and Philosophy",
+  "credits": "3",
+  "description": "A survey of some major themes and thinkers in the philosophy of time. Topics might include: the existential conception of time; the phenomenology of time; the A-Theory and the B-Theory; endurantism and perdurantism; the passage of time; time travel.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kyley Ewing",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "SKN",
+      "room": "1112"
+    }
+  ],
+  "term": "201801",
+  "department": "Philosophy"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "CHEM481",
+  "title": "Physical Chemistry I",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in CHEM135; or minimum grade of C- in CHEM271 and CHEM272; or minimum grade of C- in CHEM276 and CHEM277. And minimum grade of C- in MATH141. And minimum grade of C- in PHYS260 and PHYS261; or minimum grade of C- in PHYS141.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Garegin Papoian",
+      "seats": "70,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "CHM",
+      "room": "1402"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

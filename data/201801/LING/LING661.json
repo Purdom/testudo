@@ -1,0 +1,26 @@
+{
+  "id": "LING661",
+  "title": "Issues in Semantics",
+  "credits": "3",
+  "description": "Prerequisite: LING660; or permission of ARHU-Linguistics department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Valentine Hacquard",
+      "seats": "10,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "MMH",
+      "room": "1108B"
+    }
+  ],
+  "term": "201801",
+  "department": "Linguistics"
+}

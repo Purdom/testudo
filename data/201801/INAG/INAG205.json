@@ -1,0 +1,39 @@
+{
+  "id": "INAG205",
+  "title": "Analyzing Alternative Enterprises",
+  "credits": "3",
+  "description": "Restriction: Must be in a major in AGNR-College of Agriculture & Natural Resources; or permission of AGNR-Institute of Applied Agriculture department.\nAdditional information: Priority in enrollment will be given to students within the Institute of Applied Agriculture.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Meredith Epstein",
+      "seats": "20,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "JUL",
+      "room": "1123"
+    },
+    {
+      "id": "0201",
+      "instructor": "Meredith Epstein",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Institute of Applied Agriculture"
+}

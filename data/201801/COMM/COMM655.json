@@ -1,0 +1,26 @@
+{
+  "id": "COMM655",
+  "title": "Seminar in Speechwriting",
+  "credits": "3",
+  "description": "Formerly: SPCH655.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PCF1",
+      "instructor": "Trevor Parry-Giles",
+      "seats": "20,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "9:00am",
+      "end": "11:50am",
+      "building": "SKN",
+      "room": "2130"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

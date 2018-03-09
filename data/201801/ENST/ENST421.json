@@ -1,0 +1,27 @@
+{
+  "id": "ENST421",
+  "title": "Soil Chemistry",
+  "credits": "4",
+  "description": "Prerequisite: ENST200.\nCredit only granted for: ENST421 or NRSC421.\nFormerly: NRSC421.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Candice Duncan",
+      "seats": "14,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "CHE",
+      "room": "2145"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

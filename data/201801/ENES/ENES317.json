@@ -1,0 +1,27 @@
+{
+  "id": "ENES317",
+  "title": "Introduction to Engineering Leadership",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ENGR-A. James Clark School of Engineering.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ramsey Jabaji,",
+      "seats": "45,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:00pm",
+      "end": "6:45pm",
+      "building": "EGR",
+      "room": "0108"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

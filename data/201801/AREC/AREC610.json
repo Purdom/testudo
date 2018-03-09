@@ -1,0 +1,26 @@
+{
+  "id": "AREC610",
+  "title": "Microeconomic Applications in Agricultural and Resource Markets",
+  "credits": "3",
+  "description": "Prerequisite: ECON603.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Chambers",
+      "seats": "25,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "SYM",
+      "room": "0209"
+    }
+  ],
+  "term": "201801",
+  "department": "Agricultural and Resource Economics"
+}

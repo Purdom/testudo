@@ -1,0 +1,25 @@
+{
+  "id": "CMSC664",
+  "title": "Advanced Scientific Computing II",
+  "credits": "3",
+  "description": "Prerequisite: CMSC663.\nRestriction: Permission of instructor.\nAlso offered as: AMSC664.\nCredit only granted for: AMSC664, or CMSC664.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Maria Cameron",
+      "seats": "20,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "AVW",
+      "room": "3258"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

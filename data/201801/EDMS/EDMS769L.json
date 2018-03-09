@@ -1,0 +1,26 @@
+{
+  "id": "EDMS769L",
+  "title": "Special Topics in Applied Statistics in Education; Longitudinal Data Analysis",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jeffrey Harring",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "Measurement, Statistics, and Evaluation"
+}

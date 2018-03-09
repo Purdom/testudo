@@ -1,0 +1,87 @@
+{
+  "id": "COMM402",
+  "title": "Communication Theory and Process",
+  "credits": "3",
+  "description": "Prerequisite: COMM250.\nRestriction: Must be in Communication program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Soyoung Bae",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "ASY",
+      "room": "2203"
+    },
+    {
+      "id": "0102",
+      "instructor": "Soyoung Bae",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "ASY",
+      "room": "2203"
+    },
+    {
+      "id": "0103",
+      "instructor": "Soyoung Bae",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "ASY",
+      "room": "2203"
+    },
+    {
+      "id": "0104",
+      "instructor": "Soyoung Bae",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "ASY",
+      "room": "2203"
+    },
+    {
+      "id": "0105",
+      "instructor": "Soyoung Bae",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "ASY",
+      "room": "2203"
+    },
+    {
+      "id": "0106",
+      "instructor": "Soyoung Bae",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "ASY",
+      "room": "2203"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

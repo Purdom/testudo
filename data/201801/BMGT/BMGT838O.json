@@ -1,0 +1,26 @@
+{
+  "id": "BMGT838O",
+  "title": "Special Topics in Operations Management/Management Science; Seminar in Operations Management",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Wedad Elmaghraby",
+      "seats": "8,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "3:30pm",
+      "building": "VMH",
+      "room": "3332"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

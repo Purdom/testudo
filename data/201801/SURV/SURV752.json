@@ -1,0 +1,38 @@
+{
+  "id": "SURV752",
+  "title": "Introduction to Data Visualization",
+  "credits": "1",
+  "description": "Prerequisite: Basic statistics understanding and bivariate linear regression.\nRecommended: Experience in the use of statistical software package R.\nRestriction: Permission of BSOS-Joint Program in Survey Methodology department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SVW1",
+      "instructor": "Instructor: TBA",
+      "seats": "8,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:00pm",
+      "end": "1:00pm",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "SVW2",
+      "instructor": "Instructor: TBA",
+      "seats": "8,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "12:00pm",
+      "end": "1:00pm",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Survey Methodology"
+}

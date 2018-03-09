@@ -1,0 +1,25 @@
+{
+  "id": "CMSC661",
+  "title": "Scientific Computing II",
+  "credits": "3",
+  "description": "Prerequisite: Must have knowledge of C or Fortran. And CMSC466, AMSC466, AMSC460, or CMSC460; or (must have knowledge of basic numerical analysis (linear equations, nonlinear equations, integration, interpolation); and permission of instructor).\nAlso offered as: AMSC661.\nCredit only granted for: AMSC661 or CMSC661.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Maria Cameron",
+      "seats": "27,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "CHM",
+      "room": "0124"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

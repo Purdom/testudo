@@ -1,0 +1,27 @@
+{
+  "id": "ARTH383",
+  "title": "Art of Japan after 1500",
+  "credits": "3",
+  "description": "Thematically-focused topics in the painting, sculpture, architecture, gardens and decorative arts of early modern, modern and contemporary Japan, from 1500 to present.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alicia Volk",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ASY",
+      "room": "3215"
+    }
+  ],
+  "term": "201801",
+  "department": "Art History & Archaeology"
+}

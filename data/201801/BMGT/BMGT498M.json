@@ -1,0 +1,25 @@
+{
+  "id": "BMGT498M",
+  "title": "Special Topics in Business and Management; Business Consulting: Social Enterprise & Impact Organizations",
+  "credits": "3",
+  "description": "Click here for more course information and how to register.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Amy Kincaid",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:00pm",
+      "end": "7:00pm",
+      "building": "VMH",
+      "room": "1411"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

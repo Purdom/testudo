@@ -1,0 +1,111 @@
+{
+  "id": "GVPT241",
+  "title": "The Study of Political Philosophy: Ancient and Modern",
+  "credits": "3",
+  "description": "Examines some of the salient continuities and breaks between the ancient and modern traditions in Western political philosophy.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Glass",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "TYD",
+      "room": "0130"
+    },
+    {
+      "id": "0102",
+      "instructor": "James Glass",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "TYD",
+      "room": "0130"
+    },
+    {
+      "id": "0103",
+      "instructor": "James Glass",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "TYD",
+      "room": "0130"
+    },
+    {
+      "id": "0104",
+      "instructor": "James Glass",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "TYD",
+      "room": "0130"
+    },
+    {
+      "id": "0105",
+      "instructor": "James Glass",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "TYD",
+      "room": "0130"
+    },
+    {
+      "id": "0106",
+      "instructor": "James Glass",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "TYD",
+      "room": "0130"
+    },
+    {
+      "id": "0107",
+      "instructor": "James Glass",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "TYD",
+      "room": "0130"
+    },
+    {
+      "id": "0108",
+      "instructor": "James Glass",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "TYD",
+      "room": "0130"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "COMM659G",
+  "title": "Translation for Language-Specific Markets; Spanish into English/English into Spanish",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "XGE1",
+      "instructor": "Velandia-Pardo Carol-Gizell",
+      "seats": "16,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "9:15am",
+      "end": "11:15am",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "XGS1",
+      "instructor": "Joseph Mazza",
+      "seats": "16,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "8:50pm",
+      "building": "PLS",
+      "room": "1164"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

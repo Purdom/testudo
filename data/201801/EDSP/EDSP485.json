@@ -1,0 +1,26 @@
+{
+  "id": "EDSP485",
+  "title": "Assessment and Instruction in Mathematics in Special Education",
+  "credits": "3",
+  "description": "Restriction: Must be in Special Education program; or must be in one of the following programs (Special Education (Doctoral); Special Education (Master's)).\nAlso offered as: EDSP683.\nCredit only granted for: EDSP485 or EDSP683.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yewon Lee",
+      "seats": "35,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Special"
+}

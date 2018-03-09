@@ -1,0 +1,27 @@
+{
+  "id": "ISRL448V",
+  "title": "Seminar in Israel Studies; The New Theater of Terror: Online Terrorism",
+  "credits": "3",
+  "description": "This course examines the relationships between modern terrorists and the new media, how terrorists use the online platforms, how democracies can respond to the challenge, and what are the prices of various measures.\n\nAlso offered as BSST338Y. Credit granted for BSST338Y or ISRL448V.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gabriel Weimann",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:00pm",
+      "end": "5:30pm",
+      "building": "HBK",
+      "room": "0105"
+    }
+  ],
+  "term": "201801",
+  "department": "Israel Studies"
+}

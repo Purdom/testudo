@@ -1,0 +1,27 @@
+{
+  "id": "ARCH472",
+  "title": "Building Information Modeling Communication and Collaboration",
+  "credits": "3",
+  "description": "Restriction: Must be in a major in ARCH-Architecture Program; or must be in the Construction Project Management Minor.\nCredit only granted for: ARCH678I or ARCH472.\nFormerly: ARCH678I.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kristen Ambrose",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "9:00am",
+      "end": "11:40am",
+      "building": "ARC",
+      "room": "1115"
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

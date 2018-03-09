@@ -1,0 +1,87 @@
+{
+  "id": "KNES293",
+  "title": "History of Sport in America",
+  "credits": "3",
+  "description": "The growth and development of sport in America. The transformation of sport within the perspective of American history, including class sport, professionalization, amateurism, and international involvement.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Friedman",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "SPH",
+      "room": "1312"
+    },
+    {
+      "id": "0102",
+      "instructor": "Michael Friedman",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "SPH",
+      "room": "1312"
+    },
+    {
+      "id": "0103",
+      "instructor": "Michael Friedman",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "SPH",
+      "room": "1312"
+    },
+    {
+      "id": "0104",
+      "instructor": "Michael Friedman",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "SPH",
+      "room": "1312"
+    },
+    {
+      "id": "0105",
+      "instructor": "Michael Friedman",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "SPH",
+      "room": "1312"
+    },
+    {
+      "id": "0106",
+      "instructor": "Michael Friedman",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "SPH",
+      "room": "1312"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

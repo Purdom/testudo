@@ -1,0 +1,27 @@
+{
+  "id": "ENGL489J",
+  "title": "Special Topics in Language and Rhetoric; Digital Rhetorics",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Melanie Kill",
+      "seats": "20,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TWS",
+      "room": "3252"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

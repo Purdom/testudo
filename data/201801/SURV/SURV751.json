@@ -1,0 +1,38 @@
+{
+  "id": "SURV751",
+  "title": "Introduction to Big Data and Machine Learning",
+  "credits": "1",
+  "description": "Prerequisite: Familiarity with the statistical software R.\nRestriction: Permission of BSOS-Joint Program in Survey Methodology department.\nAdditional information: Familiarity with model building and model selection as well as the R program is not required but could also be helpful. Students without prior knowledge in R should plan on using free online resources to make themselves familiar with the basics of this statistical programming language.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SVW1",
+      "instructor": "Frauke Kreuter",
+      "seats": "8,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "1:00pm",
+      "end": "2:00pm",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "SVW2",
+      "instructor": "Frauke Kreuter",
+      "seats": "8,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "3:00pm",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Survey Methodology"
+}

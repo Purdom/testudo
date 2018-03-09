@@ -1,0 +1,26 @@
+{
+  "id": "CMLT679E",
+  "title": "Topics in Comparative Studies; Ruins: Literatures and Theories of Decay",
+  "credits": "3",
+  "description": "Also offered as ENGL702. Credit granted for ENGL702 or CMLT679E.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kari Kraus",
+      "seats": "11,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:30pm",
+      "end": "9:00pm",
+      "building": "TWS",
+      "room": "3134"
+    }
+  ],
+  "term": "201801",
+  "department": "Comparative Literature"
+}

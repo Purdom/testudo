@@ -1,0 +1,26 @@
+{
+  "id": "MUSC606",
+  "title": "Opera Repertory II",
+  "credits": "1",
+  "description": "Prerequisite: MUSC605; or permission of instructor.\nRestriction: Must be in one of the following programs (Music - Doctoral (Doctoral); Music - Master (Master's)).",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Carmen Balthrop",
+      "seats": "10,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "10:30am",
+      "end": "12:00pm",
+      "building": "TWS",
+      "room": "1121"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

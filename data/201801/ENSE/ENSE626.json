@@ -1,0 +1,62 @@
+{
+  "id": "ENSE626",
+  "title": "System Life Cycle Analysis and Risk Management",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ENGR-Institute for Systems Research.\nAlso offered as: ENPM646.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nidak Sumrean",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "JMP",
+      "room": "2222"
+    },
+    {
+      "id": "HT01",
+      "instructor": "Nidak Sumrean",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SG01",
+      "instructor": "Nidak Sumrean",
+      "seats": "5,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "Nidak Sumrean",
+      "seats": "5,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Systems Engineering"
+}

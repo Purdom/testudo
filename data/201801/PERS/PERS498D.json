@@ -1,0 +1,27 @@
+{
+  "id": "PERS498D",
+  "title": "Special Topics in Persian Studies; Political, Economic, and Social Thought in Today's Iran",
+  "credits": "3",
+  "description": "Taught in Persian.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ali Abasi",
+      "seats": "5,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "9:00am",
+      "end": "11:45am",
+      "building": "HJP",
+      "room": "3115"
+    }
+  ],
+  "term": "201801",
+  "department": "Persian"
+}

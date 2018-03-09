@@ -1,0 +1,26 @@
+{
+  "id": "PLCY689L",
+  "title": "Public Policy Topics; Science and Technology Policy",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Rosina Bierbaum",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:30pm",
+      "building": "VMH",
+      "room": "1203"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

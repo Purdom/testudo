@@ -1,0 +1,25 @@
+{
+  "id": "HONR239B",
+  "title": "Honors Seminar: New York City and the American Dream",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ingrid Satelmajer",
+      "seats": "20,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "KNI",
+      "room": "1105"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

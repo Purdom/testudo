@@ -1,0 +1,25 @@
+{
+  "id": "BUDT732",
+  "title": "Decision Analytics",
+  "credits": "2",
+  "description": "Prerequisite: BUSI630.\nCredit only granted for: BMGT732 or BUDT732.\nFormerly: BMGT732.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "GS01",
+      "instructor": "Suresh Acharya",
+      "seats": "50,",
+      "open-seats": "33,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "6:25pm",
+      "end": "10:00pm",
+      "building": "BLD2",
+      "room": "3032"
+    }
+  ],
+  "term": "201801",
+  "department": "Decision and Information Technologies"
+}

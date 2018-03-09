@@ -1,0 +1,37 @@
+{
+  "id": "ENSP400",
+  "title": "Capstone in Environmental Science and Policy",
+  "credits": "3",
+  "description": "Prerequisite: ENSP101; and ENSP102.\nRestriction: Senior standing; or permission of the Director of ENSP. And must be in Environmental Science and Policy program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Caroline Boules",
+      "seats": "50,",
+      "open-seats": "30,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ESJ",
+      "room": "0215"
+    },
+    {
+      "id": "0102",
+      "instructor": "Mark Carroll",
+      "seats": "30,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ESJ",
+      "room": "1309"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Policy"
+}

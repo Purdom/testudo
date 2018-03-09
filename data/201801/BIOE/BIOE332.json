@@ -1,0 +1,27 @@
+{
+  "id": "BIOE332",
+  "title": "Transport Process Design",
+  "credits": "3",
+  "description": "Prerequisite: MATH246, BIOE120, BIOE121, and BIOE241; and must have completed or be concurrently enrolled in BIOE331 or ENME331.\nRestriction: Permission of ENGR-Fischell Department of Bioengineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jose Aranda-Espinoza",
+      "seats": "45,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "AJC",
+      "room": "2132"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

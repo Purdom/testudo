@@ -1,0 +1,51 @@
+{
+  "id": "COMM475",
+  "title": "Persuasion",
+  "credits": "3",
+  "description": "Bases of persuasion, with emphasis on recent experimental developments in persuasion.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Soyoung Bae",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TYD",
+      "room": "2110"
+    },
+    {
+      "id": "0201",
+      "instructor": "Susan Hubbard",
+      "seats": "50,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "SKN",
+      "room": "0104"
+    },
+    {
+      "id": "SG91",
+      "instructor": "David Payne",
+      "seats": "40,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "BLD3",
+      "room": "4211"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

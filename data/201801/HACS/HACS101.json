@@ -1,0 +1,49 @@
+{
+  "id": "HACS101",
+  "title": "Applied Cybersecurity Foundations",
+  "credits": "2",
+  "description": "Prerequisite: Minimum grade of C- in HACS100.\nRestriction: Must be a student in the ACES (Advanced Cybersecurity Experience for Students) Living-Learning Program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jandelyn Plane",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "PFR",
+      "room": "0103"
+    },
+    {
+      "id": "0201",
+      "instructor": "Jandelyn Plane",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "PFR",
+      "room": "0103"
+    },
+    {
+      "id": "0301",
+      "instructor": "Jandelyn Plane",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "PFR",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "ACES-Cybersecurity"
+}

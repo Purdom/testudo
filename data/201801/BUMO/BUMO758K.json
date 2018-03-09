@@ -1,0 +1,25 @@
+{
+  "id": "BUMO758K",
+  "title": "Special Topics in Management and Organization; Business Consulting",
+  "credits": "4",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "DC01",
+      "instructor": "Nicole Coomber",
+      "seats": "50,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:25pm",
+      "end": "10:00pm",
+      "building": "DC",
+      "room": "C1"
+    }
+  ],
+  "term": "201801",
+  "department": "Management and Organization"
+}

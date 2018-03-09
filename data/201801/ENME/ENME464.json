@@ -1,0 +1,27 @@
+{
+  "id": "ENME464",
+  "title": "Cost Analysis for Engineers",
+  "credits": "3",
+  "description": "Prerequisite: ENME392; or students who have taken courses with comparable content may contact the department.\nRestriction: Permission of ENGR-Mechanical Engineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Peter Sandborn",
+      "seats": "90,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMP",
+      "room": "3201"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

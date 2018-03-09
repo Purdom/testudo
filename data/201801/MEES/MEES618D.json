@@ -1,0 +1,26 @@
+{
+  "id": "MEES618D",
+  "title": "Seminars in Marine Estuarine Environmental Sciences; Ethical Aspects of Environmental Science",
+  "credits": "1",
+  "description": "Humans and their environment are inherently linked, especially in coastal and estuarine regions, and scientific and social values often must be balanced in ecosystem management and decision-making. This seminar examines these issues through the lens of GeoEthics, the ethical, social and cultural implications of geoscience research and practice, using a case-study approach. Example topics could include practices such as fracking, offshore wind farming, and dam removal, as well as behaviors and attitudes of scientists conducting research. Taught over the Interactive Video Network (IVN).",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Cindy Palinkas",
+      "seats": "15,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "3:00pm",
+      "building": "HJP",
+      "room": "1213B"
+    }
+  ],
+  "term": "201801",
+  "department": "Marine-Estuarine-Environmental Sciences"
+}

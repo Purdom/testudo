@@ -1,0 +1,25 @@
+{
+  "id": "NFSC633",
+  "title": "Food Polymer Science",
+  "credits": "3",
+  "description": "Prerequisite: Permission of instructor.\nCredit only granted for: NFSC633 or NFSC679P.\nFormerly: NFSC679P.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Qin Wang",
+      "seats": "15,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "1:00pm",
+      "end": "3:45pm",
+      "building": "SKN",
+      "room": "0101"
+    }
+  ],
+  "term": "201801",
+  "department": "Nutrition and Food Science"
+}

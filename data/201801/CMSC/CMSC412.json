@@ -1,0 +1,37 @@
+{
+  "id": "CMSC412",
+  "title": "Operating Systems",
+  "credits": "4",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (CMSC414, CMSC417, CMSC420, CMSC430, CMSC433, CMSC435, ENEE440).\nRestriction: Permission of CMNS-Computer Science department; or must be in one of the following programs (Computer Science (Master's); Computer Science (Doctoral)).\nCredit only granted for: CMSC412 or ENEE447.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "A.U. Shankar",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "CSI",
+      "room": "1122"
+    },
+    {
+      "id": "0102",
+      "instructor": "A.U. Shankar",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "CSI",
+      "room": "1122"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GEOG498I",
+  "title": "Topical Investigations; Data Structures for Geospatial Computing",
+  "credits": "3",
+  "description": "Restriction: Open to GEOG, GIS, and ENSP-Coastal, Land Use, Global majors only. The aim of the course is to familiarize the student with the fundamentals of geospatial representations, such as spatial indexes and network data structures, and with techniques for manipulating geospatial information for geographic information systems, for spatially-based, for spatially-based decision systems and location-based services. The main topics will be vector-based map representation and querying techniques, manipulation, and analysis of terrain models, network representations for applications to road networks and social networks, scalable representations for big geospatial data. Students with some programming background will highly benefit from this course.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Leila DeFloriani",
+      "seats": "24,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "LEF",
+      "room": "1171"
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "CHPH718E",
+  "title": "Special Topics in Chemical Physics; Mesoscopic and Nanoscale Thermodynamics",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mikhail Anisimov",
+      "seats": "10,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "EGR",
+      "room": "1104"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemical Physics"
+}

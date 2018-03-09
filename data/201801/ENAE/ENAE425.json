@@ -1,0 +1,27 @@
+{
+  "id": "ENAE425",
+  "title": "Mechanics of Composite Structures",
+  "credits": "3",
+  "description": "Prerequisite: MATH246, ENAE324, ENES220, and MATH241.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andrew Becnel",
+      "seats": "25,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "JMP",
+      "room": "2121"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

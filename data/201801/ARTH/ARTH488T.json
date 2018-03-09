@@ -1,0 +1,27 @@
+{
+  "id": "ARTH488T",
+  "title": "Colloquium in Art History; Curating Art & Moving Image in the Digital Age",
+  "credits": "3",
+  "description": "This special hands-on course will provide students with the opportunity to curate an exhibition of contemporary art at the Brentwood Arts Exchange. Students will interact with artists and curatorial staff to design the exhibition and write,design, and publish the accompanying catalog. Students can also make documentaries of artists at work.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jason Kuo",
+      "seats": "10,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ASY",
+      "room": "3217"
+    }
+  ],
+  "term": "201801",
+  "department": "Art History & Archaeology"
+}

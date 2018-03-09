@@ -1,0 +1,27 @@
+{
+  "id": "SLAA410",
+  "title": "Second Language Acquisition: Theory, Research, and Practice",
+  "credits": "3",
+  "description": "Prerequisite: LING200, LING240, PSYC200, PSYC221, or PSYC354.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Long",
+      "seats": "25,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMZ",
+      "room": "1122"
+    }
+  ],
+  "term": "201801",
+  "department": "Second Language Acquisition and Application"
+}

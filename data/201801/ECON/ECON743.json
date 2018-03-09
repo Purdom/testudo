@@ -1,0 +1,26 @@
+{
+  "id": "ECON743",
+  "title": "Topics in International Finance",
+  "credits": "3",
+  "description": "Prerequisite: ECON602; or permission of BSOS-Economics department.\nRecommended: ECON741.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sebnem Kalemli-Ozcan",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:00pm",
+      "end": "3:00pm",
+      "building": "TYD",
+      "room": "4118C"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

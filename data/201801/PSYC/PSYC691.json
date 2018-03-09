@@ -1,0 +1,25 @@
+{
+  "id": "PSYC691",
+  "title": "Research in Counseling Psychology II",
+  "credits": "3",
+  "description": "Restriction: Permission of instructor.\nCredit only granted for: PSYC691 or PSYC718.\nFormerly: PSYC718.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Clara Hill",
+      "seats": "10,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "1:00pm",
+      "end": "4:00pm",
+      "building": "BPS",
+      "room": "2145"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

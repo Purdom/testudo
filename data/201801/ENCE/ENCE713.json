@@ -1,0 +1,26 @@
+{
+  "id": "ENCE713",
+  "title": "Concrete Structures I",
+  "credits": "3",
+  "description": "Formerly: ENCE753.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Amde Amde",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EGR",
+      "room": "2154"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

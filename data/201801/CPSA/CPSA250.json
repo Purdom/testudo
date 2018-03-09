@@ -1,0 +1,49 @@
+{
+  "id": "CPSA250",
+  "title": "College Park Scholars: Arts Research Practicum",
+  "credits": "2",
+  "description": "Prerequisite: CPSA200.\nRestriction: Students must be matriculated into the College Park Scholars Arts (CPSA) program.\nAdditional information: When paired with successful completion of CPSA 200, students will earn General Education Scholarship-in-Practice credit.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Harold Burgess,",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "CCC",
+      "room": "1115"
+    },
+    {
+      "id": "0201",
+      "instructor": "Harold Burgess,",
+      "seats": "15,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "5:50pm",
+      "building": "CCC",
+      "room": "1115"
+    },
+    {
+      "id": "0301",
+      "instructor": "Harold Burgess,",
+      "seats": "15,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "CCC",
+      "room": "1115"
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars-Arts"
+}

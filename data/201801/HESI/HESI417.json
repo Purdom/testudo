@@ -1,0 +1,27 @@
+{
+  "id": "HESI417",
+  "title": "Advanced Leadership Seminar",
+  "credits": "3",
+  "description": "Prerequisite: HESI217; or students who have taken courses with comparable content may contact the department.\nRestriction: Permission of EDUC-Counseling, Higher Education and Special Education department.\nCredit only granted for: EDCP417 or HESI417.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Craig Slack",
+      "seats": "20,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "9:00am",
+      "end": "11:45am",
+      "building": "SQH",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Higher Ed, Student Affairs, and International Ed Policy"
+}

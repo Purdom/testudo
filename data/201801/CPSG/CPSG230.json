@@ -1,0 +1,25 @@
+{
+  "id": "CPSG230",
+  "title": "College Park Scholars: Science & Global Change - Internship Practicum",
+  "credits": "1 -",
+  "description": "Prerequisite: CPSG200.\nRestriction: Students must be enrolled in the College Park Scholars Science & Global Change (CPSG) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Holtz,",
+      "seats": "75,",
+      "open-seats": "69,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars-Science and Global Change"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "HESP724",
+  "title": "Research Design",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed a course in basic statistics.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stefanie Kuchinsky",
+      "seats": "10,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "1:00pm",
+      "end": "3:30pm",
+      "building": "LEF",
+      "room": "0135"
+    }
+  ],
+  "term": "201801",
+  "department": "Hearing and Speech Sciences"
+}

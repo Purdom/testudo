@@ -1,0 +1,27 @@
+{
+  "id": "CHEM482",
+  "title": "Physical Chemistry II",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in CHEM481.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elizabeth Griffith",
+      "seats": "60,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "PHY",
+      "room": "4221"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ENEE408G",
+  "title": "Capstone Design Project: Multimedia Signal Processing",
+  "credits": "3",
+  "description": "Prerequisites: ENEE420 or 425. An introductory course on multimedia signal processing bringing real-world design experience to students using state-of-the-art multimedia software and hardware. Lectures will provide basic theories and principles on multimedia compression, processing, communications, security, and recognition.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "KJ Ray Liu",
+      "seats": "12,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "EGR",
+      "room": "2154"
+    },
+    {
+      "id": "0102",
+      "instructor": "KJ Ray Liu",
+      "seats": "12,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "EGR",
+      "room": "2154"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

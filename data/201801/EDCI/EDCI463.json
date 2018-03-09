@@ -1,0 +1,39 @@
+{
+  "id": "EDCI463",
+  "title": "Reading in the Secondary School",
+  "credits": "3",
+  "description": "Restriction: Minimum cumulative GPA of 2.75; and must be in one of the following programs (Middle School Education; Secondary Educ: Science; Secondary Educ: English Language Arts; Secondary Educ: Mathematics; Secondary Educ: Foreign Languages; Secondary Educ: Social Studies; Secondary Educ: Art) ; and permission of department required for post-baccalaureate students.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Olivia Saracho",
+      "seats": "30,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "JMZ",
+      "room": "0103"
+    },
+    {
+      "id": "0201",
+      "instructor": "Olivia Saracho",
+      "seats": "30,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "ASY",
+      "room": "3219"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SPHL240",
+  "title": "Public Health Engagement",
+  "credits": "2",
+  "description": "Restriction: Restricted to transfer students with 60 credits or less.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andrea Romeo,",
+      "seats": "24,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SPH",
+      "room": "0107"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Health"
+}

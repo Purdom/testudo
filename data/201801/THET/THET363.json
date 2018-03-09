@@ -1,0 +1,27 @@
+{
+  "id": "THET363",
+  "title": "The Business of the Business",
+  "credits": "3",
+  "description": "Prerequisite: THET116, THET222, THET223, and TDPS201; and permission of ARHU-School of Theatre, Dance & Performance Studies department.\nCredit only granted for: THET399B or THET499E or THET363.\nFormerly: THET399B, THET499E.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mitchell Hebert",
+      "seats": "20,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "9:00am",
+      "end": "11:50am",
+      "building": "PAC",
+      "room": "1815"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre"
+}

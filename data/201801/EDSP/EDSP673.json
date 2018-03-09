@@ -1,0 +1,25 @@
+{
+  "id": "EDSP673",
+  "title": "Evaluating Evidence-Based Practices in Special Education",
+  "credits": "3",
+  "description": "Prerequisite: EDMS645.\nRecommended: EDSP670 and EDSP600.\nCredit only granted for: EDSP673 or EDSP798E.\nFormerly: EDSP798E.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Susan De La Paz",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Special"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "JAPN107",
+  "title": "Elementary Japanese II",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed JAPN106.\nRestriction: Must not have completed JAPN102.\nCredit only granted for: JAPN102 or JAPN107.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Etsuko Yamakita",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "JMZ",
+      "room": "1120"
+    }
+  ],
+  "term": "201801",
+  "department": "Japanese"
+}

@@ -1,0 +1,159 @@
+{
+  "id": "PSYC300",
+  "title": "Research Methods in Psychology Laboratory",
+  "credits": "4",
+  "description": "Prerequisite: PSYC200.\nRestriction: Must be in Psychology program.\nCredit only granted for: PSYC300 or PSYC309R.\nFormerly: PSYC309R.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tracy Tomlinson",
+      "seats": "16,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "ESJ",
+      "room": "1202"
+    },
+    {
+      "id": "0102",
+      "instructor": "Tracy Tomlinson",
+      "seats": "16,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "ESJ",
+      "room": "1202"
+    },
+    {
+      "id": "0103",
+      "instructor": "Tracy Tomlinson",
+      "seats": "16,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "ESJ",
+      "room": "1202"
+    },
+    {
+      "id": "0104",
+      "instructor": "Tracy Tomlinson",
+      "seats": "16,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "ESJ",
+      "room": "1202"
+    },
+    {
+      "id": "0105",
+      "instructor": "Tracy Tomlinson",
+      "seats": "16,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "ESJ",
+      "room": "1202"
+    },
+    {
+      "id": "0106",
+      "instructor": "Tracy Tomlinson",
+      "seats": "16,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "ESJ",
+      "room": "1202"
+    },
+    {
+      "id": "0201",
+      "instructor": "Tracy Tomlinson",
+      "seats": "16,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ESJ",
+      "room": "1202"
+    },
+    {
+      "id": "0202",
+      "instructor": "Tracy Tomlinson",
+      "seats": "16,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ESJ",
+      "room": "1202"
+    },
+    {
+      "id": "0203",
+      "instructor": "Tracy Tomlinson",
+      "seats": "16,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ESJ",
+      "room": "1202"
+    },
+    {
+      "id": "0204",
+      "instructor": "Tracy Tomlinson",
+      "seats": "16,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ESJ",
+      "room": "1202"
+    },
+    {
+      "id": "0205",
+      "instructor": "Tracy Tomlinson",
+      "seats": "16,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ESJ",
+      "room": "1202"
+    },
+    {
+      "id": "0206",
+      "instructor": "Tracy Tomlinson",
+      "seats": "16,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ESJ",
+      "room": "1202"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

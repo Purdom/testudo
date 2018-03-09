@@ -1,0 +1,26 @@
+{
+  "id": "ECON745",
+  "title": "Advanced Topics in International Trade",
+  "credits": "3",
+  "description": "Prerequisite: ECON604 and ECON624.\nCredit only granted for: ECON698L or ECON745.\nFormerly: ECON698L.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Eunhee Lee",
+      "seats": "20,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TYD",
+      "room": "3100"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

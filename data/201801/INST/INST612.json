@@ -1,0 +1,26 @@
+{
+  "id": "INST612",
+  "title": "Information Policy",
+  "credits": "3",
+  "description": "Restriction: Permission of INFO-College of Information Studies.\nCredit only granted for: INST612 or LBSC625.\nFormerly: LBSC625.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "ML01",
+      "instructor": "Hannah Bergman",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

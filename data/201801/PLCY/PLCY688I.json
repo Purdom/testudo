@@ -1,0 +1,26 @@
+{
+  "id": "PLCY688I",
+  "title": "Topics in Public Policy; Macroeconomics for Public Policy",
+  "credits": "2",
+  "description": "Restricted to PLCY majors or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Seth Weissman",
+      "seats": "33,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:30pm",
+      "building": "PKT",
+      "room": "1221"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

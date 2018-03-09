@@ -1,0 +1,39 @@
+{
+  "id": "BSCI412",
+  "title": "Microbial Genetics",
+  "credits": "4",
+  "description": "Prerequisite: BSCI223 and BSCI222.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Vincent Lee",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:30pm",
+      "building": "MCB",
+      "room": "1207"
+    },
+    {
+      "id": "0103",
+      "instructor": "Vincent Lee",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:30pm",
+      "building": "MCB",
+      "room": "1207"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

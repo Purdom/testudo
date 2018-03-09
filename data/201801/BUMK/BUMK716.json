@@ -1,0 +1,25 @@
+{
+  "id": "BUMK716",
+  "title": "Brand Management",
+  "credits": "2",
+  "description": "Prerequisite: BUSI650.\nRestriction: Must be in one of the following programs (Business and Management (Master's); Business and Management (Master's)) ; or permission of BMGT-Robert H. Smith School of Business.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "DC06",
+      "instructor": "Yue Qin",
+      "seats": "50,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "Sa",
+      "start": "8:30am",
+      "end": "1:00pm",
+      "building": "DC",
+      "room": "C2"
+    }
+  ],
+  "term": "201801",
+  "department": "Marketing"
+}

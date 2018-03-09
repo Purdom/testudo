@@ -1,0 +1,26 @@
+{
+  "id": "ENCE422",
+  "title": "Project Cost Accounting and Economics",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ENGR-Civil & Environmental Engineering department.\nRestriction: Must be in a major in ENGR-A. James Clark School of Engineering; or must be in the Construction Project Management Minor; or must be in the Project Management Minor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Qingbin Cui",
+      "seats": "75,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "JMP",
+      "room": "3201"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

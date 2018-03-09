@@ -1,0 +1,25 @@
+{
+  "id": "BUDT758B",
+  "title": "Special Topics in Decision, Operations and Information Technologies; Big Data and Artificial Intelligence for Business",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Kunpeng Zhang",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1528"
+    }
+  ],
+  "term": "201801",
+  "department": "Decision and Information Technologies"
+}

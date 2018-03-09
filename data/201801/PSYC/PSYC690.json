@@ -1,0 +1,25 @@
+{
+  "id": "PSYC690",
+  "title": "Research in Counseling Psychology I",
+  "credits": "3",
+  "description": "Restriction: Permission of instructor.\nCredit only granted for: PSYC690 or PSYC718.\nFormerly: PSYC718.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Charles Gelso",
+      "seats": "10,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "11:00am",
+      "end": "2:00pm",
+      "building": "BPS",
+      "room": "1140A"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

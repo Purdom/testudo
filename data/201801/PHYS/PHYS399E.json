@@ -1,0 +1,27 @@
+{
+  "id": "PHYS399E",
+  "title": "Special Problems in Physics; Physics STEM Seminar III",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Gleason,",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

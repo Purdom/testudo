@@ -1,0 +1,25 @@
+{
+  "id": "RDEV600",
+  "title": "Principles and Practice of Real Property Development",
+  "credits": "3",
+  "description": "Restriction: Permission of ARCH-Real Estate Development.\nCredit only granted for: RDEV688T or RDEV600.\nFormerly: RDEV688T.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tanya Bansal",
+      "seats": "30,",
+      "open-seats": "24,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "ARC",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "Real Estate Development"
+}

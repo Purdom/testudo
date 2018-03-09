@@ -1,0 +1,25 @@
+{
+  "id": "EDHI662",
+  "title": "Research on Ethnic Minorities and Demographic Trends in Higher Education",
+  "credits": "3",
+  "description": "Credit only granted for: EDHI662, EDPL662, or EDPS662.\nFormerly: EDPL662.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sharon Fries-Britt",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "2101"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Leadership, Higher Ed and International Ed"
+}

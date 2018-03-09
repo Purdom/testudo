@@ -1,0 +1,25 @@
+{
+  "id": "MUSC649M",
+  "title": "Ensemble; Men's Chorus",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kieun Kim",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "PAC",
+      "room": "1230"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

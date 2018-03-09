@@ -1,0 +1,27 @@
+{
+  "id": "ECON407",
+  "title": "Advanced Macroeconomics",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in ECON325; and 1 course with a minimum grade of C- from (ECON321, STAT400).\nRestriction: Must be in Economics Bachelor of Science program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Martina Copelman",
+      "seats": "70,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ASY",
+      "room": "2203"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

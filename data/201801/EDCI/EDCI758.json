@@ -1,0 +1,26 @@
+{
+  "id": "EDCI758",
+  "title": "Research Seminar in Mathematics and Science Education",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Daniel Chazan",
+      "seats": "25,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "10:00am",
+      "end": "1:00pm",
+      "building": "EDU",
+      "room": "2121"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

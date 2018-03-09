@@ -1,0 +1,25 @@
+{
+  "id": "EDCI417",
+  "title": "Bases for English Language Instruction",
+  "credits": "3",
+  "description": "Restriction: Must be in Secondary Educ: English Language Arts program; and minimum cumulative GPA of 2.75; and permission of EDUC-Teaching and Learning, Policy and Leadership department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jocelyn Holm",
+      "seats": "30,",
+      "open-seats": "24,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "7:45pm",
+      "building": "JMZ",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

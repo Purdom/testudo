@@ -1,0 +1,25 @@
+{
+  "id": "BMGT468T",
+  "title": "Special Topics in Management and Organization; Creativity for Business Leaders and Entrepreneurs Outdoor Edition",
+  "credits": "3",
+  "description": "Restricted to students with 45 credit hours completed. Course requires participation in activities outside the scheduled meeting time, including site visits to Under Armour and in the outdoors.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Oliver Schlake",
+      "seats": "35,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TWS",
+      "room": "1100"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

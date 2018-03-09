@@ -1,0 +1,27 @@
+{
+  "id": "MATH430",
+  "title": "Euclidean and Non-Euclidean Geometries",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (MATH240, MATH341, MATH461).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Roohollah Ebrahimian",
+      "seats": "25,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "EGR",
+      "room": "3106"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

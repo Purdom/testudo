@@ -1,0 +1,63 @@
+{
+  "id": "MATH406",
+  "title": "Introduction to Number Theory",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (MATH240, MATH241, MATH246, MATH340, MATH341, MATH461); or permission of CMNS-Mathematics department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Huanchen Bao",
+      "seats": "28,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "2154"
+    },
+    {
+      "id": "0201",
+      "instructor": "Niranjan Ramachandran",
+      "seats": "28,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "MTH",
+      "room": "B0425"
+    },
+    {
+      "id": "0301",
+      "instructor": "Allan Yashinski",
+      "seats": "28,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "MTH",
+      "room": "0303"
+    },
+    {
+      "id": "0501",
+      "instructor": "Manjit Bhatia",
+      "seats": "28,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "MTH",
+      "room": "0305"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

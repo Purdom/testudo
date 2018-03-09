@@ -1,0 +1,26 @@
+{
+  "id": "MEES698C",
+  "title": "Special Topics in Marine-Estuarine-Environmental Sciences; Chemical Oceanography",
+  "credits": "3",
+  "description": "Taught at Chesapeake Biological Laboratories (CBL) and over the Interactive Video Network.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hali Kilbourne,",
+      "seats": "15,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:30pm",
+      "end": "3:00pm",
+      "building": "HJP",
+      "room": "1213C"
+    }
+  ],
+  "term": "201801",
+  "department": "Marine-Estuarine-Environmental Sciences"
+}

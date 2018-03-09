@@ -1,0 +1,26 @@
+{
+  "id": "SOCY699C",
+  "title": "Special Social Problems; Introduction to Computing for Sociologists",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hsiang-Yuan Ho",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "9:30am",
+      "end": "11:15am",
+      "building": "ASY",
+      "room": "2115"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

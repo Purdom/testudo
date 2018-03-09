@@ -1,0 +1,27 @@
+{
+  "id": "NFSC470",
+  "title": "Community Nutrition",
+  "credits": "3",
+  "description": "Prerequisite: NFSC315; and permission of AGNR-Nutrition and Food Science department.\nFormerly: NUTR470.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nadine Sahyoun",
+      "seats": "40,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TYD",
+      "room": "0102"
+    }
+  ],
+  "term": "201801",
+  "department": "Nutrition and Food Science"
+}

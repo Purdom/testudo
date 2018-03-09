@@ -1,0 +1,39 @@
+{
+  "id": "CCJS418B",
+  "title": "Seminar in Criminology and Criminal Justice; Cyber Investigations",
+  "credits": "3",
+  "description": "Prerequisites: CCJS100 and CCJS105.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Maimon",
+      "seats": "50,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "SQH",
+      "room": "1117"
+    },
+    {
+      "id": "SG91",
+      "instructor": "John Conroy",
+      "seats": "30,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:30pm",
+      "end": "3:00pm",
+      "building": "BLD3",
+      "room": "4219"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

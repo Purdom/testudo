@@ -1,0 +1,27 @@
+{
+  "id": "BSCI339C",
+  "title": "Selected Topics in Biology; Cell Biology Lab",
+  "credits": "1",
+  "description": "Prerequisites: BSCI420. Credit will be granted for BSCI339C or BSCI421.\n\n(Sponsoring Dept.: BIOL). Acceptable toward Biological Sciences Specialization Areas: PHNB, CEBG, and GENB. Students must pay a $40.00 lab materials fee.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0102",
+      "instructor": "Hadiya Woodham",
+      "seats": "3,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "4:50pm",
+      "building": "PLS",
+      "room": "1171"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

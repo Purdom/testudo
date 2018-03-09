@@ -1,0 +1,51 @@
+{
+  "id": "JOUR150",
+  "title": "Introduction to Mass Communication",
+  "credits": "3",
+  "description": "Restriction: Not open to students who have completed JOUR100 prior to Fall 1999.\nAdditional information: Not applicable toward journalism major.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Edward Alwood",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "KNI",
+      "room": "1208"
+    },
+    {
+      "id": "0201",
+      "instructor": "Edward Alwood",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "KNI",
+      "room": "1105"
+    },
+    {
+      "id": "0301",
+      "instructor": "Denitsa Yotova",
+      "seats": "39,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

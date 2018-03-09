@@ -1,0 +1,26 @@
+{
+  "id": "INST728G",
+  "title": "Special Topics in Information Studies; Smart Cities and Urban Data Science",
+  "credits": "3",
+  "description": "Also offered as URSP688Y. Credit granted for URSP688Y or INST728G.\n\nThe proliferation of data, technology and new analytical methods are changing cities in rapid and dramatic fashion. These changes have implications for the look and feel of cities, the behavior patterns of the people who inhabit them, and the decisions made by people who govern them. As cities become smarter, our understanding of them must evolve in a similar fashion. This course will introduce students to the concept of Smart Cities and their implications for the current and future development of urban areas. Students will learn about the history of urban development and when cities gained their sentience, how cities learn and grow their intelligence, and how these trends shape the lives of urban and rural dwellers alike. The course begins by introducing the \"components\" of the smart city: new and novel data sources (embedded sensor networks, crowdsourcing), new methods of (connected devices, machine learning, data science), and new ways of modeling, simulating, and visualizing urban phenomena. The second half of the course discusses how these components are changing the performance and experience of different aspects of urban life inareas like transportation, public health, criminal justice, and social equity.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christopher Dempwolf",
+      "seats": "30,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "ARC",
+      "room": "1125"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

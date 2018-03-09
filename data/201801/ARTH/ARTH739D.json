@@ -1,0 +1,26 @@
+{
+  "id": "ARTH739D",
+  "title": "Seminar in Seventeenth-Century Northern European Art; King Charles 1 and the Collecting of Rembrandt, Rubens, and Van Dyck in Britain",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Arthur Wheelock",
+      "seats": "6,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:00pm",
+      "end": "5:40pm",
+      "building": "ASY",
+      "room": "4304"
+    }
+  ],
+  "term": "201801",
+  "department": "Art History & Archaeology"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ENMA300",
+  "title": "Introduction to Materials Engineering",
+  "credits": "3",
+  "description": "Prerequisite: ENES100; and permission of ENGR-Materials Science & Engineering department.\nCorequisite: MATH241.\nRecommended: PHYS261 and PHYS260.\nAlso offered as: ENME382.\nCredit only granted for: ENMA300 or ENME382.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Liyang Dai-Hattrick",
+      "seats": "100,",
+      "open-seats": "33,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "JMP",
+      "room": "3201"
+    },
+    {
+      "id": "0201",
+      "instructor": "Isabel Lloyd",
+      "seats": "100,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CHE",
+      "room": "2110"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Materials"
+}

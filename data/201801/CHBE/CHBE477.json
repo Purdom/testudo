@@ -1,0 +1,27 @@
+{
+  "id": "CHBE477",
+  "title": "Mesoscopic and Nanoscale Thermodynamics",
+  "credits": "3",
+  "description": "Prerequisite: A prior course in classical thermodynamics.\nRestriction: Must be in a major within the ENGR-Chemical & Biomolecular Engineering department; and permission of ENGR-Chemical & Biomolecular Engineering department.\nCredit only granted for: CHBE477 or ENCH468Q.\nFormerly: ENCH468Q.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mikhail Anisimov",
+      "seats": "35,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "EGR",
+      "room": "1104"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemical and Biomolecular Engineering"
+}

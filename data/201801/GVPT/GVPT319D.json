@@ -1,0 +1,27 @@
+{
+  "id": "GVPT319D",
+  "title": "Topics in Social Advocacy; Careers in Government and Politics",
+  "credits": "1",
+  "description": "An overview of career in government and politics. We will discuss human resource rules and processes specific to the government along with career tracks in the federal government (executive,legislative, and judicial), state & local government, running for office and working on campaigns and lobbying.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sarah Wolek",
+      "seats": "30,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "TYD",
+      "room": "1114"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

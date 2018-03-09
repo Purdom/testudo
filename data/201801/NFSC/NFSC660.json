@@ -1,0 +1,26 @@
+{
+  "id": "NFSC660",
+  "title": "Research Methods",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed one statistics course.\nFormerly: NUTR 660.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Lei",
+      "seats": "20,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PLS",
+      "room": "1117"
+    }
+  ],
+  "term": "201801",
+  "department": "Nutrition and Food Science"
+}

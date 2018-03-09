@@ -1,0 +1,49 @@
+{
+  "id": "BMGT332",
+  "title": "Quantitative Models for Management Decisions",
+  "credits": "3",
+  "description": "Prerequisite: BMGT231 or BMGT230; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kazim Ruhi",
+      "seats": "45,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1333"
+    },
+    {
+      "id": "0201",
+      "instructor": "Kazim Ruhi",
+      "seats": "45,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1333"
+    },
+    {
+      "id": "0301",
+      "instructor": "Kazim Ruhi",
+      "seats": "45,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "VMH",
+      "room": "1307"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

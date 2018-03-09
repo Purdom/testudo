@@ -1,0 +1,27 @@
+{
+  "id": "BIOE489H",
+  "title": "Special Topics in Bioengineering; BIOE Honors Seminar",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kimberly Stroka",
+      "seats": "40,",
+      "open-seats": "35,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

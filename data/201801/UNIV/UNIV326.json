@@ -1,0 +1,27 @@
+{
+  "id": "UNIV326",
+  "title": "Beyond the Classroom Seminar II",
+  "credits": "1",
+  "description": "Prerequisite: UNIV325.\nRestriction: Must be in the Beyond the Classroom (BTC) living and learning program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Melissa Del Rios",
+      "seats": "25,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "University Courses"
+}

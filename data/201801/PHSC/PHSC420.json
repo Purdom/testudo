@@ -1,0 +1,25 @@
+{
+  "id": "PHSC420",
+  "title": "Vaccines and Immunology",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in BSCI223.\nRecommended: CHEM231.\nRestriction: Must have earned a minimum of 60 credits. And must be in Public Health Science program; or permission of instructor.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gretchen De Silva",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "HBK",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Health Science"
+}

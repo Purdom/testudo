@@ -1,0 +1,26 @@
+{
+  "id": "CCJS621",
+  "title": "General Linear Models in Criminal Justice Research",
+  "credits": "3",
+  "description": "Prerequisite: CCJS620.\nCredit only granted for: CCJS498F or CCJS621.\nFormerly: CCJS498F.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Laura Dugan",
+      "seats": "25,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "JMZ",
+      "room": "3203"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

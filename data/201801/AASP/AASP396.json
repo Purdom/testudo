@@ -1,0 +1,25 @@
+{
+  "id": "AASP396",
+  "title": "Independent Study Non-Thesis Option",
+  "credits": "3",
+  "description": "Prerequisite: AASP386 and AASP297.\nRestriction: Must be in African American Studies program.\nCredit only granted for: AASP396 or AASP397.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Caryn Bell",
+      "seats": "10,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:00pm",
+      "end": "5:30pm",
+      "building": "TLF",
+      "room": "1102"
+    }
+  ],
+  "term": "201801",
+  "department": "African American Studies"
+}

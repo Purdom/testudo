@@ -1,0 +1,27 @@
+{
+  "id": "PLSC401",
+  "title": "Pest Management Strategies for Turfgrass",
+  "credits": "3",
+  "description": "Prerequisite: PLSC305.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Joseph Roberts",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "PBR",
+      "room": "1102"
+    }
+  ],
+  "term": "201801",
+  "department": "Plant Sciences"
+}

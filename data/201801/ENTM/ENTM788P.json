@@ -1,0 +1,26 @@
+{
+  "id": "ENTM788P",
+  "title": "Entomological Topics; Environmental Restoration Applications",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Margaret Palmer",
+      "seats": "12,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:00pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Entomology"
+}

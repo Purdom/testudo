@@ -1,0 +1,85 @@
+{
+  "id": "ENEE200",
+  "title": "Technology and Consequences: Engineering, Ethics, and Humanity",
+  "credits": "3",
+  "description": "What makes a technology socially responsible? At UMD, the Fearless Ideas campaign asks us to aim our enthusiasm for technology at big real problems. At the same time, we are coming to appreciate the increasingly complex nature of technological systems as they become integrated into all forms of infrastructure, we realize they may be unpredictable, interdependent on social and biological systems, and have unintended consequences. In this midst of this complexity, people make decisions with far reaching impacts. How then do we follow our passion for technology and innovation but also stay skeptical in a way that allows us to consider the potential and shortcomings of technology? Designed for both engineering and non-engineering students wishing to explore and assess the impact of engineering technology on society and the role of society in generating that technology.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nicole Mogul",
+      "seats": "16,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TWS",
+      "room": "0310"
+    },
+    {
+      "id": "0102",
+      "instructor": "Nicole Mogul",
+      "seats": "16,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TWS",
+      "room": "0310"
+    },
+    {
+      "id": "0103",
+      "instructor": "Nicole Mogul",
+      "seats": "16,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TWS",
+      "room": "0310"
+    },
+    {
+      "id": "0104",
+      "instructor": "Nicole Mogul",
+      "seats": "16,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TWS",
+      "room": "0310"
+    },
+    {
+      "id": "0105",
+      "instructor": "Nicole Mogul",
+      "seats": "16,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TWS",
+      "room": "0310"
+    },
+    {
+      "id": "0106",
+      "instructor": "Nicole Mogul",
+      "seats": "16,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TWS",
+      "room": "0310"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

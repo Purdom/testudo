@@ -1,0 +1,26 @@
+{
+  "id": "INST734",
+  "title": "Information Retrieval Systems",
+  "credits": "3",
+  "description": "Prerequisite: LBSC671 or INFM603; or permission of instructor.\nRestriction: Permission of INFO-College of Information Studies.\nCredit only granted for: INST734 or LBSC796.\nFormerly: LBSC796.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "ML01",
+      "instructor": "Douglas Oard",
+      "seats": "25,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

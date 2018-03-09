@@ -1,0 +1,74 @@
+{
+  "id": "ENAE646",
+  "title": "Advanced Dynamics of Aerospace Systems",
+  "credits": "3",
+  "description": "Prerequisite: ENAE301.\nCredit only granted for: ENAE788G or ENAE646.\nFormerly: ENAE788G.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Olivier Bauchau",
+      "seats": "18,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "JMP",
+      "room": "2216"
+    },
+    {
+      "id": "HT01",
+      "instructor": "Olivier Bauchau",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SG01",
+      "instructor": "Olivier Bauchau",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "Olivier Bauchau",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "TV01",
+      "instructor": "Olivier Bauchau",
+      "seats": "5,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

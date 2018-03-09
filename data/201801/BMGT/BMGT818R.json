@@ -1,0 +1,26 @@
+{
+  "id": "BMGT818R",
+  "title": "Special Topics in Accounting and Information Assurance; Workshop in Accounting Research",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tharinda W Ranasinghe",
+      "seats": "12,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "10:00am",
+      "end": "11:00am",
+      "building": "VMH",
+      "room": "3330H"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

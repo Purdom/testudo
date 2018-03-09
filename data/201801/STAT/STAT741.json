@@ -1,0 +1,26 @@
+{
+  "id": "STAT741",
+  "title": "Linear Statistical Models II",
+  "credits": "3",
+  "description": "Prerequisite: STAT740.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paul Smith",
+      "seats": "20,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "MTH",
+      "room": "0102"
+    }
+  ],
+  "term": "201801",
+  "department": "Statistics and Probability"
+}

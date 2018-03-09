@@ -1,0 +1,27 @@
+{
+  "id": "ENME421",
+  "title": "Engineering Design Ideation",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in ENME371.\nRestriction: Junior standing or higher.\nAdditional information: Ideally, this course should be taken prior to capstone design.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Linda Schmidt",
+      "seats": "40,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "EGR",
+      "room": "3106"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "INFM711",
+  "title": "Financial Management of Information Projects",
+  "credits": "3",
+  "description": "Prerequisite: INFM600; and must have completed or be concurrently enrolled in INFM612. Or permission of instructor.\nRestriction: Permission of INFO-College of Information Studies.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "ML01",
+      "instructor": "Kathy Weaver",
+      "seats": "25,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Management"
+}

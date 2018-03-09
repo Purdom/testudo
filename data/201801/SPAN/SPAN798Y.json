@@ -1,0 +1,26 @@
+{
+  "id": "SPAN798Y",
+  "title": "Open Seminar; Cinema from Spain: Auteurist and National Tensions",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jose Naharro-Calderon",
+      "seats": "10,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "JMZ",
+      "room": "3118"
+    }
+  ],
+  "term": "201801",
+  "department": "Spanish"
+}

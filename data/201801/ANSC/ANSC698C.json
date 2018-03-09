@@ -1,0 +1,26 @@
+{
+  "id": "ANSC698C",
+  "title": "Seminar; Recent Advances in Animal and Avian Sciences",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Richard Kohn",
+      "seats": "30,",
+      "open-seats": "27,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "5:30pm",
+      "building": "ANS",
+      "room": "0408"
+    }
+  ],
+  "term": "201801",
+  "department": "Animal Science"
+}

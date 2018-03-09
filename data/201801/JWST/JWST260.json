@@ -1,0 +1,27 @@
+{
+  "id": "JWST260",
+  "title": "Introduction to Classical Hebrew I",
+  "credits": "3",
+  "description": "Prerequisite: HEBR111; or students who have taken courses with comparable content may contact the department.\nFormerly: HEBR401.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Matthew Suriano",
+      "seats": "15,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "SQH",
+      "room": "1121"
+    }
+  ],
+  "term": "201801",
+  "department": "Jewish Studies"
+}

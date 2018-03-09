@@ -1,0 +1,27 @@
+{
+  "id": "HIST428M",
+  "title": "Selected Topics in History; Oral History of Immigration",
+  "credits": "3",
+  "description": "Uses oral history to explore experiences of migrants to the Washington, D.C. area since the mid-twentieth century in projects based on engagement with local immigrants.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Anne Rush",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "TLF",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

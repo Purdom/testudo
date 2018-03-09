@@ -1,0 +1,111 @@
+{
+  "id": "KNES201",
+  "title": "Kinesiological Principles of Physical Activity",
+  "credits": "1",
+  "description": "Corequisite: Any physical activity course, e.g., KNES 100-190; or permission of SPHL-Kinesiology department.\nRestriction: Must be in a major in SPHL-School of Public Health.\nCredit only granted for: KNES200 or KNES201.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Steven Kahl",
+      "seats": "25,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SPH",
+      "room": "0305"
+    },
+    {
+      "id": "0102",
+      "instructor": "Steven Kahl",
+      "seats": "25,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SPH",
+      "room": "0305"
+    },
+    {
+      "id": "0103",
+      "instructor": "Andrew Ginsberg",
+      "seats": "25,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "SPH",
+      "room": "0303"
+    },
+    {
+      "id": "0104",
+      "instructor": "Andrew Ginsberg",
+      "seats": "25,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "SPH",
+      "room": "0303"
+    },
+    {
+      "id": "0105",
+      "instructor": "Andrew Ginsberg",
+      "seats": "25,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "SPH",
+      "room": "0307"
+    },
+    {
+      "id": "0106",
+      "instructor": "Andrew Ginsberg",
+      "seats": "25,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "SPH",
+      "room": "0307"
+    },
+    {
+      "id": "0107",
+      "instructor": "Andrea Romeo",
+      "seats": "25,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SPH",
+      "room": "0302"
+    },
+    {
+      "id": "0108",
+      "instructor": "Andrea Romeo",
+      "seats": "25,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SPH",
+      "room": "0302"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

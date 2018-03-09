@@ -1,0 +1,38 @@
+{
+  "id": "COMM649D",
+  "title": "Translation for Specific Domains; Chinese into English/English into Chinese",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "XGC1",
+      "instructor": "Irina Knizhnik",
+      "seats": "16,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "PLS",
+      "room": "1115"
+    },
+    {
+      "id": "XGE1",
+      "instructor": "Min Eu",
+      "seats": "16,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "10:30am",
+      "end": "12:30pm",
+      "building": "ARC",
+      "room": "1125"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

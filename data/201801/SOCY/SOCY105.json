@@ -1,0 +1,63 @@
+{
+  "id": "SOCY105",
+  "title": "Introduction to Contemporary Social Problems",
+  "credits": "3",
+  "description": "An examination of contemporary social problems through sociological perspectives; ways in which social problems are part of the organization of society; a detailed study of selected social problems including social conflict and social inequality.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Jenelle Clark",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ASY",
+      "room": "1213"
+    },
+    {
+      "id": "0301",
+      "instructor": "Wendy Laybourn",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ASY",
+      "room": "2309"
+    },
+    {
+      "id": "0401",
+      "instructor": "Brian Connor",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ASY",
+      "room": "2309"
+    },
+    {
+      "id": "0601",
+      "instructor": "Jenelle Clark",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ASY",
+      "room": "1213"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

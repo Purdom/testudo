@@ -1,0 +1,27 @@
+{
+  "id": "ENST432",
+  "title": "Environmental Microbiology",
+  "credits": "3",
+  "description": "Prerequisite: CHEM131 and CHEM132. And BSCI170 and BSCI171; or BSCI105.\nCredit only granted for: ENST432 or ENST499M.\nFormerly: ENST499M.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dietrich Epp Schmidt",
+      "seats": "30,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "JMP",
+      "room": "1109"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

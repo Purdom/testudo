@@ -1,0 +1,27 @@
+{
+  "id": "HIST255",
+  "title": "African-American History, 1865 - Present",
+  "credits": "3",
+  "description": "An introductory course in the African-American experience in the United States from 1865 to the present. Topics include the aftermath of the Civil War on US race relations, the rise of segregation, northern migration, World War I and II, Civil Rights Movements, and the Black Power Movement.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dennis Doster",
+      "seats": "30,",
+      "open-seats": "24,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "6:30pm",
+      "end": "7:45pm",
+      "building": "KEY",
+      "room": "1117"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

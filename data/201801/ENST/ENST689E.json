@@ -1,0 +1,26 @@
+{
+  "id": "ENST689E",
+  "title": "Special Topics; Advanced Ecosystem Health & Natural Resource Management",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lance Yonkos,",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ANS",
+      "room": "1420"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "BMGT110",
+  "title": "Introduction to the Business Value Chain",
+  "credits": "3",
+  "description": "Students are provided with an introduction to the business value chain with an emphasis on inter-organizational and intra-organizational coordination of core business processes. Emphasis is on cross-functional integration and the efficient and effective management of core processes with an emphasis on marketing, operations and supply chain management.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Anand Anandalingam",
+      "seats": "250,",
+      "open-seats": "149,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0201",
+      "instructor": "Jeff Miller",
+      "seats": "250,",
+      "open-seats": "140,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1212"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

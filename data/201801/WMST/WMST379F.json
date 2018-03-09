@@ -1,0 +1,27 @@
+{
+  "id": "WMST379F",
+  "title": "Topics in Women's Studies; Women and Comedy: History, Theory, Practice",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Heidi Scott",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "WDS",
+      "room": "0104"
+    }
+  ],
+  "term": "201801",
+  "department": "Women's Studies"
+}

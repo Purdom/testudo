@@ -1,0 +1,26 @@
+{
+  "id": "KNES154O",
+  "title": "Physical Education Activities: Coed; Swimming (Intermediate)",
+  "credits": "1",
+  "description": "Attendance is required on the first day of class. Students must pay a $40 instructional materials fee.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0001",
+      "instructor": "Natalie Taylor",
+      "seats": "22,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "2:15pm",
+      "building": "ERC",
+      "room": "B0120"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

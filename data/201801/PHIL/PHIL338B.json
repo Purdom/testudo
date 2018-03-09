@@ -1,0 +1,27 @@
+{
+  "id": "PHIL338B",
+  "title": "Studies in Value Theory; PHILOSOPHY OF FILM",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jerrold Levinson",
+      "seats": "30,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "SKN",
+      "room": "1115"
+    }
+  ],
+  "term": "201801",
+  "department": "Philosophy"
+}

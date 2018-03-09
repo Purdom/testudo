@@ -1,0 +1,27 @@
+{
+  "id": "CHBE490",
+  "title": "Polymer Science",
+  "credits": "3",
+  "description": "Also offered as: ENMA495.\nCredit only granted for: CHBE490, ENCH490, or ENMA495.\nFormerly: ENCH490.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kyu Yong Choi",
+      "seats": "40,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CHE",
+      "room": "2118"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemical and Biomolecular Engineering"
+}

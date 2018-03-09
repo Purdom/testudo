@@ -1,0 +1,38 @@
+{
+  "id": "COMM619I",
+  "title": "Consecutive Interpretation; Korean into English/English into Korean",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "XGE1",
+      "instructor": "Yong-Ha Lee",
+      "seats": "16,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "XGK1",
+      "instructor": "Yong-Ha Lee",
+      "seats": "16,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

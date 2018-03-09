@@ -1,0 +1,27 @@
+{
+  "id": "ARTT448E",
+  "title": "Advanced Printmaking Studio; Advanced Screen Printing",
+  "credits": "3",
+  "description": "Prerequisite: ARTT343 or permission of department. Repeatable to 12 credits.\n\nMulti-level printmaking studio with emphasis on multi-media print processes and contemporary issues in print media. Students must pay a $40.00 studio lab fee.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Justin Strom",
+      "seats": "12,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "ASY",
+      "room": "1317"
+    }
+  ],
+  "term": "201801",
+  "department": "Art Studio"
+}

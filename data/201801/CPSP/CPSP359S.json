@@ -1,0 +1,27 @@
+{
+  "id": "CPSP359S",
+  "title": "Advanced Practicum: Research; Discovery Research",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Eubanks",
+      "seats": "25,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "CCC",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars Program"
+}

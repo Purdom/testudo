@@ -1,0 +1,27 @@
+{
+  "id": "ENGL466",
+  "title": "Arthurian Legend",
+  "credits": "3",
+  "description": "Prerequisite: Two English courses in literature; or permission of ARHU-English department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Moser",
+      "seats": "22,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "TWS",
+      "room": "0236"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

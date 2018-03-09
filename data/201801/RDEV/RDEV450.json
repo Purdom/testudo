@@ -1,0 +1,37 @@
+{
+  "id": "RDEV450",
+  "title": "Foundations of Real Estate Finance and Investment",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in RDEV250. And RDEV270; or an approved accounting course. And must have completed or be concurrently enrolled in RDEV350.\nRestriction: Permission of ARCH-Real Estate Development.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Kirkland",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "ASY",
+      "room": "3219"
+    },
+    {
+      "id": "0102",
+      "instructor": "Thomas Dwyer",
+      "seats": "30,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "ARC",
+      "room": "1105"
+    }
+  ],
+  "term": "201801",
+  "department": "Real Estate Development"
+}

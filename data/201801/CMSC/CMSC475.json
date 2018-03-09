@@ -1,0 +1,25 @@
+{
+  "id": "CMSC475",
+  "title": "Combinatorics and Graph Theory",
+  "credits": "3",
+  "description": "Prerequisite: MATH240 and MATH241; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.\nAlso offered as: MATH475.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Wiseley Wong",
+      "seats": "32,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "MTH",
+      "room": "0303"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

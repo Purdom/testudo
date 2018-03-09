@@ -1,0 +1,27 @@
+{
+  "id": "ENGL441",
+  "title": "The Novel in America Since 1914",
+  "credits": "3",
+  "description": "Prerequisite: Two English courses in literature; or permission of ARHU-English department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lee Konstantinou",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "TWS",
+      "room": "0221"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

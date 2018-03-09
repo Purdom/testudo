@@ -1,0 +1,27 @@
+{
+  "id": "RELS219C",
+  "title": "Special Topics in Religious Studies; The Rabbinic Movement: History and Culture",
+  "credits": "3",
+  "description": "Introduction to the Rabbinic movement and its history, first to seventh century CE. Survey of the essential texts of ancient Rabbinic literature, both halakhic (legal) and aggadic (non-legal).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hayim Lapin",
+      "seats": "40,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "KEY",
+      "room": "0126"
+    }
+  ],
+  "term": "201801",
+  "department": "Religious Studies"
+}

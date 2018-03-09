@@ -1,0 +1,39 @@
+{
+  "id": "COMM450",
+  "title": "Ancient and Medieval Rhetorical Theory",
+  "credits": "3",
+  "description": "Prerequisite: COMM250.\nRestriction: Must be in Communication program.\nCredit only granted for: COMM450 or COMM650.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Damien Pfister",
+      "seats": "35,",
+      "open-seats": "26,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "SQH",
+      "room": "1107"
+    },
+    {
+      "id": "SG91",
+      "instructor": "Jon Hoffman",
+      "seats": "40,",
+      "open-seats": "35,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "BLD3",
+      "room": "2225"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

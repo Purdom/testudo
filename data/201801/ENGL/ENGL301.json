@@ -1,0 +1,73 @@
+{
+  "id": "ENGL301",
+  "title": "Critical Methods in the Study of Literature",
+  "credits": "3",
+  "description": "Restriction: Must be in English Language and Literature program; or must be in Secondary Educ: English Language Arts program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Wyatt",
+      "seats": "17,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "3132"
+    },
+    {
+      "id": "0201",
+      "instructor": "Chanon Adsanatham",
+      "seats": "17,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "TWS",
+      "room": "0221"
+    },
+    {
+      "id": "0401",
+      "instructor": "Elizabeth McClure",
+      "seats": "17,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TWS",
+      "room": "3132"
+    },
+    {
+      "id": "0501",
+      "instructor": "Kim Coles",
+      "seats": "17,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TWS",
+      "room": "3132"
+    },
+    {
+      "id": "0801",
+      "instructor": "Chanon Adsanatham",
+      "seats": "17,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "3132"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

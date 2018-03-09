@@ -1,0 +1,37 @@
+{
+  "id": "PSYC629",
+  "title": "Clinical Laboratory",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mary Byrne",
+      "seats": "10,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0201",
+      "instructor": "Andrea Chisolm",
+      "seats": "10,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

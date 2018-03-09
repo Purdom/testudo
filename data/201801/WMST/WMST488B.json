@@ -1,0 +1,27 @@
+{
+  "id": "WMST488B",
+  "title": "Senior Seminar; Health Inequality and Social Determinants: How Race, Ethnicity, Class and Gender Matter",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ruth Zambrana",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "TWS",
+      "room": "3132"
+    }
+  ],
+  "term": "201801",
+  "department": "Women's Studies"
+}

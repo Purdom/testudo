@@ -1,0 +1,39 @@
+{
+  "id": "ASTR220",
+  "title": "Collisions in Space - The Threat of Asteroid Impacts",
+  "credits": "3",
+  "description": "Restriction: Must not be in Astronomy program.\nAdditional information: Course is open to Astronomy and Planetary Sciences minors.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Derek Richardson",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "HJP",
+      "room": "2242"
+    },
+    {
+      "id": "0102",
+      "instructor": "Derek Richardson",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "HJP",
+      "room": "2242"
+    }
+  ],
+  "term": "201801",
+  "department": "Astronomy"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "CPBE270",
+  "title": "College Park Scholars: Business, Society & the Economy Education Abroad Practicum",
+  "credits": "1",
+  "description": "Prerequisite: CPBE100.\nRestriction: Students must be matriculated into the College Park Scholars Business, Society & the Economy (CPBE) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mark Wellman",
+      "seats": "25,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:00pm",
+      "end": "8:00pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars-Business, Society, and Economy"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "UNIV100",
+  "title": "The Student in the University",
+  "credits": "1",
+  "description": "Credit only granted for: EDCP108O or UNIV100.\nFormerly: EDCP108O.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lindsey Winter,",
+      "seats": "15,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:00pm",
+      "end": "4:50pm",
+      "building": "KEY",
+      "room": "0124"
+    },
+    {
+      "id": "0102",
+      "instructor": "TC Lloyd",
+      "seats": "15,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "TLF",
+      "room": "1101"
+    },
+    {
+      "id": "0801",
+      "instructor": "Thomas Steen",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:00pm",
+      "end": "4:50pm",
+      "building": "PLS",
+      "room": "1113"
+    },
+    {
+      "id": "0805",
+      "instructor": "Deborah McConnell",
+      "seats": "20,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "PHY",
+      "room": "4222"
+    }
+  ],
+  "term": "201801",
+  "department": "University Courses"
+}

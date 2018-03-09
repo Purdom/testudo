@@ -1,0 +1,26 @@
+{
+  "id": "CHEM648K",
+  "title": "Special Topics in Organic Chemistry; Electrochemical Energy Engineering",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Chunsheng Wang",
+      "seats": "50,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "CHE",
+      "room": "2108"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

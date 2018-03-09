@@ -1,0 +1,38 @@
+{
+  "id": "SURV625",
+  "title": "Applied Sampling",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed a course in statistics approved by department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Brady West",
+      "seats": "15,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "4:00pm",
+      "building": "LEF",
+      "room": "1208"
+    },
+    {
+      "id": "SV01",
+      "instructor": "Brady West",
+      "seats": "15,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "4:00pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Survey Methodology"
+}

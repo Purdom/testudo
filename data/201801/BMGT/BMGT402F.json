@@ -1,0 +1,25 @@
+{
+  "id": "BMGT402F",
+  "title": "Database Systems",
+  "credits": "3",
+  "description": "Recommended: BMGT302.\nCredit only granted for: INST327 or BMGT402.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "FP01",
+      "instructor": "Louiqa Raschid",
+      "seats": "30,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "2203"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ENAE488F",
+  "title": "Topics in Aerospace Engineering; Introduction to Aviation for Pilot Training",
+  "credits": "3",
+  "description": "Class will meet off campus at the College Park Airport-Conference Room A.\n\nPrerequisite: ENAE283 or permission of department. Restriction: Must be in Engineering: Aerospace program.\n\nIntroduction to how pilots view the design of an aerospace vehicle. Topics include aerodynamic principles, pilot training, flight instruments, flight maneuvers, aeronautical charts and communication, aviation weather, & airplane performance and navigation.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Gulino",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:30pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

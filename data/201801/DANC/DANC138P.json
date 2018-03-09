@@ -1,0 +1,27 @@
+{
+  "id": "DANC138P",
+  "title": "World Dance Forms; Hip Hop",
+  "credits": "2",
+  "description": "Students must pay $25 lab fee.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Mariama Law",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "PAC",
+      "room": "1908"
+    }
+  ],
+  "term": "201801",
+  "department": "Dance"
+}

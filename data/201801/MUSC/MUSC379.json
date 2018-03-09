@@ -1,0 +1,26 @@
+{
+  "id": "MUSC379",
+  "title": "Opera Workshop",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sally Stunkel",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:00pm",
+      "end": "6:00pm",
+      "building": "PAC",
+      "room": "2170"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

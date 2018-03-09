@@ -1,0 +1,27 @@
+{
+  "id": "EDCI488M",
+  "title": "Selected Topics in Teacher Education; Knowing and Learning",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Anita Sanyal",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:50pm",
+      "building": "PHY",
+      "room": "1108"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

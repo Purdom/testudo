@@ -1,0 +1,27 @@
+{
+  "id": "BSCI339R",
+  "title": "Selected Topics in Biology; Membranes and Biological Interfaces",
+  "credits": "3",
+  "description": "Prerequisite: BSCI330. Recommended: PHYS121 and PHYS122; or PHYS131 and PHYS132.\n\nAn interdisciplinary approach to membrane biology by starting with the physical chemistry of interfaces and model systems and continuing into transport, bioenergetics, excitability and signaling.? The course is oriented toward students with diverse backgrounds. It will not assume a great deal of factual biological knowledge, but will expect a background that prepares students to think mechanistically and quantitatively.\n\nAcceptable toward Biological Sciences specialization areas: PHNB. Other specializations should check with their advisor.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sergei Sukharev",
+      "seats": "14,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "PLS",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

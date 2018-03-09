@@ -1,0 +1,25 @@
+{
+  "id": "BMGT408C",
+  "title": "Emerging Topics in Information Systems; Quality Web Development in Business",
+  "credits": "3",
+  "description": "Restricted to QUEST program students.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Purtilo,",
+      "seats": "20,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:00pm",
+      "end": "7:40pm",
+      "building": "VMH",
+      "room": "3330H"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "MATH631",
+  "title": "Real Analysis II",
+  "credits": "3",
+  "description": "Prerequisite: MATH630.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Radu Balan",
+      "seats": "25,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "CSI",
+      "room": "4122"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

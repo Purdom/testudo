@@ -1,0 +1,37 @@
+{
+  "id": "CHIN402",
+  "title": "Readings in Modern Chinese II",
+  "credits": "3",
+  "description": "Prerequisite: CHIN401; or students who have taken courses with comparable content may contact the department. And must have taken a placement interview offered by the department for Non-majors.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Guiling Hu",
+      "seats": "15,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "JMZ",
+      "room": "1226"
+    },
+    {
+      "id": "0201",
+      "instructor": "Guiling Hu",
+      "seats": "15,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "JMZ",
+      "room": "1124"
+    }
+  ],
+  "term": "201801",
+  "department": "Chinese"
+}

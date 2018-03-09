@@ -1,0 +1,27 @@
+{
+  "id": "ANTH656",
+  "title": "Conservation and Indigenous People in South America",
+  "credits": "3",
+  "description": "Credit only granted for: ANTH468L, ANTH456, ANTH688L, ANTH656.\nFormerly: ANTH688L.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Janet Chernela",
+      "seats": "10,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:00pm",
+      "end": "8:45pm",
+      "building": "WDS",
+      "room": "1114"
+    }
+  ],
+  "term": "201801",
+  "department": "Anthropology"
+}

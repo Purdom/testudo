@@ -1,0 +1,26 @@
+{
+  "id": "MATH808P",
+  "title": "Selected Topics in Algebra; P-Adic Representation Theor",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Xuhua He",
+      "seats": "18,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "MTH",
+      "room": "B0431"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

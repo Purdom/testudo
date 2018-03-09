@@ -1,0 +1,26 @@
+{
+  "id": "ENTM798B",
+  "title": "Topic Seminar; Writing: the Myth of the Big Chunk of Time",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kelly Hamby",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "9:30am",
+      "end": "11:30am",
+      "building": "PLS",
+      "room": "4102"
+    }
+  ],
+  "term": "201801",
+  "department": "Entomology"
+}

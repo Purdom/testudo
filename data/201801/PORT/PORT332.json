@@ -1,0 +1,27 @@
+{
+  "id": "PORT332",
+  "title": "Brazilian Cinema",
+  "credits": "3",
+  "description": "Also offered as: FILM332.\nCredit only granted for: PORT332, FILM332, or PORT378.\nFormerly: PORT378.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Regina Igel",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "JMZ",
+      "room": "2123"
+    }
+  ],
+  "term": "201801",
+  "department": "Portuguese"
+}

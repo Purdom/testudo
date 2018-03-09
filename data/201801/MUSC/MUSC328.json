@@ -1,0 +1,27 @@
+{
+  "id": "MUSC328",
+  "title": "Introduction to Chamber Music for Pianists",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elizabeth Brown",
+      "seats": "10,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "10:00am",
+      "end": "12:00pm",
+      "building": "PAC",
+      "room": "2126"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

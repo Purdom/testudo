@@ -1,0 +1,27 @@
+{
+  "id": "SOCY457",
+  "title": "Sociology of Law",
+  "credits": "3",
+  "description": "Social, political, and cultural sources of legal norms and concepts; and how the law shapes society and society shapes the law using sociological theoretical frameworks. The role of social change, social reproduction and inequality (including race, class, gender, and sexuality) to achieve certain objectives such as compliance, deterrence and social control.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dawn Dow",
+      "seats": "29,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ASY",
+      "room": "3203"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

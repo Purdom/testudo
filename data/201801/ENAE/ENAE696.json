@@ -1,0 +1,26 @@
+{
+  "id": "ENAE696",
+  "title": "Spacecraft Thermal Design",
+  "credits": "3",
+  "description": "Thermal sources in space. Black-body radiation; absorptivity and emissivity; radiative thermal equilibrium. Mutually radiating plates, view angles, and interior conduction. Techniques of spacecraft thermal analysis; approaches to passive and active thermal control.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Eric Silk",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "6:30pm",
+      "end": "7:45pm",
+      "building": "AJC",
+      "room": "2121"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "HONR299B",
+  "title": "Honors Seminar; Between the Possible and Impossible: Human Rights Discourse for Democratic Societies",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Miguel Gonzalez-Marcos",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "TWS",
+      "room": "1320"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

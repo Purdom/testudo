@@ -1,0 +1,25 @@
+{
+  "id": "HONR289P",
+  "title": "Honors Seminar; How Do Innovators Think?",
+  "credits": "3",
+  "description": "Credit will be granted for only one of the following: BMGT289B or HONR289P. Evening guest speakers 6:30pm-9:15pm are on three specific dates. Daytime meetings will be held every week.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mark Wellman",
+      "seats": "20,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:00pm",
+      "end": "4:50pm",
+      "building": "VMH",
+      "room": "3330H"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

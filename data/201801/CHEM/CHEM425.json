@@ -1,0 +1,75 @@
+{
+  "id": "CHEM425",
+  "title": "Instrumental Methods of Analysis",
+  "credits": "4",
+  "description": "Prerequisite: CHEM272 and CHEM271; or (CHEM276 and CHEM277).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Natalia White",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CHM",
+      "room": "1402"
+    },
+    {
+      "id": "0102",
+      "instructor": "Natalia White",
+      "seats": "12,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CHM",
+      "room": "1402"
+    },
+    {
+      "id": "0104",
+      "instructor": "Natalia White",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CHM",
+      "room": "1402"
+    },
+    {
+      "id": "0105",
+      "instructor": "Natalia White",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CHM",
+      "room": "1402"
+    },
+    {
+      "id": "0109",
+      "instructor": "Natalia White",
+      "seats": "12,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CHM",
+      "room": "1402"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

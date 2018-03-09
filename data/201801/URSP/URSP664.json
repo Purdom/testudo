@@ -1,0 +1,26 @@
+{
+  "id": "URSP664",
+  "title": "Real Estate Development for Planners",
+  "credits": "3",
+  "description": "Prerequisite: URSP606.\nCredit only granted for: URSP664 or URSP688F.\nFormerly: URSP688F.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Falk",
+      "seats": "26,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "ASY",
+      "room": "3203"
+    }
+  ],
+  "term": "201801",
+  "department": "Urban Studies and Planning"
+}

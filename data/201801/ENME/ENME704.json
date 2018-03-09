@@ -1,0 +1,26 @@
+{
+  "id": "ENME704",
+  "title": "Active Vibration Control",
+  "credits": "3",
+  "description": "Prerequisite: ENME662 and ENME602; or students who have taken courses with comparable content may contact the department.\nRecommended: Completion of coursework or background in Vibrations and Control recommended.\nRestriction: Must be in a major in ENGR-A. James Clark School of Engineering.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Amr Baz",
+      "seats": "25,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "EGR",
+      "room": "1104"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

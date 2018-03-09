@@ -1,0 +1,39 @@
+{
+  "id": "ECON317",
+  "title": "Global Economic Policies",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in ECON200 and ECON201.\nRestriction: Must be in Economics Bachelor of Arts program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Naveen Sarna",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TYD",
+      "room": "1102"
+    },
+    {
+      "id": "0201",
+      "instructor": "Naveen Sarna",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "TYD",
+      "room": "1132"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

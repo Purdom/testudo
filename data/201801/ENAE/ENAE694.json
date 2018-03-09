@@ -1,0 +1,26 @@
+{
+  "id": "ENAE694",
+  "title": "Spacecraft Communications",
+  "credits": "3",
+  "description": "Brief overview of satellite orbits. Radio frequency communications, noise, and bandwidth limitations. Link budget analysis. Modulation and multiplexing approaches, multiple access systems. Satellite transponder and Earth station technology.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Israel",
+      "seats": "15,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "AJC",
+      "room": "2132"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

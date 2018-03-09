@@ -1,0 +1,26 @@
+{
+  "id": "JAPN438P",
+  "title": "Topics in Japanese Pragmatics; Speech Acts and Politeness",
+  "credits": "3",
+  "description": "Prerequisite: C- or better in JAPN201. Credit only granted for JAPN438A or JAPN438M or JAPN438P. This course fulfills the linguistics elective requirement for the Japanese major and minor. This course familiarizes students with fundamental topics in the field of linguistic pragmatics (the study of language use in context) such as deixis and indexicality, reference and inference, presupposition and implicature, speech act theory, and politeness. Readings, class discussions, and homework assignments will initially introduce basic concepts through English examples, and then apply them to Japanese. After students develop an understanding of these concepts, we will discuss a range of speech acts (e.g., greetings, thanks, apologies, requests, invitations, and refusals) and their realizations in Japanese.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lindsay Yotsukura",
+      "seats": "20,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "JMZ",
+      "room": "1224"
+    }
+  ],
+  "term": "201801",
+  "department": "Japanese"
+}

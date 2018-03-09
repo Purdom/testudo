@@ -1,0 +1,63 @@
+{
+  "id": "WMST211",
+  "title": "Women in America Since 1880",
+  "credits": "3",
+  "description": "Also offered as: HIST211.\nCredit only granted for: HIST211 or WMST211.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robyn Muncy",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "SYM",
+      "room": "0200"
+    },
+    {
+      "id": "0102",
+      "instructor": "Robyn Muncy",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "SYM",
+      "room": "0200"
+    },
+    {
+      "id": "0103",
+      "instructor": "Robyn Muncy",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "SYM",
+      "room": "0200"
+    },
+    {
+      "id": "0104",
+      "instructor": "Robyn Muncy",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "SYM",
+      "room": "0200"
+    }
+  ],
+  "term": "201801",
+  "department": "Women's Studies"
+}

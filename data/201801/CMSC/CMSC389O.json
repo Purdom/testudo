@@ -1,0 +1,25 @@
+{
+  "id": "CMSC389O",
+  "title": "Special Topics in Computer Science; The Coding Interview",
+  "credits": "1",
+  "description": "Prerequisite: CMSC216 and CMSC250 with a grade of C- or better. Students will be provided with a comprehensive, practical introduction to technical interviews. Starting with basic topics such as Big O and String Manipulation. We will then move into more complex topics such as Bit Manipulation and Dynamic Programming. Most of the classes will be \"In-Class Interviews\" and take-home assignments will simulate real interview settings.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Goldstein",
+      "seats": "30,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ESJ",
+      "room": "2101"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

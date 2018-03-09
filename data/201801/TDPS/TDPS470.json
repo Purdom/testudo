@@ -1,0 +1,27 @@
+{
+  "id": "TDPS470",
+  "title": "Production Management",
+  "credits": "3",
+  "description": "Prerequisite: TDPS201, THET222, THET223, and THET116; and permission of ARHU-School of Theatre, Dance & Performance Studies department.\nCredit only granted for: TDPS458D or TDPS470.\nFormerly: TDPS458D.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Cary Gillett",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PAC",
+      "room": "1809"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre, Dance and Performance Studies"
+}

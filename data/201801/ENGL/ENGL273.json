@@ -1,0 +1,39 @@
+{
+  "id": "ENGL273",
+  "title": "Writing Poetry: A Beginning Workshop",
+  "credits": "3",
+  "description": "Introduction to theory and practice of writing poetry. Emphasis on critical reading of literary models. Exercises and workshop discussions with continual reference to modeling, drafting, and revising as necessary stages in a creative process.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kiyanna Hill",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "KEY",
+      "room": "0125"
+    },
+    {
+      "id": "0201",
+      "instructor": "Caitlin Reid",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "KEY",
+      "room": "0102"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

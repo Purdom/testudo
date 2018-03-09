@@ -1,0 +1,27 @@
+{
+  "id": "MUED311",
+  "title": "Teaching Elementary Instrumental Music I",
+  "credits": "2",
+  "description": "Prerequisite: MUED187.\nRestriction: Must be in Music Education program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Hewitt",
+      "seats": "15,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "PAC",
+      "room": "2540"
+    }
+  ],
+  "term": "201801",
+  "department": "Music Education"
+}

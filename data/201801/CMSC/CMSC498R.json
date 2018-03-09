@@ -1,0 +1,25 @@
+{
+  "id": "CMSC498R",
+  "title": "Selected Topics in Computer Science; Introduction to Cryptology",
+  "credits": "3",
+  "description": "Prerequisites:Any two 400-level MATH courses; or (CMSC351 and CMSC330); or (ENEE322 and ENEE380). Credit only granted for: ENEE459E, CMSC456, CMSC489R, or MATH456. Over the past two decades, cryptography has become a highly relevant field: In addition to military and national security applications, cryptography is currently being used in critical financial, legal, and and social applications. The aim of cryptography is to construct efficient schemes that allow parties to interact to implement some functionality, even when some subset of parties are malicious and behave adversarially. In contrast to the classical approach based on heuristics and ad-hoc solutions, modern cryptography aims for specific, rigorous security guarantees based on precise mathematical definitions and provably secure protocols.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dana Dachman-Soled",
+      "seats": "20,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "CSI",
+      "room": "1122"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

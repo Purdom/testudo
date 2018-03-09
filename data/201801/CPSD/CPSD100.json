@@ -1,0 +1,25 @@
+{
+  "id": "CPSD100",
+  "title": "College Park Scholars: Science, Discovery & the Universe First-Year Colloquium A",
+  "credits": "1",
+  "description": "Restriction: Students must be enrolled in the College Park Scholars Science, Discovery & the Universe (CPSD) program.\nAdditional information: Both freshman colloquia (CPSD 100 and 101) are required for students to earn their College Park Scholars citations; however, they can be taken in any order during a student's first year.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alan Peel,",
+      "seats": "40,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:30pm",
+      "end": "4:30pm",
+      "building": "CCC",
+      "room": "1100"
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars-Science, Discovery & the Universe"
+}

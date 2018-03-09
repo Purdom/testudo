@@ -1,0 +1,25 @@
+{
+  "id": "EDHD414",
+  "title": "Development of the Scientific Mind Across the Lifespan",
+  "credits": "3",
+  "description": "Recommended: EDHD320.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kevin Dunbar",
+      "seats": "30,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "EDU",
+      "room": "3233"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Human Development"
+}

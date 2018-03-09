@@ -1,0 +1,27 @@
+{
+  "id": "ENEE698Q",
+  "title": "Graduate Seminar; Colloquium Series",
+  "credits": "1",
+  "description": "Click here for more course information.",
+  "grading-method": [
+    "Reg",
+    "Aud",
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ramalingam Chellappa",
+      "seats": "80,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "3:30pm",
+      "end": "4:30pm",
+      "building": "KEB",
+      "room": "1110"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

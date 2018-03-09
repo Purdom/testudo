@@ -1,0 +1,27 @@
+{
+  "id": "ARAB207",
+  "title": "Egyptian Colloquial Arabic II",
+  "credits": "3",
+  "description": "Prerequisite: ARAB206; or students who have taken courses with comparable content may contact the department.\nRestriction: Must not be a fluent/native speaker of Arabic.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sayed Elsisi",
+      "seats": "15,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "JMZ",
+      "room": "3205"
+    }
+  ],
+  "term": "201801",
+  "department": "Arabic"
+}

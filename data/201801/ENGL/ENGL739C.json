@@ -1,0 +1,26 @@
+{
+  "id": "ENGL739C",
+  "title": "Seminar in Nineteenth-Century Literature; Victorian Worlds: Networks, Ecologies, Empires",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jason Rudy",
+      "seats": "11,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:30pm",
+      "end": "9:00pm",
+      "building": "TWS",
+      "room": "3134"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ANSC688O",
+  "title": "Special Topics; Nutritional Aspects of Metabolic Disease",
+  "credits": "3",
+  "description": "Prequisite: ANSC101, CHEM131, and BSCI105 or equivalent.\n\nBiochemical and physiological fundamentals of nutrition. Discussion of protein, fat, carbohydrate, energy, minerals, and vitamins and their roles and interrelationships in nutrition, metabolism, and diseases in humans and animals. The course will use recommended texts for foundation.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Byung-Eun Kim",
+      "seats": "10,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ANS",
+      "room": "0402"
+    }
+  ],
+  "term": "201801",
+  "department": "Animal Science"
+}

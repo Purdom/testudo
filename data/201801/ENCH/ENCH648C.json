@@ -1,0 +1,26 @@
+{
+  "id": "ENCH648C",
+  "title": "Special Problems in Chemical Engineering; Control of Air Pollution Sources",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Akua Asa-Awuku",
+      "seats": "15,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "HJP",
+      "room": "2242"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Chemical"
+}

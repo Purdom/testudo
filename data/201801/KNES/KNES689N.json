@@ -1,0 +1,26 @@
+{
+  "id": "KNES689N",
+  "title": "Special Problems in Kinesiology; Curriculum Development in Physical Education",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "IH60",
+      "instructor": "Cara Hewitt",
+      "seats": "15,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:30pm",
+      "end": "7:30pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

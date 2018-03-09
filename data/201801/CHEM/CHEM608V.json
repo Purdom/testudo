@@ -1,0 +1,26 @@
+{
+  "id": "CHEM608V",
+  "title": "Selected Topics in Inorganic Chemistry; Organotransition Metal Chemistry and Catalysis",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andrei Vedernikov",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "CHM",
+      "room": "1224"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

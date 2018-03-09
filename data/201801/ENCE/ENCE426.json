@@ -1,0 +1,27 @@
+{
+  "id": "ENCE426",
+  "title": "Construction Documentation and BIM Applications in Engineering and Construction",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ENGR-Civil & Environmental Engineering department.\nRestriction: Must be in a major in ENGR-A. James Clark School of Engineering; or must be in the Construction Project Management Minor; or must be in the Project Management Minor.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jason Dreher",
+      "seats": "41,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:00pm",
+      "end": "8:30pm",
+      "building": "EGR",
+      "room": "0108"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

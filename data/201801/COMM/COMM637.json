@@ -1,0 +1,26 @@
+{
+  "id": "COMM637",
+  "title": "Professional Practice Forum in Translation: Career Portfolio and Exams",
+  "credits": "1",
+  "description": "Prerequisite: Admissions test for second year courses; and (COMM659 and COMM679); and permission of ARHU-Communication department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PG01",
+      "instructor": "Esperanza Pombo Lopez-Barron,",
+      "seats": "16,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "SKN",
+      "room": "3118"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

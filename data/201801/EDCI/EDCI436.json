@@ -1,0 +1,26 @@
+{
+  "id": "EDCI436",
+  "title": "Understanding Cross-Cultural Communication for Teaching English Language Learners",
+  "credits": "3",
+  "description": "Credit only granted for: EDCI436 or EDCI488T.\nFormerly: EDCI488T.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Melinda Martin-Beltran",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "7:45pm",
+      "building": "EDU",
+      "room": "3315"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

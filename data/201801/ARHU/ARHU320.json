@@ -1,0 +1,25 @@
+{
+  "id": "ARHU320",
+  "title": "Writers' House Second Year Colloquium: Writing for Publication",
+  "credits": "3",
+  "description": "Recommended: Completion of ARHU318 and ARHU319 recommended.\nRestriction: Currently enrolled in Writers' House or permission of program.\nCredit only granted for: ARHU319A or ARHU320.\nFormerly: ARHU319A.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Johnna Schmidt",
+      "seats": "30,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "TWS",
+      "room": "1320"
+    }
+  ],
+  "term": "201801",
+  "department": "Arts and Humanities"
+}

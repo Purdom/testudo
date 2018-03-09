@@ -1,0 +1,39 @@
+{
+  "id": "MUSC450",
+  "title": "Musical Form",
+  "credits": "3",
+  "description": "Prerequisite: MUSC251.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Gibson",
+      "seats": "25,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PAC",
+      "room": "2168"
+    },
+    {
+      "id": "0201",
+      "instructor": "David Froom",
+      "seats": "20,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PAC",
+      "room": "3164"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

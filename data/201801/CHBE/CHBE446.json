@@ -1,0 +1,39 @@
+{
+  "id": "CHBE446",
+  "title": "Process Engineering Economics and Design II",
+  "credits": "3",
+  "description": "Prerequisite: CHBE442 and CHBE444.\nRestriction: Must be in a major within the ENGR-Chemical & Biomolecular Engineering department; and permission of ENGR-Chemical & Biomolecular Engineering department.\nCredit only granted for: CHBE446 or ENCH446.\nFormerly: ENCH446.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0102",
+      "instructor": "Nam Sun Wang",
+      "seats": "55,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "11:00am",
+      "end": "1:30pm",
+      "building": "KEB",
+      "room": "1110"
+    },
+    {
+      "id": "0103",
+      "instructor": "Raymond Adomaitis",
+      "seats": "55,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "CHE",
+      "room": "2110"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemical and Biomolecular Engineering"
+}

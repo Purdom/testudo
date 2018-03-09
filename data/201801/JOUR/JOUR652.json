@@ -1,0 +1,26 @@
+{
+  "id": "JOUR652",
+  "title": "Interactive Design and Development",
+  "credits": "3",
+  "description": "Corequisite: Offered to students enrolled in the journalism master's degree or certificate. Master's degree students should take JOUR 504 as a pre- or co-requisite. Certificate students are encouraged to take JOUR 604 as a co-requisite.\nRestriction: Must be in a major in JOUR-Philip Merrill College of Journalism.\nCredit only granted for: JOUR652 or JOUR352.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0301",
+      "instructor": "Adam Marton,",
+      "seats": "1,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "3:45pm",
+      "building": "KNI",
+      "room": "2107"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

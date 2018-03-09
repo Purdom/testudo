@@ -1,0 +1,27 @@
+{
+  "id": "GVPT479L",
+  "title": "Seminar in American Politics; Local Politics and Government",
+  "credits": "3",
+  "description": "Restriction: Must be in Government & Politics program or Government & Politics: International Relations program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Richard Engstrom",
+      "seats": "30,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TLF",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "JOUR625",
+  "title": "Advanced Capital News Service Bureau",
+  "credits": "6",
+  "description": "Prerequisite: JOUR620; and permission of JOUR-Philip Merrill College of Journalism.\nCredit only granted for: JOUR625 or JOUR729.\nFormerly: JOUR729.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Carroll",
+      "seats": "10,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0201",
+      "instructor": "Karen Denny",
+      "seats": "10,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "COMM715",
+  "title": "Advanced Qualitative Methods in Communication Research",
+  "credits": "3",
+  "description": "Prerequisite: COMM714; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sahar Khamis",
+      "seats": "15,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:15pm",
+      "end": "10:15pm",
+      "building": "SKN",
+      "room": "2127"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

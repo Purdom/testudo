@@ -1,0 +1,26 @@
+{
+  "id": "BCHM676",
+  "title": "Biological Mass Spectrometry",
+  "credits": "3",
+  "description": "Prerequisite: BCHM461 or BCHM463.\nFormerly: BCHM669B.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Catherine Fenselau",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "CHM",
+      "room": "2507"
+    }
+  ],
+  "term": "201801",
+  "department": "Biochemistry"
+}

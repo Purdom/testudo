@@ -1,0 +1,27 @@
+{
+  "id": "JOUR289J",
+  "title": "Probing War: Investigative Narratives and American Conflicts",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christopher Hanson",
+      "seats": "30,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "KNI",
+      "room": "1208"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

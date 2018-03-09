@@ -1,0 +1,26 @@
+{
+  "id": "ENAE663",
+  "title": "Introduction to Plasmas for Space Propulsion and Power",
+  "credits": "3",
+  "description": "Prerequisite: PHYS411; and permission of instructor.\nCredit only granted for: ENAE788L or ENAE663.\nFormerly: ENAE788L.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Arber Masati",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "EGR",
+      "room": "1102"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

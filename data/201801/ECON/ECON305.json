@@ -1,0 +1,50 @@
+{
+  "id": "ECON305",
+  "title": "Intermediate Macroeconomic Theory and Policy",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in ECON201 and ECON200. And 1 course with a minimum grade of C- from (MATH120, MATH140, MATH130); or must have completed MATH220 with a minimum grade of C-.\nCredit only granted for: ECON305 or ECON325.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Neri",
+      "seats": "220,",
+      "open-seats": "48,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0201",
+      "instructor": "Martina Copelman",
+      "seats": "90,",
+      "open-seats": "43,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TWS",
+      "room": "0310"
+    },
+    {
+      "id": "0301",
+      "instructor": "Martina Copelman",
+      "seats": "90,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TWS",
+      "room": "0310"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

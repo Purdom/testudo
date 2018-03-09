@@ -1,0 +1,27 @@
+{
+  "id": "PERS212",
+  "title": "Intermediate Reading in Persian",
+  "credits": "3",
+  "description": "Prerequisite: PERS211 and PERS201; or permission of instructor.\nCorequisite: PERS202; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Susan Moinfar",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "HJP",
+      "room": "2114"
+    }
+  ],
+  "term": "201801",
+  "department": "Persian"
+}

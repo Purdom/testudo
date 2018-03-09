@@ -1,0 +1,26 @@
+{
+  "id": "BMGT831",
+  "title": "Operations Research: Extension of Linear Programming and Network Analysis",
+  "credits": "3",
+  "description": "Prerequisite: BMGT830; or students who have taken courses with comparable content may contact the department; or permission of BMGT-Robert H. Smith School of Business.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Bruce Golden",
+      "seats": "20,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "VMH",
+      "room": "3330H"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

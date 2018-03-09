@@ -1,0 +1,27 @@
+{
+  "id": "AMST298C",
+  "title": "Introduction to Asian American Studies",
+  "credits": "3",
+  "description": "Also offered as AAST200. Credit granted for AMST298C or AAST200. The aggregate experience of Asian Pacific Americans, from developments in the countries of origin to their contemporary issues. The histories of Asian Pacific American groups as well as culture, politics, the media, and stereotypes, viewed from an interdisciplinary perspective.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Janelle Wong",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "SQH",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "American Studies"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ENEE439M",
+  "title": "Topics in Signal Processing; Machine Learning",
+  "credits": "3",
+  "description": "Prerequisite: ENEE324 or STAT400, Programming skills in Matlab, C+, or Python. Restriction: permission of Electrical & Computer Engineering Department.\n\nStudents taking the course as CMSC498M must have completed CMSC330 and CMSC351 with a minimum grade of C-.\n\nA broad introduction to machine learning and statistical pattern recognition. Topics include: Supervised learning (Bayesian learning and classifier, parametric/non-parametric learning, discriminant functions, support vector machines, neural networks, deep learning networks); Unsupervised learning (clustering, dimensionality reduction, autoencoders). The course will also discuss recent applications of machine learning, such as computer vision, data mining, autonomous navigation, and speech recognition.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Behtash Babadi",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EGR",
+      "room": "1202"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

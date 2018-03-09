@@ -1,0 +1,27 @@
+{
+  "id": "PHYS410",
+  "title": "Classical Mechanics",
+  "credits": "4",
+  "description": "Prerequisite: PHYS373.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Maissam Barkeshli",
+      "seats": "44,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PHY",
+      "room": "0405"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

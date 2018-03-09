@@ -1,0 +1,62 @@
+{
+  "id": "ENPM809B",
+  "title": "Special Topics in Engineering; Building a Manufacturing Robot Software System",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Craig Schlenoff,",
+      "seats": "50,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "JMP",
+      "room": "2121"
+    },
+    {
+      "id": "HT01",
+      "instructor": "Craig Schlenoff,",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SG01",
+      "instructor": "Craig Schlenoff,",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "Craig Schlenoff,",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Professional Masters"
+}

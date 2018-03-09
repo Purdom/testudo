@@ -1,0 +1,111 @@
+{
+  "id": "KNES400",
+  "title": "The Foundations of Public Health in Kinesiology",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in KNES287; and must have completed or be concurrently enrolled in KNES360.\nRestriction: Senior standing or higher; and must be in a major within the SPHL-Kinesiology department.\nCredit only granted for: KNES400 or KNES498A.\nFormerly: KNES498A.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Katelyn Esmonde",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SPH",
+      "room": "1312"
+    },
+    {
+      "id": "0102",
+      "instructor": "Katelyn Esmonde",
+      "seats": "18,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SPH",
+      "room": "1312"
+    },
+    {
+      "id": "0103",
+      "instructor": "Katelyn Esmonde",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SPH",
+      "room": "1312"
+    },
+    {
+      "id": "0104",
+      "instructor": "Katelyn Esmonde",
+      "seats": "18,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SPH",
+      "room": "1312"
+    },
+    {
+      "id": "0105",
+      "instructor": "Katelyn Esmonde",
+      "seats": "18,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SPH",
+      "room": "1312"
+    },
+    {
+      "id": "0106",
+      "instructor": "Katelyn Esmonde",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SPH",
+      "room": "1312"
+    },
+    {
+      "id": "0107",
+      "instructor": "Katelyn Esmonde",
+      "seats": "18,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SPH",
+      "room": "1312"
+    },
+    {
+      "id": "0108",
+      "instructor": "Katelyn Esmonde",
+      "seats": "18,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SPH",
+      "room": "1312"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

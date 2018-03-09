@@ -1,0 +1,25 @@
+{
+  "id": "EDMS665",
+  "title": "Data Analysis and Statistical Consulting",
+  "credits": "3",
+  "description": "Prerequisite: EDMS651; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tracy Sweet",
+      "seats": "20,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "1121"
+    }
+  ],
+  "term": "201801",
+  "department": "Measurement, Statistics, and Evaluation"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "INAG101",
+  "title": "Computer Applications",
+  "credits": "3",
+  "description": "Restricted to students in the AGNR-Institute of Applied Agriculture department. Others by permission of the AGNR-Institute of Applied Agriculture department.\n\nAn up-to-date introduction to the use of computers on campus and in the agricultural industry. Exposure will be given to operating systems, storage media, networking, multimedia, and current hardware. Hands-on applica;tions with computers will cover windows operating system, word processing, spreadsheets and networking.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Roy Walls",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "ANS",
+      "room": "0509"
+    }
+  ],
+  "term": "201801",
+  "department": "Institute of Applied Agriculture"
+}

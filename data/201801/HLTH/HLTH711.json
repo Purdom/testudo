@@ -1,0 +1,26 @@
+{
+  "id": "HLTH711",
+  "title": "Advanced Research Methods in Health",
+  "credits": "3",
+  "description": "Prerequisite: HLTH710.\nRestriction: Must be in MPH: Community Health Education (Master's) program; or must be in Ph.D.: Public and Community Health (Doctoral) program.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kerry Green",
+      "seats": "10,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "PLS",
+      "room": "1158"
+    }
+  ],
+  "term": "201801",
+  "department": "Health"
+}

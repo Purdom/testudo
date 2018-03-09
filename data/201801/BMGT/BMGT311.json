@@ -1,0 +1,85 @@
+{
+  "id": "BMGT311",
+  "title": "Intermediate Accounting II",
+  "credits": "3",
+  "description": "Prerequisite: BMGT310.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Oliver Kim",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1411"
+    },
+    {
+      "id": "0201",
+      "instructor": "Oliver Kim",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1411"
+    },
+    {
+      "id": "0301",
+      "instructor": "Stephen Brown",
+      "seats": "30,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1202"
+    },
+    {
+      "id": "0401",
+      "instructor": "Stephen Brown",
+      "seats": "30,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1303"
+    },
+    {
+      "id": "SG91",
+      "instructor": "Michael Finch",
+      "seats": "35,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "BLD2",
+      "room": "3012"
+    },
+    {
+      "id": "SG92",
+      "instructor": "Michael Finch",
+      "seats": "35,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "BLD2",
+      "room": "3012"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

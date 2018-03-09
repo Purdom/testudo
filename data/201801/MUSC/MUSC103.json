@@ -1,0 +1,50 @@
+{
+  "id": "MUSC103",
+  "title": "Beginning Class Piano II",
+  "credits": "2",
+  "description": "Prerequisite: MUSC102; or permission of ARHU-School of Music department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Rodion Efremov",
+      "seats": "14,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PAC",
+      "room": "1123"
+    },
+    {
+      "id": "0201",
+      "instructor": "Jungyeon Yim",
+      "seats": "14,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PAC",
+      "room": "1123"
+    },
+    {
+      "id": "0301",
+      "instructor": "Katherine Vest",
+      "seats": "14,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "PAC",
+      "room": "1123"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

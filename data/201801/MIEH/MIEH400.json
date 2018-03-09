@@ -1,0 +1,97 @@
+{
+  "id": "MIEH400",
+  "title": "Introduction to Global Health",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in MIEH300; and 1 course with a minimum grade of C- from (SPHL100, PHSC300).\nRestriction: Must be in the Public Health Science program or must have permission of the program director; and must have completed 60 credits.\nCredit only granted for: MIEH400 or SPHL498A.\nFormerly: SPHL498A.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Amir Sapkota",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0102",
+      "instructor": "Amir Sapkota",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0103",
+      "instructor": "Amir Sapkota",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0104",
+      "instructor": "Amir Sapkota",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0105",
+      "instructor": "Amir Sapkota",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0108",
+      "instructor": "Amir Sapkota",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "SG91",
+      "instructor": "Negin Fouladi",
+      "seats": "35,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "BLD3",
+      "room": "3220"
+    }
+  ],
+  "term": "201801",
+  "department": "Maryland Institute for Applied Environmental Health"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ARCH386",
+  "title": "Experiential Learning",
+  "credits": "3 -",
+  "description": "Restriction: Must have learning proposal approved by faculty sponsor and student's internship sponsor; and sophomore standing or higher; and permission of ARCH-Architecture Program.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Brick",
+      "seats": "10,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

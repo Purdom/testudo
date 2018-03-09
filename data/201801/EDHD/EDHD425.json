@@ -1,0 +1,25 @@
+{
+  "id": "EDHD425",
+  "title": "Language Development and Reading Acquisition",
+  "credits": "3",
+  "description": "This course focuses on young children's language development and the relationship between language and reading acquisition. Students will learn: concepts central to language development; language achievements at different ages; concepts of emergent literacy; models of reading acquisition and skilled reading.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Min Wang",
+      "seats": "40,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "EDU",
+      "room": "2119"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Human Development"
+}

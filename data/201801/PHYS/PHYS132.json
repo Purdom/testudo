@@ -1,0 +1,147 @@
+{
+  "id": "PHYS132",
+  "title": "Fundamentals of Physics for Life Sciences II",
+  "credits": "4",
+  "description": "Prerequisite: PHYS131; or students who have taken courses with comparable content may contact the department.\nCredit only granted for: PHYS122, PHYS132, or PHYS332.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Edward Redish",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0102",
+      "instructor": "Edward Redish",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0103",
+      "instructor": "Edward Redish",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0104",
+      "instructor": "Edward Redish",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0105",
+      "instructor": "Edward Redish",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0106",
+      "instructor": "Edward Redish",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0201",
+      "instructor": "William Dorland",
+      "seats": "24,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0202",
+      "instructor": "William Dorland",
+      "seats": "23,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0203",
+      "instructor": "William Dorland",
+      "seats": "22,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0204",
+      "instructor": "William Dorland",
+      "seats": "24,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0205",
+      "instructor": "William Dorland",
+      "seats": "23,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PHY",
+      "room": "1412"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

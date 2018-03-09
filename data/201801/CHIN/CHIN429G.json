@@ -1,0 +1,27 @@
+{
+  "id": "CHIN429G",
+  "title": "Selected Topics in Chinese Studies; Ethnic and Cultural Diversity in China",
+  "credits": "3",
+  "description": "Taught in English.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Minglang Zhou",
+      "seats": "30,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "JMZ",
+      "room": "1122"
+    }
+  ],
+  "term": "201801",
+  "department": "Chinese"
+}

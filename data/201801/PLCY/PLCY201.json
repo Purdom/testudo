@@ -1,0 +1,51 @@
+{
+  "id": "PLCY201",
+  "title": "Leadership for the Common Good",
+  "credits": "3",
+  "description": "Credit only granted for: PLCY201 or PUAF201.\nFormerly: PUAF201.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ricco Hall",
+      "seats": "47,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:00pm",
+      "end": "7:30pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0102",
+      "instructor": "Ricco Hall",
+      "seats": "47,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:00pm",
+      "end": "7:30pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0103",
+      "instructor": "Ricco Hall",
+      "seats": "47,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:00pm",
+      "end": "7:30pm",
+      "building": "MMH",
+      "room": "1400"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

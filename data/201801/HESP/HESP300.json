@@ -1,0 +1,27 @@
+{
+  "id": "HESP300",
+  "title": "Introduction to Psycholinguistics",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in HESP202; or permission of BSOS-Hearing & Speech Sciences department.\nRecommended: HESP120.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yi Ting Huang",
+      "seats": "53,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "KEY",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "Hearing and Speech Sciences"
+}

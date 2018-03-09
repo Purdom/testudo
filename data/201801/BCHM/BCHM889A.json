@@ -1,0 +1,26 @@
+{
+  "id": "BCHM889A",
+  "title": "Seminar; Biochemistry",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Instructor: TBA",
+      "seats": "35,",
+      "open-seats": "23,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CHM",
+      "room": "0112"
+    }
+  ],
+  "term": "201801",
+  "department": "Biochemistry"
+}

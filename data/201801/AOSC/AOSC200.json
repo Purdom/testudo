@@ -1,0 +1,111 @@
+{
+  "id": "AOSC200",
+  "title": "Weather and Climate",
+  "credits": "3",
+  "description": "Prerequisite: MATH107, MATH110, or MATH115.\nRecommended: Concurrent enrollment in AOSC201.\nFormerly: METO200.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Rachel Pinker",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0102",
+      "instructor": "Rachel Pinker",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0103",
+      "instructor": "Rachel Pinker",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0104",
+      "instructor": "Rachel Pinker",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0201",
+      "instructor": "Rachel Pinker",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0202",
+      "instructor": "Rachel Pinker",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0203",
+      "instructor": "Rachel Pinker",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0204",
+      "instructor": "Rachel Pinker",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ATL",
+      "room": "2324"
+    }
+  ],
+  "term": "201801",
+  "department": "Atmospheric and Oceanic Science"
+}

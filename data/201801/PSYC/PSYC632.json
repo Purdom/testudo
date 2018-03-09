@@ -1,0 +1,26 @@
+{
+  "id": "PSYC632",
+  "title": "Behavioral and Cognitive Behavioral Intervention for Children and Adolescents",
+  "credits": "3",
+  "description": "Restriction: Permission of instructor; and must be in one of the following programs (Psychology (Master's); Psychology (Doctoral)).\nFormerly: PSYC789A.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andrea Chronis-Tuscano",
+      "seats": "20,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "10:00am",
+      "end": "12:50pm",
+      "building": "BPS",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

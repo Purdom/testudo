@@ -1,0 +1,27 @@
+{
+  "id": "PHYS499V",
+  "title": "Special Problems in Physics; Colloquium for Undergraduate Physics Majors",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Instructor: TBA",
+      "seats": "60,",
+      "open-seats": "60,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:15pm",
+      "building": "PHY",
+      "room": "1201"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

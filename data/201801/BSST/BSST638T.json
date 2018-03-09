@@ -1,0 +1,26 @@
+{
+  "id": "BSST638T",
+  "title": "Special Topics in Terrorism Studies; Quantitative Research Methods",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "ST01",
+      "instructor": "Barnett Koven",
+      "seats": "25,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:00pm",
+      "end": "8:30pm",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Terrorism Studies"
+}

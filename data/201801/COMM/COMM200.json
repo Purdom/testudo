@@ -1,0 +1,63 @@
+{
+  "id": "COMM200",
+  "title": "Critical Thinking and Speaking",
+  "credits": "3",
+  "description": "Credit only granted for: COMM107, COMM200, ENES143, INAG110, JOUR130, OR THET285.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Annie Nichols",
+      "seats": "19,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "HBK",
+      "room": "1112"
+    },
+    {
+      "id": "0201",
+      "instructor": "Meridith Styer",
+      "seats": "19,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "HBK",
+      "room": "1112"
+    },
+    {
+      "id": "0301",
+      "instructor": "Annie Nichols",
+      "seats": "19,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PLS",
+      "room": "1115"
+    },
+    {
+      "id": "0401",
+      "instructor": "Annie Nichols",
+      "seats": "19,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "PLS",
+      "room": "1115"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

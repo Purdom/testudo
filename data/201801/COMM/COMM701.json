@@ -1,0 +1,26 @@
+{
+  "id": "COMM701",
+  "title": "Quantitative Methods in Communication Research",
+  "credits": "3",
+  "description": "Prerequisite: COMM700.\nFormerly: SPCH701.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Anita Seate",
+      "seats": "15,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:30pm",
+      "end": "6:30pm",
+      "building": "SKN",
+      "room": "2127"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

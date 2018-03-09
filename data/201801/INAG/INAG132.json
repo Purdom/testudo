@@ -1,0 +1,25 @@
+{
+  "id": "INAG132",
+  "title": "Agricultural Leadership and Teamwork",
+  "credits": "3",
+  "description": "Restriction: Students at the Institute of Applied Agriculture (IAA); or students at the College of Agriculture and Natural Resources (AGNR); or permission may be granted to other students based on available space.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Larisa Cioaca",
+      "seats": "25,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Institute of Applied Agriculture"
+}

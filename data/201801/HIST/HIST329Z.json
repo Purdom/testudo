@@ -1,0 +1,27 @@
+{
+  "id": "HIST329Z",
+  "title": "Special Topics in History; Mizrahi Identity in Israel",
+  "credits": "3",
+  "description": "It is impossible to understand Israeli society today without examining the Mizrahi experience.Despite the common misconception that most Israelis are of European origin,the fact of the matter is that Jews of Mizrahi origin, whose parents and grandparentsimmigrated to Israel from the Middle East and North Africa,represent a major part of the Israeli population. Moreover, Ashkenazi-Mizrahi relationscontinue to be a major source of tension in Israeli society and politics. This course brings to light narratives of Mizrahi identity in Israel and explores the trajectory of the Mizrahi strugglefor equality through its various milestones: the 1959 Wadi Salib Revolt,the Black Panthers Movement in the 1970s, the emergence of the Israeli Sephardi-Orthodox party Shas, and the new wave of Mizrahi activism in the 21st century. Additionally, the course explores literature, film and television to uncover the way Mizrahi Jews narrate their story in Israel today. Also offered as ISRL329M and JWST319D. Credit only granted for HIST329Z, ISRL329M, or JWST319D.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shay Hazkani",
+      "seats": "30,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "HJP",
+      "room": "2118"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

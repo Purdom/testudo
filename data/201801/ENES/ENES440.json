@@ -1,0 +1,27 @@
+{
+  "id": "ENES440",
+  "title": "Science, Technology and Society: Certificate Program Capstone",
+  "credits": "3",
+  "description": "Restriction: Must be in the Science, Technology and Society certificate program; or permission of ENGR-A. James Clark School of Engineering.\nCredit only granted for: ENES440 or UNIV401.\nFormerly: UNIV401.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Tomblin",
+      "seats": "25,",
+      "open-seats": "23,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

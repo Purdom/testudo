@@ -1,0 +1,27 @@
+{
+  "id": "ENST445",
+  "title": "Ecological Risk Assessment",
+  "credits": "3",
+  "description": "Prerequisite: ENST360 or BSCI361; and (BIOM301 and ENST334). Or permission of AGNR-Environmental Science & Technology department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Scott Lynn,",
+      "seats": "30,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MTh",
+      "start": "6:30pm",
+      "end": "7:45pm",
+      "building": "ANS",
+      "room": "0422"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

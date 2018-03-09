@@ -1,0 +1,26 @@
+{
+  "id": "MUSC672",
+  "title": "Masterworks of the 20th Century: 1900-1950",
+  "credits": "3",
+  "description": "Restriction: Permission of ARHU-School of Music department; and must not have completed MUSC470.\nCredit only granted for: MUSC448M, MUSC470, MUSC672, or MUSC699M.\nFormerly: MUSC699M.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mark Wilson",
+      "seats": "15,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PAC",
+      "room": "3168"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

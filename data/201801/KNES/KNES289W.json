@@ -1,0 +1,63 @@
+{
+  "id": "KNES289W",
+  "title": "Topical Investigations; The Cybernetic Human",
+  "credits": "3",
+  "description": "Can the profound and rapid technological advances experienced in the 21st century change what it means to be human or the nature of humanity? Emergent technologies, new materials, increased computer power, engineering innovations, and groundbreaking work in the sciences of cognition and action provide myriad opportunities for repairing and enhancing the human body and brain. Examines the ethical, social, and technological implications of an increasing synergism of technology and and the body in sports and the arts, at work or home, rehabilitating the the body and the brain, and society at large.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tim Kiemel",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "CCC",
+      "room": "1100"
+    },
+    {
+      "id": "0102",
+      "instructor": "Tim Kiemel",
+      "seats": "20,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "CCC",
+      "room": "1100"
+    },
+    {
+      "id": "0103",
+      "instructor": "Tim Kiemel",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "CCC",
+      "room": "1100"
+    },
+    {
+      "id": "0104",
+      "instructor": "Tim Kiemel",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "CCC",
+      "room": "1100"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

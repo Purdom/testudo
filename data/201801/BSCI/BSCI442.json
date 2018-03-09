@@ -1,0 +1,39 @@
+{
+  "id": "BSCI442",
+  "title": "Plant Physiology",
+  "credits": "4",
+  "description": "Prerequisite: BSCI170 and BSCI171; or BSCI105; or PLSC201. And CHEM231 and CHEM232; or CHEM237; or permission of CMNS-Biological Sciences UG Program.\nRestriction: Must not have completed ENST407; or must not have completed PLSC400.\nAlso offered as: PLSC400.\nCredit only granted for: BSCI442 or PLSC400.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Wendy Peer,",
+      "seats": "24,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "PLS",
+      "room": "1130"
+    },
+    {
+      "id": "0102",
+      "instructor": "Wendy Peer,",
+      "seats": "24,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "PLS",
+      "room": "1130"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

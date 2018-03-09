@@ -1,0 +1,121 @@
+{
+  "id": "PSYC433",
+  "title": "Basic Helping Skills: Research and Practice",
+  "credits": "4",
+  "description": "Prerequisite: PSYC300.\nRestriction: Must be in Psychology program; and must have earned a minimum of 85 credits; and must not have completed or be concurrently enrolled in EDCP 310.\nCredit only granted for: PSYC433 or EDCP310.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jonathan Mohr",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "BPS",
+      "room": "1250"
+    },
+    {
+      "id": "0102",
+      "instructor": "Jonathan Mohr",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "BPS",
+      "room": "1250"
+    },
+    {
+      "id": "0103",
+      "instructor": "Jonathan Mohr",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "BPS",
+      "room": "1250"
+    },
+    {
+      "id": "0104",
+      "instructor": "Jonathan Mohr",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "BPS",
+      "room": "1250"
+    },
+    {
+      "id": "0105",
+      "instructor": "Jonathan Mohr",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "BPS",
+      "room": "1250"
+    },
+    {
+      "id": "0106",
+      "instructor": "Jonathan Mohr",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "BPS",
+      "room": "1250"
+    },
+    {
+      "id": "0107",
+      "instructor": "Jonathan Mohr",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "BPS",
+      "room": "1250"
+    },
+    {
+      "id": "0108",
+      "instructor": "Jonathan Mohr",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "BPS",
+      "room": "1250"
+    },
+    {
+      "id": "0109",
+      "instructor": "Jonathan Mohr",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "BPS",
+      "room": "1250"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "INAG106",
+  "title": "Pesticide Use and Safety",
+  "credits": "2",
+  "description": "Additional information: Priority enrollment will be given to students in the IAA program or to students in the College of Agriculture and Natural Resources (AGNR).",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ronald Myers",
+      "seats": "50,",
+      "open-seats": "25,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:00pm",
+      "end": "4:50pm",
+      "building": "JUL",
+      "room": "1123"
+    }
+  ],
+  "term": "201801",
+  "department": "Institute of Applied Agriculture"
+}

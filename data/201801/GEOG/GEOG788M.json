@@ -1,0 +1,27 @@
+{
+  "id": "GEOG788M",
+  "title": "Selected Topics in Geography; Migration: Latin America and the United States",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud",
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ronald Luna",
+      "seats": "25,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "LEF",
+      "room": "1158"
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "AMST450",
+  "title": "Seminar in American Studies",
+  "credits": "3",
+  "description": "Prerequisite: AMST201 and AMST340; and 1 course in AMST.\nRestriction: Senior standing; and must be in American Studies program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mary Sies",
+      "seats": "15,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TWS",
+      "room": "0330"
+    },
+    {
+      "id": "0201",
+      "instructor": "Christina Hanhardt",
+      "seats": "15,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "0134"
+    }
+  ],
+  "term": "201801",
+  "department": "American Studies"
+}

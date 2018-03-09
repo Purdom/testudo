@@ -1,0 +1,38 @@
+{
+  "id": "INST362",
+  "title": "User-Centered Design",
+  "credits": "3",
+  "description": "Prerequisite: PSYC100; and (must have completed or be concurrently enrolled in INST201; or must have completed INST301); and must have completed INST326.\nRestriction: Must be in Information Science program; and permission of INFO-College of Information Studies.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Weintrop",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "HJP",
+      "room": "2242"
+    },
+    {
+      "id": "0102",
+      "instructor": "Tamara Clegg",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "ESJ",
+      "room": "1202"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

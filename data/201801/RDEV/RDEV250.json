@@ -1,0 +1,27 @@
+{
+  "id": "RDEV250",
+  "title": "People, Planet, and Profit: Building Sustainable Places",
+  "credits": "3",
+  "description": "Also offered as: ARCH271.\nCredit only granted for: ARCH271 or RDEV250.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Heidi Bulich",
+      "seats": "150,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ESJ",
+      "room": "1224"
+    }
+  ],
+  "term": "201801",
+  "department": "Real Estate Development"
+}

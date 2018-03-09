@@ -1,0 +1,27 @@
+{
+  "id": "INAG244",
+  "title": "Herbaceous Plants",
+  "credits": "3",
+  "description": "Restriction: Must be in a major within the AGNR-Institute of Applied Agriculture department; or must be in a major in AGNR-College of Agriculture & Natural Resources; or permission of AGNR-Institute of Applied Agriculture department.\nAlso offered as: PLSC244.\nCredit only granted for: INAG244 or PLSC244.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kenneth Ingram",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "JUL",
+      "room": "1123"
+    }
+  ],
+  "term": "201801",
+  "department": "Institute of Applied Agriculture"
+}

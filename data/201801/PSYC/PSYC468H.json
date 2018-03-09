@@ -1,0 +1,39 @@
+{
+  "id": "PSYC468H",
+  "title": "Field Experience and Special Assignments in Honors",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Dougherty",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "BPS",
+      "room": "1103"
+    },
+    {
+      "id": "5008",
+      "instructor": "Karen O'Brien",
+      "seats": "2,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

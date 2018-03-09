@@ -1,0 +1,27 @@
+{
+  "id": "GEOL341",
+  "title": "Structural Geology",
+  "credits": "4",
+  "description": "Prerequisite: GEOL120 or GEOL100; and GEOL102; and GEOL110. Or permission of CMNS-Geology department.\nRestriction: Permission of instructor is required of non-degree seeking students.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mong-Han Huang",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "PLS",
+      "room": "1158"
+    }
+  ],
+  "term": "201801",
+  "department": "Geology"
+}

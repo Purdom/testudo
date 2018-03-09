@@ -1,0 +1,27 @@
+{
+  "id": "CHEM401",
+  "title": "Inorganic Chemistry",
+  "credits": "3",
+  "description": "Prerequisite: CHEM276 or CHEM271; and (CHEM247 or CHEM241).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Efrain Rodriguez",
+      "seats": "100,",
+      "open-seats": "46,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "PLS",
+      "room": "1140"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

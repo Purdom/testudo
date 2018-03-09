@@ -1,0 +1,25 @@
+{
+  "id": "CMSC389E",
+  "title": "Special Topics in Computer Science; Digital Logic Design through Minecraft",
+  "credits": "1",
+  "description": "Prerequisite: CMSC216 and CMSC250 with a grade of C- or better. Restriction: Permission of CMSN-Computer Science department.\n\nThis class explores the fundamentals of digital logic design using Minecraft's Redstone. Using the low-level and intuitive visualization of circuitry Redstone provides, you will create a series of projects that apply principles of digital logic design learned in class.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jason Filippou",
+      "seats": "30,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "CSI",
+      "room": "3118"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

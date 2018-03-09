@@ -1,0 +1,39 @@
+{
+  "id": "BMGT289B",
+  "title": "How Do Innovators Think?",
+  "credits": "3",
+  "description": "Credit will be granted for only one of the following: BMGT289B or HONR289P. Evening guest speakers 6:30pm-9:15pm are on specific dates. Daytime meetings will be held every week.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mark Wellman",
+      "seats": "60,",
+      "open-seats": "24,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "CCC",
+      "room": "1205"
+    },
+    {
+      "id": "0201",
+      "instructor": "Mark Wellman",
+      "seats": "60,",
+      "open-seats": "32,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "CCC",
+      "room": "1205"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

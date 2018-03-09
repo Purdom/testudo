@@ -1,0 +1,25 @@
+{
+  "id": "AMSC760",
+  "title": "Applied Statistics Practicum",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed one year of graduate study in Applied Statistics.\nRestriction: Must have project proposal approved by SAC coordinator.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Konstantina Trivisa",
+      "seats": "10,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Applied Mathematics & Scientific Computation"
+}

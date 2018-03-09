@@ -1,0 +1,26 @@
+{
+  "id": "HLSA798",
+  "title": "HLSA Journal Club",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "S-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jie Chen",
+      "seats": "15,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "12:00pm",
+      "end": "1:00pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Health Services Administration"
+}

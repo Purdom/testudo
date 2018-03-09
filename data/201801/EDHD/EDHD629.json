@@ -1,0 +1,26 @@
+{
+  "id": "EDHD629",
+  "title": "Seminar for the Center for Children, Relationships, and Culture",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Natasha Cabrera",
+      "seats": "25,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:20pm",
+      "end": "2:45pm",
+      "building": "EDU",
+      "room": "1121"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Human Development"
+}

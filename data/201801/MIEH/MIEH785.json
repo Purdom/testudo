@@ -1,0 +1,26 @@
+{
+  "id": "MIEH785",
+  "title": "Internship in Public Health",
+  "credits": "3",
+  "description": "Prerequisite: Permission of SPHL-Maryland Institute for Applied Environmental Health.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robin Puett",
+      "seats": "5,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Maryland Institute for Applied Environmental Health"
+}

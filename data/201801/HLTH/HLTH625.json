@@ -1,0 +1,26 @@
+{
+  "id": "HLTH625",
+  "title": "Community Assessment through Qualitative Methods",
+  "credits": "3",
+  "description": "Restriction: Course will be restricted to Behavioral and Community Health graduate students.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elizabeth Aparicio",
+      "seats": "25,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "ATL",
+      "room": "1106"
+    }
+  ],
+  "term": "201801",
+  "department": "Health"
+}

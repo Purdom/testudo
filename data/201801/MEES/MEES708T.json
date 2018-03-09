@@ -1,0 +1,26 @@
+{
+  "id": "MEES708T",
+  "title": "Advanced Topics in Marine-Estuarine-Environmental Science; Science Visualization",
+  "credits": "2",
+  "description": "Data visualization techniques, including conceptual diagrams, photographs, maps, graphs and tables will be taught by Professional Science Communicators in the Integration and Application Network, University of Maryland Center for Environmental Science. Promotes the development of applied science visualization skills, including producing PowerPoint, posters, and graphics for publication in a variety of media Principles of good science visualization will be illustrated by case studies.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Dennison",
+      "seats": "15,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "1:00pm",
+      "end": "3:00pm",
+      "building": "HJP",
+      "room": "1213B"
+    }
+  ],
+  "term": "201801",
+  "department": "Marine-Estuarine-Environmental Sciences"
+}

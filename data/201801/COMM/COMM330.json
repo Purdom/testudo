@@ -1,0 +1,39 @@
+{
+  "id": "COMM330",
+  "title": "Argumentation and Public Policy",
+  "credits": "3",
+  "description": "Contemporary theories of argumentation with special emphasis on methods of formulating and critiquing public policy argument.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Meridith Styer",
+      "seats": "35,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "SKN",
+      "room": "0104"
+    },
+    {
+      "id": "0201",
+      "instructor": "Meridith Styer",
+      "seats": "35,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "TWS",
+      "room": "0234"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "HIST419M",
+  "title": "Special Topics in History; Nazi Germany",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jeffrey Herf",
+      "seats": "40,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "KEY",
+      "room": "1117"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

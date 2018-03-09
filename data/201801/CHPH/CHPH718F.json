@@ -1,0 +1,26 @@
+{
+  "id": "CHPH718F",
+  "title": "Special Topics in Chemical Physics; Methods of Statistical Physics",
+  "credits": "3",
+  "description": "Prerequisite: PHYS414 or equivalent. Credit granted for PHYS602 or PHYS603. Foundations and applications of thermodynamics and statisticalmechanics. Advanced special students require department authorization. Also offered as PHYS603.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Brian Swingle",
+      "seats": "49,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PHY",
+      "room": "1402"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemical Physics"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "PERS102",
+  "title": "Elementary Persian II",
+  "credits": "4",
+  "description": "Prerequisite: PERS101; or must have appropriate Foreign Language Placement Test (FLPT) score.\nRestriction: Must not be native/fluent speaker of Persian.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Susan Moinfar",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MTuWThF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "HJP",
+      "room": "2114"
+    }
+  ],
+  "term": "201801",
+  "department": "Persian"
+}

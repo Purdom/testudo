@@ -1,0 +1,26 @@
+{
+  "id": "PHYS709",
+  "title": "Seminar in General Physics; Statistical Physics",
+  "credits": "1",
+  "description": "Also offered as CHPH709B. Credit granted for CHPH709B or PHYS709.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Weeks",
+      "seats": "30,",
+      "open-seats": "24,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "1:15pm",
+      "end": "2:30pm",
+      "building": "IPT",
+      "room": "1116"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

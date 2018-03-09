@@ -1,0 +1,27 @@
+{
+  "id": "ENGL445",
+  "title": "Modern British and American Poetry",
+  "credits": "3",
+  "description": "Prerequisite: Two English courses in literature; or permission of ARHU-English department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nathaniel Underland",
+      "seats": "22,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "0214"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

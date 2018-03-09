@@ -1,0 +1,39 @@
+{
+  "id": "PLSC254",
+  "title": "Woody Plants for Mid-Atlantic Landscape II",
+  "credits": "3",
+  "description": "Prerequisite: PLSC100 and PLSC253; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Karen Petroff",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "WF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "PLS",
+      "room": "1140"
+    },
+    {
+      "id": "0102",
+      "instructor": "Karen Petroff",
+      "seats": "24,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "WF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "PLS",
+      "room": "1140"
+    }
+  ],
+  "term": "201801",
+  "department": "Plant Sciences"
+}

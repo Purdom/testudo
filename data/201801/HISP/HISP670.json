@@ -1,0 +1,26 @@
+{
+  "id": "HISP670",
+  "title": "Conservation of Historic Places: Historic Materials, Building Systems, and Conservation",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ARCH-Historic Preservation Program.\nCredit only granted for: HISP619T or HISP670.\nFormerly: HISP619T.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dennis Pogue",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "ARC",
+      "room": "1117"
+    }
+  ],
+  "term": "201801",
+  "department": "Historic Preservation"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "PSYC440",
+  "title": "Experimental Psychology: Cognitive Processes",
+  "credits": "4",
+  "description": "Prerequisite: PSYC341 and PSYC300.\nRestriction: Must be in Psychology program; and must have earned a minimum of 85 credits.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tracy Tomlinson",
+      "seats": "24,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "BPS",
+      "room": "0140"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

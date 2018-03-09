@@ -1,0 +1,39 @@
+{
+  "id": "ENGL265",
+  "title": "Lesbian, Gay, Bisexual, and Transgender Literatures",
+  "credits": "3",
+  "description": "Restriction: Must not have completed LGBT265.\nAlso offered as: LGBT265.\nCredit only granted for: ENGL265 or LGBT265.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Aqdas Aftab",
+      "seats": "30,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TWS",
+      "room": "1107"
+    },
+    {
+      "id": "0201",
+      "instructor": "James Goodwin",
+      "seats": "30,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "TWS",
+      "room": "0205"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

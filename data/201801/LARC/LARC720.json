@@ -1,0 +1,26 @@
+{
+  "id": "LARC720",
+  "title": "Environmental Analysis and Site Engineering",
+  "credits": "3",
+  "description": "Prerequisite: LARC640; or permission of AGNR-Plant Science & Landscape Architecture department.\nCorequisite: LARC641.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Joseph Burkhardt",
+      "seats": "10,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "8:00am",
+      "end": "9:50am",
+      "building": "PLS",
+      "room": "1142"
+    }
+  ],
+  "term": "201801",
+  "department": "Landscape Architecture"
+}

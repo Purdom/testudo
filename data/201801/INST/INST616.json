@@ -1,0 +1,26 @@
+{
+  "id": "INST616",
+  "title": "Open Source Intelligence",
+  "credits": "3",
+  "description": "Restriction: Permission of INFO-College of Information Studies.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mary Ann Francis",
+      "seats": "30,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "HBK",
+      "room": "4115"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

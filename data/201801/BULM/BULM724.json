@@ -1,0 +1,25 @@
+{
+  "id": "BULM724",
+  "title": "Negotiations in Supply Chain Management",
+  "credits": "2",
+  "description": "Restriction: Must be in one of the following programs (Business and Management (Master's); Business and Management (Master's)).",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Rellie Rozin",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "VMH",
+      "room": "1511"
+    }
+  ],
+  "term": "201801",
+  "department": "Logistics, Business, and Public Policy"
+}

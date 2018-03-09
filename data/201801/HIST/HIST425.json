@@ -1,0 +1,27 @@
+{
+  "id": "HIST425",
+  "title": "Imperial Russia",
+  "credits": "3",
+  "description": "The rise and fall of the Russian Empire, Peter the Great to the collapse of tsarism in revolution. Emphasis on the evolution of autocracy, social groups, national identities, and cultural change.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mikhail Dolbilov",
+      "seats": "40,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "KEY",
+      "room": "0116"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

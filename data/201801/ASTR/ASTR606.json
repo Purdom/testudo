@@ -1,0 +1,26 @@
+{
+  "id": "ASTR606",
+  "title": "Stellar Structure and Evolution",
+  "credits": "3",
+  "description": "Prerequisite: ASTR601; or permission of CMNS-Astronomy department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Leo Deming",
+      "seats": "20,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ATL",
+      "room": "0201"
+    }
+  ],
+  "term": "201801",
+  "department": "Astronomy"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "INST408B",
+  "title": "Special Topics in Information Science; Design and Humanity Disability and Aging",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gregg Vanderheiden",
+      "seats": "30,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:30pm",
+      "end": "5:15pm",
+      "building": "HBK",
+      "room": "2119"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

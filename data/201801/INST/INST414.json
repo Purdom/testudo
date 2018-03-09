@@ -1,0 +1,26 @@
+{
+  "id": "INST414",
+  "title": "Data Science Techniques",
+  "credits": "3",
+  "description": "Prerequisite: INST314.\nRestriction: Must be in Information Science program; and permission of INFO-College of Information Studies.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jordan Boyd-Graber Ying",
+      "seats": "50,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "KEB",
+      "room": "1200"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

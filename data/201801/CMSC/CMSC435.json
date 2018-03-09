@@ -1,0 +1,25 @@
+{
+  "id": "CMSC435",
+  "title": "Software Engineering",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (CMSC412, CMSC417, CMSC420, CMSC430, CMSC433); and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Purtilo",
+      "seats": "48,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "CSI",
+      "room": "1121"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

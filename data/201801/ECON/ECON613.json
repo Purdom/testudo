@@ -1,0 +1,26 @@
+{
+  "id": "ECON613",
+  "title": "Origins and Development of Capitalism",
+  "credits": "3",
+  "description": "Institutions and technology shaping pre-capitalist economies: Archaic, Greek and Roman, Feudal, and Mercantile. Rise of the market system, national economies, and capitalism. The nature of industrial society. Imperialism.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Wallis",
+      "seats": "22,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "LEF",
+      "room": "1222"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

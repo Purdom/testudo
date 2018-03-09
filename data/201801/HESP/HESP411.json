@@ -1,0 +1,27 @@
+{
+  "id": "HESP411",
+  "title": "Introduction to Audiology",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in HESP311; or permission of BSOS-Hearing & Speech Sciences department.\nRestriction: Must be in Hearing and Speech Sciences program; or permission of BSOS-Hearing & Speech Sciences department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Samira Anderson",
+      "seats": "42,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ESJ",
+      "room": "1309"
+    }
+  ],
+  "term": "201801",
+  "department": "Hearing and Speech Sciences"
+}

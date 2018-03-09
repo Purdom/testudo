@@ -1,0 +1,61 @@
+{
+  "id": "LARC151",
+  "title": "Urban Agriculture: Designing and Assessing Edible Landscapes",
+  "credits": "3",
+  "description": "Students will examine the growing development of urban agriculture and edible landscapes. Urban agriculture has seen a recent growth and interest in cities across the globe. From Paris to New York, from Baltimore to Detroit, urban agriculture is an emerging land use to address a variety of needs. Redevelopment, food deserts, community engagement and environmental justice are just some of the issues and topics that are connected to the recent growth of urban agriculture. This course will take a critical examination of urban agriculture's contribution to the food system, its input and outputs in the urban landscape, and the planning and design of urban agriculture and edible landscapes.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Allison Tjaden",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PLS",
+      "room": "1140"
+    },
+    {
+      "id": "0102",
+      "instructor": "Allison Tjaden",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PLS",
+      "room": "1140"
+    },
+    {
+      "id": "0103",
+      "instructor": "Allison Tjaden",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PLS",
+      "room": "1140"
+    },
+    {
+      "id": "0104",
+      "instructor": "Allison Tjaden",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PLS",
+      "room": "1140"
+    }
+  ],
+  "term": "201801",
+  "department": "Landscape Architecture"
+}

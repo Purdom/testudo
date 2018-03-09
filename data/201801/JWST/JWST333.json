@@ -1,0 +1,27 @@
+{
+  "id": "JWST333",
+  "title": "Jews in Early Modern Times 1450-1750",
+  "credits": "3",
+  "description": "Recommended: HIST282; or JWST234.\nAlso offered as: HIST373.\nCredit only granted for: JWST333 or HIST373.\nFormerly: JWST419C.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Bernard Cooperman",
+      "seats": "40,",
+      "open-seats": "32,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "KEY",
+      "room": "0116"
+    }
+  ],
+  "term": "201801",
+  "department": "Jewish Studies"
+}

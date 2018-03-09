@@ -1,0 +1,39 @@
+{
+  "id": "CCJS340",
+  "title": "Policing",
+  "credits": "3",
+  "description": "Prerequisite: CCJS100.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Laure Brooks",
+      "seats": "200,",
+      "open-seats": "80,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "LEF",
+      "room": "2205"
+    },
+    {
+      "id": "0201",
+      "instructor": "David Mitchell",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PHY",
+      "room": "4221"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

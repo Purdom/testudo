@@ -1,0 +1,27 @@
+{
+  "id": "RUSS321",
+  "title": "Survey of Russian Literature I",
+  "credits": "3",
+  "description": "Prerequisite: RUSS202; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Anastasiia Selemeneva",
+      "seats": "15,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "JMZ",
+      "room": "1124"
+    }
+  ],
+  "term": "201801",
+  "department": "Russian"
+}

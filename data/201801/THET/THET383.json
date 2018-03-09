@@ -1,0 +1,27 @@
+{
+  "id": "THET383",
+  "title": "Costume Design I",
+  "credits": "3",
+  "description": "Prerequisite: TDPS201 or THET114; and (THET116, THET222, and THET223). Or permission of ARHU-School of Theatre, Dance & Performance Studies department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Alexa Duimstra",
+      "seats": "8,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "PAC",
+      "room": "2755"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre"
+}

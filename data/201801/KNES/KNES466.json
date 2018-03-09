@@ -1,0 +1,25 @@
+{
+  "id": "KNES466",
+  "title": "Graded Exercise Testing",
+  "credits": "3",
+  "description": "Prerequisite: KNES360; or permission of SPHL-Kinesiology department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Marc Rogers",
+      "seats": "33,",
+      "open-seats": "25,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SPH",
+      "room": "0307"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

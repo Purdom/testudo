@@ -1,0 +1,25 @@
+{
+  "id": "EDHD718",
+  "title": "Apprenticeship in College Teaching",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ann Battle",
+      "seats": "10,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "1:00pm",
+      "end": "3:30pm",
+      "building": "EDU",
+      "room": "3236"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Human Development"
+}

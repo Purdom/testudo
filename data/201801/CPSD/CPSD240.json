@@ -1,0 +1,25 @@
+{
+  "id": "CPSD240",
+  "title": "College Park Scholars: Science, Discovery & the Universe - Service-Learning Practicum",
+  "credits": "1 -",
+  "description": "Prerequisite: CPSD200.\nRestriction: Students must be enrolled in the College Park Scholars Science, Discovery & the Universe (CPSD) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alan Peel",
+      "seats": "35,",
+      "open-seats": "34,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:30pm",
+      "end": "6:30pm",
+      "building": "CCC",
+      "room": "1100"
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars-Science, Discovery & the Universe"
+}

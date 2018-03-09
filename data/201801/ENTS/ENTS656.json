@@ -1,0 +1,62 @@
+{
+  "id": "ENTS656",
+  "title": "Introduction to Cellular Communication Networks",
+  "credits": "3",
+  "description": "Concepts and techniques involved in wireless digital communications wit emphasis on cellular and PCS systems. Properties of Mobile radio channels; intersymbol interference, multipath, and fading effects; interleaving and diversity; multiple access schemes (TDMA, FDMA, CDMA); interuser interference, traffic issues, and cell capacity; power control strategies; frequency reuse and channel assignment; handoff, paging, and location update; cell layout; introduction to cellular and PCS standards.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Dellomo",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:30pm",
+      "end": "8:15pm",
+      "building": "CHE",
+      "room": "2118"
+    },
+    {
+      "id": "0102",
+      "instructor": "Michael Dellomo",
+      "seats": "20,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:30pm",
+      "end": "8:15pm",
+      "building": "CHE",
+      "room": "2118"
+    },
+    {
+      "id": "0201",
+      "instructor": "Michael Dellomo",
+      "seats": "20,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "ITV",
+      "room": "1100"
+    },
+    {
+      "id": "0202",
+      "instructor": "Michael Dellomo",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "ITV",
+      "room": "1100"
+    }
+  ],
+  "term": "201801",
+  "department": "Telecommunications"
+}

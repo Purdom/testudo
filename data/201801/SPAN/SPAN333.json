@@ -1,0 +1,27 @@
+{
+  "id": "SPAN333",
+  "title": "Spanish Culture, Civilization and Literature III: Modern Times",
+  "credits": "3",
+  "description": "Prerequisite: SPAN303; and (SPAN311 or SPAN316).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jose Naharro-Calderon",
+      "seats": "25,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMZ",
+      "room": "2117"
+    }
+  ],
+  "term": "201801",
+  "department": "Spanish"
+}

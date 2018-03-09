@@ -1,0 +1,39 @@
+{
+  "id": "BSCI329H",
+  "title": "Instructional Assistance Practicum; Honors Instructional Assistance Practicum",
+  "credits": "1 -",
+  "description": "Prerequiste: permission of department.\n\n(Sponsoring Dept.: BIOL). Credit cannot be applied to the requirements of any Biological Sciences Major.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "2080",
+      "instructor": "Todd Cooke,",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "2350",
+      "instructor": "Byrn Quimby",
+      "seats": "20,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

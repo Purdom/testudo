@@ -1,0 +1,27 @@
+{
+  "id": "PHYS420",
+  "title": "Principles of Modern Physics",
+  "credits": "3",
+  "description": "Prerequisite: MATH246. And PHYS271 and PHYS270; or PHYS273.\nCredit only granted for: PHYS371 or PHYS420.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Howard Milchberg",
+      "seats": "40,",
+      "open-seats": "26,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "PHY",
+      "room": "1402"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

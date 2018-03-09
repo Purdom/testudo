@@ -1,0 +1,26 @@
+{
+  "id": "ENME289P",
+  "title": "Exploring Topics in Mechanical Engineering; Additive Manufacturing for Prosthetic Design",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Angela Bryl",
+      "seats": "23,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:30pm",
+      "end": "6:30pm",
+      "building": "AJC",
+      "room": "2134"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "CHEM889F",
+  "title": "Seminar; Chemical Physics",
+  "credits": "1",
+  "description": "Also offered as CHEM889E and CHPH709A. Credit granted for CHEM889F, CHEM 889E, or CHPH709A.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Instructor: TBA",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CHM",
+      "room": "0112"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

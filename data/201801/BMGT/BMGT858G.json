@@ -1,0 +1,26 @@
+{
+  "id": "BMGT858G",
+  "title": "Special Topics in Marketing; Analytical Modeling",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Bo Zhou",
+      "seats": "12,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "8:00am",
+      "end": "11:30am",
+      "building": "VMH",
+      "room": "3332"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

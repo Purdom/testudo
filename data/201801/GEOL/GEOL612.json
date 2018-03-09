@@ -1,0 +1,26 @@
+{
+  "id": "GEOL612",
+  "title": "Geology and Geophysics of the Terrestrial Planets",
+  "credits": "3",
+  "description": "Prerequisite: Permission of CMNS-Geology department; or (GEOL446 and MATH141).\nRecommended: Familiarity with MATLAB or MATHEMATICA.\nCredit only granted for: GEOL680 or GEOL789A.\nFormerly: GEOL789A.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Laurent Montesi",
+      "seats": "10,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "11:00am",
+      "building": "SYM",
+      "room": "0215"
+    }
+  ],
+  "term": "201801",
+  "department": "Geology"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "HLTH424",
+  "title": "Lesbian, Gay, Bisexual & Transgender Health",
+  "credits": "3",
+  "description": "Recommended: Students should have some familiarity with basic psychology, sociology and/or epidemiology.\nRestriction: This course is restricted to students who have completed a minimum of 60 credits.\nAlso offered as: HLTH624.\nCredit only granted for: HLTH424 or HLTH624.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Bradley Boekeloo",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "JMP",
+      "room": "1202"
+    }
+  ],
+  "term": "201801",
+  "department": "Health"
+}

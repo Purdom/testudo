@@ -1,0 +1,25 @@
+{
+  "id": "HONR269E",
+  "title": "Honors Seminar; Exploring Key Issues of Globalization and Resistance",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dorith Grant-Wisdom",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ESJ",
+      "room": "1309"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

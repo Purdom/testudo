@@ -1,0 +1,27 @@
+{
+  "id": "JOUR130",
+  "title": "Self-Presentation in the Age of YouTube",
+  "credits": "3",
+  "description": "Credit only granted for: COMM107, COMM200, ENES143, INAG110, JOUR130 or THET285.\nAdditional information: May not count toward the Journalism major.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Renee Poussaint",
+      "seats": "22,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "KNI",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

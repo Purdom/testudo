@@ -1,0 +1,25 @@
+{
+  "id": "PSYC622",
+  "title": "Research Methods in Clinical Psychology",
+  "credits": "3",
+  "description": "Restriction: Permission of instructor.\nCredit only granted for: PSYC622 or PSYC718.\nFormerly: PSYC718.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lea Dougherty",
+      "seats": "40,",
+      "open-seats": "33,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "3:30pm",
+      "building": "BPS",
+      "room": "1140A"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

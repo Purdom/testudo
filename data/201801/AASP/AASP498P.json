@@ -1,0 +1,27 @@
+{
+  "id": "AASP498P",
+  "title": "Special Topics in Black Culture; Urban Problems and Policy Analysis",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "Laszlo Korossy",
+      "seats": "40,",
+      "open-seats": "29,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "BLD3",
+      "room": "2225"
+    }
+  ],
+  "term": "201801",
+  "department": "African American Studies"
+}

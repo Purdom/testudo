@@ -1,0 +1,61 @@
+{
+  "id": "BMGT443",
+  "title": "Applied Equity Analysis and Portfolio Management",
+  "credits": "3",
+  "description": "Prerequisite: BMGT343.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Joseph Perfetti",
+      "seats": "45,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "3505"
+    },
+    {
+      "id": "0201",
+      "instructor": "Joseph Perfetti",
+      "seats": "45,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "3505"
+    },
+    {
+      "id": "0301",
+      "instructor": "Joseph Perfetti",
+      "seats": "45,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "3505"
+    },
+    {
+      "id": "0401",
+      "instructor": "Joseph Perfetti",
+      "seats": "45,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "3505"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

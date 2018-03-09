@@ -1,0 +1,26 @@
+{
+  "id": "FREN699K",
+  "title": "Seminar; French Critical and Cultural Perspectives on Literature and Film",
+  "credits": "3",
+  "description": "Taught in French.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Caroline Eades",
+      "seats": "10,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "JMZ",
+      "room": "3118"
+    }
+  ],
+  "term": "201801",
+  "department": "French"
+}

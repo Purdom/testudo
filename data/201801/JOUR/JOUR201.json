@@ -1,0 +1,111 @@
+{
+  "id": "JOUR201",
+  "title": "News Writing and Reporting I",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in ENGL101, JOUR181, and JOUR200; and permission of JOUR-Philip Merrill College of Journalism.\nRestriction: For students intending to be journalism majors; and permission of JOUR-Philip Merrill College of Journalism.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christine Harvey",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "KNI",
+      "room": "2107"
+    },
+    {
+      "id": "0201",
+      "instructor": "Judith Havemann",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "KNI",
+      "room": "2107"
+    },
+    {
+      "id": "0301",
+      "instructor": "Gerald Mizejewski",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:50pm",
+      "building": "KNI",
+      "room": "2107"
+    },
+    {
+      "id": "0401",
+      "instructor": "Merrilee Cox",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "KNI",
+      "room": "2103"
+    },
+    {
+      "id": "0501",
+      "instructor": "Joseph Weber",
+      "seats": "18,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "7:00pm",
+      "end": "8:50pm",
+      "building": "KNI",
+      "room": "2105"
+    },
+    {
+      "id": "0601",
+      "instructor": "Matthew Brown",
+      "seats": "17,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "7:00pm",
+      "end": "8:50pm",
+      "building": "KNI",
+      "room": "1101"
+    },
+    {
+      "id": "0701",
+      "instructor": "Michele Joseph",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:50pm",
+      "building": "KNI",
+      "room": "1101"
+    },
+    {
+      "id": "0801",
+      "instructor": "Fulvio Cativo",
+      "seats": "18,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "7:00pm",
+      "end": "8:50pm",
+      "building": "KNI",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

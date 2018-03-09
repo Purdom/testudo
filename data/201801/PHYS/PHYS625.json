@@ -1,0 +1,26 @@
+{
+  "id": "PHYS625",
+  "title": "Non-relativistic Quantum Mechanics",
+  "credits": "3",
+  "description": "Prerequisite: PHYS623.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Victor Galitskiy",
+      "seats": "30,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PHY",
+      "room": "1219"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

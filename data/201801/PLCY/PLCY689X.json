@@ -1,0 +1,26 @@
+{
+  "id": "PLCY689X",
+  "title": "Public Policy Topics; Performance Management and Leadership",
+  "credits": "3",
+  "description": "For PLCY majors or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "J Mihm,",
+      "seats": "32,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:30pm",
+      "building": "VMH",
+      "room": "1203"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

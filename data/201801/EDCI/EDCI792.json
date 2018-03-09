@@ -1,0 +1,26 @@
+{
+  "id": "EDCI792",
+  "title": "Qualitative Research II: Analysis and Interpretation of Data",
+  "credits": "3",
+  "description": "Prerequisite: TLPL791.\nCredit only granted for: EDCI692 or EDCI792.\nFormerly: EDCI692.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andrew Brantlinger",
+      "seats": "20,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "3236"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

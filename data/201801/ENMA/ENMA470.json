@@ -1,0 +1,27 @@
+{
+  "id": "ENMA470",
+  "title": "Materials Selection for Engineering Design",
+  "credits": "3",
+  "description": "Prerequisite: ENMA300; and permission of ENGR-Materials Science & Engineering department.\nCredit only granted for: ENMA 470 or ENMA 489O.\nFormerly: ENMA 489O.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Timothy Foecke",
+      "seats": "40,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "2:15pm",
+      "building": "CHE",
+      "room": "2118"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Materials"
+}

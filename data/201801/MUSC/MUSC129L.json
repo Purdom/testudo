@@ -1,0 +1,25 @@
+{
+  "id": "MUSC129L",
+  "title": "Ensemble; Advanced Japanese Koto",
+  "credits": "1",
+  "description": "Prerequisite: Contact instructor to make arrangements.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kyoko Okamoto",
+      "seats": "4,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "8:30pm",
+      "building": "PAC",
+      "room": "3160"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

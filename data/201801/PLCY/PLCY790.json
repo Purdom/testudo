@@ -1,0 +1,134 @@
+{
+  "id": "PLCY790",
+  "title": "Project Course",
+  "credits": "3",
+  "description": "Restriction: Must be in a major in PLCY-School of Public Policy; or permission of PLCY-School of Public Policy.\nCredit only granted for: PLCY790 or PUAF790.\nFormerly: PUAF790.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Toby Egan",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "1:30pm",
+      "end": "4:00pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0111",
+      "instructor": "Toby Egan",
+      "seats": "15,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "1:30pm",
+      "end": "4:00pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0201",
+      "instructor": "Douglas Besharov,",
+      "seats": "16,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:15pm",
+      "end": "6:45pm",
+      "building": "VMH",
+      "room": "1203"
+    },
+    {
+      "id": "0211",
+      "instructor": "Douglas Besharov,",
+      "seats": "11,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:15pm",
+      "end": "6:45pm",
+      "building": "VMH",
+      "room": "1203"
+    },
+    {
+      "id": "0301",
+      "instructor": "Robert Nelson",
+      "seats": "20,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "9:30pm",
+      "building": "VMH",
+      "room": "1101"
+    },
+    {
+      "id": "0311",
+      "instructor": "Anand Patwardhan",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "1:30pm",
+      "end": "4:00pm",
+      "building": "VMH",
+      "room": "1101"
+    },
+    {
+      "id": "0401",
+      "instructor": "I M Mac Destler,",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "1:30pm",
+      "end": "4:00pm",
+      "building": "VMH",
+      "room": "1107"
+    },
+    {
+      "id": "0411",
+      "instructor": "I M Mac Destler,",
+      "seats": "16,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "1:30pm",
+      "end": "4:00pm",
+      "building": "VMH",
+      "room": "1107"
+    },
+    {
+      "id": "0501",
+      "instructor": "David Crocker",
+      "seats": "22,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "1:30pm",
+      "end": "4:00pm",
+      "building": "VMH",
+      "room": "2101F"
+    },
+    {
+      "id": "0511",
+      "instructor": "Douglas Besharov,",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:15pm",
+      "end": "6:45pm",
+      "building": "VMH",
+      "room": "1203"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

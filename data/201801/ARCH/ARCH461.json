@@ -1,0 +1,27 @@
+{
+  "id": "ARCH461",
+  "title": "Sustainability in Architecture",
+  "credits": "3",
+  "description": "Restriction: Permission of ARCH-Architecture Program.\nCredit only granted for: ARCH418S or ARCH461.\nFormerly: ARCH418S.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Carl Bovill",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ARC",
+      "room": "1105"
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

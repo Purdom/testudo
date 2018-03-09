@@ -1,0 +1,27 @@
+{
+  "id": "HIST319R",
+  "title": "Special Topics in History; Genghis Khan and the Mongols: Destroyers of Worlds and Patrons of Culture",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Colleen Ho",
+      "seats": "40,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "KEY",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

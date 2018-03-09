@@ -1,0 +1,25 @@
+{
+  "id": "JOUR772",
+  "title": "Methods in Computer-Assisted Reporting",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in JOUR501; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Daniel Keating",
+      "seats": "7,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:00am",
+      "end": "10:50am",
+      "building": "KNI",
+      "room": "2105"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

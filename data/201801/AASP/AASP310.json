@@ -1,0 +1,27 @@
+{
+  "id": "AASP310",
+  "title": "African Slave Trade",
+  "credits": "3",
+  "description": "Prerequisite: AASP202 or AASP100; or permission of BSOS-African American Studies department.\nFormerly: AASP311.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "George Kintiba",
+      "seats": "35,",
+      "open-seats": "24,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "SYM",
+      "room": "0215"
+    }
+  ],
+  "term": "201801",
+  "department": "African American Studies"
+}

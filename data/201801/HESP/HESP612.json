@@ -1,0 +1,26 @@
+{
+  "id": "HESP612",
+  "title": "Fluency Disorders",
+  "credits": "2",
+  "description": "Restriction: Must be in Hearing and Speech Sciences: M.A. (Master's) program; and permission of BSOS-Hearing & Speech Sciences department. Or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Vivian Sisskin",
+      "seats": "34,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "9:40am",
+      "end": "1:00pm",
+      "building": "LEF",
+      "room": "0135"
+    }
+  ],
+  "term": "201801",
+  "department": "Hearing and Speech Sciences"
+}

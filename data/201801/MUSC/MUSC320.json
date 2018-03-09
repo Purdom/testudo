@@ -1,0 +1,39 @@
+{
+  "id": "MUSC320",
+  "title": "Music History II",
+  "credits": "3",
+  "description": "Prerequisite: MUSC310; and permission of ARHU-School of Music department.\nCredit only granted for: MUSC230 or MUSC320.\nFormerly: MUSC230.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Richard King",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "PAC",
+      "room": "2200"
+    },
+    {
+      "id": "0102",
+      "instructor": "Richard King",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "PAC",
+      "room": "2200"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

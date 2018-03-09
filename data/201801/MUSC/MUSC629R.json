@@ -1,0 +1,25 @@
+{
+  "id": "MUSC629R",
+  "title": "Ensemble; Repertoire Orchestra",
+  "credits": "1",
+  "description": "Audition required before permission of department will be granted. Contact instructor to make arrangements.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tiffany Lu",
+      "seats": "10,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "5:00pm",
+      "building": "PAC",
+      "room": "1230"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "RUSS405",
+  "title": "Russian-English Translation I",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in RUSS302.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elena Lozinsky",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMZ",
+      "room": "1123"
+    }
+  ],
+  "term": "201801",
+  "department": "Russian"
+}

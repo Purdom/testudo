@@ -1,0 +1,27 @@
+{
+  "id": "BSCI403",
+  "title": "Biology of Vision",
+  "credits": "3",
+  "description": "Prerequisite: BSCI207.\nRecommended: BSCI222.\nCredit only granted for: BSCI 338V or BSCI 403.\nFormerly: BSCI 338V.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Karen Carleton",
+      "seats": "65,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PLS",
+      "room": "1140"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

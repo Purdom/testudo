@@ -1,0 +1,39 @@
+{
+  "id": "BIOE457",
+  "title": "Biomedical Electronics & Instrumentation",
+  "credits": "4",
+  "description": "Prerequisite: BIOE120, BIOE121, BIOE241, PHYS261, MATH246, and PHYS260.\nRestriction: Permission of ENGR-Fischell Department of Bioengineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ian White",
+      "seats": "30,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "TWS",
+      "room": "0310"
+    },
+    {
+      "id": "0102",
+      "instructor": "Ian White",
+      "seats": "30,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "TWS",
+      "room": "0310"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

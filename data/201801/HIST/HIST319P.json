@@ -1,0 +1,27 @@
+{
+  "id": "HIST319P",
+  "title": "Special Topics in History; The African City: From Ancient Mali to Modern Johannesburg",
+  "credits": "3",
+  "description": "From the genesis of urban life on the Niger to the postcolonial South African city.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paul Landau",
+      "seats": "30,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "KEY",
+      "room": "0100"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

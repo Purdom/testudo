@@ -1,0 +1,27 @@
+{
+  "id": "GVPT456",
+  "title": "The Politics of Terrorism",
+  "credits": "3",
+  "description": "Prerequisite: GVPT200.\nRestriction: Must be in Government & Politics program; or must be in Government & Politics: International Relations program.\nCredit only granted for: GVPT456 or GVPT459T.\nFormerly: GVPT459T.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kanisha Bond",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TYD",
+      "room": "1114"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

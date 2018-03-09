@@ -1,0 +1,25 @@
+{
+  "id": "BUSM758E",
+  "title": "Special Topics in Business; International Economics for Managers",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Wilbur Chung",
+      "seats": "50,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "VMH",
+      "room": "1520"
+    }
+  ],
+  "term": "201801",
+  "department": "Full-Time MBA Program"
+}

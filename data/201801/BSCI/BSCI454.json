@@ -1,0 +1,85 @@
+{
+  "id": "BSCI454",
+  "title": "Neurobiology Laboratory",
+  "credits": "1",
+  "description": "Prerequisite: Minimum grade of C- in BSCI330; and must have completed or be concurrently enrolled in BSCI353; and must have completed or be concurrently enrolled in PHYS122, PHYS132, or PHYS142.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hilary Bierman",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "5:00pm",
+      "building": "BPS",
+      "room": "0257"
+    },
+    {
+      "id": "0102",
+      "instructor": "Hilary Bierman",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "5:00pm",
+      "building": "BPS",
+      "room": "0257"
+    },
+    {
+      "id": "0103",
+      "instructor": "Hilary Bierman",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "5:00pm",
+      "building": "BPS",
+      "room": "0257"
+    },
+    {
+      "id": "0104",
+      "instructor": "Hilary Bierman",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "5:00pm",
+      "building": "BPS",
+      "room": "0257"
+    },
+    {
+      "id": "SG91",
+      "instructor": "David Sandstrom",
+      "seats": "16,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "5:00pm",
+      "building": "BLD2",
+      "room": "4012"
+    },
+    {
+      "id": "SG92",
+      "instructor": "David Sandstrom",
+      "seats": "16,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "5:00pm",
+      "building": "BLD2",
+      "room": "4012"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

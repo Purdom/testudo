@@ -1,0 +1,27 @@
+{
+  "id": "JOUR443",
+  "title": "Sports, Society, Culture and the Media",
+  "credits": "3",
+  "description": "Restriction: Junior standing or higher.\nCredit only granted for: JOUR459G or JOUR443.\nFormerly: JOUR459G.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "George Solomon",
+      "seats": "15,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "12:00pm",
+      "end": "2:45pm",
+      "building": "KNI",
+      "room": "1206"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

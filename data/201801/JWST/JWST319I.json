@@ -1,0 +1,27 @@
+{
+  "id": "JWST319I",
+  "title": "Special Topics in Jewish Studies; Arts, Leisure, and Entertainment: Urban Life in Modern Iran",
+  "credits": "3",
+  "description": "Also offered as HIST328C, PERS398B, and TDPS358B. Credit granted for PERS398B, HIST328C, JWST319I, or TDPS358B.\n\nInterdisciplinary historical exploration of the formation and transformations of urban public culture in modern Iran. Taught in English.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ida Meftahi",
+      "seats": "30,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "JMZ",
+      "room": "2117"
+    }
+  ],
+  "term": "201801",
+  "department": "Jewish Studies"
+}

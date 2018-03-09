@@ -1,0 +1,26 @@
+{
+  "id": "DANC708",
+  "title": "Choreography II; Collaborative Work",
+  "credits": "3",
+  "description": "Students must pay a $25.00 lab fee.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Sara Pearson",
+      "seats": "5,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "12:50pm",
+      "building": "PAC",
+      "room": "1610"
+    }
+  ],
+  "term": "201801",
+  "department": "Dance"
+}

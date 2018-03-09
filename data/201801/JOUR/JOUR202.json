@@ -1,0 +1,51 @@
+{
+  "id": "JOUR202",
+  "title": "News Editing",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in JOUR203.\nRestriction: Must be in a major in JOUR-Philip Merrill College of Journalism.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Barbara Barrett",
+      "seats": "18,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "7:00pm",
+      "end": "8:50pm",
+      "building": "KNI",
+      "room": "2105"
+    },
+    {
+      "id": "0201",
+      "instructor": "Brian Cleveland",
+      "seats": "18,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:50pm",
+      "building": "KNI",
+      "room": "1101"
+    },
+    {
+      "id": "0301",
+      "instructor": "Courtney Rukan",
+      "seats": "18,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "8:00am",
+      "end": "9:50am",
+      "building": "KNI",
+      "room": "2103"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

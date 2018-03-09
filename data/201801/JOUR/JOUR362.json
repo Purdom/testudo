@@ -1,0 +1,51 @@
+{
+  "id": "JOUR362",
+  "title": "Broadcast News Producing",
+  "credits": "3",
+  "description": "Prerequisite: JOUR262 and JOUR360; and must have completed or be concurrently enrolled in JOUR361.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Cindy Wright",
+      "seats": "2,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:15pm",
+      "end": "9:15pm",
+      "building": "TWS",
+      "room": "0117"
+    },
+    {
+      "id": "0102",
+      "instructor": "Cindy Wright",
+      "seats": "2,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:15pm",
+      "end": "9:15pm",
+      "building": "TWS",
+      "room": "0117"
+    },
+    {
+      "id": "0103",
+      "instructor": "Cindy Wright",
+      "seats": "2,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:15pm",
+      "end": "9:15pm",
+      "building": "TWS",
+      "room": "0117"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

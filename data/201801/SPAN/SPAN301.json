@@ -1,0 +1,99 @@
+{
+  "id": "SPAN301",
+  "title": "Advanced Grammar and Composition I",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in SPAN207.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ana Acedo Garcia",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "JMZ",
+      "room": "0125"
+    },
+    {
+      "id": "0201",
+      "instructor": "Ana Acedo Garcia",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "JMZ",
+      "room": "2120"
+    },
+    {
+      "id": "0301",
+      "instructor": "Ana Acedo Garcia",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "JMZ",
+      "room": "2117"
+    },
+    {
+      "id": "0401",
+      "instructor": "Ana Acedo Garcia",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "JMZ",
+      "room": "0125"
+    },
+    {
+      "id": "0501",
+      "instructor": "Ginette Eldredge",
+      "seats": "20,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "JMZ",
+      "room": "0118"
+    },
+    {
+      "id": "0601",
+      "instructor": "Cecilia Battauz",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "JMZ",
+      "room": "3120"
+    },
+    {
+      "id": "0701",
+      "instructor": "Cecilia Battauz",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "JMZ",
+      "room": "0205"
+    }
+  ],
+  "term": "201801",
+  "department": "Spanish"
+}

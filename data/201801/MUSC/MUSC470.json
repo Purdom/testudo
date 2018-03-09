@@ -1,0 +1,27 @@
+{
+  "id": "MUSC470",
+  "title": "Harmonic and Contrapuntal Practices of the Twentieth Century",
+  "credits": "3",
+  "description": "Prerequisite: MUSC251; or students who have taken courses with comparable content may contact the department. And permission of ARHU-School of Music department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mark Wilson",
+      "seats": "15,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PAC",
+      "room": "3168"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

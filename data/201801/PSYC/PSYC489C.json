@@ -1,0 +1,27 @@
+{
+  "id": "PSYC489C",
+  "title": "Advanced Special Topics in Psychology; Early Social Cognition",
+  "credits": "3",
+  "description": "Prereqs: PSYC300 and PSYC355, or permission of instructor. Theory and research on the development of social cognition. This discussion-based seminar will emphasize primary readings on infancy through early childhood. Topics will include early social preferences, understanding of others' minds, learning from others, moral development, and social and group identity.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jonathan Beier",
+      "seats": "20,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "BPS",
+      "room": "1232"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

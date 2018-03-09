@@ -1,0 +1,27 @@
+{
+  "id": "ENST499M",
+  "title": "Special Topics in Environmental Science and Technology; Applied Ecology",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Peter May",
+      "seats": "15,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "12:00pm",
+      "end": "2:50pm",
+      "building": "CHE",
+      "room": "2145"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

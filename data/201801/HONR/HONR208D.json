@@ -1,0 +1,25 @@
+{
+  "id": "HONR208D",
+  "title": "Honors Seminar; Insect Biodiversity: The Good, the Bad, and the Weird",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Lamp",
+      "seats": "16,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PLS",
+      "room": "1161"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

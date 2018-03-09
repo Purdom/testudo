@@ -1,0 +1,25 @@
+{
+  "id": "NAVY401",
+  "title": "Leadership and Ethics",
+  "credits": "3",
+  "description": "Recommended: NAVY200.\nRestriction: Permission of UGST-Navy ROTC.\nAdditional information: Priority enrollment will be given to students enrolled in the NROTC program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Troy Mong",
+      "seats": "20,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "ARM",
+      "room": "0108"
+    }
+  ],
+  "term": "201801",
+  "department": "Navy"
+}

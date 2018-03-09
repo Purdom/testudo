@@ -1,0 +1,25 @@
+{
+  "id": "RDEV615",
+  "title": "Principles, Process and Politics of Planning for Real Property Development",
+  "credits": "3",
+  "description": "Restriction: Permission of ARCH-Real Estate Development.\nCredit only granted for: RDEV688G or RDEV615.\nFormerly: RDEV688G.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lawrence Taub,",
+      "seats": "28,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "ARC",
+      "room": "1105"
+    }
+  ],
+  "term": "201801",
+  "department": "Real Estate Development"
+}

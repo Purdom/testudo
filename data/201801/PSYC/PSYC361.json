@@ -1,0 +1,27 @@
+{
+  "id": "PSYC361",
+  "title": "Survey of Industrial and Organizational Psychology",
+  "credits": "3",
+  "description": "Prerequisite: PSYC100.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jasmine Wheeler",
+      "seats": "50,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "BPS",
+      "room": "1236"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

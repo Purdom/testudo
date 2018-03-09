@@ -1,0 +1,38 @@
+{
+  "id": "ENTS630",
+  "title": "The Economics of International Telecommunications",
+  "credits": "3",
+  "description": "Restriction: Must be in Telecommunications (Master's) program.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jahangir Boroumand",
+      "seats": "40,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:30pm",
+      "end": "8:15pm",
+      "building": "SQH",
+      "room": "1105"
+    },
+    {
+      "id": "0201",
+      "instructor": "Jahangir Boroumand",
+      "seats": "40,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "SQH",
+      "room": "1105"
+    }
+  ],
+  "term": "201801",
+  "department": "Telecommunications"
+}

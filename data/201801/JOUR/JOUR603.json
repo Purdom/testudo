@@ -1,0 +1,26 @@
+{
+  "id": "JOUR603",
+  "title": "News Videography",
+  "credits": "3",
+  "description": "Prerequisite: JOUR504; and permission of Journalism College required.\nRestriction: Permission of JOUR-Philip Merrill College of Journalism.\nAlso offered as: JOUR262.\nCredit only granted for: JOUR503 or JOUR603.\nFormerly: JOUR503.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Bethany Swain",
+      "seats": "1,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "TWS",
+      "room": "0222B"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

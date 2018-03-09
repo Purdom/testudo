@@ -1,0 +1,26 @@
+{
+  "id": "CHEM889C",
+  "title": "Seminar; Inorganic Chemistry",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Instructor: TBA",
+      "seats": "15,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CHM",
+      "room": "0112"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

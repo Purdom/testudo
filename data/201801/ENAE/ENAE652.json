@@ -1,0 +1,25 @@
+{
+  "id": "ENAE652",
+  "title": "Computational Structural Mechanics",
+  "credits": "3",
+  "description": "Restriction: Permission of instructor; and permission of ENGR-Aerospace Engineering department.\nCredit only granted for: ENME 674, ENAE652, ENPM652 or ENPM808F.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sung Lee",
+      "seats": "3,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "EGR",
+      "room": "1102"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

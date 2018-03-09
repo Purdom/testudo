@@ -1,0 +1,27 @@
+{
+  "id": "HLTH285",
+  "title": "Controlling Stress and Tension",
+  "credits": "3",
+  "description": "Health problems related to stress and tension. Analysis of causative psychosocial stressors and intervening physiological mechanisms. Emphasis on prevention and control of stress through techniques such as biofeedback, meditation and neuromuscular relaxation.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hannah Allen",
+      "seats": "60,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "SPH",
+      "room": "1301"
+    }
+  ],
+  "term": "201801",
+  "department": "Health"
+}

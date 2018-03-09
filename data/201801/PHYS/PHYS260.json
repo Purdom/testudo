@@ -1,0 +1,159 @@
+{
+  "id": "PHYS260",
+  "title": "General Physics: Vibration, Waves, Heat, Electricity and Magnetism",
+  "credits": "3",
+  "description": "Prerequisite: PHYS161 and MATH141.\nCorequisite: PHYS261.\nCredit only granted for: PHYS142, PHYS260, or PHYS272.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lance Boyer",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "PHY",
+      "room": "1410"
+    },
+    {
+      "id": "0102",
+      "instructor": "Lance Boyer",
+      "seats": "30,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "PHY",
+      "room": "1410"
+    },
+    {
+      "id": "0201",
+      "instructor": "Theodore Einstein",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:00pm",
+      "end": "5:15pm",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0202",
+      "instructor": "Theodore Einstein",
+      "seats": "34,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:00pm",
+      "end": "5:15pm",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0203",
+      "instructor": "Theodore Einstein",
+      "seats": "35,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:00pm",
+      "end": "5:15pm",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0204",
+      "instructor": "Theodore Einstein",
+      "seats": "34,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:00pm",
+      "end": "5:15pm",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0205",
+      "instructor": "Theodore Einstein",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:00pm",
+      "end": "5:15pm",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0206",
+      "instructor": "Theodore Einstein",
+      "seats": "35,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:00pm",
+      "end": "5:15pm",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0301",
+      "instructor": "Rabindra Mohapatra",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "PHY",
+      "room": "1410"
+    },
+    {
+      "id": "0302",
+      "instructor": "Rabindra Mohapatra",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "PHY",
+      "room": "1410"
+    },
+    {
+      "id": "0303",
+      "instructor": "Rabindra Mohapatra",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "PHY",
+      "room": "1410"
+    },
+    {
+      "id": "0304",
+      "instructor": "Rabindra Mohapatra",
+      "seats": "34,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "PHY",
+      "room": "1410"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

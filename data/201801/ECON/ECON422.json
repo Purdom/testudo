@@ -1,0 +1,39 @@
+{
+  "id": "ECON422",
+  "title": "Econometrics I",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (ECON325, ECON326); and 1 course with a minimum grade of C- from (STAT400, ECON321).\nRestriction: Must be in Economics Bachelor of Science program.\nCredit only granted for: ECON422, ECON424, AREC422, or AREC489F.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alka Gandhi",
+      "seats": "38,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "TYD",
+      "room": "2102"
+    },
+    {
+      "id": "0201",
+      "instructor": "Alka Gandhi",
+      "seats": "38,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TYD",
+      "room": "2102"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

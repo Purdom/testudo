@@ -1,0 +1,26 @@
+{
+  "id": "GERM441",
+  "title": "Border Crossings and Cultural Transfers",
+  "credits": "3",
+  "description": "Prerequisite: GERM320 or GERM322.\nCredit only granted for: GERM441, GERM439A, or GERM439F.\nFormerly: GERM439A, GERM439F.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Julie Koser",
+      "seats": "20,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:30pm",
+      "end": "7:00pm",
+      "building": "JMZ",
+      "room": "3203"
+    }
+  ],
+  "term": "201801",
+  "department": "Germanic Studies"
+}

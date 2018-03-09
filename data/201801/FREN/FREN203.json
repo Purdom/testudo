@@ -1,0 +1,63 @@
+{
+  "id": "FREN203",
+  "title": "Intensive Intermediate French",
+  "credits": "4",
+  "description": "Prerequisite: FREN103; or must have appropriate Foreign Language Placement Test (FLPT) score.\nRestriction: Must not be a native/fluent speaker of French.\nCredit only granted for: FREN201 or FREN203.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Julie Ledon",
+      "seats": "25,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "JMZ",
+      "room": "2123"
+    },
+    {
+      "id": "0201",
+      "instructor": "Francesca Roth",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "JMZ",
+      "room": "3120"
+    },
+    {
+      "id": "0301",
+      "instructor": "Charlee Redman",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "JMZ",
+      "room": "2123"
+    },
+    {
+      "id": "0401",
+      "instructor": "Julie Ledon",
+      "seats": "25,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "JMZ",
+      "room": "1215"
+    }
+  ],
+  "term": "201801",
+  "department": "French"
+}

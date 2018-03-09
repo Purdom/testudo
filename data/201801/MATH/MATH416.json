@@ -1,0 +1,27 @@
+{
+  "id": "MATH416",
+  "title": "Applied Harmonic Analysis: An Introduction to Signal Processing",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in MATH141; and 1 course with a minimum grade of C- from (MATH240, MATH461, MATH341); and familiarity with MATLAB is required.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kasso Okoudjou",
+      "seats": "30,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ESJ",
+      "room": "B0320"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

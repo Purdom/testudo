@@ -1,0 +1,26 @@
+{
+  "id": "CHPH709L",
+  "title": "Seminar in Chemical Physics; Biophysics",
+  "credits": "1",
+  "description": "Also offered as PHYS798L. Credit granted for PHYS798L or CHPH709L.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Arpita Upadhyaya",
+      "seats": "20,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "5:30pm",
+      "building": "CHM",
+      "room": "0112"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemical Physics"
+}

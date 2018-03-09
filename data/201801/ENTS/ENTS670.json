@@ -1,0 +1,26 @@
+{
+  "id": "ENTS670",
+  "title": "Introduction to Business and Enterpreneurship",
+  "credits": "3",
+  "description": "Restriction: Must be in Telecommunications (Master's) program.\nCredit only granted for: ENTS670 or ENTS689J.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Oliver Schlake",
+      "seats": "30,",
+      "open-seats": "24,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:30pm",
+      "end": "8:15pm",
+      "building": "VMH",
+      "room": "3330H"
+    }
+  ],
+  "term": "201801",
+  "department": "Telecommunications"
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ARTT100",
+  "title": "Two-Dimensional Design Fundamentals",
+  "credits": "3",
+  "description": "Principles and elements of two-dimensional design. Introduction to visual communication.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jessica Van Brakle",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "11:30am",
+      "building": "ASY",
+      "room": "2318"
+    },
+    {
+      "id": "0201",
+      "instructor": "Jessica Van Brakle",
+      "seats": "18,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "11:30am",
+      "building": "ASY",
+      "room": "2318"
+    },
+    {
+      "id": "0301",
+      "instructor": "Wendy Jacobs",
+      "seats": "18,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "3:00pm",
+      "building": "ASY",
+      "room": "2318"
+    },
+    {
+      "id": "0401",
+      "instructor": "Wendy Jacobs",
+      "seats": "18,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "3:00pm",
+      "building": "ASY",
+      "room": "2318"
+    },
+    {
+      "id": "0501",
+      "instructor": "Wendy Jacobs",
+      "seats": "18,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "5:30pm",
+      "building": "ASY",
+      "room": "2318"
+    },
+    {
+      "id": "0601",
+      "instructor": "Wendy Jacobs",
+      "seats": "18,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "5:30pm",
+      "building": "ASY",
+      "room": "2318"
+    },
+    {
+      "id": "0701",
+      "instructor": "James Thorpe",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "3:00pm",
+      "building": "ASY",
+      "room": "2318"
+    },
+    {
+      "id": "0801",
+      "instructor": "James Thorpe",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "3:00pm",
+      "building": "ASY",
+      "room": "2318"
+    }
+  ],
+  "term": "201801",
+  "department": "Art Studio"
+}

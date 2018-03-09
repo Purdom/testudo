@@ -1,0 +1,25 @@
+{
+  "id": "MUSC099",
+  "title": "Performance Attendance",
+  "credits": "0",
+  "description": "",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Luke Spence",
+      "seats": "150,",
+      "open-seats": "44,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "BIOL608L",
+  "title": "Biology Seminar; Readings in Genetics",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Kocher",
+      "seats": "10,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:00pm",
+      "end": "5:00pm",
+      "building": "BPS",
+      "room": "1230"
+    }
+  ],
+  "term": "201801",
+  "department": "Biology"
+}

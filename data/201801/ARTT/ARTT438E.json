@@ -1,0 +1,27 @@
+{
+  "id": "ARTT438E",
+  "title": "Advanced Sculpture Studio; Advanced Steel and Multi-Media Sculpture",
+  "credits": "3",
+  "description": "Students must pay a $40.00 studio lab fee.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hugh Bryant",
+      "seats": "4,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "3:00pm",
+      "building": "ASY",
+      "room": "1314"
+    }
+  ],
+  "term": "201801",
+  "department": "Art Studio"
+}

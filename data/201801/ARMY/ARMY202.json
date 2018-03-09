@@ -1,0 +1,27 @@
+{
+  "id": "ARMY202",
+  "title": "Military Leadership in Practice",
+  "credits": "3",
+  "description": "Recommended: ARMY201.\nRestriction: Sophomore standing or higher.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0102",
+      "instructor": "Larry Rentz,",
+      "seats": "40,",
+      "open-seats": "23,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ESJ",
+      "room": "2309"
+    }
+  ],
+  "term": "201801",
+  "department": "Army"
+}

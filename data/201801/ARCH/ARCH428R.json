@@ -1,0 +1,27 @@
+{
+  "id": "ARCH428R",
+  "title": "Selected Topics in Architectural History; Digital Heritage Preservation",
+  "credits": "4",
+  "description": "Also offered as ANTH434. Credit granted for ANTH434, ARCH428R, ANTH634, or ANTH628R.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mark Leone,",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:00pm",
+      "end": "8:20pm",
+      "building": "ARC",
+      "room": "1115"
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

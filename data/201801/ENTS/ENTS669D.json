@@ -1,0 +1,25 @@
+{
+  "id": "ENTS669D",
+  "title": "Special Topics in Computing; Introduction to Machine Learning",
+  "credits": "3",
+  "description": "Please click here for further course information.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ramalingam Chellappa,",
+      "seats": "10,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EGR",
+      "room": "1202"
+    }
+  ],
+  "term": "201801",
+  "department": "Telecommunications"
+}

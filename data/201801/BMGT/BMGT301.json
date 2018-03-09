@@ -1,0 +1,109 @@
+{
+  "id": "BMGT301",
+  "title": "Introduction to Information Systems",
+  "credits": "3",
+  "description": "Restriction: Must be in a major in BMGT-Robert H. Smith School of Business.\nAdditional information: CMSC majors will not receive credit for this course towards their upper level concentration in their CMSC major. All BMGT majors, including students who are a double major in CMCS, must complete BMGT301 for their BMGT degree.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Zeinab Karake",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1412"
+    },
+    {
+      "id": "0201",
+      "instructor": "Zeinab Karake",
+      "seats": "60,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1412"
+    },
+    {
+      "id": "0301",
+      "instructor": "Zeinab Karake",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1412"
+    },
+    {
+      "id": "0401",
+      "instructor": "Gorkem Ozer",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1412"
+    },
+    {
+      "id": "0501",
+      "instructor": "Gorkem Ozer",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1412"
+    },
+    {
+      "id": "0601",
+      "instructor": "Zeinab Karake",
+      "seats": "60,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "VMH",
+      "room": "1412"
+    },
+    {
+      "id": "SG92",
+      "instructor": "Il-Horn Hann",
+      "seats": "60,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "BLD2",
+      "room": "3032"
+    },
+    {
+      "id": "SG93",
+      "instructor": "Il-Horn Hann",
+      "seats": "60,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "BLD2",
+      "room": "3032"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "NFSC430",
+  "title": "Food Microbiology",
+  "credits": "3",
+  "description": "Prerequisite: BSCI223; or permission of instructor.\nCredit only granted for: ANSC430 or NFSC430.\nFormerly: FDSC430.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Buchanan",
+      "seats": "40,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:00am",
+      "end": "10:15am",
+      "building": "MMH",
+      "room": "3112"
+    }
+  ],
+  "term": "201801",
+  "department": "Nutrition and Food Science"
+}

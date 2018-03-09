@@ -1,0 +1,25 @@
+{
+  "id": "GEOG651",
+  "title": "Spatial Statistics",
+  "credits": "3",
+  "description": "Prerequisite: GEOG615; or students who have taken courses with comparable content may contact the department.\nRestriction: Must be in M.Prof.Studies: Geospatial Information Sciences (Master's) program; or must be in Graduate Certificate: Professional Studies-Geospatial Information Sciences.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "CG01",
+      "instructor": "Fayuan Li,",
+      "seats": "9,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "8:30am",
+      "end": "12:15pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

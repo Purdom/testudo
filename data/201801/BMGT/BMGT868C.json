@@ -1,0 +1,26 @@
+{
+  "id": "BMGT868C",
+  "title": "Special Topics in Organizational Behavior/Human Resource Management; Career and Professionalization Workshop in Management and Organization",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Instructor: TBA",
+      "seats": "30,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "12:30pm",
+      "end": "2:00pm",
+      "building": "VMH",
+      "room": "1412"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

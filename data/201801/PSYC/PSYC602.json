@@ -1,0 +1,26 @@
+{
+  "id": "PSYC602",
+  "title": "Quantitative Methods II",
+  "credits": "4",
+  "description": "Prerequisite: PSYC601.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paul Hanges",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:00am",
+      "end": "11:00am",
+      "building": "BPS",
+      "room": "1232"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

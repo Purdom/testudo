@@ -1,0 +1,25 @@
+{
+  "id": "MUSC758",
+  "title": "Advanced Aural Skills for Conductors",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Votta",
+      "seats": "5,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "2:15pm",
+      "building": "PAC",
+      "room": "2126"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

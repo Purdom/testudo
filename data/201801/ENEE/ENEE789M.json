@@ -1,0 +1,26 @@
+{
+  "id": "ENEE789M",
+  "title": "Advanced Topics in Electrophysics; Quantum Technology",
+  "credits": "3",
+  "description": "Also offered as PHYS720. Credit granted for ENEE789M or PHYS720.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mohammad Hafezi,",
+      "seats": "35,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "4:15pm",
+      "building": "ATL",
+      "room": "2428"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

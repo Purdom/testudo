@@ -1,0 +1,27 @@
+{
+  "id": "HIST233",
+  "title": "Empire! The British Imperial Experience 1558-1997",
+  "credits": "3",
+  "description": "Credit only granted for: HIST219P or HIST233.\nFormerly: HIST219P.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Anne Rush",
+      "seats": "40,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "KEY",
+      "room": "1117"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

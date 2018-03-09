@@ -1,0 +1,26 @@
+{
+  "id": "PHYS798B",
+  "title": "Special Problems in Advanced Physics; Physics Colloquium",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Cohen",
+      "seats": "100,",
+      "open-seats": "96,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "5:30pm",
+      "building": "PHY",
+      "room": "1412"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

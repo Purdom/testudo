@@ -1,0 +1,37 @@
+{
+  "id": "JAPN202",
+  "title": "Intermediate Japanese II",
+  "credits": "6",
+  "description": "Prerequisite: Minimum grade of C- in JAPN201; or appropriate Foreign Language Placement Test (FLPT) score.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kumiko Akikawa",
+      "seats": "15,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "10:50am",
+      "building": "JMZ",
+      "room": "2125"
+    },
+    {
+      "id": "0201",
+      "instructor": "Kumiko Akikawa",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "12:50pm",
+      "building": "JMZ",
+      "room": "2125"
+    }
+  ],
+  "term": "201801",
+  "department": "Japanese"
+}

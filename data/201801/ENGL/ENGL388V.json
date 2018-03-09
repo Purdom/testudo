@@ -1,0 +1,62 @@
+{
+  "id": "ENGL388V",
+  "title": "Writing Internship; Undergraduate Teaching Assistants in Writing Programs",
+  "credits": "1 -",
+  "description": "Prerequisite: permission of department. Repeatable to 12 credits. Contact Lyra Hilliard, lyrahill@umd.edu. Students taking ENGL388V for the first time should register for either section 0101 or 0401 for 4 credits. When taking the course again in subsequent semesters, students should register for 2001 or 3001 for 3 credits.\"",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lyra Hilliard",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "6:30pm",
+      "building": "TWS",
+      "room": "0221"
+    },
+    {
+      "id": "0401",
+      "instructor": "Douglas Kern",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:00pm",
+      "end": "6:30pm",
+      "building": "TWS",
+      "room": "1320"
+    },
+    {
+      "id": "2001",
+      "instructor": "Lyra Hilliard",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "3001",
+      "instructor": "Douglas Kern",
+      "seats": "10,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "HONR278D",
+  "title": "Honors Seminar; National Security Dilemmas",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Daniel Rosenthal",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:45pm",
+      "building": "TWS",
+      "room": "1313"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

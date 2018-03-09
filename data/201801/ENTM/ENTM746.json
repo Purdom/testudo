@@ -1,0 +1,25 @@
+{
+  "id": "ENTM746",
+  "title": "Commercial Beekeeping",
+  "credits": "3",
+  "description": "An overview of the various components of the commercial beekeeping industry including migratory pollinators, queen rearing operations and honey producers will be explored.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "PLE1",
+      "instructor": "Gerald Hayes",
+      "seats": "8,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Entomology"
+}

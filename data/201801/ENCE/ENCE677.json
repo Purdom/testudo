@@ -1,0 +1,26 @@
+{
+  "id": "ENCE677",
+  "title": "OR Models for Transportation Systems Analysis",
+  "credits": "3",
+  "description": "Fundamental skills and concepts of the quantitative techniques of operations research including: mathematical modeling, linear programming, integer programming, network optimization (shortest paths, minimum spanning trees, minimum cost network flows, maximum flows), heuristics, and basics of probabilistic modeling. Emphasis on the application of these techniques to problems arising in transportation.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "TS01",
+      "instructor": "Ali Haghani",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

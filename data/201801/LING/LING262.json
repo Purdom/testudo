@@ -1,0 +1,27 @@
+{
+  "id": "LING262",
+  "title": "HERITAGE LANGUAGES AND THEIR SPEAKERS",
+  "credits": "3",
+  "description": "Additional information: One class per week will be in-field instruction in collecting data from heritage speakers.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Maria Polinsky",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "MMH",
+      "room": "1304"
+    }
+  ],
+  "term": "201801",
+  "department": "Linguistics"
+}

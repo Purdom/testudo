@@ -1,0 +1,61 @@
+{
+  "id": "ANSC214",
+  "title": "Applied Animal Physiology Laboratory",
+  "credits": "1",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in ANSC212.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Zhengguo Xiao",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "5:00pm",
+      "building": "ANS",
+      "room": "0108"
+    },
+    {
+      "id": "0102",
+      "instructor": "Zhengguo Xiao",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "5:00pm",
+      "building": "ANS",
+      "room": "0108"
+    },
+    {
+      "id": "0103",
+      "instructor": "Zhengguo Xiao",
+      "seats": "22,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "2:00pm",
+      "end": "5:00pm",
+      "building": "ANS",
+      "room": "0108"
+    },
+    {
+      "id": "0104",
+      "instructor": "Zhengguo Xiao",
+      "seats": "22,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:00am",
+      "end": "11:50am",
+      "building": "ANS",
+      "room": "0108"
+    }
+  ],
+  "term": "201801",
+  "department": "Animal Science"
+}

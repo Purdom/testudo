@@ -1,0 +1,26 @@
+{
+  "id": "ENEE620",
+  "title": "Random Processes in Communication and Control",
+  "credits": "3",
+  "description": "Prerequisite: ENEE324; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Anthony Ephremides",
+      "seats": "30,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "AJC",
+      "room": "2121"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

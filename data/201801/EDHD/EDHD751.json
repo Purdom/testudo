@@ -1,0 +1,26 @@
+{
+  "id": "EDHD751",
+  "title": "Child Development and Poverty",
+  "credits": "3",
+  "description": "Prerequisite: EDHD720; or permission of EDUC-Human Development and Quantitative Methodology department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Natasha Cabrera",
+      "seats": "20,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "1:00pm",
+      "end": "3:45pm",
+      "building": "JMZ",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Human Development"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "MATH446",
+  "title": "Axiomatic Set Theory",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (MATH403, MATH410).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Caroline Terry",
+      "seats": "22,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "MTH",
+      "room": "0102"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

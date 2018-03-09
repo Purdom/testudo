@@ -1,0 +1,25 @@
+{
+  "id": "BMGT382",
+  "title": "Marketing and Innovation for Entrepreneurs",
+  "credits": "3",
+  "description": "Restriction: Must not have completed BMGT352.\nCredit only granted for: BMGT352 or BMGT382.\nAdditional information: Course will not satisfy a Marketing major requirement.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mary Beth Furst",
+      "seats": "40,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "SQH",
+      "room": "1121"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "SPAN235",
+  "title": "Issues in Latin American Studies II",
+  "credits": "3",
+  "description": "Also offered as: PORT235, LASC235.\nCredit only granted for: SPAN235, PORT235, or LASC235.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Britta Anderson",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "JMZ",
+      "room": "1122"
+    },
+    {
+      "id": "0201",
+      "instructor": "Britta Anderson",
+      "seats": "35,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SQH",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Spanish"
+}

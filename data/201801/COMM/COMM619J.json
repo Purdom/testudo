@@ -1,0 +1,38 @@
+{
+  "id": "COMM619J",
+  "title": "Consecutive Interpretation; Sight Translation; Korean into English/English into Korean",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "XGE1",
+      "instructor": "Lee Boese",
+      "seats": "16,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "Sa",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "XGK1",
+      "instructor": "Lee Boese",
+      "seats": "16,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "Sa",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "HLTH377H",
+  "title": "Human Sexuality",
+  "credits": "3",
+  "description": "The biological and developmental aspects of human sexuality; the psychological and emotional aspects of sexual behavior; sexual identity; the historical, cultural, social, linguistic, legal and moral forces affecting sexual issues; the importance of communication, disclosure and intimacy in interpersonal relationships; and research trends in the area of human sexuality.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jenna Messman",
+      "seats": "200,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ESJ",
+      "room": "0224"
+    }
+  ],
+  "term": "201801",
+  "department": "Health"
+}

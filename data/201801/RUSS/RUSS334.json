@@ -1,0 +1,27 @@
+{
+  "id": "RUSS334",
+  "title": "Soviet Film: Propaganda, Myth, Modernism",
+  "credits": "3",
+  "description": "Also offered as: FILM334.\nCredit only granted for: RUSS334, FILM334, or RUSS298K.\nFormerly: RUSS298K.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elizabeth Papazian",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "HBK",
+      "room": "0302H"
+    }
+  ],
+  "term": "201801",
+  "department": "Russian"
+}

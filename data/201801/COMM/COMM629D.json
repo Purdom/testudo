@@ -1,0 +1,38 @@
+{
+  "id": "COMM629D",
+  "title": "Introduction to Simultaneous Interpretation; Chinese into English/English into Chinese",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "XGC1",
+      "instructor": "Instructor: TBA",
+      "seats": "16,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "MTuWThF",
+      "start": "9:00am",
+      "end": "11:50am",
+      "building": "SKN",
+      "room": "3118"
+    },
+    {
+      "id": "XGE1",
+      "instructor": "Instructor: TBA",
+      "seats": "16,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "MTuWThF",
+      "start": "9:00am",
+      "end": "11:50am",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

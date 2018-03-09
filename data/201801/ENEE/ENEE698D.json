@@ -1,0 +1,27 @@
+{
+  "id": "ENEE698D",
+  "title": "Graduate Seminar; Electrophysics",
+  "credits": "1",
+  "description": "Also offered as PHYS798E. Credit granted for ENEE698D or PHYS798E.",
+  "grading-method": [
+    "Reg",
+    "Aud",
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Phillip Sprangle",
+      "seats": "41,",
+      "open-seats": "40,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PHY",
+      "room": "4221"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

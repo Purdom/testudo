@@ -1,0 +1,25 @@
+{
+  "id": "BSCI279H",
+  "title": "Supplemental Study; Catalyst Program Seminar",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Katerina Thompson",
+      "seats": "70,",
+      "open-seats": "37,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:30pm",
+      "end": "5:00pm",
+      "building": "BPS",
+      "room": "1243"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

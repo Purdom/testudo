@@ -1,0 +1,27 @@
+{
+  "id": "JWST345",
+  "title": "The Holocaust of European Jewry",
+  "credits": "3",
+  "description": "Also offered as: HIST307.\nCredit only granted for: HIST307 or JWST345.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Marsha Rozenblit",
+      "seats": "60,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "KEY",
+      "room": "1117"
+    }
+  ],
+  "term": "201801",
+  "department": "Jewish Studies"
+}

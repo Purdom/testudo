@@ -1,0 +1,27 @@
+{
+  "id": "HIST419V",
+  "title": "Special Topics in History; Modern Central and Eastern Europe",
+  "credits": "3",
+  "description": "We live in an international system dominated by accusations of growing Russian power and meddling in the affairs of other countries -- from the civil war that has raged in Ukraine since 2013, to the US presidential elections of 2016. These stories show that Central and Eastern Europe -- a region largely taken for granted since the end of the Cold War -- has once again become a battleground for the future of the international order. This course will both offer a broad overview of that region's history since the late 1700s, and provide students with the critical tools to develop their own views on that history.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Piotr H Kosicki",
+      "seats": "30,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "JMZ",
+      "room": "3203"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

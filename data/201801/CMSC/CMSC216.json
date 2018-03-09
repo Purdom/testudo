@@ -1,0 +1,193 @@
+{
+  "id": "CMSC216",
+  "title": "Introduction to Computer Systems",
+  "credits": "4",
+  "description": "Prerequisite: Minimum grade of C- in CMSC132; and minimum grade of C- in MATH141.\nCorequisite: CMSC250.\nCredit only granted for: CMSC212, (CMSC213 and CMSC313), or CMSC216.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0102",
+      "instructor": "Alan Sussman",
+      "seats": "29,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "CSI",
+      "room": "3117"
+    },
+    {
+      "id": "0103",
+      "instructor": "Alan Sussman",
+      "seats": "29,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "CSI",
+      "room": "3117"
+    },
+    {
+      "id": "0104",
+      "instructor": "Alan Sussman",
+      "seats": "29,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "CSI",
+      "room": "3117"
+    },
+    {
+      "id": "0201",
+      "instructor": "Pedram Sadeghian",
+      "seats": "32,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CSI",
+      "room": "1115"
+    },
+    {
+      "id": "0202",
+      "instructor": "Pedram Sadeghian",
+      "seats": "32,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CSI",
+      "room": "1115"
+    },
+    {
+      "id": "0203",
+      "instructor": "Pedram Sadeghian",
+      "seats": "32,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CSI",
+      "room": "1115"
+    },
+    {
+      "id": "0204",
+      "instructor": "Pedram Sadeghian",
+      "seats": "32,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CSI",
+      "room": "1115"
+    },
+    {
+      "id": "0301",
+      "instructor": "Nelson Padua-Perez",
+      "seats": "34,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0302",
+      "instructor": "Nelson Padua-Perez",
+      "seats": "34,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0303",
+      "instructor": "Nelson Padua-Perez",
+      "seats": "34,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0304",
+      "instructor": "Nelson Padua-Perez",
+      "seats": "34,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0305",
+      "instructor": "Nelson Padua-Perez",
+      "seats": "34,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0306",
+      "instructor": "Nelson Padua-Perez",
+      "seats": "34,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0307",
+      "instructor": "Nelson Padua-Perez",
+      "seats": "34,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0308",
+      "instructor": "Nelson Padua-Perez",
+      "seats": "34,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SKN",
+      "room": "0200"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

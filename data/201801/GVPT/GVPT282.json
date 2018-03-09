@@ -1,0 +1,87 @@
+{
+  "id": "GVPT282",
+  "title": "Politics and the Developing World",
+  "credits": "3",
+  "description": "A study of the domestic governmental institutions; processes and problems such as conflict and economic development; and the socio-economic environments that are common to developing countries of Africa, the Middle East, Asia, and Latin America.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John McCauley",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "SHM",
+      "room": "2102"
+    },
+    {
+      "id": "0102",
+      "instructor": "John McCauley",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "SHM",
+      "room": "2102"
+    },
+    {
+      "id": "0103",
+      "instructor": "John McCauley",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "SHM",
+      "room": "2102"
+    },
+    {
+      "id": "0104",
+      "instructor": "John McCauley",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "SHM",
+      "room": "2102"
+    },
+    {
+      "id": "0105",
+      "instructor": "John McCauley",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "SHM",
+      "room": "2102"
+    },
+    {
+      "id": "0106",
+      "instructor": "John McCauley",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "SHM",
+      "room": "2102"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

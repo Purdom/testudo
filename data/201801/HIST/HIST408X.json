@@ -1,0 +1,25 @@
+{
+  "id": "HIST408X",
+  "title": "Senior Seminar; Britain at War: A Social and Cultural History, From WWI to the Cold War",
+  "credits": "3",
+  "description": "Prerequisite: Permission of department. From the idealism of the \"Soldier Poets\" of 1914 who believed war would be \"a great adventure\" to the apocalyptic fears of the Cold War generation, war has shaped Twentieth Century British social and cultural history, especially British notions of class and gender. This is a readings based seminar, using memoirs, novels, and films, as well as secondary sources.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Julie Taddeo",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "TLF",
+      "room": "2103"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

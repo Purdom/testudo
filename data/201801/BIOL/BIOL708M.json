@@ -1,0 +1,25 @@
+{
+  "id": "BIOL708M",
+  "title": "Advanced Topics in Biology; Mammalian Physiology",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Scott Juntti",
+      "seats": "2,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ESJ",
+      "room": "1224"
+    }
+  ],
+  "term": "201801",
+  "department": "Biology"
+}

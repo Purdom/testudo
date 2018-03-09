@@ -1,0 +1,25 @@
+{
+  "id": "CHIN306",
+  "title": "Life in China through TV Plays II",
+  "credits": "3",
+  "description": "Prerequisite: CHIN305; or permission of ARHU-School of Languages, Literatures, and Cultures department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mei Kong",
+      "seats": "15,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "JMZ",
+      "room": "1226"
+    }
+  ],
+  "term": "201801",
+  "department": "Chinese"
+}

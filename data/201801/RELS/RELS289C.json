@@ -1,0 +1,63 @@
+{
+  "id": "RELS289C",
+  "title": "New Explorations in Religious Studies; Jews, Christians, and Muslims in Medieval Spain: Tolerance, Oppression, and the Problematic Past",
+  "credits": "3",
+  "description": "Also offered as HIST289A. Credit only granted for HIST289A or RELS289C.\n\nFor 800 years, medieval Spain was home to one of the most religiously diverse societies in European history, where Jews, Christians, and Muslims lived and worked closely together. In the modern era, this period has been held up both as a model of successful interreligious harmony, and as a case study in religious discrimination and exclusion. Can the example of the Spanish past really teach us how to build-or how not to build-a society that embraces religious difference?",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Janna Bianchini",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SYM",
+      "room": "0200"
+    },
+    {
+      "id": "0102",
+      "instructor": "Janna Bianchini",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SYM",
+      "room": "0200"
+    },
+    {
+      "id": "0103",
+      "instructor": "Janna Bianchini",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SYM",
+      "room": "0200"
+    },
+    {
+      "id": "0104",
+      "instructor": "Janna Bianchini",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SYM",
+      "room": "0200"
+    }
+  ],
+  "term": "201801",
+  "department": "Religious Studies"
+}

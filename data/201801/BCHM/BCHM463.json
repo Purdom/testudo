@@ -1,0 +1,50 @@
+{
+  "id": "BCHM463",
+  "title": "Biochemistry of Physiology",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in CHEM271 and CHEM272; or minimum grade of C- in CHEM276 and CHEM277.\nCredit only granted for: BCHM461, BCHM462 or BCHM463.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Bonnie Dixon",
+      "seats": "130,",
+      "open-seats": "44,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CHM",
+      "room": "1402"
+    },
+    {
+      "id": "0201",
+      "instructor": "Douglas Julin",
+      "seats": "130,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PHY",
+      "room": "1410"
+    },
+    {
+      "id": "SES1",
+      "instructor": "Bonnie Dixon",
+      "seats": "45,",
+      "open-seats": "28,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:30pm",
+      "end": "9:30pm",
+      "building": "MCB",
+      "room": "1207"
+    }
+  ],
+  "term": "201801",
+  "department": "Biochemistry"
+}

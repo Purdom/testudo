@@ -1,0 +1,38 @@
+{
+  "id": "EDHD411",
+  "title": "Child Growth and Development",
+  "credits": "3",
+  "description": "Theoretical approaches to and empirical studies of physical, psychological and social development from conception to puberty. Implications for home, school and community.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lucas Butler",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TYD",
+      "room": "2108"
+    },
+    {
+      "id": "0201",
+      "instructor": "Lucas Butler",
+      "seats": "40,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "TYD",
+      "room": "2108"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Human Development"
+}

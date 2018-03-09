@@ -1,0 +1,25 @@
+{
+  "id": "BSCI378H",
+  "title": "Cell Biology and Molecular Genetics Department Honors Seminar",
+  "credits": "1",
+  "description": "Required seminar for all students participating in departmental honors research program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Zhongchi Liu",
+      "seats": "23,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "BRB",
+      "room": "3101"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

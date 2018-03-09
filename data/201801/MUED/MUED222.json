@@ -1,0 +1,27 @@
+{
+  "id": "MUED222",
+  "title": "Classroom Instruments Technique and Pedagogy",
+  "credits": "2",
+  "description": "Prerequisite: MUED187 and MUED186.\nRestriction: Must be in Music Education program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Ruybalid",
+      "seats": "15,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "PAC",
+      "room": "2130A"
+    }
+  ],
+  "term": "201801",
+  "department": "Music Education"
+}

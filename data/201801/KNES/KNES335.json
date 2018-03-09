@@ -1,0 +1,27 @@
+{
+  "id": "KNES335",
+  "title": "Swimming Pool Management",
+  "credits": "2",
+  "description": "Analysis of the position of the swimming pool manager. The systematic treatment of swimming pool water; swimming pool first aid; and laws pertaining to swimming pool operation. Qualifies the student for a pool operator's license in most Maryland counties.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Felts",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ERC",
+      "room": "B0136"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

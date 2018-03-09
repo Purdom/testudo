@@ -1,0 +1,27 @@
+{
+  "id": "SOCY411",
+  "title": "Demographic Techniques",
+  "credits": "3",
+  "description": "Prerequisite: (SOCY201; or students who have taken courses with comparable content may contact the department); and SOCY410. Or permission of BSOS-Sociology department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Joan Kahn",
+      "seats": "29,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ASY",
+      "room": "3207"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

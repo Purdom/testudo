@@ -1,0 +1,157 @@
+{
+  "id": "GEMS297",
+  "title": "Team Project Seminar II",
+  "credits": "2",
+  "description": "Restriction: Must be in the Gemstone program with sophomore standing in a research team.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Matthias Zwicker",
+      "seats": "14,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:00pm",
+      "end": "5:50pm",
+      "building": "HBK",
+      "room": "0108"
+    },
+    {
+      "id": "0102",
+      "instructor": "Kevin Knapstein",
+      "seats": "14,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:30pm",
+      "end": "8:30pm",
+      "building": "ESJ",
+      "room": "B0320"
+    },
+    {
+      "id": "0103",
+      "instructor": "Mohamad Al-Sheikhly",
+      "seats": "14,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "8:00am",
+      "end": "8:50am",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0104",
+      "instructor": "Jose Aranda-Espinoza",
+      "seats": "14,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:00pm",
+      "end": "5:50pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0105",
+      "instructor": "Joanna Goger",
+      "seats": "14,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:00pm",
+      "end": "6:50pm",
+      "building": "PLS",
+      "room": "1164"
+    },
+    {
+      "id": "0106",
+      "instructor": "Bao Yang",
+      "seats": "14,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0107",
+      "instructor": "Ashok Agrawala",
+      "seats": "14,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "TBA",
+      "room": "2145"
+    },
+    {
+      "id": "0108",
+      "instructor": "Sean Barnes,",
+      "seats": "14,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "TBA",
+      "room": "B0431"
+    },
+    {
+      "id": "0109",
+      "instructor": "Anil Deane",
+      "seats": "14,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "4:30pm",
+      "building": "ATL",
+      "room": "4301"
+    },
+    {
+      "id": "0110",
+      "instructor": "Lester Schultheis",
+      "seats": "14,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0111",
+      "instructor": "David Akin",
+      "seats": "14,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:30pm",
+      "end": "7:30pm",
+      "building": "TBA",
+      "room": "0124"
+    },
+    {
+      "id": "0113",
+      "instructor": "Kristan Skendall",
+      "seats": "5,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Gemstone"
+}

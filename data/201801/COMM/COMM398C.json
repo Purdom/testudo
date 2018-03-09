@@ -1,0 +1,25 @@
+{
+  "id": "COMM398C",
+  "title": "Selected Topics in Communication; Peer Consulting in Oral Communication",
+  "credits": "3",
+  "description": "Restricted to majors in Communication. Provides training in the principles and practice of peer consulting in the context of the Oral Communication Center in the Department of Communication. Students will apply and integrate the knowledge and skills acquired in COMM107 (or COMM 200) with new training to help their peers become outstanding listeners and speakers. They will also engage in a group research project designed to extend knowledge in peer consulting best practices.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jade Olson",
+      "seats": "20,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "SKN",
+      "room": "2117"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

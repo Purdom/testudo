@@ -1,0 +1,26 @@
+{
+  "id": "BMGT878C",
+  "title": "Special Topics in Strategic Management and Entrepreneurship; Cross Discilpinary Workshop in Strategy and Entrepreneurship",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Instructor: TBA",
+      "seats": "13,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "11:00am",
+      "end": "12:30pm",
+      "building": "VMH",
+      "room": "2505"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

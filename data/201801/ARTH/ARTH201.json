@@ -1,0 +1,63 @@
+{
+  "id": "ARTH201",
+  "title": "Art and Society in the West from the Renaissance to the Present",
+  "credits": "3",
+  "description": "Examines representative European and American works of art from the later Middle Ages to the present, highlighting the dynamic exchange between artistic and cultural traditions both within periods and across time.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Steven Mansbach",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ASY",
+      "room": "2203"
+    },
+    {
+      "id": "0103",
+      "instructor": "Steven Mansbach",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ASY",
+      "room": "2203"
+    },
+    {
+      "id": "0104",
+      "instructor": "Steven Mansbach",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ASY",
+      "room": "2203"
+    },
+    {
+      "id": "0105",
+      "instructor": "Steven Mansbach",
+      "seats": "25,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ASY",
+      "room": "2203"
+    }
+  ],
+  "term": "201801",
+  "department": "Art History & Archaeology"
+}

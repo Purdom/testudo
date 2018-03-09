@@ -1,0 +1,63 @@
+{
+  "id": "EDCP108B",
+  "title": "College and Career Advancement: Concepts and Skills; Academic Success Strategies",
+  "credits": "1",
+  "description": "Course registration is closed to seniors, but they may request enrollment with permission from the instructor if seats are available.\n\nThis course is designed to empower students to become more active learners in college and in life. By examining prior and current learning strategies, students will be encouraged to make wise choices to create new pathways for growth now and in the future.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shirley Browner",
+      "seats": "27,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "0201",
+      "instructor": "Shirley Browner",
+      "seats": "27,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "0301",
+      "instructor": "Kimberly Bethea",
+      "seats": "27,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "0401",
+      "instructor": "Kimberly Bethea",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "1",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

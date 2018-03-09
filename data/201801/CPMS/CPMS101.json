@@ -1,0 +1,25 @@
+{
+  "id": "CPMS101",
+  "title": "College Park Scholars: Media, Self & Society First-Year Colloquium II",
+  "credits": "1",
+  "description": "Prerequisite: CPMS100.\nRestriction: Students must be enrolled in the College Park Scholars Media, Self & Society (CPMS) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kalyani Chadha,",
+      "seats": "95,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "CCC",
+      "room": "1205"
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars-Media, Self and Society"
+}

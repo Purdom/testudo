@@ -1,0 +1,25 @@
+{
+  "id": "JOUR199",
+  "title": "Survey Apprenticeship",
+  "credits": "1",
+  "description": "Prerequisite: permission of department. Repeatable to 6 credits if content differs. Students must meet with the Internship Director in KNI 1100 to receive permission to register. No requests to register after the Schedule Adjustment Period will be honored.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Adrianne Flynn",
+      "seats": "35,",
+      "open-seats": "31,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

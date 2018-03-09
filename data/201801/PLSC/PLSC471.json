@@ -1,0 +1,27 @@
+{
+  "id": "PLSC471",
+  "title": "Forest Ecology",
+  "credits": "3",
+  "description": "Prerequisite: PLSC201; or (BSCI160 and BSCI161); or BSCI106.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jessica Sanders",
+      "seats": "50,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PLS",
+      "room": "1130"
+    }
+  ],
+  "term": "201801",
+  "department": "Plant Sciences"
+}

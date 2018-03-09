@@ -1,0 +1,26 @@
+{
+  "id": "ENGL789",
+  "title": "Form and Theory in Fiction",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Maud Casey",
+      "seats": "11,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TWS",
+      "room": "3248"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

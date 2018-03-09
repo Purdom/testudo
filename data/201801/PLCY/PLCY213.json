@@ -1,0 +1,27 @@
+{
+  "id": "PLCY213",
+  "title": "Foundations of Nonprofit Leadership and Social Innovation",
+  "credits": "3",
+  "description": "Through discussions of contemporary trends, challenges and issues, this course provides an introduction to the nonprofit and NGO sectors, social innovation, and the leadership and management skills required to achieve social impact. The course will explore the history, theories, and roles of philanthropy, the nonprofit sector, and social innovation in societies and cultures. Students will be able to demonstrate an understanding of the process and principles of social entrepreneurship and social innovation. Additionally, the course will introduce students to topics in leadership, social innovation, resource development, community mobilization through networks, the role of policy-making in creating change, project management, and overall strategies for achieving social impact. The course will include mini hands-on learning experiences that allow them to apply key learning outcomes.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Grimm",
+      "seats": "45,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "TLF",
+      "room": "1126"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

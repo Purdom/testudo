@@ -1,0 +1,39 @@
+{
+  "id": "ECON423",
+  "title": "Econometrics II",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in ECON422.\nRestriction: Must be in Economics Bachelor of Science program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Chao",
+      "seats": "38,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TYD",
+      "room": "2102"
+    },
+    {
+      "id": "0201",
+      "instructor": "Richard Stahnke",
+      "seats": "38,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TYD",
+      "room": "2111"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

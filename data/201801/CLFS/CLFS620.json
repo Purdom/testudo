@@ -1,0 +1,26 @@
+{
+  "id": "CLFS620",
+  "title": "Modern Molecular Genetics",
+  "credits": "3",
+  "description": "An overview of genetics including the genetic basis/components in prevalent diseases, genetically engineered organisms and foods, the importance of knowing the complete DNA sequence of organisms.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PL01",
+      "instructor": "Paul Bottino",
+      "seats": "4,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemical and Life Sciences"
+}

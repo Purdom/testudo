@@ -1,0 +1,27 @@
+{
+  "id": "DANC448",
+  "title": "Modern Dance V",
+  "credits": "3",
+  "description": "Prerequisite: DANC319 and audition. Students must pay a $25.00 lab fee.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Alex Springer,",
+      "seats": "10,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "10:50am",
+      "building": "PAC",
+      "room": "1912"
+    }
+  ],
+  "term": "201801",
+  "department": "Dance"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "UNIV107",
+  "title": "Science Technology Engineering Mathematics Colloquium",
+  "credits": "1",
+  "description": "Restriction: Must be a current student in Letters & Sciences.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0807",
+      "instructor": "Michelle Udeli,",
+      "seats": "20,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0808",
+      "instructor": "Michelle Udeli,",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0811",
+      "instructor": "Michelle Udeli,",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "MMH",
+      "room": "1400"
+    }
+  ],
+  "term": "201801",
+  "department": "University Courses"
+}

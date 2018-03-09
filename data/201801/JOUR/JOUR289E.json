@@ -1,0 +1,27 @@
+{
+  "id": "JOUR289E",
+  "title": "Media Law and Ethics in the Digital Age",
+  "credits": "3",
+  "description": "This course is intended for non-journalism majors. Explore the First Amendment, libel, privacy, FOIA and copyright as they evolved in the digital news age of bloggers, tweeters, and citizen journalists. This course will cover fundamental legal and ethical concepts as well as practical application.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sandra Banisky",
+      "seats": "70,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "KNI",
+      "room": "1208"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

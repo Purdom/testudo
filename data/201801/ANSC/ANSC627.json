@@ -1,0 +1,26 @@
+{
+  "id": "ANSC627",
+  "title": "Molecular and Quantitative Genetics",
+  "credits": "3",
+  "description": "Classical, molecular, and population genetics with specific emphasis on animal systems will be covered. Also, disseminate information on molecular approaches for manipulating genetics at the whole animal level (transgenic and cloning). Other model organisms will be discussed to provide a conceptual framework.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Li Ma,",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ANS",
+      "room": "0408"
+    }
+  ],
+  "term": "201801",
+  "department": "Animal Science"
+}

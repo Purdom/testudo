@@ -1,0 +1,27 @@
+{
+  "id": "HIST285",
+  "title": "East Asian Civilization II",
+  "credits": "3",
+  "description": "A survey of the historical development of modern Asia since 1700. Primarily concerned with the efforts of East Asians to preserve their traditional cultures in the face of Western expansion in the 18th and 19th centuries, and their attempts to survive as nations in the 20th century.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Gao",
+      "seats": "40,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "KEY",
+      "room": "0126"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

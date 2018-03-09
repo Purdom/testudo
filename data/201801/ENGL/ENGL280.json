@@ -1,0 +1,27 @@
+{
+  "id": "ENGL280",
+  "title": "The English Language",
+  "credits": "3",
+  "description": "Introduction to the structure of English and its historical development with a focus on techniques of linguistic analysis. Major topics include the sound systems of English and its patterns of word formation and sentence structure, and the ways these have changed over time and vary around the world.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Linda Coleman",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TWS",
+      "room": "0205"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

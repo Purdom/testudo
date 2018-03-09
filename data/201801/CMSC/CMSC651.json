@@ -1,0 +1,26 @@
+{
+  "id": "CMSC651",
+  "title": "Analysis of Algorithms",
+  "credits": "3",
+  "description": "Prerequisite: CMSC451.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Aravind Srinivasan",
+      "seats": "45,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CSI",
+      "room": "1121"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

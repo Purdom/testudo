@@ -1,0 +1,26 @@
+{
+  "id": "EDPS625",
+  "title": "Federal Education Policy",
+  "credits": "3",
+  "description": "Credit only granted for: EDHI625, EDPL625, or EDPS625.\nFormerly: EDPL625.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Campbell Scribner",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "1315"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Policy Studies"
+}

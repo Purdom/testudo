@@ -1,0 +1,25 @@
+{
+  "id": "PSYC639",
+  "title": "Internship in Professional Psychology; Internship in Professional Psychology",
+  "credits": "1",
+  "description": "For PSYC majors only.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andres De Los Reyes",
+      "seats": "20,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

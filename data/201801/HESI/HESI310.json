@@ -1,0 +1,39 @@
+{
+  "id": "HESI310",
+  "title": "Transfer2Terp Learning Community: Applying Your Strengths at the University of Maryland and Beyond",
+  "credits": "3",
+  "description": "Restriction: Priority will be given to students transferring from Maryland Community Colleges; and permission of EDUC-Counseling, Higher Education and Special Education department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Casey Maliszewski Lukszo",
+      "seats": "16,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SSU",
+      "room": "0110"
+    },
+    {
+      "id": "0201",
+      "instructor": "Kristina Rubio,",
+      "seats": "16,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "SSU",
+      "room": "0110"
+    }
+  ],
+  "term": "201801",
+  "department": "Higher Ed, Student Affairs, and International Ed Policy"
+}

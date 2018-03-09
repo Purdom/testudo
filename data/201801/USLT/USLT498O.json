@@ -1,0 +1,27 @@
+{
+  "id": "USLT498O",
+  "title": "US Latina/o Studies: Special Topics; Queer and Feminist Thought in Latina/o America",
+  "credits": "3",
+  "description": "Also offered as LGBT448O. Credit only granted for USLT498O or LGBT448O.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ivan Ramos",
+      "seats": "35,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "WDS",
+      "room": "1114"
+    }
+  ],
+  "term": "201801",
+  "department": "Latina/o Studies"
+}

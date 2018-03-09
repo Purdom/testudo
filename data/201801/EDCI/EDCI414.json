@@ -1,0 +1,27 @@
+{
+  "id": "EDCI414",
+  "title": "Interdisciplinary Teaching in the Middle Grades II",
+  "credits": "2",
+  "description": "Prerequisite: EDCI360 and TLPL423.\nCorequisite: EDCI425 and EDCI460.\nRestriction: Minimum cumulative GPA of 2.5; and must be in the Middle School Teacher Education Program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Janet Walkoe",
+      "seats": "20,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "6:50pm",
+      "building": "EDU",
+      "room": "2212"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

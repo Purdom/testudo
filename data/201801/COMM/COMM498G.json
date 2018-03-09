@@ -1,0 +1,27 @@
+{
+  "id": "COMM498G",
+  "title": "Seminar; Event Planning and Communication",
+  "credits": "3",
+  "description": "Restricted to COMM majors.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Pamela Grant",
+      "seats": "35,",
+      "open-seats": "26,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "KEY",
+      "room": "0126"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

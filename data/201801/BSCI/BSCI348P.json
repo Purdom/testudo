@@ -1,0 +1,27 @@
+{
+  "id": "BSCI348P",
+  "title": "Special Topics in Cell Biology and Molecular Genetics; Introductory Biology Curriculum and Instruction Practicum",
+  "credits": "3",
+  "description": "Students will learn about methodologies and curriculum tools applicable to the field of undergraduate science education; the practicum component of the course will allow students to directly apply such innovative approaches through an undergraduate teaching and learning assistantship (UTLA) in conjunction with BSCI105. Prerequisite: A or B in BSCI105 and permission of instructor. Students must be available for one of the BSCI105 lecture periods. Students interested in this teaching/leadership opportunity should contact Dr. Patricia Shields (pshields@umd.edu) for further information. This course is applicable for the Enrichment credits required of all Biological students in majors with 0404 codes. For others this is an elective credit.\n\n(Sponsoring Dept.: CBMG).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Patricia Shields,",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:00pm",
+      "end": "6:50pm",
+      "building": "ESJ",
+      "room": "1215"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

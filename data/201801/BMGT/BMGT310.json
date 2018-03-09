@@ -1,0 +1,61 @@
+{
+  "id": "BMGT310",
+  "title": "Intermediate Accounting I",
+  "credits": "3",
+  "description": "Prerequisite: BMGT221.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Leslie Mostow",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1415"
+    },
+    {
+      "id": "0201",
+      "instructor": "Mary Keim",
+      "seats": "35,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1336"
+    },
+    {
+      "id": "0301",
+      "instructor": "Mary Keim",
+      "seats": "35,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1336"
+    },
+    {
+      "id": "SG91",
+      "instructor": "Samuel Handwerger",
+      "seats": "35,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "BLD2",
+      "room": "2062"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

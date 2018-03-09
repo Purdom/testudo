@@ -1,0 +1,26 @@
+{
+  "id": "KNES610",
+  "title": "Methods and Techniques of Research",
+  "credits": "3",
+  "description": "Studies methods and techniques of research used in Kinesiology; an analysis of examples of their use; and practice in their application to problems of interest to the student.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Seppo Iso-Ahola",
+      "seats": "15,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "SPH",
+      "room": "0303"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

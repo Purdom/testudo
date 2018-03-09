@@ -1,0 +1,27 @@
+{
+  "id": "BSCI348Q",
+  "title": "Special Topics in Cell Biology and Molecular Genetics; Special Topics in Cell Biology and Molecular Genetics: Introductory Biology Learning Assistantship",
+  "credits": "1 -",
+  "description": "Students apply methodologies learned in BSCI348P by serving as an undergraduate learning assistant (ULA) in conjunction with BSCI170 (formerly BSCI105). Prerequisite: A or B in BSCI348P and permission of instructor. Student must be available for one of the BSCI170 lecture periods (MWF 11-11:50 or 2:00-2:50). Students interested in this teaching/leadership opportunity should contact Dr. Patricia Shields (pshields@umd.edu) for further information.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Patricia Shields",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:00pm",
+      "end": "6:50pm",
+      "building": "ESJ",
+      "room": "1215"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

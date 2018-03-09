@@ -1,0 +1,26 @@
+{
+  "id": "ENES603",
+  "title": "Future Faculty Program Seminar III",
+  "credits": "1",
+  "description": "Restriction: Must be in the Clark School Future Faculty Program.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ichiro Takeuchi",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:30pm",
+      "end": "4:30pm",
+      "building": "KEB",
+      "room": "1200"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

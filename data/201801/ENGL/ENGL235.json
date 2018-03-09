@@ -1,0 +1,26 @@
+{
+  "id": "ENGL235",
+  "title": "U.S. Latina/o Literature and Culture",
+  "credits": "3",
+  "description": "Poetry, prose, and theater of Latina/o communities in the United States from origins in Spanish colonization of North America to ongoing development in the 21st century. How authors use literary form to gain insight into human experience, including mortality, religious belief, gender and sexuality, war and peace, family, language use, scientific inquiry, cultural tradition, ecology, and labor. How Latina/o literary traditions have shaped and been shaped by broader currents in American literature. Connections between Latina/o literature and social and artistic developments in other parts of the world, particularly Latin America and the Caribbean. Authors may include Alvar Nunez Cabeza de Vaca, Eulalia Perez, Juan Nepomuceno Seguin, Maria Amparo Ruiz de Burton, Jose Marti, Arthur A. Schomburg, Jesus Colon, Julia de Burgos, Cesar Chavez, Ariel Dorfman, Gloria Anzaldua, Junot Diaz, and Cristina Garcia.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andrea Knowles",
+      "seats": "30,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "TWS",
+      "room": "1320"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

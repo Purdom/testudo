@@ -1,0 +1,27 @@
+{
+  "id": "COMM370H",
+  "title": "Mediated Communication",
+  "credits": "3",
+  "description": "Prerequisite: COMM250.\nRestriction: Junior standing or higher.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nicholas Joyce",
+      "seats": "15,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "PLS",
+      "room": "1176"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

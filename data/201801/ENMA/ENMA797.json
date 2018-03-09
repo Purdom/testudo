@@ -1,0 +1,26 @@
+{
+  "id": "ENMA797",
+  "title": "Independent Study",
+  "credits": "3",
+  "description": "This course is designed to provide students with a directed independent study course in order to prepare the scholarly paper required for the master's degree without thesis degree option.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ichiro Takeuchi",
+      "seats": "6,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Materials"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "LING312",
+  "title": "Syntax II",
+  "credits": "3",
+  "description": "Prerequisite: LING311.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Norbert Hornstein",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "MMH",
+      "room": "3416K"
+    }
+  ],
+  "term": "201801",
+  "department": "Linguistics"
+}

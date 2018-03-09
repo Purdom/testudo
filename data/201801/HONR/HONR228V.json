@@ -1,0 +1,25 @@
+{
+  "id": "HONR228V",
+  "title": "Honors Seminar; Warfare and Society in Greece, Rome, and Byzantium",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Denis Sullivan",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ASY",
+      "room": "3221"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

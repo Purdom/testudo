@@ -1,0 +1,26 @@
+{
+  "id": "HISP660",
+  "title": "Internship in Historic Preservation",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ARCH-Historic Preservation Program.\nFormerly: HISP619.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Donald Linebaugh",
+      "seats": "15,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Historic Preservation"
+}

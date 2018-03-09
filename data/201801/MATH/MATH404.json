@@ -1,0 +1,27 @@
+{
+  "id": "MATH404",
+  "title": "Field Theory",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in MATH403.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Patrick Brosnan",
+      "seats": "25,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "MTH",
+      "room": "0409"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

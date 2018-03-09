@@ -1,0 +1,85 @@
+{
+  "id": "ENGL398R",
+  "title": "Topics in Professional Writing; Writing Non-Fictional Narratives",
+  "credits": "3",
+  "description": "Prerequisite: 60 credits and completion of ENGL101 or equivalent. This course satisfies the professional writing requirement.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "1001",
+      "instructor": "Pamela Gerhardt",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "TWS",
+      "room": "0224"
+    },
+    {
+      "id": "1101",
+      "instructor": "Pamela Gerhardt",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TWS",
+      "room": "0224"
+    },
+    {
+      "id": "1102",
+      "instructor": "Stewart Foehl",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "LEF",
+      "room": "1222"
+    },
+    {
+      "id": "1201",
+      "instructor": "Pamela Gerhardt",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TWS",
+      "room": "0224"
+    },
+    {
+      "id": "1202",
+      "instructor": "Stewart Foehl",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "LEF",
+      "room": "1221"
+    },
+    {
+      "id": "1505",
+      "instructor": "Pamela Gerhardt",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "TWS",
+      "room": "0224"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

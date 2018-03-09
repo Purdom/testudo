@@ -1,0 +1,38 @@
+{
+  "id": "MATH213",
+  "title": "Elements of Geometry and Measurement",
+  "credits": "3",
+  "description": "Prerequisite: MATH212.\nRestriction: Must be in one of the following programs (Early Childhood Education; Special Education; Elementary Education).\nCredit only granted for: MATH211 or MATH213.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Monica Dunsworth",
+      "seats": "28,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "EDU",
+      "room": "2119"
+    },
+    {
+      "id": "0401",
+      "instructor": "Karen McLaren",
+      "seats": "28,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "MTH",
+      "room": "0403"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

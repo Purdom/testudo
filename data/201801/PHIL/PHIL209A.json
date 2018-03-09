@@ -1,0 +1,51 @@
+{
+  "id": "PHIL209A",
+  "title": "Philosophical Issues; Bioethics: Regulating Right and Wrong",
+  "credits": "3",
+  "description": "Bioethicists help to formulate ethical guidelines for medical professionals and the public. This course involves students in the project of constructing and defending ethical rules regarding four domains in medicine: human and animal research, allocation of scarce resources, prenatal genetic interventions, and physician-assisted dying.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Javiera Perez-Gomez",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:20am",
+      "building": "SYM",
+      "room": "0200"
+    },
+    {
+      "id": "0102",
+      "instructor": "Javiera Perez-Gomez",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:20am",
+      "building": "SYM",
+      "room": "0200"
+    },
+    {
+      "id": "0103",
+      "instructor": "Javiera Perez-Gomez",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:20am",
+      "building": "SYM",
+      "room": "0200"
+    }
+  ],
+  "term": "201801",
+  "department": "Philosophy"
+}

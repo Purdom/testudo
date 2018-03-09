@@ -1,0 +1,25 @@
+{
+  "id": "CHIN204",
+  "title": "Intermediate Written Chinese II",
+  "credits": "3",
+  "description": "Prerequisite: CHIN202; or students who have taken courses with comparable content may contact the department; or must have attained appropriate Foreign Language Placement Test (FLPT) score.\nCorequisite: CHIN203.\nAdditional information: Must be taken in conjunction with CHIN203.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Minglang Zhou",
+      "seats": "15,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "JMZ",
+      "room": "2123"
+    }
+  ],
+  "term": "201801",
+  "department": "Chinese"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "KNES386",
+  "title": "Experiential Learning",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed three KNES core classes.\nRestriction: Junior standing or higher; and must be in a major within SPHL-Kinesiology department.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Marvin Scott",
+      "seats": "25,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "SPH",
+      "room": "0308"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

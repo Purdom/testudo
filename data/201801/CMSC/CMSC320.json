@@ -1,0 +1,25 @@
+{
+  "id": "CMSC320",
+  "title": "Introduction to Data Science",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in CMSC216 and CMSC250.\nRestriction: Permission of CMNS-Computer Science department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hector Corrada Bravo",
+      "seats": "180,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "HJP",
+      "room": "0226"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

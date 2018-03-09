@@ -1,0 +1,27 @@
+{
+  "id": "BIOE486",
+  "title": "Capstone Design II",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed BIOE485 in the immediately preceding semester.\nRestriction: Senior standing; and must be in Engineering: Bioengineering program; and permission of ENGR-Fischell Department of Bioengineering department.\nCredit only granted for: BIOE486 or ENBE486.\nFormerly: ENBE486.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gregory Payne,",
+      "seats": "120,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:30pm",
+      "end": "8:00pm",
+      "building": "ESJ",
+      "room": "1202"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

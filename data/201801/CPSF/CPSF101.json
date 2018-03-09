@@ -1,0 +1,25 @@
+{
+  "id": "CPSF101",
+  "title": "College Park Scholars: Life Sciences First-Year Colloquium lI",
+  "credits": "1",
+  "description": "Prerequisite: CPSF100.\nRestriction: Students must be enrolled in the College Park Scholars Life Sciences (CPSF) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Reid Compton",
+      "seats": "100,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "5:30pm",
+      "building": "PLS",
+      "room": "1140"
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars-Life Sciences"
+}

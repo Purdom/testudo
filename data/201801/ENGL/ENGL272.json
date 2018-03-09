@@ -1,0 +1,63 @@
+{
+  "id": "ENGL272",
+  "title": "Writing Fiction: A Beginning Workshop",
+  "credits": "3",
+  "description": "Introduction to theory and practice of writing fiction. Emphasis on critical reading of literary models. Exercises and workshop discussions with continual reference to modeling, drafting, and revising as necessary stages in a creative process.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Carlos Chism",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "KEY",
+      "room": "0123"
+    },
+    {
+      "id": "0201",
+      "instructor": "Heather De Bel",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TWS",
+      "room": "0221"
+    },
+    {
+      "id": "0301",
+      "instructor": "Nicolette Polek",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "0236"
+    },
+    {
+      "id": "0401",
+      "instructor": "Jason Smith",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "KEY",
+      "room": "0123"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "HEBR107",
+  "title": "Intensive Elementary Hebrew II",
+  "credits": "4",
+  "description": "Prerequisite: HEBR106 or HEBR111; or must have appropriate score on Foreign Language Placement Assessment; or students who have taken courses with comparable content may contact the department.\nCredit only granted for: HEBR107 or HEBR112.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Avital Karpman",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "JMZ",
+      "room": "0205"
+    }
+  ],
+  "term": "201801",
+  "department": "Hebrew"
+}

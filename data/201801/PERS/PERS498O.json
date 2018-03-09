@@ -1,0 +1,27 @@
+{
+  "id": "PERS498O",
+  "title": "Special Topics in Persian Studies; Persian Literature in Modern Iran",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mohammad Bazargan",
+      "seats": "5,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "9:00am",
+      "end": "11:45am",
+      "building": "HJP",
+      "room": "3115"
+    }
+  ],
+  "term": "201801",
+  "department": "Persian"
+}

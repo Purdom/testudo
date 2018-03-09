@@ -1,0 +1,111 @@
+{
+  "id": "KNES370",
+  "title": "Motor Development",
+  "credits": "3",
+  "description": "Restriction: Must be in a major within SPHL-Kinesiology department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yue Du",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "SPH",
+      "room": "1312"
+    },
+    {
+      "id": "0102",
+      "instructor": "Yue Du",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "SPH",
+      "room": "1312"
+    },
+    {
+      "id": "0103",
+      "instructor": "Yue Du",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "SPH",
+      "room": "1312"
+    },
+    {
+      "id": "0104",
+      "instructor": "Yue Du",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "SPH",
+      "room": "1312"
+    },
+    {
+      "id": "0105",
+      "instructor": "Yue Du",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "SPH",
+      "room": "1312"
+    },
+    {
+      "id": "0106",
+      "instructor": "Yue Du",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "SPH",
+      "room": "1312"
+    },
+    {
+      "id": "0107",
+      "instructor": "Yue Du",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "SPH",
+      "room": "1312"
+    },
+    {
+      "id": "0108",
+      "instructor": "Yue Du",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "SPH",
+      "room": "1312"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "PSYC654",
+  "title": "Advanced Analytical Thinking: Statistical Methods at Work II",
+  "credits": "3",
+  "description": "Prerequisite: PSYC652 and PSYC653.\nRestriction: Must be in the Master of Professional Studies in Industrial/Organizational Psychology Program.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PYP1",
+      "instructor": "Juliet Aiken",
+      "seats": "40,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:00pm",
+      "end": "8:30pm",
+      "building": "BPS",
+      "room": "1140B"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

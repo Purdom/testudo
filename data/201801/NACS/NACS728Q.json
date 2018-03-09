@@ -1,0 +1,50 @@
+{
+  "id": "NACS728Q",
+  "title": "Selected Topics in Neuroscience and Cognitive Science; Biological Bases of Behavior Laboratory",
+  "credits": "4",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Yager",
+      "seats": "6,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "BPS",
+      "room": "1236"
+    },
+    {
+      "id": "0201",
+      "instructor": "David Yager",
+      "seats": "6,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "BPS",
+      "room": "1236"
+    },
+    {
+      "id": "0301",
+      "instructor": "David Yager",
+      "seats": "6,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "BPS",
+      "room": "1236"
+    }
+  ],
+  "term": "201801",
+  "department": "Neuroscience & Cognitive Science"
+}

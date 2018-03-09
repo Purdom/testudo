@@ -1,0 +1,39 @@
+{
+  "id": "ARSC301",
+  "title": "Management and Leadership II",
+  "credits": "3",
+  "description": "Corequisite: AFROTC cadets must also register for ARSC059; or permission of UGST-AFROTC-Air Science.\nRestriction: Junior standing or higher.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Isham Nichols",
+      "seats": "50,",
+      "open-seats": "27,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "9:00am",
+      "end": "12:00pm",
+      "building": "SQH",
+      "room": "1120"
+    },
+    {
+      "id": "0102",
+      "instructor": "Isham Nichols",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "2:00pm",
+      "building": "ARM",
+      "room": "0118"
+    }
+  ],
+  "term": "201801",
+  "department": "Air Science"
+}

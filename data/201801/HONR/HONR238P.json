@@ -1,0 +1,25 @@
+{
+  "id": "HONR238P",
+  "title": "Honors Seminar; Memory, Imagination, Invention: A Creative Writing Workshop",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sarah Pleydell",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "ANA",
+      "room": "0120"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "MUSC203",
+  "title": "Intermediate Class Piano II",
+  "credits": "2",
+  "description": "Prerequisite: MUSC202; or must have equivalent piano training.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jungyeon Yim",
+      "seats": "10,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "PAC",
+      "room": "1123"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

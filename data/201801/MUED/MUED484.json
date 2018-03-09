@@ -1,0 +1,25 @@
+{
+  "id": "MUED484",
+  "title": "Student Teaching in Elementary School: Music",
+  "credits": "6",
+  "description": "Corequisite: MUED494.\nRestriction: Permission of ARHU-School of Music department; and must be in Music Education program.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Hewitt",
+      "seats": "15,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Music Education"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ENGL311",
+  "title": "British Literature from 1600 to 1800",
+  "credits": "3",
+  "description": "The culture of seventeenth and eighteenth-century Britain seen through detailed study of selected major texts. Drama, poetry, political writings, and early novels by men and women. Authors may include Donne, Milton, Jonson, Behn, Swift, Pope, Montagu, and Wollstonecraft.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Jonathan Williams",
+      "seats": "29,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TWS",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "PLCY688G",
+  "title": "Topics in Public Policy; Governance: Leadership, Management and Accountability",
+  "credits": "3",
+  "description": "Restricted to PLCY majors or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elizabeth Duke",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:15am",
+      "end": "11:45am",
+      "building": "VMH",
+      "room": "1203"
+    },
+    {
+      "id": "0201",
+      "instructor": "Elizabeth Duke",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:15pm",
+      "end": "6:45pm",
+      "building": "VMH",
+      "room": "1203"
+    },
+    {
+      "id": "0301",
+      "instructor": "Donald Kettl",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:30pm",
+      "end": "4:00pm",
+      "building": "VMH",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

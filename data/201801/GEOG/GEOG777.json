@@ -1,0 +1,26 @@
+{
+  "id": "GEOG777",
+  "title": "Mobile GIS Development",
+  "credits": "3",
+  "description": "Prerequisite: Permission of BSOS-Geography department; or must be enrolled in Geographical Sciences Phd or MS degree program.\nRestriction: Must be in a major within the BSOS-Geography department; or permission of BSOS-Geography department.\nCredit only granted for: GEOG477, GEOG498V, GEOG788V or GEOG777.\nFormerly: GEOG788V.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ruibo Han",
+      "seats": "25,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "LEF",
+      "room": "1201"
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

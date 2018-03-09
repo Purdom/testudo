@@ -1,0 +1,25 @@
+{
+  "id": "BUSM762",
+  "title": "Decision Analytics",
+  "credits": "2",
+  "description": "Prerequisite: BUSM606.\nRestriction: Must be in Business and Management (Master's) program; or permission of BMGT-Robert H. Smith School of Business.\nCredit only granted for: BUDT732 or BUSM762.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Arnold Greenland",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "VMH",
+      "room": "1505"
+    }
+  ],
+  "term": "201801",
+  "department": "Full-Time MBA Program"
+}

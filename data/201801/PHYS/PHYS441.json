@@ -1,0 +1,27 @@
+{
+  "id": "PHYS441",
+  "title": "Topics in Nuclear and Particle Physics",
+  "credits": "3",
+  "description": "Prerequisite: PHYS401 or PHYS402.\nCorequisite: PHYS402.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Cohen",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ATL",
+      "room": "2352"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

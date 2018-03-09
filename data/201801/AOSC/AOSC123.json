@@ -1,0 +1,87 @@
+{
+  "id": "AOSC123",
+  "title": "Causes and Implications of Global Change",
+  "credits": "3",
+  "description": "Also offered as: GEOL123.\nCredit only granted for: AOSC123, GEOG123, GEOL123, or METO123.\nFormerly: METO123.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Rachel Pinker",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0102",
+      "instructor": "Rachel Pinker",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0103",
+      "instructor": "Rachel Pinker",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0104",
+      "instructor": "Rachel Pinker",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0105",
+      "instructor": "Rachel Pinker",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0106",
+      "instructor": "Rachel Pinker",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "ATL",
+      "room": "2324"
+    }
+  ],
+  "term": "201801",
+  "department": "Atmospheric and Oceanic Science"
+}

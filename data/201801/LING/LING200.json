@@ -1,0 +1,63 @@
+{
+  "id": "LING200",
+  "title": "Introductory Linguistics",
+  "credits": "3",
+  "description": "Credit only granted for: HESP120 or LING200.\nAdditional information: Does not count toward the Linguistics major and does not fulfill prerequisite requirements for all upper-level courses.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tonia Bleam",
+      "seats": "30,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0104",
+      "instructor": "Tonia Bleam",
+      "seats": "30,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0105",
+      "instructor": "Tonia Bleam",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0107",
+      "instructor": "Tonia Bleam",
+      "seats": "30,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "MMH",
+      "room": "1400"
+    }
+  ],
+  "term": "201801",
+  "department": "Linguistics"
+}

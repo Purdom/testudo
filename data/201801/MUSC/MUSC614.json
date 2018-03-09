@@ -1,0 +1,26 @@
+{
+  "id": "MUSC614",
+  "title": "Opera Techniques IV",
+  "credits": "2",
+  "description": "Prerequisite: Minimum grade of B- in MUSC613.\nCorequisite: MUSC606 and MUSC604.\nRestriction: Must be in one of the following programs (Music - Doctoral (Doctoral); Music - Master (Master's)) ; and permission of Director of Opera required.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Craig Kier",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TBA",
+      "start": "",
+      "end": "",
+      "building": "PAC",
+      "room": "2170"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

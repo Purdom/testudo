@@ -1,0 +1,26 @@
+{
+  "id": "ENCE641",
+  "title": "Advanced Foundations Systems",
+  "credits": "3",
+  "description": "Prerequisite: ENCE340; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mohamed Aggour",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "EGR",
+      "room": "3102"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

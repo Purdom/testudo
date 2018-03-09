@@ -1,0 +1,27 @@
+{
+  "id": "GVPT459R",
+  "title": "Seminar in Comparative Politics; The Rise and Fall of Communism",
+  "credits": "3",
+  "description": "Prerequisite: GVPT200; and (GVPT282 or GVPT280). Restriction: Must be in Government & Politics program or Government & Politics: International Relations Program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Vladimir Tismaneanu",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TYD",
+      "room": "1114"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "FMSC720",
+  "title": "Study Design in Maternal Child Health Epidemiology",
+  "credits": "3",
+  "description": "Prerequisite: EPIB650, EPIB610, and EPIB611.\nRecommended: FMSC710.\nAlso offered as: EPIB612.\nCredit only granted for: EPIB612 or FMSC720.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Edmond Shenassa",
+      "seats": "15,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "9:30am",
+      "end": "12:15pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

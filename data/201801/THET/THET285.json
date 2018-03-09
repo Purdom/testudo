@@ -1,0 +1,51 @@
+{
+  "id": "THET285",
+  "title": "The Art of Communication and Presentation",
+  "credits": "3",
+  "description": "Credit only granted for: COMM107, COMM200, INAG110, JOUR130, or THET285.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Allison Hedges",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "2:50pm",
+      "building": "PAC",
+      "room": "3732"
+    },
+    {
+      "id": "0102",
+      "instructor": "Jennifer Ring",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "11:20am",
+      "building": "PAC",
+      "room": "3732"
+    },
+    {
+      "id": "0103",
+      "instructor": "Jennifer Ring",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "PAC",
+      "room": "3730"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre"
+}

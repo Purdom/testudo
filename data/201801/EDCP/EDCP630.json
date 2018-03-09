@@ -1,0 +1,25 @@
+{
+  "id": "EDCP630",
+  "title": "School-Based Behavioral Interventions",
+  "credits": "3",
+  "description": "Restriction: Permission of instructor; and must be in a major in EDUC-College of Education.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jill Jacobson",
+      "seats": "10,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "10:00am",
+      "end": "12:45pm",
+      "building": "EDU",
+      "room": "2101"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "EDSP690",
+  "title": "Teacher Candidate Research Seminar in Special Education",
+  "credits": "3",
+  "description": "Restriction: Must be in Special Education (Doctoral) program; or must be in Special Education (Master's) program.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Frances Kohl",
+      "seats": "30,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Special"
+}

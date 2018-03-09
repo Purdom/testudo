@@ -1,0 +1,51 @@
+{
+  "id": "CCJS450",
+  "title": "Advanced Juvenile Delinquency",
+  "credits": "3",
+  "description": "Prerequisite: CCJS105 and CCJS300.\nCredit only granted for: CCJS350 or CCJS450.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Justine Madoo",
+      "seats": "50,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "SQH",
+      "room": "1119"
+    },
+    {
+      "id": "0301",
+      "instructor": "Justine Madoo",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "LEF",
+      "room": "2208"
+    },
+    {
+      "id": "SG91",
+      "instructor": "Carlotta Woodward",
+      "seats": "40,",
+      "open-seats": "27,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "BLD3",
+      "room": "3206"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

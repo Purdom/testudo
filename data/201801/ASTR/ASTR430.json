@@ -1,0 +1,27 @@
+{
+  "id": "ASTR430",
+  "title": "The Solar System",
+  "credits": "3",
+  "description": "Prerequisite: ASTR121; and (PHYS271 and PHYS270; or PHYS273). Or permission of CMNS-Astronomy department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jessica Sunshine",
+      "seats": "27,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "WF",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ATL",
+      "room": "2352"
+    }
+  ],
+  "term": "201801",
+  "department": "Astronomy"
+}

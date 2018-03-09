@@ -1,0 +1,25 @@
+{
+  "id": "PEER338",
+  "title": "PEER LEADERSHIP AND EDUCATION",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "LaVonne Whitehead,",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:00pm",
+      "end": "6:30pm",
+      "building": "JMZ",
+      "room": "0120"
+    }
+  ],
+  "term": "201801",
+  "department": "Health Center"
+}

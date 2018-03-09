@@ -1,0 +1,27 @@
+{
+  "id": "PHYS165",
+  "title": "Introduction to Programming in the Physical Sciences",
+  "credits": "3",
+  "description": "Prerequisite: PHYS171, PHYS141, or PHYS161; or must have scored 3 or higher on AP PHYS exam.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Williams",
+      "seats": "60,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CHE",
+      "room": "2110"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

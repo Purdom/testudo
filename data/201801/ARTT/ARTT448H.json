@@ -1,0 +1,27 @@
+{
+  "id": "ARTT448H",
+  "title": "Advanced Printmaking Studio; Honors Advanced Printmaking",
+  "credits": "3",
+  "description": "Restricted to departmental honors students only. Prerequisite: 300-level printmaking course and permission of department. Students must pay a $40.00 studio lab fee.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Justin Strom",
+      "seats": "2,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "ASY",
+      "room": "1317"
+    }
+  ],
+  "term": "201801",
+  "department": "Art Studio"
+}

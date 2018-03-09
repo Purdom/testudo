@@ -1,0 +1,27 @@
+{
+  "id": "HIST357",
+  "title": "Recent America: 1945-Present",
+  "credits": "3",
+  "description": "Prerequisite: HIST201, HIST211, HIST213, HIST222, HIST255, or HIST275; or must have completed HIST157; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Howard Smead",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "KEY",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

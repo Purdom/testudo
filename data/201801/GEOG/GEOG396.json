@@ -1,0 +1,27 @@
+{
+  "id": "GEOG396",
+  "title": "Honors Research",
+  "credits": "3",
+  "description": "Restriction: Permission of BSOS-Geography department; and senior standing or higher; and must be in Geography program.\nFormerly: GEOG397.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Rachel Berndtson",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

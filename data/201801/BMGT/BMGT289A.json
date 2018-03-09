@@ -1,0 +1,39 @@
+{
+  "id": "BMGT289A",
+  "title": "Social Enterprise: Changing the World through Innovation and Transformative Action",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Le-Marie Thompson",
+      "seats": "60,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "7:40pm",
+      "building": "TYD",
+      "room": "2109"
+    },
+    {
+      "id": "0201",
+      "instructor": "Christopher Gresham",
+      "seats": "60,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:00pm",
+      "end": "7:40pm",
+      "building": "TYD",
+      "room": "2109"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

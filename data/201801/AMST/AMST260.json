@@ -1,0 +1,39 @@
+{
+  "id": "AMST260",
+  "title": "American Culture in the Information Age",
+  "credits": "3",
+  "description": "Credit only granted for: AMST260 or AMST298I.\nFormerly: AMST298I.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Asim Ali",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "TWS",
+      "room": "1106"
+    },
+    {
+      "id": "0102",
+      "instructor": "Asim Ali",
+      "seats": "20,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "TWS",
+      "room": "1106"
+    }
+  ],
+  "term": "201801",
+  "department": "American Studies"
+}

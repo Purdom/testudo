@@ -1,0 +1,27 @@
+{
+  "id": "HIST328J",
+  "title": "Selected Topics in History; Origins, Identities, and the American Storybook",
+  "credits": "3",
+  "description": "America's past is captured in many places and stories, even if many of them are tall tales and full of malarkey. This course focuses on a few selections from this American storybook that, in their narrative arcs, offer insights in to the diversity of the origins and identities that make up what we think of as the history of the United States.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Miles Bradbury",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TLF",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

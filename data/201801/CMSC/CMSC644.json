@@ -1,0 +1,25 @@
+{
+  "id": "CMSC644",
+  "title": "Algorithms for Data Science",
+  "credits": "3",
+  "description": "Restriction: Must be in the Data Science Post-Baccalaureate Certificate of Professional Studies program; and permission of CMNS-Computer Science department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "PCD1",
+      "instructor": "Samir Khuller",
+      "seats": "20,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:30pm",
+      "building": "CSI",
+      "room": "3120"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

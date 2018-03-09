@@ -1,0 +1,26 @@
+{
+  "id": "KNES618",
+  "title": "Current Readings in Exercise and Applied Physiology",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Hagberg",
+      "seats": "15,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "SPH",
+      "room": "2334"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

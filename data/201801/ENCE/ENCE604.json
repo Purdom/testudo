@@ -1,0 +1,74 @@
+{
+  "id": "ENCE604",
+  "title": "Sustainabilty Fundamentals for Project Managers",
+  "credits": "3",
+  "description": "Addresses the fundamentals of sustainability for project managers including best practices of modern sustainable construction and project management. Commercial and residential buildings consume about 40 percent of the energy used in the United States. Therefore, emphasis will be on the application of the sustainable development standards to the built environment, including the practical operational aspects of sustainable facility project management.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Neil Schulman",
+      "seats": "29,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "JMP",
+      "room": "2217"
+    },
+    {
+      "id": "HT01",
+      "instructor": "Instructor: TBA",
+      "seats": "20,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "PM01",
+      "instructor": "Neil Schulman",
+      "seats": "30,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "SG01",
+      "instructor": "Instructor: TBA",
+      "seats": "20,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "Instructor: TBA",
+      "seats": "20,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

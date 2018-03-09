@@ -1,0 +1,25 @@
+{
+  "id": "CMSC818D",
+  "title": "Advanced Topics in Computer Systems; Human Factors in Security and Privacy",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michelle Mazurek",
+      "seats": "30,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "CSI",
+      "room": "3118"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

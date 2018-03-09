@@ -1,0 +1,27 @@
+{
+  "id": "DANC207",
+  "title": "The Creative Process",
+  "credits": "3",
+  "description": "Prerequisite: DANC109.\nRestriction: Permission of ARHU-Dance department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Alvin Mayes",
+      "seats": "12,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "12:20pm",
+      "building": "PAC",
+      "room": "1908"
+    }
+  ],
+  "term": "201801",
+  "department": "Dance"
+}

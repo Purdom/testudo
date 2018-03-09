@@ -1,0 +1,25 @@
+{
+  "id": "CPSA149",
+  "title": "College Park Scholars: Arts Service-Learning Outreach",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Montserrat Cubillos Guzman,",
+      "seats": "20,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:00pm",
+      "end": "7:00pm",
+      "building": "CCC",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars-Arts"
+}

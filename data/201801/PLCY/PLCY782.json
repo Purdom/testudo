@@ -1,0 +1,26 @@
+{
+  "id": "PLCY782",
+  "title": "International Development Economics",
+  "credits": "3",
+  "description": "Restriction: Must be in a major in PLCY-School of Public Policy; or permission of PLCY-School of Public Policy.\nCredit only granted for: PUAF698U, PUAF782 or PLCY782.\nFormerly: PUAF698U and PUAF782.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Susan Parker",
+      "seats": "42,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:30pm",
+      "building": "VMH",
+      "room": "1207"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

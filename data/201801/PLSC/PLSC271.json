@@ -1,0 +1,39 @@
+{
+  "id": "PLSC271",
+  "title": "Plant Propagation",
+  "credits": "3",
+  "description": "Prerequisite: PLSC100; or (BSCI170 and BSCI171); or BSCI105.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gary Coleman",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "PLS",
+      "room": "1117"
+    },
+    {
+      "id": "0102",
+      "instructor": "Gary Coleman",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "PLS",
+      "room": "1117"
+    }
+  ],
+  "term": "201801",
+  "department": "Plant Sciences"
+}

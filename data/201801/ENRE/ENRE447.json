@@ -1,0 +1,87 @@
+{
+  "id": "ENRE447",
+  "title": "Fundamentals of Reliability Engineering",
+  "credits": "3",
+  "description": "Credit only granted for: ENRE445 or ENRE447.\nFormerly: ENRE445.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mohammad Modarres",
+      "seats": "35,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "JMP",
+      "room": "2121"
+    },
+    {
+      "id": "ER01",
+      "instructor": "Mohammad Modarres",
+      "seats": "7,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "HT01",
+      "instructor": "Mohammad Modarres",
+      "seats": "2,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "RE01",
+      "instructor": "Mohammad Modarres",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "SG01",
+      "instructor": "Mohammad Modarres",
+      "seats": "2,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "Mohammad Modarres",
+      "seats": "2,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Reliability Engineering"
+}

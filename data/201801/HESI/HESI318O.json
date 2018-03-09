@@ -1,0 +1,27 @@
+{
+  "id": "HESI318O",
+  "title": "Applied Contextual Leadership; Orientation Leader",
+  "credits": "3",
+  "description": "Prerequisite: permission of department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Chelsea Truesdell,",
+      "seats": "25,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:00pm",
+      "end": "8:30pm",
+      "building": "TWS",
+      "room": "1321"
+    }
+  ],
+  "term": "201801",
+  "department": "Higher Ed, Student Affairs, and International Ed Policy"
+}

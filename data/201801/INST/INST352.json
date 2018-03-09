@@ -1,0 +1,50 @@
+{
+  "id": "INST352",
+  "title": "Information User Needs and Assessment",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in INST201; or must have completed INST301. And INST311.\nRestriction: Must be in Information Science program; and permission of INFO-College of Information Studies.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ursula Gorham-Oscilowski",
+      "seats": "50,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ARC",
+      "room": "1103"
+    },
+    {
+      "id": "0102",
+      "instructor": "Carol Boston",
+      "seats": "50,",
+      "open-seats": "30,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "BPS",
+      "room": "1236"
+    },
+    {
+      "id": "0103",
+      "instructor": "Ursula Gorham-Oscilowski",
+      "seats": "50,",
+      "open-seats": "37,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "WDS",
+      "room": "1114"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

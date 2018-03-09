@@ -1,0 +1,39 @@
+{
+  "id": "SPAN362",
+  "title": "Latin American Literatures and Cultures II: From Independence to Nation Formation",
+  "credits": "3",
+  "description": "Prerequisite: SPAN303; and (SPAN311 or SPAN316).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Laura Demaria",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMZ",
+      "room": "1224"
+    },
+    {
+      "id": "0201",
+      "instructor": "Luis Charry",
+      "seats": "25,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "JMZ",
+      "room": "0118"
+    }
+  ],
+  "term": "201801",
+  "department": "Spanish"
+}

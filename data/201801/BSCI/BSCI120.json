@@ -1,0 +1,39 @@
+{
+  "id": "BSCI120",
+  "title": "Insects",
+  "credits": "3",
+  "description": "A survey of the major groups of insects, their natural history, and their relationships with humans and their environment. Course not acceptable toward major requirements in Biological Sciences, Chemistry or Biochemistry.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dennis vanEngelsdorp",
+      "seats": "21,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "PLS",
+      "room": "1119"
+    },
+    {
+      "id": "0102",
+      "instructor": "Dennis vanEngelsdorp",
+      "seats": "21,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "PLS",
+      "room": "1119"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

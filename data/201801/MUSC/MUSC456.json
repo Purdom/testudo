@@ -1,0 +1,27 @@
+{
+  "id": "MUSC456",
+  "title": "Jazz Arranging",
+  "credits": "3",
+  "description": "Prerequisite: MUSC455; and permission of ARHU-School of Music department.\nCredit only granted for: MUSC448N or MUSC456.\nFormerly: MUSC448N.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Timothy Powell",
+      "seats": "12,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "PAC",
+      "room": "2168"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

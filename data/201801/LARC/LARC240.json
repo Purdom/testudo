@@ -1,0 +1,25 @@
+{
+  "id": "LARC240",
+  "title": "Graphic Communication and Design Studio",
+  "credits": "4",
+  "description": "Prerequisite: LARC141 and LARC263.\nCorequisite: LARC221 and LARC265.\nRestriction: Sophomore standing or higher; and must be in Landscape Architecture program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Byoung-Suk Kweon",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "PLS",
+      "room": "2152"
+    }
+  ],
+  "term": "201801",
+  "department": "Landscape Architecture"
+}

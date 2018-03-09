@@ -1,0 +1,27 @@
+{
+  "id": "LING298B",
+  "title": "Special Topics in Linguistics; Biology of Language",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Juan Uriagereka",
+      "seats": "30,",
+      "open-seats": "27,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "1:15pm",
+      "building": "MMH",
+      "room": "1304"
+    }
+  ],
+  "term": "201801",
+  "department": "Linguistics"
+}

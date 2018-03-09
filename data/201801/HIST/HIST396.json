@@ -1,0 +1,27 @@
+{
+  "id": "HIST396",
+  "title": "Honors Colloquium II",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ARHU-History department; or HIST395.\nRestriction: Must be in History program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Freund",
+      "seats": "12,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "12:30pm",
+      "end": "2:20pm",
+      "building": "TLF",
+      "room": "2108"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

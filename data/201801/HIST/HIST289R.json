@@ -1,0 +1,159 @@
+{
+  "id": "HIST289R",
+  "title": "Pocketbook Politics: A History of American Buying and Selling",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Katarina Keane",
+      "seats": "20,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0102",
+      "instructor": "Katarina Keane",
+      "seats": "20,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0103",
+      "instructor": "Katarina Keane",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0104",
+      "instructor": "Katarina Keane",
+      "seats": "20,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0105",
+      "instructor": "Katarina Keane",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0106",
+      "instructor": "Katarina Keane",
+      "seats": "20,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0107",
+      "instructor": "Katarina Keane",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0108",
+      "instructor": "Katarina Keane",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0109",
+      "instructor": "Katarina Keane",
+      "seats": "20,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0110",
+      "instructor": "Katarina Keane",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0111",
+      "instructor": "Katarina Keane",
+      "seats": "20,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0112",
+      "instructor": "Katarina Keane",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "KEY",
+      "room": "0106"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

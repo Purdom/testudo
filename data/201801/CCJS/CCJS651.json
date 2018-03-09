@@ -1,0 +1,26 @@
+{
+  "id": "CCJS651",
+  "title": "Seminar in Criminology",
+  "credits": "3",
+  "description": "Formerly: CRIM651.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jean McGloin",
+      "seats": "25,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:00pm",
+      "end": "5:45pm",
+      "building": "BPS",
+      "room": "1234"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

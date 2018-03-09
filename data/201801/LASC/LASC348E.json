@@ -1,0 +1,27 @@
+{
+  "id": "LASC348E",
+  "title": "Special Topics in Latin American Studies; Caribbean Literature",
+  "credits": "3",
+  "description": "Additional Note: Also offered as ENGL362. Credit granted for ENGL362 or LASC348E.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Merle Collins",
+      "seats": "29,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TWS",
+      "room": "0221"
+    }
+  ],
+  "term": "201801",
+  "department": "Certificate in Latin American Studies"
+}

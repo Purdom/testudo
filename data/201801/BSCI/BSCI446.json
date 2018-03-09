@@ -1,0 +1,27 @@
+{
+  "id": "BSCI446",
+  "title": "Neural Systems",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in BSCI330 and BSCI353.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ricardo Araneda",
+      "seats": "40,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PLS",
+      "room": "1119"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

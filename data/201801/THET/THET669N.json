@@ -1,0 +1,26 @@
+{
+  "id": "THET669N",
+  "title": "Independent Study; Modernism's Theatres/Theatre's Modernisms",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Harding",
+      "seats": "10,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "PAC",
+      "room": "1815"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "BMGT478C",
+  "title": "Special Topics in Supply Chain Management; Supply Chain Risk Management",
+  "credits": "3",
+  "description": "Restricted to Supply Chain Management majors.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Leland Gardner",
+      "seats": "40,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1307"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

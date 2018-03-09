@@ -1,0 +1,27 @@
+{
+  "id": "ENST462",
+  "title": "Field Techniques in Wildlife Management",
+  "credits": "3",
+  "description": "Prerequisite: ENST460. And BSCI160 and BSCI161; or BSCI106. And BSCI170 and BSCI171; or BSCI105.\nRecommended: ENST461.\nRestriction: Permission of AGNR-College of Agriculture & Natural Resources.\nCredit only granted for: ENST462, NRMT462, or NRMT489B.\nFormerly: NRMT462.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shannon Pederson",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "ANS",
+      "room": "0538"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "KNES460",
+  "title": "Physiology of Aging and the Impact of Physical Activity",
+  "credits": "3",
+  "description": "Prerequisite: KNES360.\nCredit only granted for: KNES498F or KNES460.\nFormerly: KNES498F.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Marc Rogers",
+      "seats": "33,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "SPH",
+      "room": "0302"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ENST406",
+  "title": "Applied Forestry Practices",
+  "credits": "3",
+  "description": "Prerequisite: ENST200. And ENST360; or PLSC471.\nAlso offered as: PLSC475.\nCredit only granted for: ENST406 or PLSC475.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Tjaden,",
+      "seats": "35,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PHY",
+      "room": "1219"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

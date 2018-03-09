@@ -1,0 +1,63 @@
+{
+  "id": "KNES222",
+  "title": "Gambling in the New Millennium: Poker, The Preakness, Point-spreads, Powerball and Public Policy",
+  "credits": "3",
+  "description": "Recommended: ENGL101 and COMM107.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stephen McDaniel",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "MCB",
+      "room": "1207"
+    },
+    {
+      "id": "0102",
+      "instructor": "Stephen McDaniel",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "MCB",
+      "room": "1207"
+    },
+    {
+      "id": "0103",
+      "instructor": "Stephen McDaniel",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "MCB",
+      "room": "1207"
+    },
+    {
+      "id": "0104",
+      "instructor": "Stephen McDaniel",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "MCB",
+      "room": "1207"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

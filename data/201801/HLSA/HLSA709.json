@@ -1,0 +1,26 @@
+{
+  "id": "HLSA709",
+  "title": "Graduate Seminar",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "S-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Luisa Franzini",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "3:00pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Health Services Administration"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GERM302",
+  "title": "Conversation and Composition II: Current Topics in German-Speaking Society",
+  "credits": "3",
+  "description": "Prerequisite: GERM301; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Maria Sitzler-Sawicki",
+      "seats": "20,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "KEY",
+      "room": "0126"
+    }
+  ],
+  "term": "201801",
+  "department": "Germanic Studies"
+}

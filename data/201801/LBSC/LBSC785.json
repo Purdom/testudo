@@ -1,0 +1,26 @@
+{
+  "id": "LBSC785",
+  "title": "Documentation, Collection, and Appraisal of Records",
+  "credits": "3",
+  "description": "Prerequisite: LBSC605 or INST604; or permission of instructor.\nRestriction: Permission of INFO-College of Information Studies.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ricardo Punzalan",
+      "seats": "30,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:00pm",
+      "end": "8:45pm",
+      "building": "HBK",
+      "room": "0105"
+    }
+  ],
+  "term": "201801",
+  "department": "Library Science"
+}

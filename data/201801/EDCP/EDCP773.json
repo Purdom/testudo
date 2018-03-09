@@ -1,0 +1,38 @@
+{
+  "id": "EDCP773",
+  "title": "Designing Qualitative Research in Counseling and Student Affairs Contexts",
+  "credits": "3",
+  "description": "Introduction to philosophical and epistemological foundations, methodologies and methods associated with qualitative research designs appropriate in student affairs and counseling contexts.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michelle Espino",
+      "seats": "15,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "3236"
+    },
+    {
+      "id": "0201",
+      "instructor": "Michelle Espino",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "1:00pm",
+      "end": "3:45pm",
+      "building": "EDU",
+      "room": "2101"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

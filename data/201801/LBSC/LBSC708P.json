@@ -1,0 +1,26 @@
+{
+  "id": "LBSC708P",
+  "title": "Special Topics in Library and Information Science; Archives and Archivists in America",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Kurtz",
+      "seats": "30,",
+      "open-seats": "27,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "HBK",
+      "room": "4110"
+    }
+  ],
+  "term": "201801",
+  "department": "Library Science"
+}

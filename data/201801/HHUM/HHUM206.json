@@ -1,0 +1,111 @@
+{
+  "id": "HHUM206",
+  "title": "Honors Humanities Research Semester",
+  "credits": "1",
+  "description": "Credit only granted for: ARHU206 or HHUM206.\nFormerly: ARHU206.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gregory Staley",
+      "seats": "10,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "JMZ",
+      "room": "1123"
+    },
+    {
+      "id": "0102",
+      "instructor": "Gregory Staley",
+      "seats": "10,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "JMZ",
+      "room": "2207"
+    },
+    {
+      "id": "0103",
+      "instructor": "Yvonne Slosarski",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "JMZ",
+      "room": "1123"
+    },
+    {
+      "id": "0104",
+      "instructor": "Yvonne Slosarski",
+      "seats": "10,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "SQH",
+      "room": "1125"
+    },
+    {
+      "id": "0105",
+      "instructor": "Khalid Long",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ANA",
+      "room": "0103"
+    },
+    {
+      "id": "0106",
+      "instructor": "Khalid Long",
+      "seats": "10,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "ANA",
+      "room": "0103"
+    },
+    {
+      "id": "0107",
+      "instructor": "Megan Kuyatt",
+      "seats": "10,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "5:50pm",
+      "building": "ANA",
+      "room": "0103"
+    },
+    {
+      "id": "0108",
+      "instructor": "Megan Kuyatt",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "JMZ",
+      "room": "3120"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors Humanities"
+}

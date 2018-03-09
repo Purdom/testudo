@@ -1,0 +1,25 @@
+{
+  "id": "BMGT362",
+  "title": "Negotiations",
+  "credits": "3",
+  "description": "Restriction: Must not have completed COMM425.\nCredit only granted for: BMGT362 or COMM425.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gosia Langa Basit",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1415"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

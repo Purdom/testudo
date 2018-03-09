@@ -1,0 +1,25 @@
+{
+  "id": "HONR278R",
+  "title": "Honors Seminar; Creative People, Creative Practice",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Fry",
+      "seats": "15,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PAC",
+      "room": "3160"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

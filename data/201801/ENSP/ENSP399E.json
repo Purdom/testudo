@@ -1,0 +1,27 @@
+{
+  "id": "ENSP399E",
+  "title": "Special Topics in Environmental Science and Policy; The Role of Evidence-Based Environmental Advocacy in Environmental Politics",
+  "credits": "1",
+  "description": "In this student-led course, students will explore the avenues of advocacy, and sound sources on which to base opinions and arguments in environmental policy. Through a discussion-based class, advocacy will be explored in in the areas of deforestation, climate change, and water quality. Students will analyze cases in the environmental movements of effective and ineffective advocacy, hear from a number of guest speakers who are experts in the above topics, and hold discussions on current events related to these topics.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Joanna Goger",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "CHE",
+      "room": "2145"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Policy"
+}

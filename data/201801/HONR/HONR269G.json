@@ -1,0 +1,25 @@
+{
+  "id": "HONR269G",
+  "title": "Honors Seminar; Hungry, Hot and Crowded: Global Challenges in the 21st Century",
+  "credits": "3",
+  "description": "Credit granted only for HONR269G or HONR229A.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kathleen Mogelgaard",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:00pm",
+      "end": "8:30pm",
+      "building": "KEY",
+      "room": "0117"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

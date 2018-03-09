@@ -1,0 +1,27 @@
+{
+  "id": "FILM369M",
+  "title": "Special Topics in Film Theories; Critical Approaches to Modern Culture and Media",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Luka Arsenjuk",
+      "seats": "30,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "HBK",
+      "room": "0302H"
+    }
+  ],
+  "term": "201801",
+  "department": "Film Studies"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "AOSC458J",
+  "title": "Advanced Topics in Atmospheric and Oceanic Science; Scientific Program: Python",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jeffrey Henrikson",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "ATL",
+      "room": "3426"
+    },
+    {
+      "id": "AM01",
+      "instructor": "Jeffrey Henrikson",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "ATL",
+      "room": "3426"
+    }
+  ],
+  "term": "201801",
+  "department": "Atmospheric and Oceanic Science"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "AMST629N",
+  "title": "Seminar in American Studies; Comparative Race and Ethnicity",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Janelle Wong",
+      "seats": "15,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "TWS",
+      "room": "0134"
+    }
+  ],
+  "term": "201801",
+  "department": "American Studies"
+}

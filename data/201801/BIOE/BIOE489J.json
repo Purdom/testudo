@@ -1,0 +1,27 @@
+{
+  "id": "BIOE489J",
+  "title": "Special Topics in Bioengineering; Stem Cell Engineering",
+  "credits": "3",
+  "description": "Prereqs: BIOE120, BIOE121, BIOE241, MATH246.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "1801",
+      "instructor": "Kimberly Stroka",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "CSI",
+      "room": "2107"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

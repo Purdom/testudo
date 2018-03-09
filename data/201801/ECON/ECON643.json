@@ -1,0 +1,26 @@
+{
+  "id": "ECON643",
+  "title": "Empirical Analysis I: Foundations of Empirical Research",
+  "credits": "3",
+  "description": "Credit only granted for: ECON643 or ECON521.\nFormerly: ECON521.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PR01",
+      "instructor": "John Straub",
+      "seats": "23,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:45pm",
+      "end": "9:30pm",
+      "building": "TBA",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

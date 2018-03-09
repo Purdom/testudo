@@ -1,0 +1,26 @@
+{
+  "id": "ECON772",
+  "title": "Population Economics",
+  "credits": "3",
+  "description": "Prerequisite: ECON771; or permission of BSOS-Economics department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sergio Urzua",
+      "seats": "20,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TYD",
+      "room": "1114"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "PLCY388D",
+  "title": "Special Topics in Public Policy; Innovation and Social Change: Do Good Now",
+  "credits": "3",
+  "description": "Introduces students to the concept of social innovation while exploring the many mechanisms for achieving social impact. It is team-based, highly interactive and dynamic, and provides an opportunity for students to generate solutions to a wide range of problems facing many communities today. Deepens the students understanding of entrepreneurship and innovation practices by guiding them through the creation and implementation process as applied to a project idea of their choice.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tricia Homer",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:00pm",
+      "end": "5:30pm",
+      "building": "MMH",
+      "room": "1304"
+    },
+    {
+      "id": "0102",
+      "instructor": "Toby Egan",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TLF",
+      "room": "1126"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

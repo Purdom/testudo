@@ -1,0 +1,63 @@
+{
+  "id": "SOCY100",
+  "title": "Introduction to Sociology",
+  "credits": "3",
+  "description": "The fundamental concepts and principles of sociology. Includes consideration of culture, patterns of social interaction, norms, values, social institutions, stratification, and social change.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Pernick",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ASY",
+      "room": "1213"
+    },
+    {
+      "id": "0201",
+      "instructor": "Robert Pernick",
+      "seats": "60,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ASY",
+      "room": "1213"
+    },
+    {
+      "id": "0301",
+      "instructor": "Andres Villarreal",
+      "seats": "80,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ASY",
+      "room": "1213"
+    },
+    {
+      "id": "0501",
+      "instructor": "Alex Parkhouse",
+      "seats": "98,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ASY",
+      "room": "2309"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

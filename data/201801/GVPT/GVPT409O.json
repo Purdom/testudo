@@ -1,0 +1,27 @@
+{
+  "id": "GVPT409O",
+  "title": "Seminar in International Relations and World Politics; The Politics of Climate Change",
+  "credits": "3",
+  "description": "Prerequisite: GVPT200. Restriction: Must be in Government & Politics program or Government & Politics: International Relations program; and junior standing or higher.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jennifer Hadden",
+      "seats": "30,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "LEF",
+      "room": "1220"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "EDCP771",
+  "title": "The College Student",
+  "credits": "3",
+  "description": "A demographic study of the characteristics of college students as well as a study of their aspirations, values, and purposes.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Candace Moore",
+      "seats": "20,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "4:00pm",
+      "building": "EDU",
+      "room": "2102"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

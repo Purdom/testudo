@@ -1,0 +1,63 @@
+{
+  "id": "HISP200",
+  "title": "The Everyday and the American Environment",
+  "credits": "3",
+  "description": "Also offered as: HISP615.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jeremy Wells",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ASY",
+      "room": "2203"
+    },
+    {
+      "id": "0102",
+      "instructor": "Jeremy Wells",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ASY",
+      "room": "2203"
+    },
+    {
+      "id": "0103",
+      "instructor": "Jeremy Wells",
+      "seats": "22,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ASY",
+      "room": "2203"
+    },
+    {
+      "id": "0104",
+      "instructor": "Jeremy Wells",
+      "seats": "22,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ASY",
+      "room": "2203"
+    }
+  ],
+  "term": "201801",
+  "department": "Historic Preservation"
+}

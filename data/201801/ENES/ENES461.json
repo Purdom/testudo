@@ -1,0 +1,37 @@
+{
+  "id": "ENES461",
+  "title": "Advanced Entrepreneurial Opportunity Analysis in Technology Ventures",
+  "credits": "3",
+  "description": "Explores the factors that influence entrepreneurial opportunity analysi in technology-based ventures. Uses a cognitive theoretical framework to examine the integration of motivation, emotions and information processing modes to make complex entrepreneurial decisions in fast pace technology venture environments.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Green",
+      "seats": "275,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "0201",
+      "instructor": "James Green",
+      "seats": "275,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

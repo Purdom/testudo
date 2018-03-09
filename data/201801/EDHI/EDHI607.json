@@ -1,0 +1,26 @@
+{
+  "id": "EDHI607",
+  "title": "Culture and Education in a Global Context",
+  "credits": "3",
+  "description": "Credit only granted for: EDHI607, EDPL607, or EDPS607.\nFormerly: EDPL607.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jing Lin",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "1315"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Leadership, Higher Ed and International Ed"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ARCH403",
+  "title": "Architecture Design Studio IV",
+  "credits": "6",
+  "description": "Prerequisite: Minimum grade of C- in ARCH402.\nRestriction: Must be in Architecture (B.S.) program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Tilghman",
+      "seats": "56,",
+      "open-seats": "40,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "6:00pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

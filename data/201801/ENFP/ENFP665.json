@@ -1,0 +1,27 @@
+{
+  "id": "ENFP665",
+  "title": "Advanced Fire and Explosion Investigations",
+  "credits": "3",
+  "description": "Restriction: Permission of ENGR-A. James Clark School of Engineering.\nAlso offered as: ENFP465.\nCredit only granted for: ENFP629N, ENFP489N OR ENFP465.\nFormerly: ENFP629N.\nAdditional information: The course will be taught as a dual senior-level undergraduate course and graduate course.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Noah Ryder",
+      "seats": "10,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:15pm",
+      "end": "7:45pm",
+      "building": "JMZ",
+      "room": "1122"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Fire Protection"
+}

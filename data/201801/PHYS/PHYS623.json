@@ -1,0 +1,26 @@
+{
+  "id": "PHYS623",
+  "title": "Introduction to Quantum Mechanics II",
+  "credits": "3",
+  "description": "Prerequisite: Must have an outstanding undergraduate background in physics.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Theodore Jacobson",
+      "seats": "49,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PHY",
+      "room": "1201"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "BUMK758P",
+  "title": "Special Topics in Marketing; Innovation & Product Development",
+  "credits": "2",
+  "description": "Click here for more information..",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Yogesh Joshi",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "8:00am",
+      "end": "9:50am",
+      "building": "VMH",
+      "room": "1505"
+    },
+    {
+      "id": "BA01",
+      "instructor": "Mary Beth Furst",
+      "seats": "50,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:25pm",
+      "end": "10:00pm",
+      "building": "BA",
+      "room": "103"
+    }
+  ],
+  "term": "201801",
+  "department": "Marketing"
+}

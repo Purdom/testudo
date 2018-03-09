@@ -1,0 +1,26 @@
+{
+  "id": "EDCP625",
+  "title": "Counseling the Chemically Dependent",
+  "credits": "3",
+  "description": "Chemical dependency and its effects on the individual's personal, social, and work functioning. Counseling procedures for persons with drug and alcohol problems.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paul Gold",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "2101"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

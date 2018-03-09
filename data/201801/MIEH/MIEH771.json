@@ -1,0 +1,26 @@
+{
+  "id": "MIEH771",
+  "title": "Exposure Assessment of Environmental Hazards",
+  "credits": "3",
+  "description": "Prerequisite: MIEH600 and EPIB650.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Amir Sapkota",
+      "seats": "25,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "SPH",
+      "room": "0305"
+    }
+  ],
+  "term": "201801",
+  "department": "Maryland Institute for Applied Environmental Health"
+}

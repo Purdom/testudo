@@ -1,0 +1,27 @@
+{
+  "id": "COMM426",
+  "title": "Conflict Management",
+  "credits": "3",
+  "description": "Recommended: COMM425; and COMM250; and COMM402.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lauren Edelstein",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "HBK",
+      "room": "0302J"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

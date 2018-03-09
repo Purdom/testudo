@@ -1,0 +1,62 @@
+{
+  "id": "ECON709",
+  "title": "Advanced Topics in Applied and Theoretical Macroeconomics",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sadik Aruoba",
+      "seats": "10,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TYD",
+      "room": "1108"
+    },
+    {
+      "id": "0201",
+      "instructor": "L Stevens",
+      "seats": "15,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0301",
+      "instructor": "Eunhee Lee",
+      "seats": "15,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0401",
+      "instructor": "Ingmar Prucha",
+      "seats": "10,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

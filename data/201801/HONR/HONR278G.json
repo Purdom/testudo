@@ -1,0 +1,25 @@
+{
+  "id": "HONR278G",
+  "title": "Honors Seminar; Exploring How Foreign Policy is Developed",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Temim Nusraty",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:30pm",
+      "end": "9:00pm",
+      "building": "ANA",
+      "room": "0120"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

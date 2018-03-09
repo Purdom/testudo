@@ -1,0 +1,26 @@
+{
+  "id": "PHIL408P",
+  "title": "Topics in Contemporary Philosophy; Moral Psychology",
+  "credits": "3",
+  "description": "Prerequisite: Six credit hours of philosophy courses, or permission of instructor. This course explores the cognitive underpinnings of morality. Topics include egoism and altruism, empathy, moral character, reason and intuition, the evolution of morality, moral development, and implicit bias.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Patricia Greenspan",
+      "seats": "25,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "SKN",
+      "room": "1112"
+    }
+  ],
+  "term": "201801",
+  "department": "Philosophy"
+}

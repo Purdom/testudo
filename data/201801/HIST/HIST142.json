@@ -1,0 +1,63 @@
+{
+  "id": "HIST142",
+  "title": "Looking at America through a Global Lens",
+  "credits": "3",
+  "description": "Credit only granted for: HIST289I or HIST142.\nFormerly: HIST289I.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Saverio Giovacchini",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0102",
+      "instructor": "Saverio Giovacchini",
+      "seats": "20,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0103",
+      "instructor": "Saverio Giovacchini",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0104",
+      "instructor": "Saverio Giovacchini",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "KEY",
+      "room": "0106"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

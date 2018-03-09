@@ -1,0 +1,170 @@
+{
+  "id": "GEMS104",
+  "title": "Topics in Science, Technology and Society (STS)",
+  "credits": "3",
+  "description": "Prerequisite: GEMS100.\nRestriction: Must be in the Gemstone program.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Frank Coale,",
+      "seats": "13,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "SHM",
+      "room": "2102"
+    },
+    {
+      "id": "0102",
+      "instructor": "Frank Coale,",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "SHM",
+      "room": "2102"
+    },
+    {
+      "id": "0103",
+      "instructor": "Frank Coale,",
+      "seats": "13,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "SHM",
+      "room": "2102"
+    },
+    {
+      "id": "0104",
+      "instructor": "Frank Coale,",
+      "seats": "13,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "SHM",
+      "room": "2102"
+    },
+    {
+      "id": "0105",
+      "instructor": "Frank Coale,",
+      "seats": "13,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "SHM",
+      "room": "2102"
+    },
+    {
+      "id": "0106",
+      "instructor": "Frank Coale,",
+      "seats": "13,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "SHM",
+      "room": "2102"
+    },
+    {
+      "id": "0107",
+      "instructor": "Frank Coale,",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "SHM",
+      "room": "2102"
+    },
+    {
+      "id": "0108",
+      "instructor": "Frank Coale,",
+      "seats": "12,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "SHM",
+      "room": "2102"
+    },
+    {
+      "id": "0109",
+      "instructor": "Frank Coale,",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "SHM",
+      "room": "2102"
+    },
+    {
+      "id": "0110",
+      "instructor": "Frank Coale,",
+      "seats": "13,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "SHM",
+      "room": "2102"
+    },
+    {
+      "id": "0112",
+      "instructor": "Frank Coale,",
+      "seats": "13,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "SHM",
+      "room": "2102"
+    },
+    {
+      "id": "0113",
+      "instructor": "Kristan Skendall",
+      "seats": "1,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0114",
+      "instructor": "Frank Coale,",
+      "seats": "10,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "SHM",
+      "room": "2102"
+    }
+  ],
+  "term": "201801",
+  "department": "Gemstone"
+}

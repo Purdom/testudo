@@ -1,0 +1,26 @@
+{
+  "id": "BMGT878O",
+  "title": "Special Topics in Strategic Management and Entrepreneurship; Organizational Economics",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ryan Cooper",
+      "seats": "12,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:00am",
+      "end": "12:35pm",
+      "building": "VMH",
+      "room": "4534"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

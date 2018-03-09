@@ -1,0 +1,37 @@
+{
+  "id": "CMSC422",
+  "title": "Introduction to Machine Learning",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in CMSC320, CMSC330, and CMSC351; and 1 course with a minimum grade of C- from (MATH240, MATH461); and permission of CMNS-Computer Science department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Marine Carpuat",
+      "seats": "88,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CSI",
+      "room": "3117"
+    },
+    {
+      "id": "0201",
+      "instructor": "Furong Huang",
+      "seats": "88,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "CSI",
+      "room": "2117"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

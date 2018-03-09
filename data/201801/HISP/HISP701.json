@@ -1,0 +1,26 @@
+{
+  "id": "HISP701",
+  "title": "Certificate Portfolio Project",
+  "credits": "1",
+  "description": "Prerequisite: Permission of ARCH-Historic Preservation Program.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Donald Linebaugh",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Historic Preservation"
+}

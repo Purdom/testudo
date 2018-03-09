@@ -1,0 +1,27 @@
+{
+  "id": "BSCI370",
+  "title": "Principles of Evolution",
+  "credits": "3",
+  "description": "Prerequisite: BSCI160 and BSCI161; or BSCI106.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Jeffery",
+      "seats": "100,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PLS",
+      "room": "1140"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

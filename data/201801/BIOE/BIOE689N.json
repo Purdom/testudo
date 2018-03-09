@@ -1,0 +1,25 @@
+{
+  "id": "BIOE689N",
+  "title": "Special Topics in Bioengineering; Bionanotechnology",
+  "credits": "3",
+  "description": "Also offered as ENCH648N. Credit granted for ENCH648N or BIOE689N.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Srinivasa Raghavan",
+      "seats": "33,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CHE",
+      "room": "2110"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

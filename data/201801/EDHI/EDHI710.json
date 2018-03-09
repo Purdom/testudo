@@ -1,0 +1,26 @@
+{
+  "id": "EDHI710",
+  "title": "Globalization and Education",
+  "credits": "3",
+  "description": "Recommended: EDHI605.\nCredit only granted for: EDHI710 or EDHI788J.\nFormerly: EDHI788J.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nelly Stromquist",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:45pm",
+      "building": "EDU",
+      "room": "3233"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Leadership, Higher Ed and International Ed"
+}

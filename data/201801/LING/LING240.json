@@ -1,0 +1,27 @@
+{
+  "id": "LING240",
+  "title": "Language and Mind",
+  "credits": "3",
+  "description": "Additional information: Required for Linguistics majors and recommended for students in related fields.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Margaret Antonisse",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "LEF",
+      "room": "2208"
+    }
+  ],
+  "term": "201801",
+  "department": "Linguistics"
+}

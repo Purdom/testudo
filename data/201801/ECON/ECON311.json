@@ -1,0 +1,27 @@
+{
+  "id": "ECON311",
+  "title": "American Economic History Before the Civil War",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in ECON200 and ECON201.\nRestriction: Must be in Economics Bachelor of Arts program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Wallis",
+      "seats": "180,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "LEF",
+      "room": "2205"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

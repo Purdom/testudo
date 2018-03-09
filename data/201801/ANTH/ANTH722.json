@@ -1,0 +1,25 @@
+{
+  "id": "ANTH722",
+  "title": "Ecological Anthropology",
+  "credits": "3",
+  "description": "Restriction: Must be in one of the following programs (Anthropology (Doctoral); Anthropology (Master's)).\nCredit only granted for: ANTH720 or ANTH722.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Paolisso",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "KEY",
+      "room": "0102"
+    }
+  ],
+  "term": "201801",
+  "department": "Anthropology"
+}

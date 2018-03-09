@@ -1,0 +1,63 @@
+{
+  "id": "AASP202",
+  "title": "Black Culture in the United States",
+  "credits": "3",
+  "description": "The course examines important aspects of African American life and thought which are reflected in African American literature, drama, music and art. Beginning with the cultural heritage of slavery, the course surveys the changing modes of black creative expression from the 19th-century to the present.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Renina Jarmon",
+      "seats": "35,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TYD",
+      "room": "2110"
+    },
+    {
+      "id": "0201",
+      "instructor": "Renina Jarmon",
+      "seats": "35,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "SKN",
+      "room": "1115"
+    },
+    {
+      "id": "0301",
+      "instructor": "Robert Choflet",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SQH",
+      "room": "1107"
+    },
+    {
+      "id": "0401",
+      "instructor": "Robert Choflet",
+      "seats": "35,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "SYM",
+      "room": "0215"
+    }
+  ],
+  "term": "201801",
+  "department": "African American Studies"
+}

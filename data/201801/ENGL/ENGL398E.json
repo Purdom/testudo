@@ -1,0 +1,25 @@
+{
+  "id": "ENGL398E",
+  "title": "Topics in Professional Writing; Writing about Economics",
+  "credits": "3",
+  "description": "Prerequisite: 60 credits and completion of ENGL101 or equivalent. This course satisfies the professional writing requirement.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0801",
+      "instructor": "Michael Winett",
+      "seats": "19,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "TWS",
+      "room": "0232"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

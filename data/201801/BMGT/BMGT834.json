@@ -1,0 +1,26 @@
+{
+  "id": "BMGT834",
+  "title": "Operations Research: Probabilistic Models",
+  "credits": "3",
+  "description": "Prerequisite: MATH241; and (STAT400; or students who have taken courses with comparable content may contact the department). Or permission of BMGT-Robert H. Smith School of Business.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ilya Ryzhov",
+      "seats": "12,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "12:30pm",
+      "end": "3:10pm",
+      "building": "VMH",
+      "room": "3330H"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

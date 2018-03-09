@@ -1,0 +1,51 @@
+{
+  "id": "PHIL282",
+  "title": "Free Will & Determinism",
+  "credits": "3",
+  "description": "A study of the main positions and arguments in the free will debate in contemporary analytic philosophy.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Patricia Greenspan",
+      "seats": "23,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "TYD",
+      "room": "1102"
+    },
+    {
+      "id": "0102",
+      "instructor": "Patricia Greenspan",
+      "seats": "23,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "TYD",
+      "room": "1102"
+    },
+    {
+      "id": "0103",
+      "instructor": "Patricia Greenspan",
+      "seats": "23,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "TYD",
+      "room": "1102"
+    }
+  ],
+  "term": "201801",
+  "department": "Philosophy"
+}

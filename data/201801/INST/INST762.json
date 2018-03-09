@@ -1,0 +1,26 @@
+{
+  "id": "INST762",
+  "title": "Visual Analytics",
+  "credits": "3",
+  "description": "Prerequisite: INFM603 or INST630; or permission of instructor.\nRestriction: Permission of INFO-College of Information Studies.\nCredit only granted for: INST728Q OR INST762.\nFormerly: INST728Q.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sriram Badam",
+      "seats": "30,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "AJC",
+      "room": "2134"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

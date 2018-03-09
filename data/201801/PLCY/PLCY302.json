@@ -1,0 +1,27 @@
+{
+  "id": "PLCY302",
+  "title": "Leadership: Philosophy, Policy and Praxis",
+  "credits": "3",
+  "description": "Credit only granted for: PLCY302 or PUAF302.\nFormerly: PUAF302.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nina Harris",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:15pm",
+      "end": "6:45pm",
+      "building": "TLF",
+      "room": "1126"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

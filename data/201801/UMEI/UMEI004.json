@@ -1,0 +1,61 @@
+{
+  "id": "UMEI004",
+  "title": "English as a Foreign Language: Intermediate III",
+  "credits": "12",
+  "description": "Restriction: Permission of EDUC-Dean-Maryland English Institute department.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Marilena Draganescu,",
+      "seats": "16,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MTuWThF",
+      "start": "9:00am",
+      "end": "11:50am",
+      "building": "COL",
+      "room": "3110"
+    },
+    {
+      "id": "0201",
+      "instructor": "Melanie Baker,",
+      "seats": "16,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "11:50am",
+      "building": "SQH",
+      "room": "1121"
+    },
+    {
+      "id": "0301",
+      "instructor": "Louise Godley,",
+      "seats": "16,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MTuWThF",
+      "start": "9:00am",
+      "end": "11:50am",
+      "building": "COL",
+      "room": "3109"
+    },
+    {
+      "id": "0401",
+      "instructor": "Lori Fredricks",
+      "seats": "16,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MTuWThF",
+      "start": "9:00am",
+      "end": "11:50am",
+      "building": "SQH",
+      "room": "1125"
+    }
+  ],
+  "term": "201801",
+  "department": "Maryland English Institute"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ANSC282",
+  "title": "Grazing Animal Management",
+  "credits": "3",
+  "description": "Prerequisite: ANSC101 and ANSC103; or permission of instructor.\nCredit only granted for: ANSC110, ANSC282, or INAG116.\nFormerly: ANSC110.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "R Apter",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ANS",
+      "room": "1144"
+    }
+  ],
+  "term": "201801",
+  "department": "Animal Science"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "MUSC629C",
+  "title": "Ensemble; Wind Ensemble",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Votta",
+      "seats": "20,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "12:30pm",
+      "building": "PAC",
+      "room": "2540"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

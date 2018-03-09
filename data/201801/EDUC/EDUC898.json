@@ -1,0 +1,37 @@
+{
+  "id": "EDUC898",
+  "title": "Pre-Candidacy Research",
+  "credits": "2 -",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "IH41",
+      "instructor": "Margaret McLaughlin",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "IH45",
+      "instructor": "Stephanie Brown",
+      "seats": "3,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Education"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "BUMO714",
+  "title": "Competitive and Collaborative Negotiation",
+  "credits": "2",
+  "description": "Corequisite: BUMO715.\nRestriction: Must be in one of the following programs (Business and Management (Master's); Business and Management (Master's)).\nCredit only granted for: BUMO714 or BMGT764.\nFormerly: BMGT764.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Gosia Langa Basit",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "6:25pm",
+      "end": "10:00pm",
+      "building": "VMH",
+      "room": "1415"
+    },
+    {
+      "id": "BA01",
+      "instructor": "Rellie Rozin",
+      "seats": "50,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "6:25pm",
+      "end": "10:00pm",
+      "building": "BA",
+      "room": "103"
+    }
+  ],
+  "term": "201801",
+  "department": "Management and Organization"
+}

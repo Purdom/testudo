@@ -1,0 +1,26 @@
+{
+  "id": "JOUR662",
+  "title": "Broadcast News Producing",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in JOUR661; and (JOUR603 and JOUR660).\nAlso offered as: JOUR362.\nCredit only granted for: JOUR668B or JOUR662.\nFormerly: JOUR668B.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Cindy Wright",
+      "seats": "1,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:15pm",
+      "end": "9:15pm",
+      "building": "TWS",
+      "room": "0117"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

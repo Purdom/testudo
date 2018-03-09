@@ -1,0 +1,27 @@
+{
+  "id": "PSYC309I",
+  "title": "Special Topics in Psychology; Ethical Principles and Practice in Psychology",
+  "credits": "3",
+  "description": "Prerequisite: PSYC100. Restricted to psychology majors during the registration period; all other majors can be placed on a hold file. An examination of ethical behavior and its moral underpinnings in all aspects of psychology. The course will address legal and ethical considerations in human and animal research, client and therapist interactions, publication, business, etc. using case histories as examples. Theory behind ethics and morality will also be discussed.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ryan Curtis",
+      "seats": "40,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "BPS",
+      "room": "1236"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

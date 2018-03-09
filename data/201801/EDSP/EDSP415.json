@@ -1,0 +1,26 @@
+{
+  "id": "EDSP415",
+  "title": "Assessment in Special Education",
+  "credits": "3",
+  "description": "Recommended: STAT100; or SOCY201.\nRestriction: Must be in Special Education program.\nAlso offered as: EDSP615.\nCredit only granted for: EDSP415, or EDSP615.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kelli Cummings",
+      "seats": "35,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:15pm",
+      "end": "4:00pm",
+      "building": "TWS",
+      "room": "1310"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Special"
+}

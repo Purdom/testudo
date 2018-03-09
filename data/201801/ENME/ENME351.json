@@ -1,0 +1,87 @@
+{
+  "id": "ENME351",
+  "title": "Electronics and Instrumentation II",
+  "credits": "3",
+  "description": "Prerequisite: PHYS271, ENME350, and PHYS270.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Steven Mitchell",
+      "seats": "36,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ARM",
+      "room": "0135"
+    },
+    {
+      "id": "0102",
+      "instructor": "Steven Mitchell",
+      "seats": "36,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ARM",
+      "room": "0135"
+    },
+    {
+      "id": "0103",
+      "instructor": "Steven Mitchell",
+      "seats": "36,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ARM",
+      "room": "0135"
+    },
+    {
+      "id": "0104",
+      "instructor": "Steven Mitchell",
+      "seats": "36,",
+      "open-seats": "28,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ARM",
+      "room": "0135"
+    },
+    {
+      "id": "0106",
+      "instructor": "Steven Mitchell",
+      "seats": "36,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ARM",
+      "room": "0135"
+    },
+    {
+      "id": "0107",
+      "instructor": "Steven Mitchell",
+      "seats": "36,",
+      "open-seats": "25,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ARM",
+      "room": "0135"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

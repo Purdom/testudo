@@ -1,0 +1,49 @@
+{
+  "id": "MUSC229J",
+  "title": "Ensemble; Jazz Ensemble",
+  "credits": "1",
+  "description": "Audition required before permission of department will be granted. Contact instructor to make arrangements.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christopher Vadala",
+      "seats": "25,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:30pm",
+      "end": "7:15pm",
+      "building": "PAC",
+      "room": "1230"
+    },
+    {
+      "id": "0201",
+      "instructor": "Christopher Vadala",
+      "seats": "30,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "2:15pm",
+      "building": "PAC",
+      "room": "1230"
+    },
+    {
+      "id": "0301",
+      "instructor": "Christopher Vadala",
+      "seats": "35,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:30pm",
+      "end": "9:30pm",
+      "building": "PAC",
+      "room": "1230"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

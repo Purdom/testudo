@@ -1,0 +1,25 @@
+{
+  "id": "CMSC858R",
+  "title": "Advanced Topics in Theory of Computing; Ramsey Theory",
+  "credits": "3",
+  "description": "Also offered as MATH858R. Credit granted for CMSC858R or MATH858R.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Gasarch",
+      "seats": "30,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "CSI",
+      "room": "3118"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

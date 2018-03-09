@@ -1,0 +1,39 @@
+{
+  "id": "PLCY401",
+  "title": "Contemporary Issues in Public Policy",
+  "credits": "3",
+  "description": "An integrative course that allows policy students to explore the complexities of the policy-making process from the perspective of specific policy topics. They will learn about and discuss subject- based issues in a seminar format led by faculty and policy experts. Site visits to federal agencies, guest speakers, and round table sessions ensure that students receive a variety of real-world perspectives on their chosen policy area.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Phillip Swagel",
+      "seats": "47,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TYD",
+      "room": "2106"
+    },
+    {
+      "id": "0102",
+      "instructor": "Catherine Worsnop",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:30pm",
+      "end": "4:00pm",
+      "building": "TLF",
+      "room": "1126"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

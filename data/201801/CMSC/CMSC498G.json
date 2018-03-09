@@ -1,0 +1,25 @@
+{
+  "id": "CMSC498G",
+  "title": "Selected Topics in Computer Science; Principles of Software Verification",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in CMSC330 and CMSC351; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program. Introduces techniques for rigorously establishing that software behaves correctly. Topics to be covered include: preconditions and postconditions; loop invariants; contract-based specifications; techniques for proving programs correct; state-machine based system design; temporal logic; and model checking.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Walter Cleaveland",
+      "seats": "10,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CSI",
+      "room": "3120"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

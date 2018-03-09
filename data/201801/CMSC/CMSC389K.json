@@ -1,0 +1,25 @@
+{
+  "id": "CMSC389K",
+  "title": "Special Topics in Computer Science; Full-stack Web Development with Node.js",
+  "credits": "1",
+  "description": "Prerequisite: Minimum grade of C- in CMSC250 and CMSC216; and permission of CMNS-Computer Science department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Dickerson",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "CSI",
+      "room": "2118"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

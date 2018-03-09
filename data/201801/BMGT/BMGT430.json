@@ -1,0 +1,37 @@
+{
+  "id": "BMGT430",
+  "title": "Data Modeling in Business",
+  "credits": "3",
+  "description": "Prerequisite: BMGT231 or BMGT230; or permission of BMGT-Robert H. Smith School of Business.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Radu Lazar",
+      "seats": "45,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1411"
+    },
+    {
+      "id": "0201",
+      "instructor": "Radu Lazar",
+      "seats": "45,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "VMH",
+      "room": "1411"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

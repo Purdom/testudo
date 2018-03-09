@@ -1,0 +1,87 @@
+{
+  "id": "GEOL120",
+  "title": "Environmental Geology",
+  "credits": "3",
+  "description": "Credit only granted for: GEOL100 or GEOL120.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Sujay Kaushal",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CHM",
+      "room": "1402"
+    },
+    {
+      "id": "0202",
+      "instructor": "Sujay Kaushal",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CHM",
+      "room": "1402"
+    },
+    {
+      "id": "0203",
+      "instructor": "Sujay Kaushal",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CHM",
+      "room": "1402"
+    },
+    {
+      "id": "0204",
+      "instructor": "Sujay Kaushal",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CHM",
+      "room": "1402"
+    },
+    {
+      "id": "0205",
+      "instructor": "Sujay Kaushal",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CHM",
+      "room": "1402"
+    },
+    {
+      "id": "0206",
+      "instructor": "Sujay Kaushal",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CHM",
+      "room": "1402"
+    }
+  ],
+  "term": "201801",
+  "department": "Geology"
+}

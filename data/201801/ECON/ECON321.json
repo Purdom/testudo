@@ -1,0 +1,27 @@
+{
+  "id": "ECON321",
+  "title": "Economic Statistics",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in ECON201 and ECON200; and minimum grade of C- in MATH141.\nRecommended: STAT100.\nRestriction: Must be in Economics Bachelor of Science program.\nCredit only granted for: BIOM301, BMGT230, CCJS200, ECON230, ECON321, EDMS451, GEOG306, GEOL351, GVPT422, INST314, JOUR405, PSYC200 or SOCY201. (These courses do not necessarily meet the same major requirements-check with your advisor to see which of these courses will count for your major).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alka Gandhi",
+      "seats": "40,",
+      "open-seats": "25,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "TYD",
+      "room": "2102"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

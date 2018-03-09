@@ -1,0 +1,25 @@
+{
+  "id": "EDCI421",
+  "title": "Student Teaching in Secondary Schools: Social Studies/History",
+  "credits": "12",
+  "description": "Prerequisite: Admission to teacher education program.\nCorequisite: EDCI420.\nRestriction: Minimum cumulative GPA of 2.75; and permission of EDUC-Teaching, Learning, Policy and Leadership department; and must be in Secondary Educ: Social Studies program.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alison Jovanovic",
+      "seats": "30,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

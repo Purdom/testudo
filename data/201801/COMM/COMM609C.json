@@ -1,0 +1,38 @@
+{
+  "id": "COMM609C",
+  "title": "Fundamentals of Interpreting; Sight Translation - Arabic into English/English into Arabic",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "XGA1",
+      "instructor": "John Samaha Jr",
+      "seats": "16,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "XGE1",
+      "instructor": "John Samaha Jr",
+      "seats": "16,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

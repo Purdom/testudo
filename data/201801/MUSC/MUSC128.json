@@ -1,0 +1,27 @@
+{
+  "id": "MUSC128",
+  "title": "Sight Reading For Pianists",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Rodion Efremov",
+      "seats": "10,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "PAC",
+      "room": "2201"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "HIST281",
+  "title": "The Rabbinic Movement: History and Culture",
+  "credits": "3",
+  "description": "Also offered as: JWST230.\nCredit only granted for: HIST281 or JWST230.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hayim Lapin",
+      "seats": "40,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "KEY",
+      "room": "0126"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GEOL322",
+  "title": "Mineralogy",
+  "credits": "4",
+  "description": "Prerequisite: GEOL120 or GEOL100; and GEOL110. And CHEM131 and CHEM132; or (CHEM135 and CHEM136); or CHEM103.\nRestriction: Permission of instructor is required for non-degree seeking students.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tracey Centorbi",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PLS",
+      "room": "1111"
+    },
+    {
+      "id": "0102",
+      "instructor": "Tracey Centorbi",
+      "seats": "7,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PLS",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "Geology"
+}

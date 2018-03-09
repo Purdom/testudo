@@ -1,0 +1,99 @@
+{
+  "id": "COMM400",
+  "title": "Research Methods in Communication",
+  "credits": "3",
+  "description": "Prerequisite: COMM250; and must have an introductory course in statistics.\nRestriction: Must be in Communication program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nicholas Joyce",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0102",
+      "instructor": "Nicholas Joyce",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0103",
+      "instructor": "Nicholas Joyce",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0104",
+      "instructor": "Nicholas Joyce",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0105",
+      "instructor": "Nicholas Joyce",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0106",
+      "instructor": "Nicholas Joyce",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "SG91",
+      "instructor": "Soyoung Bae",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "BLD3",
+      "room": "4211"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

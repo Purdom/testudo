@@ -1,0 +1,63 @@
+{
+  "id": "ENFP320",
+  "title": "Fire Assessment Methods and Laboratory",
+  "credits": "4",
+  "description": "Prerequisite: ENFP312.\nRestriction: Must be in Engineering: Fire Protection program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Peter Sunderland",
+      "seats": "12,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "JMP",
+      "room": "2202"
+    },
+    {
+      "id": "0102",
+      "instructor": "Peter Sunderland",
+      "seats": "12,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "JMP",
+      "room": "2202"
+    },
+    {
+      "id": "0103",
+      "instructor": "Peter Sunderland",
+      "seats": "12,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "JMP",
+      "room": "2202"
+    },
+    {
+      "id": "0104",
+      "instructor": "Peter Sunderland",
+      "seats": "12,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "JMP",
+      "room": "2202"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Fire Protection"
+}

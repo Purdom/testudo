@@ -1,0 +1,27 @@
+{
+  "id": "ENCE320",
+  "title": "Introduction to Project Management",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ENGR-Civil & Environmental Engineering department.\nRestriction: Must be in a major in ENGR-A. James Clark School of Engineering or in the Project Management Minor.\nCredit only granted for: ENCE320 or ENCE325.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gregory Baecher",
+      "seats": "100,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "ESJ",
+      "room": "1224"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

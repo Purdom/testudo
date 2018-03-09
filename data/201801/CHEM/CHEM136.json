@@ -1,0 +1,37 @@
+{
+  "id": "CHEM136",
+  "title": "General Chemistry Laboratory for Engineers",
+  "credits": "1",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in CHEM135.\nRestriction: Must be in a major in ENGR-A. James Clark School of Engineering.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "1135",
+      "instructor": "Natalia White",
+      "seats": "24,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:00pm",
+      "end": "5:50pm",
+      "building": "ESJ",
+      "room": "1330"
+    },
+    {
+      "id": "1225",
+      "instructor": "Natalia White",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "12:30pm",
+      "end": "3:20pm",
+      "building": "ESJ",
+      "room": "1330"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

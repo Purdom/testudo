@@ -1,0 +1,25 @@
+{
+  "id": "CPSS101",
+  "title": "College Park Scholars: Science, Technology & Society First-Year Colloquium II",
+  "credits": "1",
+  "description": "Prerequisite: CPSS100.\nRestriction: Students must be enrolled in the College Park Scholars Science, Technology & Society (CPSS) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Tomblin",
+      "seats": "90,",
+      "open-seats": "26,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:30pm",
+      "end": "4:50pm",
+      "building": "CCC",
+      "room": "1205"
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars-Science, Technology and Society"
+}

@@ -1,0 +1,110 @@
+{
+  "id": "UMEI007",
+  "title": "Advanced Writing for International Students",
+  "credits": "3",
+  "description": "Restriction: Must have graduate standing.",
+  "grading-method": [
+    "S-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Susan Gould",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "6:00pm",
+      "end": "7:50pm",
+      "building": "SQH",
+      "room": "1125"
+    },
+    {
+      "id": "0201",
+      "instructor": "Eric Walker",
+      "seats": "15,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:00am",
+      "end": "10:50am",
+      "building": "JMZ",
+      "room": "3118"
+    },
+    {
+      "id": "0301",
+      "instructor": "Eda Yoon",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "6:00pm",
+      "end": "7:50pm",
+      "building": "COL",
+      "room": "3109"
+    },
+    {
+      "id": "0401",
+      "instructor": "Eda Yoon",
+      "seats": "15,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "ITV",
+      "room": "1111"
+    },
+    {
+      "id": "0901",
+      "instructor": "Eda Yoon",
+      "seats": "15,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:00am",
+      "end": "10:50am",
+      "building": "JMZ",
+      "room": "1117"
+    },
+    {
+      "id": "1001",
+      "instructor": "Annelies Galletta",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:50pm",
+      "building": "MTH",
+      "room": "0407"
+    },
+    {
+      "id": "1101",
+      "instructor": "Annelies Galletta",
+      "seats": "15,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "1:00pm",
+      "end": "2:50pm",
+      "building": "JMZ",
+      "room": "1122"
+    },
+    {
+      "id": "1201",
+      "instructor": "Eric Walker",
+      "seats": "15,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "10:50am",
+      "building": "ATL",
+      "room": "2316"
+    }
+  ],
+  "term": "201801",
+  "department": "Maryland English Institute"
+}

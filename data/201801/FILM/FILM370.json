@@ -1,0 +1,26 @@
+{
+  "id": "FILM370",
+  "title": "Introduction to Digital Video Production",
+  "credits": "3",
+  "description": "Prerequisite: FILM245; and (FILM301 or FILM302).\nRestriction: Permission of ARHU-Film Studies department.\nAdditional information: Priority in enrollment will be given to students majoring in Film Studies.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Narendra Ratnapala",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "ATL",
+      "room": "1410"
+    }
+  ],
+  "term": "201801",
+  "department": "Film Studies"
+}

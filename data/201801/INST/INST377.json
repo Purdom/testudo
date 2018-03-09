@@ -1,0 +1,26 @@
+{
+  "id": "INST377",
+  "title": "Dynamic Web Applications",
+  "credits": "3",
+  "description": "Prerequisite: INST327.\nRestriction: Must be in Information Science program; and permission of INFO-College of Information Studies.\nCredit only granted for: INST377 or BMGT406.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Rebecca Follman",
+      "seats": "50,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SQH",
+      "room": "1117"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

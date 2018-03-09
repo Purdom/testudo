@@ -1,0 +1,27 @@
+{
+  "id": "GEOL340",
+  "title": "Geomorphology",
+  "credits": "4",
+  "description": "Prerequisite: GEOL120 or GEOL100.\nRestriction: Permission of instructor is required of non-degree seeking students.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Karen Prestegaard",
+      "seats": "24,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PLS",
+      "room": "1117"
+    }
+  ],
+  "term": "201801",
+  "department": "Geology"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ARSC401",
+  "title": "National Security Forces in Contemporary American Society II",
+  "credits": "3",
+  "description": "Prerequisite: ARSC300 or ARSC301; or permission of UGST-AFROTC-Air Science.\nCorequisite: ARSC059; or permission of UGST-AFROTC-Air Science.\nRestriction: Senior standing.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Bacot",
+      "seats": "30,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "9:00am",
+      "end": "12:00pm",
+      "building": "ARM",
+      "room": "0118"
+    },
+    {
+      "id": "0102",
+      "instructor": "David Bacot",
+      "seats": "18,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:30pm",
+      "building": "ARM",
+      "room": "0118"
+    }
+  ],
+  "term": "201801",
+  "department": "Air Science"
+}

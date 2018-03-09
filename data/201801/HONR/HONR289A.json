@@ -1,0 +1,25 @@
+{
+  "id": "HONR289A",
+  "title": "The Ecology and Evolutionary Biology of Infectious Disease",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Benjamin Rosenthal",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:30pm",
+      "end": "7:00pm",
+      "building": "HBK",
+      "room": "0125"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

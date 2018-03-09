@@ -1,0 +1,39 @@
+{
+  "id": "SPAN415",
+  "title": "Commercial Spanish II",
+  "credits": "3",
+  "description": "Prerequisite: SPAN370; or permission of ARHU-School of Languages, Literatures, and Cultures department.\nRestriction: Sophomore standing or higher.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Fabian Faccio",
+      "seats": "25,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "JMZ",
+      "room": "2206"
+    },
+    {
+      "id": "0201",
+      "instructor": "Kayla Watson",
+      "seats": "25,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "JMZ",
+      "room": "2206"
+    }
+  ],
+  "term": "201801",
+  "department": "Spanish"
+}

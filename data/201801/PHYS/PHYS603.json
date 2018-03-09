@@ -1,0 +1,26 @@
+{
+  "id": "PHYS603",
+  "title": "Methods of Statistical Physics",
+  "credits": "3",
+  "description": "Credit only granted for: PHYS602 or PHYS603.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Brian Swingle",
+      "seats": "49,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PHY",
+      "room": "1402"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

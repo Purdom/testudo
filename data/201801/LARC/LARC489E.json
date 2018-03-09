@@ -1,0 +1,25 @@
+{
+  "id": "LARC489E",
+  "title": "Special Topics in Landscape Architecture; Planting Design",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ann Anderson",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "9:00am",
+      "end": "11:50am",
+      "building": "PLS",
+      "room": "0104"
+    }
+  ],
+  "term": "201801",
+  "department": "Landscape Architecture"
+}

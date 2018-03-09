@@ -1,0 +1,27 @@
+{
+  "id": "PLSC489O",
+  "title": "Special Topics in Plant Science; Plant Taxonomy",
+  "credits": "3",
+  "description": "Students will learn to identify and understand relationships among major plant families of northeastern North America, especially of the Mid-Atlantic region, through lecture, field, and laboratory study. Characteristics and biogeography of and evolutionary relationships among families are emphasized in lecture. These characteristics will be woven together to provide understanding of the ecological and evolutionary drivers of plant diversity and the history of the field. Sight identification of families, genera, and species and keying skills are stressed in field and laboratory sessions.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Maile Neel",
+      "seats": "10,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PLS",
+      "room": "1162"
+    }
+  ],
+  "term": "201801",
+  "department": "Plant Sciences"
+}

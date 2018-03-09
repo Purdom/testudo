@@ -1,0 +1,26 @@
+{
+  "id": "ECON624",
+  "title": "Econometrics II",
+  "credits": "3",
+  "description": "Prerequisite: ECON623; or permission of BSOS-Economics department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ingmar Prucha,",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TYD",
+      "room": "0101"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

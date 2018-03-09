@@ -1,0 +1,37 @@
+{
+  "id": "BUFN755",
+  "title": "Entrepreneurial Finance and Private Equity",
+  "credits": "2",
+  "description": "Prerequisite: BUSI640.\nRestriction: Must be in one of the following programs (Business and Management (Master's); Business and Management (Master's)).\nCredit only granted for: BUSI647 or BUFN755.\nFormerly: BUSI647.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Francesco D'Acunto",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "VMH",
+      "room": "1511"
+    },
+    {
+      "id": "0502",
+      "instructor": "Francesco D'Acunto",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "VMH",
+      "room": "1520"
+    }
+  ],
+  "term": "201801",
+  "department": "Finance"
+}

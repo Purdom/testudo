@@ -1,0 +1,25 @@
+{
+  "id": "BMGT442F",
+  "title": "Advanced Portfolio Management",
+  "credits": "3",
+  "description": "Prerequisite: BMGT343.\nCredit only granted for: BMGT442 or BMGT448C.\nFormerly: BMGT448C.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "FP01",
+      "instructor": "Russell Wermers",
+      "seats": "35,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1314"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

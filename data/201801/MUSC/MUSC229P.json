@@ -1,0 +1,25 @@
+{
+  "id": "MUSC229P",
+  "title": "Ensemble; Pep Band",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elijah Osterloh",
+      "seats": "150,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

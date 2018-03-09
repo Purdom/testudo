@@ -1,0 +1,27 @@
+{
+  "id": "HESP417",
+  "title": "Principles and Methods in Speech-Language Pathology and Audiology",
+  "credits": "3",
+  "description": "Prerequisite: HESP400 and HESP411; or permission of BSOS-Hearing & Speech Sciences department.\nRestriction: Must be in Hearing and Speech Sciences program; or permission of BSOS-Hearing & Speech Sciences department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PBH1",
+      "instructor": "Jamie Fisher",
+      "seats": "35,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Hearing and Speech Sciences"
+}

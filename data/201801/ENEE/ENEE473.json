@@ -1,0 +1,37 @@
+{
+  "id": "ENEE473",
+  "title": "Electrical Machines Laboratory",
+  "credits": "2",
+  "description": "Prerequisite: Minimum grade of C- in ENEE205; and must have earned a minimum grade of regular (letter) C- in all required 200-level ENEE courses; and permission of ENGR-Electrical & Computer Engineering department.\nRecommended: ENEE322.\nRestriction: Must be in one of the following programs (Engineering: Electrical; Engineering: Computer).",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Bowen",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "JMP",
+      "room": "1109"
+    },
+    {
+      "id": "0102",
+      "instructor": "David Bowen",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "JMP",
+      "room": "1109"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

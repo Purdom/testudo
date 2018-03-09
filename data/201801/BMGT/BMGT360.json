@@ -1,0 +1,37 @@
+{
+  "id": "BMGT360",
+  "title": "Strategic Management of Human Capital",
+  "credits": "3",
+  "description": "Provides students with the basic knowledge needed to help organizations attract, select, develop, engage, evaluate, and retain talent. Topics covered may include strategic HRM, the role of globalization, legal issues in HRM, work analysis, HR planning, recruitment, personnel selection, performance management and appraisal, training and development, career development, compensation systems, motivating and rewarding performance, labor relations, and employee health and safety.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jeffrey Kudisch",
+      "seats": "60,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1212"
+    },
+    {
+      "id": "0201",
+      "instructor": "Jeffrey Kudisch",
+      "seats": "60,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1212"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

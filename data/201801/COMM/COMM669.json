@@ -1,0 +1,26 @@
+{
+  "id": "COMM669",
+  "title": "Professional Practice Forum in Translation: Practicum",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PG01",
+      "instructor": "John Samaha Jr",
+      "seats": "16,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "10:00am",
+      "end": "11:30am",
+      "building": "SKN",
+      "room": "3117"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ENAE488R",
+  "title": "Topics in Aerospace Engineering; Planetary Rover Development",
+  "credits": "3",
+  "description": "Restriction: Must be in Engineering: Aerospace program",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Akin",
+      "seats": "25,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "7:00pm",
+      "building": "JMP",
+      "room": "2202"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "NACS644",
+  "title": "Cellular and Molecular Neuroscience",
+  "credits": "4",
+  "description": "Prerequisite: NACS641; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Joshua Singer,",
+      "seats": "20,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "5:30pm",
+      "building": "PLS",
+      "room": "1113"
+    }
+  ],
+  "term": "201801",
+  "department": "Neuroscience & Cognitive Science"
+}

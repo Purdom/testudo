@@ -1,0 +1,61 @@
+{
+  "id": "ENGL120",
+  "title": "Acting Human: Shakespeare and the Drama of Identity",
+  "credits": "3",
+  "description": "Credit only granted for: ENGL120 or ENGL289I.\nFormerly: ENGL289I.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gerard Passannante",
+      "seats": "24,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "TWS",
+      "room": "1100"
+    },
+    {
+      "id": "0102",
+      "instructor": "Gerard Passannante",
+      "seats": "24,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "TWS",
+      "room": "1100"
+    },
+    {
+      "id": "0103",
+      "instructor": "Gerard Passannante",
+      "seats": "24,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "TWS",
+      "room": "1100"
+    },
+    {
+      "id": "0104",
+      "instructor": "Gerard Passannante",
+      "seats": "24,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "TWS",
+      "room": "1100"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

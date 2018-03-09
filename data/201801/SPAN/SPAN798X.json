@@ -1,0 +1,26 @@
+{
+  "id": "SPAN798X",
+  "title": "Open Seminar; Nation/State/Subjectivity: Revisiting Modernity in Latin America",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Laura Demaria",
+      "seats": "10,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "JMZ",
+      "room": "3122"
+    }
+  ],
+  "term": "201801",
+  "department": "Spanish"
+}

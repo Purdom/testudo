@@ -1,0 +1,49 @@
+{
+  "id": "CMSC434",
+  "title": "Introduction to Human-Computer Interaction",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in CMSC330 and CMSC351; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Gilkeson",
+      "seats": "45,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "CSI",
+      "room": "2107"
+    },
+    {
+      "id": "0201",
+      "instructor": "Vibha Sazawal",
+      "seats": "72,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "CSI",
+      "room": "3117"
+    },
+    {
+      "id": "0301",
+      "instructor": "Evan Golub",
+      "seats": "48,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CSI",
+      "room": "1122"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

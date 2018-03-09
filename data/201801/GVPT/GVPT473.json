@@ -1,0 +1,27 @@
+{
+  "id": "GVPT473",
+  "title": "The U.S. Congress",
+  "credits": "3",
+  "description": "Prerequisite: GVPT241 and GVPT170.\nRestriction: Junior standing or higher. And must be in Government & Politics program; or must be in Government & Politics: International Relations program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kristina Miler",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TYD",
+      "room": "1102"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

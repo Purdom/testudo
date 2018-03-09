@@ -1,0 +1,27 @@
+{
+  "id": "HIST245",
+  "title": "Reformers, Radicals, and Revolutionaries: The Middle East in the Twentieth Century",
+  "credits": "3",
+  "description": "Credit only granted for: HIST219W or HIST245.\nFormerly: HIST219W.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Peter Wien",
+      "seats": "40,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ESJ",
+      "room": "1309"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

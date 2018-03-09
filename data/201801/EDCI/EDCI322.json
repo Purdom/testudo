@@ -1,0 +1,50 @@
+{
+  "id": "EDCI322",
+  "title": "Curriculum and Instruction in Elementary Education: Social Studies",
+  "credits": "3",
+  "description": "Corequisite: EDCI362, TLPL361, EDCI489, and TLPL306.\nRestriction: Must be in Elementary Education program; and minimum cumulative GPA of 2.75. Or permission of EDUC-Teaching and Learning, Policy and Leadership department.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Groff",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:00am",
+      "end": "11:45am",
+      "building": "EDU",
+      "room": "2121"
+    },
+    {
+      "id": "0201",
+      "instructor": "Lisa Eaker",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "12:30pm",
+      "end": "3:15pm",
+      "building": "CCC",
+      "room": "1111"
+    },
+    {
+      "id": "0301",
+      "instructor": "South Holden",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "9:00am",
+      "end": "11:45am",
+      "building": "EDU",
+      "room": "2212"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

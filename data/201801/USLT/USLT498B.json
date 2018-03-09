@@ -1,0 +1,27 @@
+{
+  "id": "USLT498B",
+  "title": "US Latina/o Studies: Special Topics; Latinas/os and U.S. Popular Culture",
+  "credits": "3",
+  "description": "Also offered as AMST498M. Credit only granted for USLT498B or AMST498M.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Chester",
+      "seats": "35,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "SQH",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Latina/o Studies"
+}

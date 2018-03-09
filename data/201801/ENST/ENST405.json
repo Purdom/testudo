@@ -1,0 +1,27 @@
+{
+  "id": "ENST405",
+  "title": "Energy and Environment",
+  "credits": "3",
+  "description": "Prerequisite: MATH140 or MATH120; or must have completed MATH220.\nRestriction: Junior standing or higher. And must be in Environmental Sci & Tech program; or must be in Environmental Sci & Tech: Ecological Tech Design program; or must be in Environmental Sci & Tech: Environmental Health program; or must be in Environmental Sci & Tech: Soil & Watershed Science program; or must be in Environmental Sci & Tech: Natural Resources Mgmt program.\nAlso offered as: ENST605.\nCredit only granted for: ENST405, ENSP350, ENST605, NRMT489Z, or MEES698Z.\nFormerly: NRMT489Z.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Tilley",
+      "seats": "44,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ANS",
+      "room": "0422"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

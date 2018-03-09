@@ -1,0 +1,61 @@
+{
+  "id": "ENEE381",
+  "title": "Electromagnetic Wave Propagation",
+  "credits": "3",
+  "description": "Prerequisite: ENEE380; and completion of all lower-division technical courses in the EE curriculum.\nRestriction: Must be in Engineering: Electrical program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Edo Waks",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EGR",
+      "room": "1108"
+    },
+    {
+      "id": "0102",
+      "instructor": "Edo Waks",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EGR",
+      "room": "1108"
+    },
+    {
+      "id": "0201",
+      "instructor": "Ping-Tong Ho",
+      "seats": "25,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "EGR",
+      "room": "0108"
+    },
+    {
+      "id": "0202",
+      "instructor": "Ping-Tong Ho",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "EGR",
+      "room": "0108"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

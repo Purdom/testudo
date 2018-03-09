@@ -1,0 +1,26 @@
+{
+  "id": "FMSC647",
+  "title": "Theory and Techniques of Family Mediation",
+  "credits": "3",
+  "description": "Credit only granted for: FMSC647 or FMST647.\nFormerly: FMST647.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kerry Tripp",
+      "seats": "40,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "12:30pm",
+      "end": "3:15pm",
+      "building": "SPH",
+      "room": "1302"
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

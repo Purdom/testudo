@@ -1,0 +1,26 @@
+{
+  "id": "CHEM650",
+  "title": "Problems in Organic Synthesis",
+  "credits": "1",
+  "description": "A tutorial type course dealing with mechanistic problems from the current literature of organic sysnthesis.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Daniel Falvey",
+      "seats": "40,",
+      "open-seats": "31,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "CHM",
+      "room": "0124"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

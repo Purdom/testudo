@@ -1,0 +1,27 @@
+{
+  "id": "ENGL487",
+  "title": "Foundations of Rhetoric",
+  "credits": "3",
+  "description": "Credit only granted for: ENGL487 or COMM401.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Chanon Adsanatham",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "TWS",
+      "room": "0214"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "MATH643",
+  "title": "Dynamical Systems II",
+  "credits": "3",
+  "description": "Prerequisite: MATH642; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Vadim Kaloshin",
+      "seats": "20,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ATL",
+      "room": "2330"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

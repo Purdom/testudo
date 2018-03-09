@@ -1,0 +1,27 @@
+{
+  "id": "ENFP465",
+  "title": "Fire and Explosion Investigations",
+  "credits": "3",
+  "description": "Prerequisite: Student should have senior standing.\nRestriction: Permission of ENGR-Fire Protection Engineering department.\nAlso offered as: ENFP665.\nCredit only granted for: ENFP489N, ENFP629N OR ENFP665.\nFormerly: ENFP489N.\nAdditional information: The course will be taught as a dual senior-level undergraduate course and graduate course.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Noah Ryder",
+      "seats": "30,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:30pm",
+      "end": "8:00pm",
+      "building": "JMZ",
+      "room": "1122"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Fire Protection"
+}

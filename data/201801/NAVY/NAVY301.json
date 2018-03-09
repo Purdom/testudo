@@ -1,0 +1,25 @@
+{
+  "id": "NAVY301",
+  "title": "Naval Ship Systems II (Weapons)",
+  "credits": "3",
+  "description": "Recommended: MATH140, MATH141, and PHYS161.\nRestriction: Permission of UGST-Navy ROTC.\nAdditional information: Priority enrollment will be given to students enrolled in the NROTC program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christopher Anderson",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "ARM",
+      "room": "0108"
+    }
+  ],
+  "term": "201801",
+  "department": "Navy"
+}

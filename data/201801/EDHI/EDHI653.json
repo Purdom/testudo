@@ -1,0 +1,25 @@
+{
+  "id": "EDHI653",
+  "title": "Organization and Administration of Higher Education",
+  "credits": "3",
+  "description": "Credit only granted for: EDHI653, EDPL653, or EDPS653.\nFormerly: EDPL653.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alberto Cabrera",
+      "seats": "20,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "1121"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Leadership, Higher Ed and International Ed"
+}

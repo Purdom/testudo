@@ -1,0 +1,27 @@
+{
+  "id": "ARAB398I",
+  "title": "Special Topics in Arabic Studies; Secrets and Mysteries of Arabic Grammar",
+  "credits": "3",
+  "description": "Prerequisite: ARAB205. Taught in English.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Valerie Anishchenkova",
+      "seats": "15,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "JMZ",
+      "room": "3118"
+    }
+  ],
+  "term": "201801",
+  "department": "Arabic"
+}

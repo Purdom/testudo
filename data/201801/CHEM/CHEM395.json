@@ -1,0 +1,25 @@
+{
+  "id": "CHEM395",
+  "title": "Professional Issues in Chemistry and Biochemistry",
+  "credits": "1",
+  "description": "Restriction: Junior standing or higher; and must be in one of the following programs (Chemistry; Biochemistry).",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Janice Reutt-Robey",
+      "seats": "113,",
+      "open-seats": "23,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CHM",
+      "room": "1402"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

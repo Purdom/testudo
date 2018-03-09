@@ -1,0 +1,26 @@
+{
+  "id": "CBMG699X",
+  "title": "Special Problems in Cell Biology and Molecular Genetics; Host Pathogen Interactions",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Mosser",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "9:00am",
+      "end": "10:30am",
+      "building": "BRB",
+      "room": "3101"
+    }
+  ],
+  "term": "201801",
+  "department": "Cell Biology & Molecular Genetics"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "FMSC332",
+  "title": "Children in Families",
+  "credits": "3",
+  "description": "Prerequisite: PSYC100 or FMSC105.\nCredit only granted for: FMSC332 or FMST332.\nFormerly: FMST332.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Amy Lewin",
+      "seats": "60,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CCC",
+      "room": "1100"
+    },
+    {
+      "id": "0201",
+      "instructor": "Amy Lewin",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "CCC",
+      "room": "1100"
+    },
+    {
+      "id": "0301",
+      "instructor": "Julie Fife",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "SPH",
+      "room": "1301"
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

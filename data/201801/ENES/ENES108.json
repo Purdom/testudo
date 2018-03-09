@@ -1,0 +1,39 @@
+{
+  "id": "ENES108",
+  "title": "Achieving College Success: First Year Transition",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "LaWanda Kamalidiin",
+      "seats": "16,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:00pm",
+      "end": "6:50pm",
+      "building": "EGR",
+      "room": "3114"
+    },
+    {
+      "id": "0102",
+      "instructor": "LaWanda Kamalidiin",
+      "seats": "20,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:30pm",
+      "end": "6:30pm",
+      "building": "EGR",
+      "room": "3106"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

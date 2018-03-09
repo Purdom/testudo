@@ -1,0 +1,25 @@
+{
+  "id": "MUED780",
+  "title": "Seminar in Music Teacher Education",
+  "credits": "3",
+  "description": "Restriction: Must have doctoral standing in a Music Education program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stephanie Prichard",
+      "seats": "5,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Music Education"
+}

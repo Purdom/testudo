@@ -1,0 +1,27 @@
+{
+  "id": "GVPT373",
+  "title": "Geographic Information Systems for Redistricting",
+  "credits": "3",
+  "description": "Prerequisite: GVPT392.\nRecommended:\nRecommended: at least one course in statistics.\nRestriction: Must be in one of the following programs (Government & Politics; Government & Politics: International Relations).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Gimpel",
+      "seats": "45,",
+      "open-seats": "35,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TYD",
+      "room": "2102"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

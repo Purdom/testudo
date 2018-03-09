@@ -1,0 +1,27 @@
+{
+  "id": "ENCE635",
+  "title": "Geographic Information Systems for Watershed Analysis",
+  "credits": "3",
+  "description": "Credit only granted for: ENCE524 or ENCE688Z.\nFormerly: ENCE688Z.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kaye Brubaker",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "EGR",
+      "room": "1156"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

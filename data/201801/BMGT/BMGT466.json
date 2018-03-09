@@ -1,0 +1,37 @@
+{
+  "id": "BMGT466",
+  "title": "Global Business Strategy",
+  "credits": "3",
+  "description": "Restriction: Must be in a major in BMGT-Robert H. Smith School of Business.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mark Wellman",
+      "seats": "55,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "VMH",
+      "room": "1412"
+    },
+    {
+      "id": "SG91",
+      "instructor": "Mark Wellman",
+      "seats": "40,",
+      "open-seats": "26,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "9:30am",
+      "end": "12:10pm",
+      "building": "BLD2",
+      "room": "3052"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "BUSM738A",
+  "title": "Investment Fund Management; Mayer Fund",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sarah Kroncke",
+      "seats": "15,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "VMH",
+      "room": "2509"
+    }
+  ],
+  "term": "201801",
+  "department": "Full-Time MBA Program"
+}

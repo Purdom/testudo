@@ -1,0 +1,26 @@
+{
+  "id": "BIOE463",
+  "title": "Spatial Control of Biological Agents",
+  "credits": "3",
+  "description": "Prerequisite: BIOE120, BIOE121, BIOE241, and MATH246; and must have completed or be concurrently enrolled in BIOE332. Or permission of ENGR-Fischell Department of Bioengineering department.\nRestriction: Permission of ENGR-Fischell Department of Bioengineering department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hubert Montas",
+      "seats": "28,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "AJC",
+      "room": "2121"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

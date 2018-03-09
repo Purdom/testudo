@@ -1,0 +1,25 @@
+{
+  "id": "HIST408P",
+  "title": "Senior Seminar; Witchcraft and Persecution, 1450-1750",
+  "credits": "3",
+  "description": "Prerequisite: Permission of department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sabrina Baron",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "TLF",
+      "room": "2108"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

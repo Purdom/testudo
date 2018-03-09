@@ -1,0 +1,145 @@
+{
+  "id": "ENEE245",
+  "title": "Digital Circuits and Systems Laboratory",
+  "credits": "2",
+  "description": "Prerequisite: Minimum grade of C- in ENEE244. And minimum grade of C- in ENEE150; or minimum grade of C- in CMSC132. And permission of ENGR-Electrical & Computer Engineering department.\nRestriction: Must be in one of the following programs (Engineering: Electrical; Engineering: Computer).",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Manoj Franklin",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0102",
+      "instructor": "Manoj Franklin",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0103",
+      "instructor": "Manoj Franklin",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0104",
+      "instructor": "Manoj Franklin",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0105",
+      "instructor": "Manoj Franklin",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0106",
+      "instructor": "Manoj Franklin",
+      "seats": "12,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0107",
+      "instructor": "Manoj Franklin",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0108",
+      "instructor": "Manoj Franklin",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0109",
+      "instructor": "Manoj Franklin",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0110",
+      "instructor": "Manoj Franklin",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0111",
+      "instructor": "Manoj Franklin",
+      "seats": "12,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1202"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

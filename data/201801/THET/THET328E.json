@@ -1,0 +1,27 @@
+{
+  "id": "THET328E",
+  "title": "Special Topics in Intermediate Theatre and Performance; Ensemble Theatre: Devising, Producing & Touring Original Work",
+  "credits": "3",
+  "description": "Restriction: permission of department. Students must pay a $25 lab fee.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Patrick Crowley",
+      "seats": "16,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "PAC",
+      "room": "2740"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ENES462",
+  "title": "Marketing High-Technology Products and Innovations",
+  "credits": "3",
+  "description": "Restriction: Permission of ENGR-Maryland Technology Enterprise Institute.\nAdditional information: Course may not be used to fulfill any BMGT major or minor program requirement.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Olufunlola Koiki",
+      "seats": "40,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "SCC",
+      "room": "2121"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

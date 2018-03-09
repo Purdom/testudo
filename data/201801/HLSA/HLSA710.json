@@ -1,0 +1,26 @@
+{
+  "id": "HLSA710",
+  "title": "Healthcare Mangement: Foundations and Principles",
+  "credits": "3",
+  "description": "Restriction: Must be in Master of Health Administration (Master's) program; or must be in Health Services Ph.D. (Doctoral) program.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Neil Sehgal",
+      "seats": "25,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "ATL",
+      "room": "1109"
+    }
+  ],
+  "term": "201801",
+  "department": "Health Services Administration"
+}

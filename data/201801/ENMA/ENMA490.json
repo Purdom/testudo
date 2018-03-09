@@ -1,0 +1,27 @@
+{
+  "id": "ENMA490",
+  "title": "Materials Design",
+  "credits": "3",
+  "description": "Restriction: Senior standing.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Raymond Phaneuf",
+      "seats": "41,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:00pm",
+      "end": "5:00pm",
+      "building": "PHY",
+      "room": "0405"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Materials"
+}

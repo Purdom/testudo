@@ -1,0 +1,37 @@
+{
+  "id": "BMGT341",
+  "title": "Financial Markets",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in BMGT340.\nFormerly: BMGT498G.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Julie Pavlovsky",
+      "seats": "45,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1415"
+    },
+    {
+      "id": "0201",
+      "instructor": "Julie Pavlovsky",
+      "seats": "45,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1206"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

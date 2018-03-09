@@ -1,0 +1,37 @@
+{
+  "id": "ENCE201",
+  "title": "Engineering Information Processing",
+  "credits": "3",
+  "description": "Prerequisite: ENES220 and MATH241; and permission of ENGR-Civil & Environmental Engineering department.\nCorequisite: MATH246.\nCredit only granted for: ENCE201 or ENCE203.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Peter Chang",
+      "seats": "35,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "KEB",
+      "room": "1110"
+    },
+    {
+      "id": "0201",
+      "instructor": "Barton Forman",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "EGR",
+      "room": "2154"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

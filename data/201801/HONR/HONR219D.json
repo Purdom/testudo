@@ -1,0 +1,25 @@
+{
+  "id": "HONR219D",
+  "title": "On Beyond Dinosaurs: Patterns and Enigmas in Vertebrate Evolution",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Merck",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PLS",
+      "room": "1146"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

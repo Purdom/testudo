@@ -1,0 +1,26 @@
+{
+  "id": "ARTT689W",
+  "title": "Special Problems in Studio Art; Contemporary Issues in Art & Technology",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hasan Elahi",
+      "seats": "4,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:30pm",
+      "end": "9:00pm",
+      "building": "MMH",
+      "room": "0110"
+    }
+  ],
+  "term": "201801",
+  "department": "Art Studio"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "AMSC715",
+  "title": "Numerical Methods in Partial Differential Equations",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed one graduate level course in partial differential equations OR one theoretical graduate level course in an applied mathematics field; or permission of instructor.\nCredit only granted for: AMSC612 or AMSC715.\nFormerly: AMSC612.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ricardo Nochetto",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "MTH",
+      "room": "0101"
+    }
+  ],
+  "term": "201801",
+  "department": "Applied Mathematics & Scientific Computation"
+}

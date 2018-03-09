@@ -1,0 +1,26 @@
+{
+  "id": "CMSC773",
+  "title": "Computational Linguistics II",
+  "credits": "3",
+  "description": "Prerequisite: LING723 or CMSC723; or permission of instructor.\nAlso offered as: LING773.\nFormerly: CMSC828R.\nAdditional information: May only receive PhD Comp. credit for CMSC723 or CMSC823, not both.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Philip Resnik",
+      "seats": "30,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:30pm",
+      "end": "4:00pm",
+      "building": "WDS",
+      "room": "0104"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

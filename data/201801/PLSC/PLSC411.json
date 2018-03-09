@@ -1,0 +1,25 @@
+{
+  "id": "PLSC411",
+  "title": "Plant genetics",
+  "credits": "3",
+  "description": "Prerequisite: BSCI170; and BSCI171. Or PLSC201; or permission of AGNR-Plant Science & Landscape Architecture department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yiping Qi,",
+      "seats": "25,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PLS",
+      "room": "1146"
+    }
+  ],
+  "term": "201801",
+  "department": "Plant Sciences"
+}

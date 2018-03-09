@@ -1,0 +1,27 @@
+{
+  "id": "THET391",
+  "title": "Theatre History II",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ARHU-School of Theatre, Dance & Performance Studies department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Brittany Ginder",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PAC",
+      "room": "1809"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre"
+}

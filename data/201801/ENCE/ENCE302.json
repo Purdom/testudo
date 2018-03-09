@@ -1,0 +1,37 @@
+{
+  "id": "ENCE302",
+  "title": "Probability and Statistics for Civil and Environmental Engineers",
+  "credits": "3",
+  "description": "Prerequisite: MATH246 and ENCE201; and permission of ENGR-Civil & Environmental Engineering department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michelle Bensi",
+      "seats": "40,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0102",
+      "instructor": "Allison Reilly",
+      "seats": "40,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "EGR",
+      "room": "1104"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

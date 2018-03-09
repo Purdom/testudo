@@ -1,0 +1,26 @@
+{
+  "id": "JOUR501",
+  "title": "Fundamentals of Writing and Editing",
+  "credits": "3",
+  "description": "Prerequisite: Permission of JOUR-Philip Merrill College of Journalism.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Matthew Brown",
+      "seats": "1,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "7:00pm",
+      "end": "8:50pm",
+      "building": "KNI",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

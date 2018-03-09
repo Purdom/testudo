@@ -1,0 +1,27 @@
+{
+  "id": "ENMA489X",
+  "title": "Selected Topics in Engineering Materials; Physics, Material Chemistry and Device Applications at the Nanoscale",
+  "credits": "3",
+  "description": "Also offered as PHYS499M. Credit granted for PHYS499M or ENMA489X.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Min Ouyang",
+      "seats": "10,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:50pm",
+      "building": "CHM",
+      "room": "0124"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Materials"
+}

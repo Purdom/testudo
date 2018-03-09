@@ -1,0 +1,25 @@
+{
+  "id": "TLTC798",
+  "title": "University Teaching and Learning",
+  "credits": "1 -",
+  "description": "Restriction: Permission of TLTC-Teaching and Learning Transformation Center. Repeatable to 6 credits if content differs. Formerly: UNIV798.\n\nSpecial topic courses directed at experienced graduate teaching assistants who are interested in university teaching and learning issues. Can be used by students for participation in the University Teaching and Learning Program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Marissa Stewart",
+      "seats": "20,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:00pm",
+      "building": "ESJ",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Teaching and Learning Transformation Center"
+}

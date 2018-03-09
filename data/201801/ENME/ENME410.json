@@ -1,0 +1,27 @@
+{
+  "id": "ENME410",
+  "title": "Design Optimization",
+  "credits": "3",
+  "description": "Prerequisite: ENME271; or MATH206.\nRestriction: Permission of ENGR-Mechanical Engineering department; and junior or senior standing.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shapour Azarm",
+      "seats": "40,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ITV",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

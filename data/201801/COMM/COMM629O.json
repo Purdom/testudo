@@ -1,0 +1,26 @@
+{
+  "id": "COMM629O",
+  "title": "Introduction to Simultaneous Interpretation; Spanish into Italian/Italian into Spanish",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "XGI1",
+      "instructor": "Esperanza Pombo Lopez-Barron",
+      "seats": "16,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "1:30pm",
+      "end": "2:30pm",
+      "building": "SKN",
+      "room": "3118"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

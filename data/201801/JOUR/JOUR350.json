@@ -1,0 +1,27 @@
+{
+  "id": "JOUR350",
+  "title": "Multimedia Presentation",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in JOUR202; or minimum grade of C- in JOUR262.\nCredit only granted for: JOUR350 or JOUR373.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "George Lanum",
+      "seats": "18,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "KNI",
+      "room": "2103"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

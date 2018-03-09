@@ -1,0 +1,25 @@
+{
+  "id": "CMSC423",
+  "title": "Bioinformatic Algorithms, Databases, and Tools",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in CMSC351 and CMSC330; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Max Leiserson",
+      "seats": "70,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CSI",
+      "room": "3117"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

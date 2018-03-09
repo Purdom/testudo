@@ -1,0 +1,99 @@
+{
+  "id": "SPAN203",
+  "title": "Intensive Intermediate Spanish",
+  "credits": "4",
+  "description": "Prerequisite: SPAN103; or must have appropriate Foreign Language Placement Test (FLPT) score.\nRestriction: Must not be a native/fluent speaker of Spanish.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jose Magro",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWThF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "JMZ",
+      "room": "0208"
+    },
+    {
+      "id": "0201",
+      "instructor": "Jackson Monzon",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWThF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SQH",
+      "room": "1105"
+    },
+    {
+      "id": "0301",
+      "instructor": "Douglas Glynn",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "JMZ",
+      "room": "0122"
+    },
+    {
+      "id": "0401",
+      "instructor": "Jose Magro",
+      "seats": "25,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "JMZ",
+      "room": "3205"
+    },
+    {
+      "id": "0501",
+      "instructor": "Douglas Glynn",
+      "seats": "25,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "JMZ",
+      "room": "0120"
+    },
+    {
+      "id": "0701",
+      "instructor": "Douglas Glynn",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWThF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "JMZ",
+      "room": "0208"
+    },
+    {
+      "id": "0801",
+      "instructor": "Jose Magro",
+      "seats": "25,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "JMZ",
+      "room": "3120"
+    }
+  ],
+  "term": "201801",
+  "department": "Spanish"
+}

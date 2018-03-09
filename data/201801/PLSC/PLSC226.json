@@ -1,0 +1,27 @@
+{
+  "id": "PLSC226",
+  "title": "Plant Diversity",
+  "credits": "4",
+  "description": "Prerequisite: PLSC201; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Maile Neel",
+      "seats": "10,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PLS",
+      "room": "1162"
+    }
+  ],
+  "term": "201801",
+  "department": "Plant Sciences"
+}

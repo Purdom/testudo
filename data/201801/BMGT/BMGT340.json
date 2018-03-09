@@ -1,0 +1,97 @@
+{
+  "id": "BMGT340",
+  "title": "Business Finance",
+  "credits": "3",
+  "description": "Prerequisite: BMGT221; and (BMGT231 or BMGT230).",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "BL01",
+      "instructor": "Karen Hallows",
+      "seats": "50,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1330"
+    },
+    {
+      "id": "BL02",
+      "instructor": "Karen Hallows",
+      "seats": "60,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1330"
+    },
+    {
+      "id": "BL03",
+      "instructor": "Karen Hallows",
+      "seats": "60,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1528"
+    },
+    {
+      "id": "BL04",
+      "instructor": "Michael Padhi",
+      "seats": "60,",
+      "open-seats": "30,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "VMH",
+      "room": "1412"
+    },
+    {
+      "id": "BL05",
+      "instructor": "Karen Hallows",
+      "seats": "60,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1333"
+    },
+    {
+      "id": "BL06",
+      "instructor": "Michael Padhi",
+      "seats": "60,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1212"
+    },
+    {
+      "id": "BL07",
+      "instructor": "Karen Hallows",
+      "seats": "60,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1303"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

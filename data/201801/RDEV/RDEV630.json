@@ -1,0 +1,26 @@
+{
+  "id": "RDEV630",
+  "title": "Real Property Finance and Investment",
+  "credits": "3",
+  "description": "Restriction: Permission of ARCH-Real Estate Development.\nCredit only granted for: RDEV630, RDEV688B, or URSP664.\nFormerly: RDEV688B.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stephen Alfandre",
+      "seats": "30,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "ASY",
+      "room": "3207"
+    }
+  ],
+  "term": "201801",
+  "department": "Real Estate Development"
+}

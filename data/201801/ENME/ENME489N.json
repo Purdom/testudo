@@ -1,0 +1,27 @@
+{
+  "id": "ENME489N",
+  "title": "Special Topics in Mechanical Engineering; Residential and Industrial Energy Audits",
+  "credits": "3",
+  "description": "Pre- or corequisite: ENME332. Also offered as ENME808W. Credit granted for ENME489N or ENME808W.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Farah Singer",
+      "seats": "40,",
+      "open-seats": "26,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EGR",
+      "room": "1104"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

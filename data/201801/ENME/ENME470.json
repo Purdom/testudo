@@ -1,0 +1,39 @@
+{
+  "id": "ENME470",
+  "title": "Finite Element Analysis",
+  "credits": "3",
+  "description": "Restriction: Senior standing; and permission of ENGR-Mechanical Engineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Guangming Zhang",
+      "seats": "42,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "1:15pm",
+      "building": "KEB",
+      "room": "2111"
+    },
+    {
+      "id": "0201",
+      "instructor": "Guangming Zhang",
+      "seats": "29,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:00pm",
+      "end": "1:15pm",
+      "building": "EGR",
+      "room": "0312"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

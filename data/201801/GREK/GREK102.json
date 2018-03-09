@@ -1,0 +1,27 @@
+{
+  "id": "GREK102",
+  "title": "Elementary Ancient Greek II",
+  "credits": "4",
+  "description": "Prerequisite: GREK101; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gregory Bucher",
+      "seats": "10,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "LEF",
+      "room": "1222"
+    }
+  ],
+  "term": "201801",
+  "department": "Greek"
+}

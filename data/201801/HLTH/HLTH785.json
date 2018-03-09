@@ -1,0 +1,25 @@
+{
+  "id": "HLTH785",
+  "title": "Internship in Public Health",
+  "credits": "3",
+  "description": "Prerequisite: HLTH665, HLTH775, and HLTH780; or permission of SPHL-Behavioral & Community Health department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tracy Zeeger",
+      "seats": "15,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:00pm",
+      "building": "SPH",
+      "room": "1234A"
+    }
+  ],
+  "term": "201801",
+  "department": "Health"
+}

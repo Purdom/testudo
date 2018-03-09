@@ -1,0 +1,27 @@
+{
+  "id": "RELS219A",
+  "title": "Special Topics in Religious Studies; Religions of the Ancient Near East",
+  "credits": "3",
+  "description": "Also offered as HIST219I and JWST225. Credit granted for JWST225, HIST219I, or RELS219A.\n\nIntroduction to ancient Near Eastern religious systems and mythology, from the third millennium BCE through the fourth century BCE. Particular emphasis on Mesopotamia and ancient Israel.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Matthew Suriano",
+      "seats": "30,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "HBK",
+      "room": "1108"
+    }
+  ],
+  "term": "201801",
+  "department": "Religious Studies"
+}

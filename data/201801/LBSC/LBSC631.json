@@ -1,0 +1,26 @@
+{
+  "id": "LBSC631",
+  "title": "Achieving Organizational Excellence",
+  "credits": "3",
+  "description": "Restriction: Permission of INFO-College of Information Studies.\nCredit only granted for: LBSC631 or LBSC635.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "ML01",
+      "instructor": "Bruce Dearstyne",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Library Science"
+}

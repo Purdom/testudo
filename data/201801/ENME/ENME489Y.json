@@ -1,0 +1,27 @@
+{
+  "id": "ENME489Y",
+  "title": "Special Topics in Mechanical Engineering; Remote Sensing",
+  "credits": "3",
+  "description": "Prerequisite: ENME351.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Steven Mitchell",
+      "seats": "54,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ATL",
+      "room": "2400"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

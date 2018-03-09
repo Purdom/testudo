@@ -1,0 +1,99 @@
+{
+  "id": "PHYS122",
+  "title": "Fundamentals of Physics II",
+  "credits": "4",
+  "description": "Prerequisite: PHYS121; or students who have taken courses with comparable content may contact the department.\nCredit only granted for: PHYS122, PHYS132, or PHYS332.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0301",
+      "instructor": "Shabnam Jabeen",
+      "seats": "24,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "PHY",
+      "room": "1410"
+    },
+    {
+      "id": "0302",
+      "instructor": "Shabnam Jabeen",
+      "seats": "24,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "PHY",
+      "room": "1410"
+    },
+    {
+      "id": "0303",
+      "instructor": "Shabnam Jabeen",
+      "seats": "24,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "PHY",
+      "room": "1410"
+    },
+    {
+      "id": "0304",
+      "instructor": "Shabnam Jabeen",
+      "seats": "24,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "PHY",
+      "room": "1410"
+    },
+    {
+      "id": "0502",
+      "instructor": "Hailu Gebremariam",
+      "seats": "24,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "8:50pm",
+      "building": "PHY",
+      "room": "1410"
+    },
+    {
+      "id": "0503",
+      "instructor": "Hailu Gebremariam",
+      "seats": "24,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "8:50pm",
+      "building": "PHY",
+      "room": "1410"
+    },
+    {
+      "id": "SES1",
+      "instructor": "Hailu Gebremariam",
+      "seats": "24,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "8:50pm",
+      "building": "PHY",
+      "room": "1410"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

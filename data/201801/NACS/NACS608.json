@@ -1,0 +1,25 @@
+{
+  "id": "NACS608",
+  "title": "Neuroscience and Cognitive Science Seminar",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ricardo Araneda",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "10:15am",
+      "end": "11:15am",
+      "building": "BRB",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Neuroscience & Cognitive Science"
+}

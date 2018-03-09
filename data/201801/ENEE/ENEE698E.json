@@ -1,0 +1,27 @@
+{
+  "id": "ENEE698E",
+  "title": "Graduate Seminar; Microelectronics",
+  "credits": "1 -",
+  "description": "Click here for more course information.",
+  "grading-method": [
+    "Reg",
+    "Aud",
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Newcomb",
+      "seats": "20,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "5:50pm",
+      "building": "CSI",
+      "room": "2118"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

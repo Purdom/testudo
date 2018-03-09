@@ -1,0 +1,26 @@
+{
+  "id": "PHYS758E",
+  "title": "Seminar in Elementary Particles and Quantum Field Theory; Experimental Results Including Cosmic Ray Physics",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Abolhassan Jawahery",
+      "seats": "25,",
+      "open-seats": "24,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "5:30pm",
+      "building": "PHY",
+      "room": "0405"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

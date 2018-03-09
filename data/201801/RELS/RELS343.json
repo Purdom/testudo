@@ -1,0 +1,27 @@
+{
+  "id": "RELS343",
+  "title": "The European Reformations",
+  "credits": "3",
+  "description": "Prerequisite: HIST112 or HIST111; or permission of instructor.\nAlso offered as: HIST333.\nCredit only granted for: HIST333 or RELS343.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stefano Villani",
+      "seats": "30,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TLF",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Religious Studies"
+}

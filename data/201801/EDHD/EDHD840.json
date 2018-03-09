@@ -1,0 +1,25 @@
+{
+  "id": "EDHD840",
+  "title": "Language and Literacy Development",
+  "credits": "3",
+  "description": "Content of this course is current theoretical and empirical research on children's language developments and on the linguistic basis of beginning reading.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Min Wang",
+      "seats": "20,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "3233"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Human Development"
+}

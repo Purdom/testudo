@@ -1,0 +1,25 @@
+{
+  "id": "BSCI289",
+  "title": "Off-Campus Internship",
+  "credits": "1 -",
+  "description": "(Sponsoring Dept.: BSCI). Provides credit for off-campus research internships. This credit counts as elective toward graduation, but does not satisfy any Biological Sciences degree requirements (For information about research credit that does count toward Biological Sciences contact the Biological Sciences Program, room 1322 Symons Hall). This requires that a contract form be filed with the Director of Undergraduate Research and Internship Programs, Room 1313 Symons Hall, prior to the internship. The contract must be finalized and signed by the research supervisor at the end of the semester before credit will be awarded.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "1110",
+      "instructor": "Katerina Thompson",
+      "seats": "15,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

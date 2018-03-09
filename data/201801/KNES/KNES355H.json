@@ -1,0 +1,27 @@
+{
+  "id": "KNES355H",
+  "title": "Sport Management",
+  "credits": "3",
+  "description": "Prerequisite: KNES287.\nRestriction: Junior standing or higher; and must be in a major within the SPHL-Kinesiology department.\nCredit only granted for: KNES355 or KNES498M.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stephen McDaniel",
+      "seats": "3,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "SPH",
+      "room": "1301"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

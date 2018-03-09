@@ -1,0 +1,51 @@
+{
+  "id": "PSYC437",
+  "title": "The Assessment and Treatment of Addictive Behaviors",
+  "credits": "3",
+  "description": "Prerequisite: PSYC100; and 9 credits in PSYC courses.\nCredit only granted for: PSYC309E (taken in the Winter Term) or PSCY437.\nFormerly: PSYC309E.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Cristina Risco",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "BPS",
+      "room": "1238"
+    },
+    {
+      "id": "SG91",
+      "instructor": "Heidi Bresee",
+      "seats": "30,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "11:00am",
+      "end": "1:30pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SG92",
+      "instructor": "Heidi Bresee",
+      "seats": "10,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "11:00am",
+      "end": "1:30pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

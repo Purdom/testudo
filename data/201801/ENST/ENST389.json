@@ -1,0 +1,25 @@
+{
+  "id": "ENST389",
+  "title": "Internship",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Patrick Kangas",
+      "seats": "50,",
+      "open-seats": "31,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

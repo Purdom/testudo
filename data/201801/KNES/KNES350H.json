@@ -1,0 +1,39 @@
+{
+  "id": "KNES350H",
+  "title": "The Psychology of Sports",
+  "credits": "3",
+  "description": "An exploration of personality factors, including but not limited to motivation, aggression and emotion, as they affect sports participation and motor skill performance.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elizabeth Brown",
+      "seats": "2,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "SPH",
+      "room": "1303"
+    },
+    {
+      "id": "0201",
+      "instructor": "Evan Brody",
+      "seats": "3,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "SPH",
+      "room": "1303"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

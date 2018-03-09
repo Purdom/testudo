@@ -1,0 +1,27 @@
+{
+  "id": "ARTH489K",
+  "title": "Special Topics in Art History; Art and the Museum World",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Aneta Georgievska-Shine",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "ASY",
+      "room": "3217"
+    }
+  ],
+  "term": "201801",
+  "department": "Art History & Archaeology"
+}

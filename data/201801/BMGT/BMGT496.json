@@ -1,0 +1,25 @@
+{
+  "id": "BMGT496",
+  "title": "Business Ethics and Society",
+  "credits": "3",
+  "description": "Prerequisite: 1 course in BMGT; or permission of BMGT-Robert H. Smith School of Business.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jennifer Gershberg",
+      "seats": "40,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1411"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

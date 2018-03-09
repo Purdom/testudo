@@ -1,0 +1,39 @@
+{
+  "id": "BSCI283",
+  "title": "Principles of Microbiology",
+  "credits": "4",
+  "description": "Prerequisite: BSCI207 and BSCI222.\nCredit only granted for: BSCI223 or BSCI283.\nAdditional information: Priority given to BSCI, BCHM and CHEM majors.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "1205",
+      "instructor": "Daniel Stein,",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "HJP",
+      "room": "2242"
+    },
+    {
+      "id": "1305",
+      "instructor": "Daniel Stein,",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "HJP",
+      "room": "2242"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

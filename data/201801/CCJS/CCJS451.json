@@ -1,0 +1,39 @@
+{
+  "id": "CCJS451",
+  "title": "Crime and Delinquency Prevention",
+  "credits": "3",
+  "description": "Prerequisite: CCJS105 and CCJS300.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kiminori Nakamura,",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ARC",
+      "room": "1103"
+    },
+    {
+      "id": "0201",
+      "instructor": "Kiminori Nakamura,",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ARC",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "PHSC425",
+  "title": "Genetics, Genomics, and Public Health",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed BSCI170 and 171 with a C- or higher.\nRecommended: BSCI222 and BSCI223.\nRestriction: Must have earned a minimum of 60 credits; and must be in Public Health Science program.\nCredit only granted for: SPHL498X OR PHSC425.\nFormerly: SPHL498X.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "Jessica O'Hara",
+      "seats": "35,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:30am",
+      "end": "12:30pm",
+      "building": "BLD3",
+      "room": "4212"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Health Science"
+}

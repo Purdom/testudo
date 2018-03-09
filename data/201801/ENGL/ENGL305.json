@@ -1,0 +1,27 @@
+{
+  "id": "ENGL305",
+  "title": "Shakespeare and His Contemporaries: An Introduction",
+  "credits": "3",
+  "description": "Readings in Shakespeare and contemporaries such as Marlowe, Dekker, Middleton, Jonson, Webster, Chapman, Marston. Elizabethan and Jacobean theatrical and social contexts.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Scott Trudell",
+      "seats": "29,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "TWS",
+      "room": "1320"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

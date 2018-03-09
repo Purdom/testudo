@@ -1,0 +1,26 @@
+{
+  "id": "EDCP789B",
+  "title": "Advanced Topics in Counseling and Personnel Services; Methods of Intervention",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Cixin Wang",
+      "seats": "10,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:20pm",
+      "end": "4:05pm",
+      "building": "EDU",
+      "room": "2101"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

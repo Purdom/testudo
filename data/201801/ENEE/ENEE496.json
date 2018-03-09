@@ -1,0 +1,25 @@
+{
+  "id": "ENEE496",
+  "title": "Lasers and Electro-optic Devices",
+  "credits": "3",
+  "description": "Prerequisite: ENEE381; and completion of all lower-division technical courses in the EE curriculum.\nRestriction: Must be in one of the following programs (Engineering: Computer; Engineering: Electrical).",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mario Dagenais",
+      "seats": "30,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EGR",
+      "room": "3106"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

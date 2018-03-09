@@ -1,0 +1,27 @@
+{
+  "id": "ENST436",
+  "title": "Emerging Environmental Threats",
+  "credits": "3",
+  "description": "Prerequisite: ENST233; or permission of AGNR-Environmental Science & Technology department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paul Leisnham",
+      "seats": "35,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ATL",
+      "room": "1114"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

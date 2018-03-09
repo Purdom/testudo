@@ -1,0 +1,26 @@
+{
+  "id": "COMM713",
+  "title": "Translation Technology",
+  "credits": "3",
+  "description": "Prerequisite: Admissions test for second year courses; and permission of ARHU-Communication department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PG01",
+      "instructor": "Jon Ritzdorf",
+      "seats": "16,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "8:30pm",
+      "building": "SKN",
+      "room": "3115"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

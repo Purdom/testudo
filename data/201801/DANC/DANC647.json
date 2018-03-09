@@ -1,0 +1,25 @@
+{
+  "id": "DANC647",
+  "title": "Movement Practice",
+  "credits": "2",
+  "description": "Restriction: Permission of ARHU-School of Theatre, Dance & Performance Studies department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Patrik Widrig",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Dance"
+}

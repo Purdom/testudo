@@ -1,0 +1,26 @@
+{
+  "id": "KNES157T",
+  "title": "Physical Education Activities: Coed; Fight the 15: Introduction to Fitness and an Active Lifestyle",
+  "credits": "1",
+  "description": "For non-majors only. Students must pay a $40 instructional materials fee.\n\nIntended for students interested in learning basic aspects of exercise and fitness. Coverage of fitness fundamentals, training concepts and techniques, and facilities available on and off campus to aid in an active lifestyle.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0001",
+      "instructor": "Terrel Everette",
+      "seats": "30,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "11:15am",
+      "building": "SPH",
+      "room": "2101"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

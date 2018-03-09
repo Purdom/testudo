@@ -1,0 +1,27 @@
+{
+  "id": "SOCY441",
+  "title": "Social Stratification and Inequality",
+  "credits": "3",
+  "description": "Prerequisite: 6 credits in SOCY courses; or permission of BSOS-Sociology department.\nRestriction: Junior standing or higher.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Reeve Vanneman",
+      "seats": "80,",
+      "open-seats": "28,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ASY",
+      "room": "1213"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

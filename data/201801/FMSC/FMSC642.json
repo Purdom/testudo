@@ -1,0 +1,26 @@
+{
+  "id": "FMSC642",
+  "title": "Normal and Abnormal Individual and Family Development",
+  "credits": "3",
+  "description": "Prerequisite: FMSC640.\nCredit only granted for: FMSC642 or FMST642.\nFormerly: FMST642.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Leigh Leslie",
+      "seats": "15,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "1:00pm",
+      "end": "3:45pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

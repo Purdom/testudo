@@ -1,0 +1,25 @@
+{
+  "id": "ENAE484",
+  "title": "Space Systems Design",
+  "credits": "3",
+  "description": "Prerequisite: ENAE423, ENAE483, ENAE441, and ENAE457.\nRestriction: Must be in Engineering: Aerospace program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mary Bowden,",
+      "seats": "45,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "AJC",
+      "room": "2132"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

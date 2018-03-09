@@ -1,0 +1,38 @@
+{
+  "id": "AOSC630",
+  "title": "Statistical Methods in Meteorology and Oceanography",
+  "credits": "3",
+  "description": "Prerequisite: STAT400; or students who have taken courses with comparable content may contact the department.\nFormerly: METO630.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Eugenia Kalnay",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:00pm",
+      "end": "1:00pm",
+      "building": "ATL",
+      "room": "3400"
+    },
+    {
+      "id": "AM01",
+      "instructor": "Eugenia Kalnay",
+      "seats": "1,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:00pm",
+      "end": "1:00pm",
+      "building": "ATL",
+      "room": "3400"
+    }
+  ],
+  "term": "201801",
+  "department": "Atmospheric and Oceanic Science"
+}

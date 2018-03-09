@@ -1,0 +1,27 @@
+{
+  "id": "ENMA461",
+  "title": "Thermodynamics of Materials",
+  "credits": "3",
+  "description": "Prerequisite: ENMA300.\nRestriction: Junior standing or higher.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yifei Mo",
+      "seats": "45,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "CHE",
+      "room": "2118"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Materials"
+}

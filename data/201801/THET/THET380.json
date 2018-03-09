@@ -1,0 +1,27 @@
+{
+  "id": "THET380",
+  "title": "Sound Design",
+  "credits": "3",
+  "description": "Prerequisite: THET116. And THET114; or TDPS201; or permission of ARHU-School of Theatre, Dance & Performance Studies department.\nRestriction: Sophomore standing or higher.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Paul Jackson",
+      "seats": "10,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "10:50am",
+      "building": "PAC",
+      "room": "2727"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre"
+}

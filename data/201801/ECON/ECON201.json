@@ -1,0 +1,39 @@
+{
+  "id": "ECON201",
+  "title": "Principles of Macroeconomics",
+  "credits": "3",
+  "description": "Prerequisite: MATH107 or MATH110; or must have math eligibility of MATH113 or higher.\nRecommended: ECON200.\nCredit only granted for: ECON201 or ECON205.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Neri",
+      "seats": "375,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TYD",
+      "room": "0130"
+    },
+    {
+      "id": "0201",
+      "instructor": "Naveen Sarna",
+      "seats": "375,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "TYD",
+      "room": "0130"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ARTH759D",
+  "title": "Seminar in Twentieth-Century Art; Abstraction and Utopia",
+  "credits": "3",
+  "description": "This seminar will interrogate the claim that the genesis of abstract art - and much of modern art in general - was the result of a searching commitment to achieving a higher order of social, political, spiritual, or aesthetic life.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Steven Mansbach",
+      "seats": "6,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "12:00pm",
+      "end": "2:40pm",
+      "building": "ASY",
+      "room": "4304"
+    }
+  ],
+  "term": "201801",
+  "department": "Art History & Archaeology"
+}

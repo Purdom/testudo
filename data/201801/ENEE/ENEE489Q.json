@@ -1,0 +1,25 @@
+{
+  "id": "ENEE489Q",
+  "title": "Topics in Electrophysics; Quantum Phenomena in Electrical Engineering",
+  "credits": "3",
+  "description": "Prerequisite: MATH241 and (ENEE222 or ENEE241), ENEE303, ENEE381 and ENEE380. The course provides fundamental understanding of quantum mechanical principles for electrical engineering and nanotechnology applications. It is designed to acquaint electrical and computer engineering students with concepts on which modern electronic and optical devices are based. Topics include: wave phenomena and wave-particle duality, photons and quantum states, entanglement, paradoxes, quantum crytography, Schrodingers equation in 1-dimension, bound states,tunneling, scatteringproblems, optoelectronic and electronic devices and superconducting Josephson's junctions.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Julius Goldhar",
+      "seats": "30,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EGR",
+      "room": "2116"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

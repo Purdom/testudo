@@ -1,0 +1,27 @@
+{
+  "id": "FREN498N",
+  "title": "Special Topics in French Literature; 19th Century Literature",
+  "credits": "3",
+  "description": "Prerequisites: FREN301 and FREN351/352. Taught in French.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Carol Mossman",
+      "seats": "25,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMZ",
+      "room": "2206"
+    }
+  ],
+  "term": "201801",
+  "department": "French"
+}

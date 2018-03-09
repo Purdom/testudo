@@ -1,0 +1,26 @@
+{
+  "id": "PLCY611",
+  "title": "Quantitative Analysis of Policy Issues",
+  "credits": "3",
+  "description": "Restriction: Must be in a major in PLCY-School of Public Policy; or permission of PLCY-School of Public Policy.\nCredit only granted for: PLCY611 or PUAF611.\nFormerly: PUAF611.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Seth Weissman",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "7:00pm",
+      "end": "9:30pm",
+      "building": "VMH",
+      "room": "1203"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

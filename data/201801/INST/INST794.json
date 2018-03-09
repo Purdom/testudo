@@ -1,0 +1,26 @@
+{
+  "id": "INST794",
+  "title": "Capstone in Youth Experience",
+  "credits": "3",
+  "description": "Prerequisite: INST650, INST651, and INST652; or permission of instructor.\nRestriction: Permission of INFO-College of Information Studies; and must be part of Youth Experience (YX) certificate program.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "CT01",
+      "instructor": "Mega Subramaniam",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

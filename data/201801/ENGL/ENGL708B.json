@@ -1,0 +1,26 @@
+{
+  "id": "ENGL708B",
+  "title": "Seminar in Rhetoric; Argumentation",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Vessela Valiavitcharska",
+      "seats": "11,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TWS",
+      "room": "3252"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

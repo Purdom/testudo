@@ -1,0 +1,135 @@
+{
+  "id": "PHYS261",
+  "title": "General Physics: Vibrations, Waves, Heat, Electricity and Magnetism (Laboratory)",
+  "credits": "1",
+  "description": "Corequisite: PHYS260.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Matthew Severson",
+      "seats": "36,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:00pm",
+      "end": "8:20pm",
+      "building": "PHY",
+      "room": "3219"
+    },
+    {
+      "id": "0102",
+      "instructor": "Matthew Severson",
+      "seats": "36,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "12:00pm",
+      "end": "2:20pm",
+      "building": "PHY",
+      "room": "3219"
+    },
+    {
+      "id": "0103",
+      "instructor": "Matthew Severson",
+      "seats": "36,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:00pm",
+      "end": "8:20pm",
+      "building": "PHY",
+      "room": "3219"
+    },
+    {
+      "id": "0104",
+      "instructor": "Matthew Severson",
+      "seats": "36,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:20pm",
+      "building": "PHY",
+      "room": "3219"
+    },
+    {
+      "id": "0105",
+      "instructor": "Matthew Severson",
+      "seats": "36,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "7:20pm",
+      "building": "PHY",
+      "room": "3219"
+    },
+    {
+      "id": "0106",
+      "instructor": "Matthew Severson",
+      "seats": "36,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "6:00pm",
+      "end": "8:20pm",
+      "building": "PHY",
+      "room": "3219"
+    },
+    {
+      "id": "0107",
+      "instructor": "Matthew Severson",
+      "seats": "36,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "11:00am",
+      "end": "1:20pm",
+      "building": "PHY",
+      "room": "3219"
+    },
+    {
+      "id": "0108",
+      "instructor": "Matthew Severson",
+      "seats": "36,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "12:00pm",
+      "end": "2:20pm",
+      "building": "PHY",
+      "room": "3219"
+    },
+    {
+      "id": "0109",
+      "instructor": "Matthew Severson",
+      "seats": "36,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "9:00am",
+      "end": "11:20am",
+      "building": "PHY",
+      "room": "3219"
+    },
+    {
+      "id": "0110",
+      "instructor": "Matthew Severson",
+      "seats": "36,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:00pm",
+      "end": "5:20pm",
+      "building": "PHY",
+      "room": "3219"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ITAL478D",
+  "title": "Colloquium in Italian; Monsters and Demons: the Faces of Evil in Dante's Inferno",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Joseph Falvo",
+      "seats": "5,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "JMZ",
+      "room": "1226"
+    }
+  ],
+  "term": "201801",
+  "department": "Italian"
+}

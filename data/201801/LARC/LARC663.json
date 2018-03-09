@@ -1,0 +1,26 @@
+{
+  "id": "LARC663",
+  "title": "Landscape and Garden History",
+  "credits": "3",
+  "description": "Restriction: Permission of AGNR-Plant Science & Landscape Architecture department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kelly Cook",
+      "seats": "10,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "4:50pm",
+      "building": "PLS",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "Landscape Architecture"
+}

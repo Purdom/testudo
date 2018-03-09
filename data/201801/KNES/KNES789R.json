@@ -1,0 +1,25 @@
+{
+  "id": "KNES789R",
+  "title": "Advanced Projects in Kinesiology; Brain Dynamics and EEG: Applications to Cognitive-motor Performance",
+  "credits": "3",
+  "description": "Prerequisites: NACS641 (Introduction to Neuroscience), and one of KNES689D (Special Problems in Kinesiology: Physiological Signal processing course. This course covers the theory and practice of electroencephalography, which includes, but not limited to, the basic principles of EEG (synaptic sources, volume conduction, electrodes, recording techniques, etc.), various EEG rhythms that reflect cognitive processing, signal processing, conventional analytic methods such as event-related potentials and spectral analysis as well as computational approaches like source localization and functional connectivity. This course may provide coverage of other electrography such as electrooculography (EOG) electromyography (EMG), and electrocardiography (ECG or EKG).",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hyuk Oh",
+      "seats": "15,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "4:00pm",
+      "end": "5:15pm",
+      "building": "ESJ",
+      "room": "B0320"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

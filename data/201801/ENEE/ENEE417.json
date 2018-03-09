@@ -1,0 +1,37 @@
+{
+  "id": "ENEE417",
+  "title": "Microelectronics Design Laboratory",
+  "credits": "2",
+  "description": "Prerequisite: Minimum grade of C- in ENEE303; and minimum grade of C- in ENEE307; and must have earned a minimum grade of regular (letter) C- in all required 200-level ENEE courses; and permission of ENGR-Electrical & Computer Engineering department.\nRestriction: Must be in one of the following programs (Engineering: Electrical; Engineering: Computer).",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Newcomb",
+      "seats": "8,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "EGR",
+      "room": "2154"
+    },
+    {
+      "id": "0102",
+      "instructor": "Robert Newcomb",
+      "seats": "8,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "EGR",
+      "room": "2154"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

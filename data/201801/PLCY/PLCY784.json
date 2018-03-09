@@ -1,0 +1,26 @@
+{
+  "id": "PLCY784",
+  "title": "Disease, Disaster, and Development",
+  "credits": "3",
+  "description": "Restriction: Must be in a major in PLCY-School of Public Policy; or permission of PLCY-School of Public Policy.\nCredit only granted for: PUAF699D, PUAF784 or PLCY784.\nFormerly: PUAF699D and PUAF784.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Sprinkle",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:15pm",
+      "end": "6:45pm",
+      "building": "VMH",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

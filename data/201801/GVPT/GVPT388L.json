@@ -1,0 +1,27 @@
+{
+  "id": "GVPT388L",
+  "title": "Topical Investigations; Maryland Politics, Policy, and Leadership",
+  "credits": "3",
+  "description": "This course will examine Maryland's political history, its present, and potential future. Attention will be focused on the legislative process and the legislative institution. We will discuss current policy issues before the General Assembly and the State as well as methods by which to approach issues, develop possible solutions, and negotiate agreements. The course will be led by an individual with extensive experience in the Maryland legislative branch.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Karl Aro",
+      "seats": "30,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TYD",
+      "room": "1132"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

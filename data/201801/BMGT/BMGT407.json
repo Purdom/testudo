@@ -1,0 +1,49 @@
+{
+  "id": "BMGT407",
+  "title": "Information Systems Projects",
+  "credits": "3",
+  "description": "Prerequisite: BMGT402 and BMGT403.\nRestriction: Senior standing.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hassan Ibrahim",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "2203"
+    },
+    {
+      "id": "0201",
+      "instructor": "Hassan Ibrahim",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "VMH",
+      "room": "2203"
+    },
+    {
+      "id": "0301",
+      "instructor": "Hassan Ibrahim",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "2203"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

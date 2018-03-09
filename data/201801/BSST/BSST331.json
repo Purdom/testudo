@@ -1,0 +1,39 @@
+{
+  "id": "BSST331",
+  "title": "Response to Terrorism",
+  "credits": "3",
+  "description": "Restriction: Must be in the Terrorism Studies minor program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Katherine Izsak",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "KEB",
+      "room": "1200"
+    },
+    {
+      "id": "0201",
+      "instructor": "Katherine Izsak",
+      "seats": "10,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "KEB",
+      "room": "1200"
+    }
+  ],
+  "term": "201801",
+  "department": "Terrorism Studies"
+}

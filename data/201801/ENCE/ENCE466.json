@@ -1,0 +1,37 @@
+{
+  "id": "ENCE466",
+  "title": "Design of Civil Engineering Systems",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ENGR-Civil & Environmental Engineering department.\nRestriction: Senior standing.\nAdditional information: Must be taken in the semester in which the student graduates.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Russell Anderson",
+      "seats": "40,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0102",
+      "instructor": "Russell Anderson",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EGR",
+      "room": "1202"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "MUSC679A",
+  "title": "Seminar in Ethnomusicology; Readings in Latin America and Latinx Music",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Fernando Rios",
+      "seats": "12,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "PAC",
+      "room": "3110A"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

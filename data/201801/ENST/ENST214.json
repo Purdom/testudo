@@ -1,0 +1,27 @@
+{
+  "id": "ENST214",
+  "title": "Introduction to Fish and Wildlife Sciences",
+  "credits": "3",
+  "description": "Prerequisite: BSCI160 and BSCI161; or BSCI106.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shannon Pederson",
+      "seats": "45,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CHE",
+      "room": "2108"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

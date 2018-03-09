@@ -1,0 +1,51 @@
+{
+  "id": "HESI315",
+  "title": "Student Leadership in Groups and Organizations",
+  "credits": "3",
+  "description": "Recommended: HESI217.\nCredit only granted for: HESI315 or EDCP315.\nFormerly: EDCP315.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Anne Spear",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ASY",
+      "room": "3203"
+    },
+    {
+      "id": "0201",
+      "instructor": "Gudrun Nyunt",
+      "seats": "25,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:00am",
+      "end": "11:45am",
+      "building": "AJC",
+      "room": "2119"
+    },
+    {
+      "id": "0301",
+      "instructor": "Anne Spear",
+      "seats": "15,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ASY",
+      "room": "3203"
+    }
+  ],
+  "term": "201801",
+  "department": "Higher Ed, Student Affairs, and International Ed Policy"
+}

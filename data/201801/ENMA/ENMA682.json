@@ -1,0 +1,26 @@
+{
+  "id": "ENMA682",
+  "title": "Electron Microscopy for Research",
+  "credits": "3",
+  "description": "Restriction: Permission of ENGR-Materials Science & Engineering department.\nCredit only granted for: ENMA682 or ENMA698J.\nFormerly: ENMA698J.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Cumings",
+      "seats": "15,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CHE",
+      "room": "2136"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Materials"
+}

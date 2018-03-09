@@ -1,0 +1,26 @@
+{
+  "id": "ENCE655",
+  "title": "Environmental Behavior of Organic Pollutants",
+  "credits": "3",
+  "description": "Prerequisite: ENCE651.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alba Torrents",
+      "seats": "15,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "9:30am",
+      "end": "12:00pm",
+      "building": "EGR",
+      "room": "1110"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

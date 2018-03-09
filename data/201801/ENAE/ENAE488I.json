@@ -1,0 +1,26 @@
+{
+  "id": "ENAE488I",
+  "title": "Topics in Aerospace Engineering; Wind Energy Theory",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Baeder",
+      "seats": "20,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "HBK",
+      "room": "0109"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "CMSC712",
+  "title": "Distributed Algorithms and Verification",
+  "credits": "3",
+  "description": "Study of algorithms from the distributed and concurrent systems literature. Formal approach to specifying, verifying, and deriving such algorithms. Areas selected from mutual exclusion, resource allocation, quiescence detection, election, Byzantine agreements, routing, network protocols, and fault-tolerence. Formal approaches will handle system specification and verification of safety, liveness, and real-time properties.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "A.U. Shankar",
+      "seats": "30,",
+      "open-seats": "23,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CSI",
+      "room": "3120"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

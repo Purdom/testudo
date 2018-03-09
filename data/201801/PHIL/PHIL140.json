@@ -1,0 +1,159 @@
+{
+  "id": "PHIL140",
+  "title": "Contemporary Moral Issues",
+  "credits": "3",
+  "description": "The uses of philosophical analysis in thinking clearly about such widely debated moral issues as abortion, euthanasia, homosexuality, pornography, reverse discrimination, the death penalty, business ethics, sexual equality, and economic justice.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andrew Knoll",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0102",
+      "instructor": "Andrew Knoll",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0103",
+      "instructor": "Andrew Knoll",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0104",
+      "instructor": "Andrew Knoll",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0105",
+      "instructor": "Andrew Knoll",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0106",
+      "instructor": "Andrew Knoll",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0201",
+      "instructor": "Hallie Liberto",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0202",
+      "instructor": "Hallie Liberto",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0203",
+      "instructor": "Hallie Liberto",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0204",
+      "instructor": "Hallie Liberto",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0205",
+      "instructor": "Hallie Liberto",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "MMH",
+      "room": "1400"
+    },
+    {
+      "id": "0206",
+      "instructor": "Hallie Liberto",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "MMH",
+      "room": "1400"
+    }
+  ],
+  "term": "201801",
+  "department": "Philosophy"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ANSC453",
+  "title": "Animal Welfare and Bioethics",
+  "credits": "3",
+  "description": "Prerequisite: ANSC101 and ANSC103; or BSCI106; or (BSCI160 and BSCI161); or permission of instructor.\nRestriction: Junior standing or higher.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Stricklin",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "4:00pm",
+      "end": "5:15pm",
+      "building": "ANS",
+      "room": "0412"
+    }
+  ],
+  "term": "201801",
+  "department": "Animal Science"
+}

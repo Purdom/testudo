@@ -1,0 +1,25 @@
+{
+  "id": "BIOE221",
+  "title": "Academic and Career Planning",
+  "credits": "1",
+  "description": "Prerequisite: BIOE120 and BIOE121.\nRestriction: Permission of ENGR-Fischell Department of Bioengineering department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Abby Shantzis",
+      "seats": "60,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "ESJ",
+      "room": "1215"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

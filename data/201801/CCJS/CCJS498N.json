@@ -1,0 +1,27 @@
+{
+  "id": "CCJS498N",
+  "title": "Selected Topics in Criminology and Criminal Justice; Homeland Security Intelligence",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "Louis Morlier",
+      "seats": "40,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:30pm",
+      "end": "9:00pm",
+      "building": "BLD3",
+      "room": "3225"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

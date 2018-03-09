@@ -1,0 +1,27 @@
+{
+  "id": "GEOG212",
+  "title": "Career Planning for Geographical Sciences, GIS, and ENSP Majors",
+  "credits": "1",
+  "description": "Restriction: Must be in one of the following programs (Geography; GEOG-GIS & Computer Cartography).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Amanda Hall",
+      "seats": "30,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:00pm",
+      "end": "5:00pm",
+      "building": "TYD",
+      "room": "1108"
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

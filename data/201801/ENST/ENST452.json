@@ -1,0 +1,27 @@
+{
+  "id": "ENST452",
+  "title": "Wetland Restoration",
+  "credits": "3",
+  "description": "Prerequisite: (BSCI160 and BSCI161; or BSCI106); and (BSCI362, ENST450, ENST360, or BSCI361). Or permission of AGNR-Environmental Science & Technology department.\nCredit only granted for: ENST452, ENST652, or MEES652.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Amr Keshta",
+      "seats": "40,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ANS",
+      "room": "0412"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

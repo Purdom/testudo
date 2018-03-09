@@ -1,0 +1,25 @@
+{
+  "id": "BSOS355",
+  "title": "Social Sciences Internship Practicum",
+  "credits": "3",
+  "description": "Restriction: Must have earned a minimum of 60 credits; and minimum cumulative GPA of 2.5; and must have completed at least 1 semester at UMD.\nCredit only granted for: BSOS388I or BSOS355.\nFormerly: BSOS388I.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kathryn Hopps",
+      "seats": "40,",
+      "open-seats": "40,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Behavioral and Social Sciences"
+}

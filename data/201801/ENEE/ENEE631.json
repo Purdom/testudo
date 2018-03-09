@@ -1,0 +1,26 @@
+{
+  "id": "ENEE631",
+  "title": "Digital Image and Video Processing",
+  "credits": "3",
+  "description": "Prerequisite: ENEE620 and ENEE630; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Min Wu",
+      "seats": "30,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "EGR",
+      "room": "2116"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

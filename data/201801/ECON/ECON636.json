@@ -1,0 +1,26 @@
+{
+  "id": "ECON636",
+  "title": "Behavioral Economics",
+  "credits": "3",
+  "description": "Prerequisite: ECON603 and ECON604; and permission of BSOS-Economics department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Emel Filiz Ozbay",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TYD",
+      "room": "0101"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

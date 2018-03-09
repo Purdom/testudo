@@ -1,0 +1,38 @@
+{
+  "id": "ENTS625",
+  "title": "Management and Organizational Behavior in the Telecommunications Industry",
+  "credits": "3",
+  "description": "Roles of the general manager in: determining target markets and designing strategies for them; formulating and implementing corporate and business level strategies; and staffing, developing, and managing human resources and coordinating them with the organization's financial and physical resources. Also emphasizes the building of interpersonal skills with respect to the selection of members for work teams and team formation, leadership of teams toward the achievement of strategic goals and total quality, the development and motivation of team members, and the evaluation of team and individual performance.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Aswani Valiveti",
+      "seats": "40,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "SQH",
+      "room": "1105"
+    },
+    {
+      "id": "0201",
+      "instructor": "Aswani Valiveti",
+      "seats": "40,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:30pm",
+      "end": "8:15pm",
+      "building": "SQH",
+      "room": "1105"
+    }
+  ],
+  "term": "201801",
+  "department": "Telecommunications"
+}

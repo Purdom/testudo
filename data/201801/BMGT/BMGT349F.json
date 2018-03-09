@@ -1,0 +1,25 @@
+{
+  "id": "BMGT349F",
+  "title": "Private Equity and Venture Capital; Private Equity and Venture Capital",
+  "credits": "3",
+  "description": "Restricted to students in the Private Equity and Venture Capital Clinic (FPPE) fellows program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "FP01",
+      "instructor": "Mark Grovic",
+      "seats": "12,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "12:30pm",
+      "end": "3:00pm",
+      "building": "VMH",
+      "room": "2505"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

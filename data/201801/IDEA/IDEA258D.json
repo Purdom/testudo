@@ -1,0 +1,27 @@
+{
+  "id": "IDEA258D",
+  "title": "Special Topics in Innovation; Explorations in Design",
+  "credits": "1",
+  "description": "Explorations in Design will give students the opportunity to apply their unique backgrounds to the realm of design. Students will engage in hands-on learning with real clients from various industries. We will explore how good and bad design plays a role in our everyday lives, from the way we order coffee to the logos you see to the signs that help you navigate (or get lost on) the metro.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Meenu Singh",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ESJ",
+      "room": "2101"
+    }
+  ],
+  "term": "201801",
+  "department": "Academy for Innovation & Entrepreneurship"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "HLTH665",
+  "title": "Health Behavior I",
+  "credits": "3",
+  "description": "The psychological, social psychological, and sociological theories of health behavior. The relation of health knowledge, beliefs, attitudes, intentions, and behavior to preventive, illness, sick-role, and health utilization behaviors.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Feldman",
+      "seats": "25,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "SPH",
+      "room": "0307"
+    },
+    {
+      "id": "PLH1",
+      "instructor": "Katherine Sharp",
+      "seats": "35,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Health"
+}

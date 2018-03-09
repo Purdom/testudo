@@ -1,0 +1,26 @@
+{
+  "id": "CHEM689E",
+  "title": "Special Topics in Physical Chemistry; Nanoparticle Aerosol Dynamics and Particle Technology",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Zachariah",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CHM",
+      "room": "0128"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

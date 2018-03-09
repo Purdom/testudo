@@ -1,0 +1,25 @@
+{
+  "id": "RUSS302",
+  "title": "Advanced Russian II",
+  "credits": "3",
+  "description": "Prerequisite: RUSS301.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Maria Lekic",
+      "seats": "15,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "JMZ",
+      "room": "1123"
+    }
+  ],
+  "term": "201801",
+  "department": "Russian"
+}

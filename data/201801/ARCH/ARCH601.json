@@ -1,0 +1,26 @@
+{
+  "id": "ARCH601",
+  "title": "Topical Design Studio VI",
+  "credits": "6",
+  "description": "Restriction: Permission of ARCH-Architecture Program.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Peter Noonan",
+      "seats": "40,",
+      "open-seats": "31,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "6:00pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "ENME461",
+  "title": "Control Systems Laboratory",
+  "credits": "3",
+  "description": "Prerequisite: ENME351 and ENME361.\nRestriction: Permission of ENGR-Mechanical Engineering department.\nCredit only granted for: ENEE461 or ENME461.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Levine",
+      "seats": "14,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "KEB",
+      "room": "1110"
+    },
+    {
+      "id": "0102",
+      "instructor": "William Levine",
+      "seats": "14,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "KEB",
+      "room": "1110"
+    },
+    {
+      "id": "0103",
+      "instructor": "William Levine",
+      "seats": "14,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "KEB",
+      "room": "1110"
+    },
+    {
+      "id": "0104",
+      "instructor": "William Levine",
+      "seats": "14,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "KEB",
+      "room": "1110"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

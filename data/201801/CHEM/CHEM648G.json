@@ -1,0 +1,26 @@
+{
+  "id": "CHEM648G",
+  "title": "Special Topics in Organic Chemistry; Introduction to Chemical Biology",
+  "credits": "3",
+  "description": "Prerequisite: One-year organic chemistry (Chem231 and Chem241 or equivalent) and a basic understanding of biochemistry (one semester of general biochemistry).\n\nChemical biology involves the application of chemical approaches to the study and manipulation of biological systems, as well as the harnessing of biology to advance chemistry. This course will first highlight the chemical basis of functions of major biopolymers(DNA/RNA, proteins, glycans, and lipids), and then focus on chemical approaches to deciphering biological functions through case studies.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lai-Xi Wang",
+      "seats": "20,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "CHM",
+      "room": "3507"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

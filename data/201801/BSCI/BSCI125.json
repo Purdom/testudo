@@ -1,0 +1,111 @@
+{
+  "id": "BSCI125",
+  "title": "Plant Biology Laboratory",
+  "credits": "1",
+  "description": "Corequisite: BSCI124.\nRestriction: For non-science majors only; and must not have completed BSCI105; and must not have completed BSCI170 or BSCI171.\nCredit only granted for: BSCI105, BSCI170, or BSCI125.\nAdditional information: CORE Life Sciences Lab (LL) Course only when taken concurrently with BSCI 125.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "1104",
+      "instructor": "Edgar Moctezuma",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "12:00pm",
+      "end": "2:00pm",
+      "building": "HJP",
+      "room": "3237"
+    },
+    {
+      "id": "1106",
+      "instructor": "Edgar Moctezuma",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:00pm",
+      "end": "5:00pm",
+      "building": "HJP",
+      "room": "3237"
+    },
+    {
+      "id": "1107",
+      "instructor": "Edgar Moctezuma",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "11:00am",
+      "end": "1:00pm",
+      "building": "HJP",
+      "room": "3237"
+    },
+    {
+      "id": "1110",
+      "instructor": "Edgar Moctezuma",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "5:30pm",
+      "building": "HJP",
+      "room": "3237"
+    },
+    {
+      "id": "1114",
+      "instructor": "Edgar Moctezuma",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:00pm",
+      "end": "2:00pm",
+      "building": "HJP",
+      "room": "3237"
+    },
+    {
+      "id": "1116",
+      "instructor": "Edgar Moctezuma",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:00pm",
+      "end": "5:00pm",
+      "building": "HJP",
+      "room": "3237"
+    },
+    {
+      "id": "1118",
+      "instructor": "Edgar Moctezuma",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "11:00am",
+      "end": "1:00pm",
+      "building": "HJP",
+      "room": "3237"
+    },
+    {
+      "id": "1120",
+      "instructor": "Edgar Moctezuma",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:30pm",
+      "end": "5:30pm",
+      "building": "HJP",
+      "room": "3237"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "BMGT345",
+  "title": "Foundations of Financial Management for Non Business Majors",
+  "credits": "3",
+  "description": "Restriction: Must not have completed BMGT340; and must not be a major in the R.H. Smith School of Business.\nCredit only granted for: BMGT345 or BMGT340.\nAdditional information: Course does not apply to a Smith School degree. BMGT340 may substitute for BMGT345.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "BL01",
+      "instructor": "Karen Hallows",
+      "seats": "120,",
+      "open-seats": "69,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "VMH",
+      "room": "1212"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

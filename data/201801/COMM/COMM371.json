@@ -1,0 +1,27 @@
+{
+  "id": "COMM371",
+  "title": "Communication and Digital Media",
+  "credits": "3",
+  "description": "Restriction: Must be in Communication program.\nCredit only granted for: COMM371 or COMM398V.\nFormerly: COMM398V.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "Robert Coleman",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "10:45am",
+      "building": "BLD3",
+      "room": "3216"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

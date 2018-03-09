@@ -1,0 +1,27 @@
+{
+  "id": "ENGL312",
+  "title": "Romantic to Modern British Literature",
+  "credits": "3",
+  "description": "Detailed study of selected major texts from the 19th and 20th centuries Transitions from Romanticism to Victorian age to Modernism. Historical, social, literary contexts. Issues such as rise of democracy; industrial revolution; the \"woman question\"; revolutions in literary form. Authors might include Wordsworth, Austen, Dickens, Arnold, T.S. Eliot, and Woolf.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Heidi Scott",
+      "seats": "29,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "TWS",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

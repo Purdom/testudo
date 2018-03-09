@@ -1,0 +1,26 @@
+{
+  "id": "SOCY630",
+  "title": "Population and Society",
+  "credits": "3",
+  "description": "Selected problems in the field of population; quantitative and qualitative aspects; American and world problems.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Feinian Chen",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "ASY",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "AASP305",
+  "title": "Theoretical, Methodological and Policy Research Issues in African American Studies",
+  "credits": "3",
+  "description": "Prerequisite: AASP301; and (STAT100, MATH111, PSYC200, BMGT230, or SOCY201). Or students who have taken courses with comparable content may contact the department.\nFormerly: AASP401.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ricco Hall",
+      "seats": "30,",
+      "open-seats": "24,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "JMZ",
+      "room": "3205"
+    }
+  ],
+  "term": "201801",
+  "department": "African American Studies"
+}

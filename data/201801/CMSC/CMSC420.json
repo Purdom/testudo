@@ -1,0 +1,49 @@
+{
+  "id": "CMSC420",
+  "title": "Data Structures",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in CMSC351 and CMSC330; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michelle Hugue",
+      "seats": "88,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CSI",
+      "room": "2117"
+    },
+    {
+      "id": "0201",
+      "instructor": "Michelle Hugue",
+      "seats": "88,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CSI",
+      "room": "2117"
+    },
+    {
+      "id": "0301",
+      "instructor": "Jason Filippou",
+      "seats": "150,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "JMZ",
+      "room": "0220"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "EDSP430",
+  "title": "Early Intervention: Early Childhood Special Education",
+  "credits": "3",
+  "description": "Restriction: Must be in Special Education program.\nCredit only granted for: EDSP430 or EDSP631.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paula Beckman",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "3:00pm",
+      "building": "EDU",
+      "room": "2119"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Special"
+}

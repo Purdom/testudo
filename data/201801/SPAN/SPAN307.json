@@ -1,0 +1,27 @@
+{
+  "id": "SPAN307",
+  "title": "Oral Communication Skills for Heritage Speakers of Spanish",
+  "credits": "3",
+  "description": "Prerequisite: Native or near native knowledge of and no formal education in Spanish.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Evelyn Canabal-Torres",
+      "seats": "25,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "JMZ",
+      "room": "0125"
+    }
+  ],
+  "term": "201801",
+  "department": "Spanish"
+}

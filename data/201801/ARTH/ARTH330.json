@@ -1,0 +1,27 @@
+{
+  "id": "ARTH330",
+  "title": "Seventeenth-Century European Art",
+  "credits": "3",
+  "description": "Painting, sculpture and architecture concentrating on Italy, Spain, France, and England.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sarah Cantor",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ASY",
+      "room": "3215"
+    }
+  ],
+  "term": "201801",
+  "department": "Art History & Archaeology"
+}

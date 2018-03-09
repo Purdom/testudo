@@ -1,0 +1,87 @@
+{
+  "id": "PHIL100",
+  "title": "Introduction to Philosophy",
+  "credits": "3",
+  "description": "An introduction to the literature, problems, and methods of philosophy either through a study of some of the main figures in philosophic thought or through an examination of some of the central and recurring problems of philosophy.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Casey Enos",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TYD",
+      "room": "2109"
+    },
+    {
+      "id": "0102",
+      "instructor": "Casey Enos",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TYD",
+      "room": "2109"
+    },
+    {
+      "id": "0103",
+      "instructor": "Casey Enos",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TYD",
+      "room": "2109"
+    },
+    {
+      "id": "0201",
+      "instructor": "Quinn Harr",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "TYD",
+      "room": "0117"
+    },
+    {
+      "id": "0202",
+      "instructor": "Quinn Harr",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "TYD",
+      "room": "0117"
+    },
+    {
+      "id": "0203",
+      "instructor": "Quinn Harr",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "TYD",
+      "room": "0117"
+    }
+  ],
+  "term": "201801",
+  "department": "Philosophy"
+}

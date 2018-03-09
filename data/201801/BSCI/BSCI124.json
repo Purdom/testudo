@@ -1,0 +1,27 @@
+{
+  "id": "BSCI124",
+  "title": "Plant Biology for Non-Science Students",
+  "credits": "3",
+  "description": "Restriction: For non-science majors only; and must not have completed BSCI105; and must not have completed BSCI170 or BSCI171.\nAdditional information: CORE Life Sciences Lab (LL) Course only when taken concurrently with BSCI 125.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "1001",
+      "instructor": "Edgar Moctezuma",
+      "seats": "220,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "HJP",
+      "room": "0226"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

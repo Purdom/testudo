@@ -1,0 +1,50 @@
+{
+  "id": "ENRE645",
+  "title": "Human Reliability Analysis",
+  "credits": "3",
+  "description": "Credit only granted for: ENRE645 or ENRE734.\nFormerly: ENRE734.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Monifa Vaughn-Cooke",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:00am",
+      "end": "11:40am",
+      "building": "JMP",
+      "room": "2217"
+    },
+    {
+      "id": "ER01",
+      "instructor": "Monifa Vaughn-Cooke",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "RE01",
+      "instructor": "Monifa Vaughn-Cooke",
+      "seats": "10,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Reliability Engineering"
+}

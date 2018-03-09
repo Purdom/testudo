@@ -1,0 +1,39 @@
+{
+  "id": "NFSC460",
+  "title": "Medical Nutrition Therapy",
+  "credits": "4",
+  "description": "Prerequisite: NFSC380 and NFSC440; and permission of AGNR-Nutrition and Food Science department.\nFormerly: NUTR460.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Margaret Udahogora",
+      "seats": "17,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "2:15pm",
+      "building": "PLS",
+      "room": "1113"
+    },
+    {
+      "id": "0102",
+      "instructor": "Margaret Udahogora",
+      "seats": "17,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "2:15pm",
+      "building": "PLS",
+      "room": "1113"
+    }
+  ],
+  "term": "201801",
+  "department": "Nutrition and Food Science"
+}

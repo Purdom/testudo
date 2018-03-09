@@ -1,0 +1,37 @@
+{
+  "id": "BIOE689L",
+  "title": "Special Topics in Bioengineering; Applications in Biopharmaceutical Engineering",
+  "credits": "3",
+  "description": "For Master of Engineering students only or with permission of department",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ben Woodard",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:00pm",
+      "end": "8:45pm",
+      "building": "PLS",
+      "room": "1115"
+    },
+    {
+      "id": "BI01",
+      "instructor": "Ben Woodard",
+      "seats": "25,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

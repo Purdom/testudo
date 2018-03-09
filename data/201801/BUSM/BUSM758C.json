@@ -1,0 +1,25 @@
+{
+  "id": "BUSM758C",
+  "title": "Special Topics in Business; Financial Statement Analysis",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Brent Solomon",
+      "seats": "50,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "VMH",
+      "room": "1511"
+    }
+  ],
+  "term": "201801",
+  "department": "Full-Time MBA Program"
+}

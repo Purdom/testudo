@@ -1,0 +1,25 @@
+{
+  "id": "LARC341",
+  "title": "Regional Design Studio",
+  "credits": "5",
+  "description": "Prerequisite: LARC320; and LARC340.\nRestriction: Junior standing or higher; and must be in Landscape Architecture program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christopher Ellis",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "PLS",
+      "room": "2150"
+    }
+  ],
+  "term": "201801",
+  "department": "Landscape Architecture"
+}

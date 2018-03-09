@@ -1,0 +1,62 @@
+{
+  "id": "EDCP888C",
+  "title": "Apprenticeship in Counseling and Personnel Services; School Psychology",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jill Jacobson",
+      "seats": "15,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0201",
+      "instructor": "Hedwig Teglasi",
+      "seats": "15,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:20pm",
+      "end": "5:00pm",
+      "building": "TWS",
+      "room": "1321"
+    },
+    {
+      "id": "0401",
+      "instructor": "Instructor: TBA",
+      "seats": "15,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0501",
+      "instructor": "Judith Kinney",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "PHYS728",
+  "title": "Seminar in Atomic and Molecular Physics",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mohammad Hafezi",
+      "seats": "30,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ATL",
+      "room": "2400"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

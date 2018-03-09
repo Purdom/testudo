@@ -1,0 +1,26 @@
+{
+  "id": "NACS728O",
+  "title": "Selected Topics in Neuroscience and Cognitive Science; Hormones and Behavior",
+  "credits": "3",
+  "description": "Also offered as NACS728O. Credit granted for PSYC489G or NACS728O. Formerly PSYC309Z. Prerequisite: PSYC301 or equivalent. For students who have not had PSYC301, written permission of the instructor and department is required. Restricted to PSYC (major code 20010) students only.\n\nThis course presents a comprehensive overview of the field of behavioral endocrinology, the study of the relationship between hormones and behavior, from a psychobiological perspective. We will examine the major mammalian endocrine systems, how hormones influence sex determination, how hormones underlie sex differences in brain structure and function, the role of hormones in parental and social behaviors, mood disorders, homeostasis, cognition and stress. Both normal and abnormal hormonal pathologies will be discussed. Due to the physiological and experimental perspectives of this course, much of the phenomenology that we will be studying will be based on research in species other than humans. This species comparative approach will reveal interesting \"ways of doing things\" that are intriguingly different from how \"humans\" do things.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Erica Glasper Andrews",
+      "seats": "40,",
+      "open-seats": "30,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "BPS",
+      "room": "0283"
+    }
+  ],
+  "term": "201801",
+  "department": "Neuroscience & Cognitive Science"
+}

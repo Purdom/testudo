@@ -1,0 +1,27 @@
+{
+  "id": "SPAN315",
+  "title": "Commercial Spanish I",
+  "credits": "3",
+  "description": "Prerequisite: SPAN301 and SPAN303; or permission of ARHU-School of Languages, Literatures, and Cultures department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Fabian Faccio",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "JMZ",
+      "room": "2122"
+    }
+  ],
+  "term": "201801",
+  "department": "Spanish"
+}

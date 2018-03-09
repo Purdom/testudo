@@ -1,0 +1,74 @@
+{
+  "id": "ENPM642",
+  "title": "Systems Requirements, Design and Trade-Off Analysis",
+  "credits": "3",
+  "description": "Prerequisite: ENPM641 or ENSE621; or permission of ENGR-Office of Advanced Engineering Education.\nAlso offered as: ENSE622.\nCredit only granted for: ENPM642, ENSE602, or ENSE622.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John MacCarthy",
+      "seats": "38,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "JMP",
+      "room": "2222"
+    },
+    {
+      "id": "DE01",
+      "instructor": "John MacCarthy",
+      "seats": "5,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "HT01",
+      "instructor": "John MacCarthy",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SG01",
+      "instructor": "John MacCarthy",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "John MacCarthy",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Professional Masters"
+}

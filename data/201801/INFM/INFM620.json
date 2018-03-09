@@ -1,0 +1,26 @@
+{
+  "id": "INFM620",
+  "title": "Introduction to Strategic Information Management",
+  "credits": "3",
+  "description": "Prerequisite: INFM612; or LBSC631; or permission of instructor.\nRestriction: Permission of INFO-College of Information Studies.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "ML01",
+      "instructor": "Vikas Sahasrabudhe",
+      "seats": "30,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Management"
+}

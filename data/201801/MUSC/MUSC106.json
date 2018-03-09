@@ -1,0 +1,27 @@
+{
+  "id": "MUSC106",
+  "title": "Beginning Classical Guitar",
+  "credits": "2",
+  "description": "Introduction to classical guitar notation, technique, literature and performance. No previous musical experience required.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gerard Kunkel",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PAC",
+      "room": "1230"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

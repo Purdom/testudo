@@ -1,0 +1,27 @@
+{
+  "id": "PERS398L",
+  "title": "Special Topics in Persian Studies; Sex, Love, and Desire in Persian Poetry",
+  "credits": "3",
+  "description": "Taught in English.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Matthew Miller",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMZ",
+      "room": "1117"
+    }
+  ],
+  "term": "201801",
+  "department": "Persian"
+}

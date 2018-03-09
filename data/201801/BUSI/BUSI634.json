@@ -1,0 +1,25 @@
+{
+  "id": "BUSI634",
+  "title": "Operations Management",
+  "credits": "2",
+  "description": "Restriction: Must be in one of the following programs (Business and Management (Master's); Business and Management (Master's)) ; or permission of BMGT-Robert H. Smith School of Business.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Anand Anandalingam",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "VMH",
+      "room": "1518"
+    }
+  ],
+  "term": "201801",
+  "department": "Part-Time MBA Program"
+}

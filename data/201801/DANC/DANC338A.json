@@ -1,0 +1,27 @@
+{
+  "id": "DANC338A",
+  "title": "Global Movement Practices; Afro Jazz",
+  "credits": "2",
+  "description": "Students must pay a $25 lab fee.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Ronya Anderson",
+      "seats": "25,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PAC",
+      "room": "1912"
+    }
+  ],
+  "term": "201801",
+  "department": "Dance"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ARCH420",
+  "title": "History of American Architecture",
+  "credits": "3",
+  "description": "Prerequisite: ARCH221; or permission of ARCH-Architecture Program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Isabelle Gournay",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ESJ",
+      "room": "B0320"
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

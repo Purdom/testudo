@@ -1,0 +1,26 @@
+{
+  "id": "KNES161G",
+  "title": "Physical Education Activities: Coed; Yoga for Fitness (Intermediate)",
+  "credits": "1",
+  "description": "Restriction: Must be in a major within SPHL-Kinesiology department.\n\nAttendance is required beginning the first day of class. Students must pay a $40 instructional materials fee.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0001",
+      "instructor": "Laura Rush",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:00pm",
+      "end": "4:15pm",
+      "building": "SPH",
+      "room": "0107"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

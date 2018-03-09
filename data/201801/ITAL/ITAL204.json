@@ -1,0 +1,27 @@
+{
+  "id": "ITAL204",
+  "title": "Review Grammar and Composition",
+  "credits": "3",
+  "description": "Prerequisite: ITAL203 or ITAL122; or must have appropriate Foreign Language Placement Test (FLPT) score.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Joseph Falvo",
+      "seats": "25,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "JMZ",
+      "room": "3203"
+    }
+  ],
+  "term": "201801",
+  "department": "Italian"
+}

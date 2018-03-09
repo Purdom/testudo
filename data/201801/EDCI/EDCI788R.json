@@ -1,0 +1,26 @@
+{
+  "id": "EDCI788R",
+  "title": "Selected Topics in Teacher Education; Applied Linguistics Doctoral Seminar",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jeff MacSwan",
+      "seats": "19,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "12:00pm",
+      "end": "2:00pm",
+      "building": "EDU",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

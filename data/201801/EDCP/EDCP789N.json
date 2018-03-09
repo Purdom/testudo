@@ -1,0 +1,26 @@
+{
+  "id": "EDCP789N",
+  "title": "Advanced Topics in Counseling and Personnel Services; Therapeutic Approaches with Children",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Colleen O'Neal",
+      "seats": "6,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "1:00pm",
+      "end": "3:45pm",
+      "building": "ASY",
+      "room": "3221"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

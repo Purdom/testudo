@@ -1,0 +1,26 @@
+{
+  "id": "AMST603",
+  "title": "Current Approaches to American Studies",
+  "credits": "3",
+  "description": "Restriction: Must be in one of the following programs (American Studies (Master's); American Studies (Doctoral)) . Or permission of ARHU-American Studies department; and permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Perla Guerrero",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "TWS",
+      "room": "0134"
+    }
+  ],
+  "term": "201801",
+  "department": "American Studies"
+}

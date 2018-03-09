@@ -1,0 +1,25 @@
+{
+  "id": "EDCI661",
+  "title": "Content Area Reading",
+  "credits": "3",
+  "description": "Prerequisite: EDCI362; or TLPL462; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mariam Dreher",
+      "seats": "20,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:30pm",
+      "end": "7:15pm",
+      "building": "EDU",
+      "room": "2119"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

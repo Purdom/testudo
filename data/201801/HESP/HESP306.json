@@ -1,0 +1,27 @@
+{
+  "id": "HESP306",
+  "title": "Anatomy and Physiology of Speech & Hearing",
+  "credits": "4",
+  "description": "Prerequisite: Permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PBH1",
+      "instructor": "Donna Tippett,",
+      "seats": "35,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:00pm",
+      "end": "8:30pm",
+      "building": "LEF",
+      "room": "1220"
+    }
+  ],
+  "term": "201801",
+  "department": "Hearing and Speech Sciences"
+}

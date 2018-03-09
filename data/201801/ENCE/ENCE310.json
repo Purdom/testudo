@@ -1,0 +1,27 @@
+{
+  "id": "ENCE310",
+  "title": "Introduction to Environmental Engineering",
+  "credits": "3",
+  "description": "Prerequisite: PHYS260 and ENCE215; and permission of ENGR-Civil & Environmental Engineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Travis Ostrom",
+      "seats": "60,",
+      "open-seats": "55,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:30pm",
+      "end": "3:45pm",
+      "building": "ATL",
+      "room": "1113"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

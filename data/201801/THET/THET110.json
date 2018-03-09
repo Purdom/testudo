@@ -1,0 +1,135 @@
+{
+  "id": "THET110",
+  "title": "Introduction to the Theatre",
+  "credits": "3",
+  "description": "In the age of pop music and blockbuster films, of memes and viral videos, we often forget that theatre was one of the original forms of popular entertainment. We will focus on theatre practitioners including actors, directors, designers and backstage personnel to understand how theatre is produced. We will also consider popular entertainment in Europe and America, with a particular focus on musical theatre and Broadway to explore how theatre communicates, resonates, and remains relevant to all audiences.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Caitlin Marshall",
+      "seats": "24,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0102",
+      "instructor": "Caitlin Marshall",
+      "seats": "24,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0103",
+      "instructor": "Caitlin Marshall",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0104",
+      "instructor": "Caitlin Marshall",
+      "seats": "24,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0105",
+      "instructor": "Caitlin Marshall",
+      "seats": "24,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0201",
+      "instructor": "Caitlin Marshall",
+      "seats": "24,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0202",
+      "instructor": "Caitlin Marshall",
+      "seats": "24,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0203",
+      "instructor": "Caitlin Marshall",
+      "seats": "24,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0204",
+      "instructor": "Caitlin Marshall",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ATL",
+      "room": "2324"
+    },
+    {
+      "id": "0205",
+      "instructor": "Caitlin Marshall",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ATL",
+      "room": "2324"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre"
+}

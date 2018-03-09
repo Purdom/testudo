@@ -1,0 +1,26 @@
+{
+  "id": "EDSP888B",
+  "title": "Apprenticeship in Special Education; Research to Practice",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Susan De La Paz",
+      "seats": "10,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "1:00pm",
+      "end": "4:00pm",
+      "building": "ARC",
+      "room": "1125"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Special"
+}

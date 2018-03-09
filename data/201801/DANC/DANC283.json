@@ -1,0 +1,27 @@
+{
+  "id": "DANC283",
+  "title": "Foundations of Dance History",
+  "credits": "3",
+  "description": "Restriction: Permission of ARHU-Dance department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Maura Keefe",
+      "seats": "18,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PAC",
+      "room": "1815"
+    }
+  ],
+  "term": "201801",
+  "department": "Dance"
+}

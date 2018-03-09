@@ -1,0 +1,26 @@
+{
+  "id": "COMM775",
+  "title": "Seminar in Persuasion and Attitude Change",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ARHU-Communication department.\nFormerly: SPCH775.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Xiaoli Nan",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:30pm",
+      "end": "6:30pm",
+      "building": "SKN",
+      "room": "2127"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

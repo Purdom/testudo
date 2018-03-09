@@ -1,0 +1,25 @@
+{
+  "id": "BMGT467",
+  "title": "Strategic Innovation and Entrepreneurship",
+  "credits": "3",
+  "description": "Credit only granted for: BMGT467, ENES463 or HLMN472.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "BL01",
+      "instructor": "Clarence Wesley",
+      "seats": "60,",
+      "open-seats": "28,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TWS",
+      "room": "1100"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

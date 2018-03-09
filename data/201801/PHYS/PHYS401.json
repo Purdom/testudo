@@ -1,0 +1,27 @@
+{
+  "id": "PHYS401",
+  "title": "Quantum Physics I",
+  "credits": "4",
+  "description": "Prerequisite: PHYS371 and PHYS373.\nFormerly: PHYS421.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gregory Sullivan",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PHY",
+      "room": "1201"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

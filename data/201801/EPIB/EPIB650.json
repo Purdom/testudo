@@ -1,0 +1,38 @@
+{
+  "id": "EPIB650",
+  "title": "Biostatistics I",
+  "credits": "3",
+  "description": "Prerequisite: EPIB300; or equivalent undergraduate statistics or biostatistics course with a grade of C- or higher; or a score of 70% or higher on EPIB placement exam.\nCredit only granted for: EPIB650, HLTH651, or HLTH688B.\nFormerly: HLTH651 and HLTH688B.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Xin He",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "SPH",
+      "room": "0305"
+    },
+    {
+      "id": "PLH1",
+      "instructor": "Chengsheng Jiang",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Epidemiology and Biostatistics"
+}

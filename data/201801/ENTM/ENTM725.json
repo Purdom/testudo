@@ -1,0 +1,25 @@
+{
+  "id": "ENTM725",
+  "title": "IPM Practices",
+  "credits": "3",
+  "description": "Introduction to the techniques of integrated pest management for proper pest control management. Integrated Pest Management (IPM) has been the most successful management paradigm for agriculture, forestry, and urban pest management for more than five decades. Students will learn the fundamental elements of IPM programs including recognition and monitoring of key pests, formation of decision-making guidelines, intervention tactics, and fundamentals of assessment.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "PLE1",
+      "instructor": "Galen Dively",
+      "seats": "8,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Entomology"
+}

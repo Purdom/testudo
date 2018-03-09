@@ -1,0 +1,26 @@
+{
+  "id": "ECON698B",
+  "title": "Selected Topics in Economics; Decision Theory",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yusuf Masatlioglu",
+      "seats": "20,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TYD",
+      "room": "0111"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

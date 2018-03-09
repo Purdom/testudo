@@ -1,0 +1,26 @@
+{
+  "id": "BIOL709E",
+  "title": "Selected Advanced Topics in Biology; Developmental Genetics",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Eric Haag",
+      "seats": "10,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "BPS",
+      "room": "2249"
+    }
+  ],
+  "term": "201801",
+  "department": "Biology"
+}

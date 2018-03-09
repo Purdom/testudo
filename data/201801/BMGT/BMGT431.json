@@ -1,0 +1,25 @@
+{
+  "id": "BMGT431",
+  "title": "Data Analytics",
+  "credits": "3",
+  "description": "Prerequisite: BMGT430.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Radu Lazar",
+      "seats": "50,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1206"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

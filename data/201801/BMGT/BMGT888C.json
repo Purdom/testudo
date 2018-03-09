@@ -1,0 +1,25 @@
+{
+  "id": "BMGT888C",
+  "title": "Special Topics in Supply Chain Management; Inventory Research",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Philip Evers",
+      "seats": "12,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "12:45pm",
+      "end": "3:25pm",
+      "building": "VMH",
+      "room": "3330H"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

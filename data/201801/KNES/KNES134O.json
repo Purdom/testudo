@@ -1,0 +1,38 @@
+{
+  "id": "KNES134O",
+  "title": "Physical Education Activities: Coed; Bowling (Intermediate)",
+  "credits": "1",
+  "description": "For majors only. Attendance is required the first day of class. Students must pay a $40 instructional materials fee plus bowling shoes are required. Schedule adjustment is the first week of class only.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0001",
+      "instructor": "Timothy Henkel",
+      "seats": "40,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "10:00am",
+      "building": "SSU",
+      "room": "B0106C"
+    },
+    {
+      "id": "0002",
+      "instructor": "Timothy Henkel",
+      "seats": "40,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "10:00am",
+      "building": "SSU",
+      "room": "B0106C"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "HESP402",
+  "title": "Language and Phonological Disorders in Children",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in HESP400; or permission of BSOS-Hearing & Speech Sciences department.\nRestriction: Must be in Hearing and Speech Sciences program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nan Ratner",
+      "seats": "55,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "LEF",
+      "room": "2166"
+    }
+  ],
+  "term": "201801",
+  "department": "Hearing and Speech Sciences"
+}

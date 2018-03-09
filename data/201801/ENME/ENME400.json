@@ -1,0 +1,39 @@
+{
+  "id": "ENME400",
+  "title": "Machine Design",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in ENME361.\nRestriction: Permission of ENGR-Mechanical Engineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Chandrasekhar Thamire",
+      "seats": "75,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:20pm",
+      "building": "BPS",
+      "room": "1250"
+    },
+    {
+      "id": "0102",
+      "instructor": "Chandrasekhar Thamire",
+      "seats": "40,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:20pm",
+      "building": "BPS",
+      "room": "1250"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

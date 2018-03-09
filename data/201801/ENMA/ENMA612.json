@@ -1,0 +1,25 @@
+{
+  "id": "ENMA612",
+  "title": "Advanced Fundamentals of Photovoltaics",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ENGR-Materials Science & Engineering department. And ENMA300; or students who have taken courses with comparable content may contact the department.\nCredit only granted for: ENMA 412 or ENMA 612.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Marina Leite",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "AJC",
+      "room": "2121"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Materials"
+}

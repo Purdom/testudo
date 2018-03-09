@@ -1,0 +1,73 @@
+{
+  "id": "RDEV690",
+  "title": "Capstone Project: Real Property Feasibility Study",
+  "credits": "3",
+  "description": "Prerequisite: Completion of at least 7 RDEV courses.\nRestriction: Permission of ARCH-Real Estate Development.\nCredit only granted for: RDEV688I or RDEV690.\nFormerly: RDEV688I.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tanya Bansal",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0102",
+      "instructor": "Tanya Bansal",
+      "seats": "10,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0103",
+      "instructor": "Tanya Bansal",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "ARC",
+      "room": "1125"
+    },
+    {
+      "id": "0104",
+      "instructor": "Tanya Bansal",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "ARC",
+      "room": "1127"
+    },
+    {
+      "id": "0105",
+      "instructor": "Tanya Bansal",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Real Estate Development"
+}

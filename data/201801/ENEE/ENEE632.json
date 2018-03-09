@@ -1,0 +1,26 @@
+{
+  "id": "ENEE632",
+  "title": "Speech and Audio Processing",
+  "credits": "3",
+  "description": "Prerequisite: ENEE620 and ENEE630.\nCredit only granted for: ENEE739A or ENEE632.\nFormerly: ENEE739A.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shihab Shamma",
+      "seats": "30,",
+      "open-seats": "25,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "PLS",
+      "room": "1117"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

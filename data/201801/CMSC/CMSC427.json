@@ -1,0 +1,25 @@
+{
+  "id": "CMSC427",
+  "title": "Computer Graphics",
+  "credits": "3",
+  "description": "Prerequisite: MATH240; and minimum grade of C- in CMSC420; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Matthias Zwicker",
+      "seats": "50,",
+      "open-seats": "37,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CSI",
+      "room": "1122"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

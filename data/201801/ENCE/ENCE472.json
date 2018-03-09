@@ -1,0 +1,27 @@
+{
+  "id": "ENCE472",
+  "title": "Transportation Engineering",
+  "credits": "3",
+  "description": "Prerequisite: ENCE302 and ENCE370; and permission of ENGR-Civil & Environmental Engineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paul Schonfeld",
+      "seats": "35,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "AJC",
+      "room": "2121"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

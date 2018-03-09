@@ -1,0 +1,26 @@
+{
+  "id": "EDMS724",
+  "title": "Modern Measurement Theory",
+  "credits": "3",
+  "description": "Prerequisite: EDMS623 and EDMS651.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ji Seung Yang",
+      "seats": "20,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "ASY",
+      "room": "3207"
+    }
+  ],
+  "term": "201801",
+  "department": "Measurement, Statistics, and Evaluation"
+}

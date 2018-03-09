@@ -1,0 +1,26 @@
+{
+  "id": "COMM649F",
+  "title": "Translation for Specific Domains; French into English/English into French",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "XGE1",
+      "instructor": "Brigitte Andreassier",
+      "seats": "16,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:00pm",
+      "end": "4:50pm",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

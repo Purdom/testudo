@@ -1,0 +1,26 @@
+{
+  "id": "ENME808E",
+  "title": "Advanced Topics in Mechanical Engineering; Machine Learning: Theory and Applications",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nikhil Chopra",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "4:40pm",
+      "building": "ATL",
+      "room": "2352"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

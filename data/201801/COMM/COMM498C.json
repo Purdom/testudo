@@ -1,0 +1,27 @@
+{
+  "id": "COMM498C",
+  "title": "Seminar; Public Relations Management",
+  "credits": "3",
+  "description": "Restricted to COMM majors (1506A) only.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elizabeth Toth",
+      "seats": "35,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "SKN",
+      "room": "0104"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

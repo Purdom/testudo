@@ -1,0 +1,39 @@
+{
+  "id": "ENES489P",
+  "title": "Special Topics in Engineering; Hands-on Systems Engineering Projects",
+  "credits": "3",
+  "description": "This hands-on design projects course will expose senior-level undergraduates and graduate students from all areas of engineering to to exciting career opportunities in the systems engineering field. Students will be introduced to the technical aspects of systems engineering practice through team-based project development and a systematic step-by-step procedure for product development that includes defining operations concepts, requirements gathering and organization, synthesis of models of system behavior and system structure, functional allocationto create system design alternatives, formal assessment of design alternatives through tradeoff analysis, and established approaches to testing and validation/verification. The students will be introduced to modern methods in Model-Based Systems Engineering, and industrial strength tools and environments for complex systems synthesis. Team projects may address problems from a wide variety of disciplines or cross-disciplines.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John MacCarthy,",
+      "seats": "30,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CHM",
+      "room": "0115"
+    },
+    {
+      "id": "0201",
+      "instructor": "John MacCarthy,",
+      "seats": "30,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CHM",
+      "room": "0115"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

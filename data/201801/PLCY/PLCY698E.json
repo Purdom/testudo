@@ -1,0 +1,26 @@
+{
+  "id": "PLCY698E",
+  "title": "Selected Topics in Public Affairs; Proseminar in Normative Public Policy",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Crocker",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "9:15am",
+      "end": "11:45am",
+      "building": "VMH",
+      "room": "2101F"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

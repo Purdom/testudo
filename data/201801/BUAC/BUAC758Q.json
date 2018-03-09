@@ -1,0 +1,25 @@
+{
+  "id": "BUAC758Q",
+  "title": "Special Topics in Accounting and Information Assurance; Informtion Security, Audit and Control",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Leonard Block",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "VMH",
+      "room": "1330"
+    }
+  ],
+  "term": "201801",
+  "department": "Accounting and Information Assurance"
+}

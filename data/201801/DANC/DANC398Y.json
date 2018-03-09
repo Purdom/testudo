@@ -1,0 +1,27 @@
+{
+  "id": "DANC398Y",
+  "title": "Directed Studies in Dance; Yoga, Improvisation, and Embodied Metaphors: Investigating Philosophy through Movement",
+  "credits": "2",
+  "description": "This course will use yogic asana practices and modern dance improvisational structures to foster a body-mind centering environment where students will explore philosophical concepts and discover new methods of problem-solving. Students must pay a $25 lab fee.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5502",
+      "instructor": "Shawn Stone",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "PKT",
+      "room": "2102"
+    }
+  ],
+  "term": "201801",
+  "department": "Dance"
+}

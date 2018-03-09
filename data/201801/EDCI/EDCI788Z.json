@@ -1,0 +1,26 @@
+{
+  "id": "EDCI788Z",
+  "title": "Selected Topics in Teacher Education; Research Seminar in Technology, Learning and Leadership",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Weintrop",
+      "seats": "10,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "TWS",
+      "room": "1313"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

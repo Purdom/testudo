@@ -1,0 +1,26 @@
+{
+  "id": "ASTR622",
+  "title": "Cosmology",
+  "credits": "3",
+  "description": "Restriction: Permission of CMNS-Astronomy department.\nCredit only granted for: ASTR622 or ASTR688R.\nFormerly: ASTR688R.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Massimo Ricotti",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ATL",
+      "room": "0201"
+    }
+  ],
+  "term": "201801",
+  "department": "Astronomy"
+}

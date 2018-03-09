@@ -1,0 +1,27 @@
+{
+  "id": "ANTH266",
+  "title": "Changing Climate, Changing Cultures",
+  "credits": "3",
+  "description": "Explore past, present, and future interactions between humans and climate. Discussions, methods-oriented activities, and case study analyses provide students a foundation for appreciating the role of anthropology in understanding, responding to, and preparing for climate change.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "L Jen Shaffer",
+      "seats": "60,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "HJP",
+      "room": "2242"
+    }
+  ],
+  "term": "201801",
+  "department": "Anthropology"
+}

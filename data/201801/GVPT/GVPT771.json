@@ -1,0 +1,26 @@
+{
+  "id": "GVPT771",
+  "title": "Seminar in American Political Behavior",
+  "credits": "3",
+  "description": "This is the core seminar in American political behavior. The course wil deal with prominent theoretical and empirical issues in the areas of voting, public opinion, political participation and other aspects of political behavior in the American context.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lilliana Mason",
+      "seats": "12,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "TYD",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

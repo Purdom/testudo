@@ -1,0 +1,39 @@
+{
+  "id": "GEOG473",
+  "title": "Geographic Information Systems and Spatial Analysis",
+  "credits": "3",
+  "description": "Prerequisite: GEOG306 and GEOG373; or students who have taken courses with comparable content may contact the department.\nCredit only granted for: GEOG473 or GEOG482.\nFormerly: GEOG482.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Junchuan Fan",
+      "seats": "25,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "LEF",
+      "room": "2166"
+    },
+    {
+      "id": "0102",
+      "instructor": "Junchuan Fan",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "LEF",
+      "room": "2166"
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

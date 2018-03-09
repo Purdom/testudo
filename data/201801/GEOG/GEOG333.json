@@ -1,0 +1,27 @@
+{
+  "id": "GEOG333",
+  "title": "The Social Geography of Metropolitan Areas in Global Perspective",
+  "credits": "3",
+  "description": "Prerequisite: Permission of BSOS-Geography department; or (GEOG201 and GEOG202).\nCredit only granted for: GEOG456 or GEOG333.\nFormerly: GEOG456.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Laixiang Sun",
+      "seats": "100,",
+      "open-seats": "74,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ESJ",
+      "room": "1224"
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

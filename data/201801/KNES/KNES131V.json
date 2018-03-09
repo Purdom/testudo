@@ -1,0 +1,26 @@
+{
+  "id": "KNES131V",
+  "title": "Physical Education Activities: Coed; Jogging (Beginning)",
+  "credits": "2",
+  "description": "Attendance is required on the first day of class. Students must pay a $40 instructional materials fee.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0002",
+      "instructor": "Timothy Henkel",
+      "seats": "40,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "4:00pm",
+      "building": "ARM",
+      "room": "1122"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "AASP100",
+  "title": "Introduction to African American Studies",
+  "credits": "3",
+  "description": "Significant aspects of the history of African Americans with particular emphasis on the evolution and development of black communities from slavery to the present. Interdisciplinary introduction to social, political, legal and economic roots of contemporary problems faced by blacks in the United States with applications to the lives of other racial and ethnic minorities in the Americas and in other societies.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shane Walsh",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "LEF",
+      "room": "1220"
+    },
+    {
+      "id": "0102",
+      "instructor": "Shane Walsh",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "LEF",
+      "room": "1201"
+    },
+    {
+      "id": "0103",
+      "instructor": "Jonathan England",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TYD",
+      "room": "2108"
+    },
+    {
+      "id": "0104",
+      "instructor": "Jonathan England",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TYD",
+      "room": "2110"
+    },
+    {
+      "id": "0105",
+      "instructor": "Jason Nichols",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "LEF",
+      "room": "1220"
+    },
+    {
+      "id": "0106",
+      "instructor": "Jason Nichols",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PLS",
+      "room": "1113"
+    }
+  ],
+  "term": "201801",
+  "department": "African American Studies"
+}

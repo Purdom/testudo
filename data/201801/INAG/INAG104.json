@@ -1,0 +1,26 @@
+{
+  "id": "INAG104",
+  "title": "Agricultural Mathematics",
+  "credits": "3",
+  "description": "Restricted to students in the AGNR-Institute of Applied Agriculture department. Others by permission of the AGNR-Institute of Applied Agriculture department. The development of problem-solving skills often used in the everyday world of work. Problems involving soils, fertilizers, seeding rates, feed mixtures, and business finance. Development of mathematical skills in solving basic equations, the use of percent and ratios, and calculating various linear and cubic measurements.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Larisa Cioaca",
+      "seats": "20,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "JUL",
+      "room": "1123"
+    }
+  ],
+  "term": "201801",
+  "department": "Institute of Applied Agriculture"
+}

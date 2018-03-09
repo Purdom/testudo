@@ -1,0 +1,26 @@
+{
+  "id": "COMM619A",
+  "title": "Consecutive Interpretation; Methodology",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "XG01",
+      "instructor": "Esperanza Pombo Lopez-Barron",
+      "seats": "16,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "SKN",
+      "room": "3118"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

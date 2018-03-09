@@ -1,0 +1,49 @@
+{
+  "id": "MLAW150",
+  "title": "Law in a Just Society",
+  "credits": "3",
+  "description": "Restriction: Must be in the College Park Scholars - Justice and Legal Thought program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Brian Sarginger,",
+      "seats": "25,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CCC",
+      "room": "1100"
+    },
+    {
+      "id": "0102",
+      "instructor": "Brian Sarginger,",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CCC",
+      "room": "1100"
+    },
+    {
+      "id": "0103",
+      "instructor": "Brian Sarginger,",
+      "seats": "25,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CCC",
+      "room": "1100"
+    }
+  ],
+  "term": "201801",
+  "department": "MPower Undergraduate Law Programs"
+}

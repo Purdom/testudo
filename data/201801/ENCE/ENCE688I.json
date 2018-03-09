@@ -1,0 +1,26 @@
+{
+  "id": "ENCE688I",
+  "title": "Advanced Topics in Civil Engineering; Discrete Choice Analysis",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Cinzia Cirillo",
+      "seats": "20,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:45pm",
+      "end": "7:15pm",
+      "building": "EGR",
+      "room": "1110"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

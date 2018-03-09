@@ -1,0 +1,38 @@
+{
+  "id": "ECON878",
+  "title": "Workshop in Development, Labor and Public Economics",
+  "credits": "2",
+  "description": "ECON graduate students only.",
+  "grading-method": [
+    "S-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sergio Urzua",
+      "seats": "15,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TYD",
+      "room": "0101"
+    },
+    {
+      "id": "0201",
+      "instructor": "Katharine Abraham",
+      "seats": "15,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

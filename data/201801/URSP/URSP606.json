@@ -1,0 +1,25 @@
+{
+  "id": "URSP606",
+  "title": "Planning Economics",
+  "credits": "3",
+  "description": "Restriction: Must not have completed URSP630.\nCredit only granted for: URSP606, URBS606, or URBS630.\nFormerly: URBS606.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Chengri Ding",
+      "seats": "19,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "ARC",
+      "room": "1119"
+    }
+  ],
+  "term": "201801",
+  "department": "Urban Studies and Planning"
+}

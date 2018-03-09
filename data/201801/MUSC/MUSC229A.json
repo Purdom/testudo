@@ -1,0 +1,25 @@
+{
+  "id": "MUSC229A",
+  "title": "Ensemble; Symphony Orchestra",
+  "credits": "1",
+  "description": "Audition required before permission of department will be granted. Contact instructor to make arrangements.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jose-Luis Novo",
+      "seats": "70,",
+      "open-seats": "32,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "6:30pm",
+      "building": "PAC",
+      "room": "1230"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

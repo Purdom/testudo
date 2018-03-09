@@ -1,0 +1,26 @@
+{
+  "id": "ENGL668K",
+  "title": "Readings in Modern Literary Theory; Introduction to Digital Studies in the Arts and Humanitites",
+  "credits": "3 -",
+  "description": "Also offered as MITH610. Credit granted for MITH610 or ENGL668K. Meets in the MITH Conference Room - HBK0301.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Matthew Kirschenbaum",
+      "seats": "20,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "HBK",
+      "room": "0301"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

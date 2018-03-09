@@ -1,0 +1,49 @@
+{
+  "id": "BMGT477",
+  "title": "International Supply Chain Management",
+  "credits": "3",
+  "description": "The study of the importance of the supply chain management within a global context. Topics covered include: the structure, service, pricing and competitive relationships among international carriers and transport intermediaries as well as documentation, location decisions, international sourcing/distribution and management of inventory throughout the international supply chain.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Koki Nagata",
+      "seats": "45,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1335"
+    },
+    {
+      "id": "0201",
+      "instructor": "Koki Nagata",
+      "seats": "45,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1335"
+    },
+    {
+      "id": "SG91",
+      "instructor": "Koki Nagata",
+      "seats": "40,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "BLD2",
+      "room": "2052"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

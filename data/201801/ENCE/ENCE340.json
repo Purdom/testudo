@@ -1,0 +1,27 @@
+{
+  "id": "ENCE340",
+  "title": "Fundamentals of Geotechnical Engineering",
+  "credits": "3",
+  "description": "Prerequisite: ENES220; and permission of ENGR-Civil & Environmental Engineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ahmet Aydilek",
+      "seats": "55,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "EGR",
+      "room": "0108"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

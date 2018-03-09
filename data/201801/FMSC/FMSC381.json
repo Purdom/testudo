@@ -1,0 +1,38 @@
+{
+  "id": "FMSC381",
+  "title": "Poverty, Affluence, and Families",
+  "credits": "3",
+  "description": "Prerequisite: SOCY100 or SOCY105.\nRestriction: Must be in a major within SPHL-Family Science department.\nCredit only granted for: FMSC381 or FMST381.\nFormerly: FMST381.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Hart",
+      "seats": "60,",
+      "open-seats": "32,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "SPH",
+      "room": "1301"
+    },
+    {
+      "id": "0201",
+      "instructor": "Laura Golojuch",
+      "seats": "60,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "SPH",
+      "room": "1301"
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

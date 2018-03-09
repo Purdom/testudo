@@ -1,0 +1,27 @@
+{
+  "id": "RUSS398E",
+  "title": "Selected Topics in Russian Language and Literature; Russian Emigre Literature and Culture",
+  "credits": "3",
+  "description": "This course explores the cultural life of Russian emigre communities with a focus on literature and other art forms they produced in the twentieth century. Among the questions we will consider are the challenges of carrying on a meaningful Russian existence in exile, the problems of emigre and national identity, the diasporic relationships with domestic and Western cultures, internal immigration, and the consequences of homecoming. Taught in English.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Anastasiia Selemeneva",
+      "seats": "20,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "JMZ",
+      "room": "1226"
+    }
+  ],
+  "term": "201801",
+  "department": "Russian"
+}

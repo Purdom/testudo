@@ -1,0 +1,26 @@
+{
+  "id": "ENGL602",
+  "title": "Critical Theory and Literary Criticism",
+  "credits": "3",
+  "description": "An introduction to critical theory and literary criticism, with an overview of major movements (including formalism, structuralism and poststructuralism, Marxism, psychoanalysis, and feminism). Designed to help graduate students assess the various ways of approaching and writing about literature.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sangeeta Ray",
+      "seats": "14,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TWS",
+      "room": "3132"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

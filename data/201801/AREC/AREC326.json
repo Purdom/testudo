@@ -1,0 +1,25 @@
+{
+  "id": "AREC326",
+  "title": "Intermediate Applied Microeconomics",
+  "credits": "3",
+  "description": "Prerequisite: ECON200 or AREC250; and ECON201. And MATH120, MATH140, or MATH130; or must have completed MATH220.\nRestriction: Must be in one of the following programs (Agricultural and Resource Economics; Agricultural and Resource Economics: Agribusiness).\nCredit only granted for: ECON306, ECON326, AREC489M, or AREC326.\nFormerly: AREC489M.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Flavius Badau",
+      "seats": "45,",
+      "open-seats": "26,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "6:00pm",
+      "end": "7:15pm",
+      "building": "BPS",
+      "room": "0283"
+    }
+  ],
+  "term": "201801",
+  "department": "Agricultural and Resource Economics"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "BUSI611",
+  "title": "Managerial Accounting",
+  "credits": "2",
+  "description": "Prerequisite: BUSI610.\nRestriction: Must be in one of the following programs (Business and Management (Master's); Business and Management (Master's)).",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Eugene Cantor",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "6:00pm",
+      "end": "7:50pm",
+      "building": "VMH",
+      "room": "1520"
+    }
+  ],
+  "term": "201801",
+  "department": "Part-Time MBA Program"
+}

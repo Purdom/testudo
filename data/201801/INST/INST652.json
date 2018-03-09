@@ -1,0 +1,26 @@
+{
+  "id": "INST652",
+  "title": "Design Thinking and Youth",
+  "credits": "3",
+  "description": "Restriction: Permission of INFO-College of Information Studies.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "ML01",
+      "instructor": "Mega Subramaniam",
+      "seats": "25,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "BUMK758O",
+  "title": "Special Topics in Marketing; Digital Marketing",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "DC01",
+      "instructor": "Pallassana Kannan",
+      "seats": "50,",
+      "open-seats": "28,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:25pm",
+      "end": "10:00pm",
+      "building": "DC",
+      "room": "C2"
+    }
+  ],
+  "term": "201801",
+  "department": "Marketing"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ECON443",
+  "title": "International Trade and Trade Policy in the New Global Economy",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (ECON305, ECON325); and 1 course with a minimum grade of C- from (ECON306, ECON326); and 1 course with a minimum grade of C- from (ECON230, BMGT230, ECON321).\nRestriction: Must be in Economics Bachelor of Arts program; and must not have completed ECON441.\nCredit only granted for: ECON441 or ECON443.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stefania Scandizzo",
+      "seats": "40,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "TYD",
+      "room": "0101"
+    },
+    {
+      "id": "0201",
+      "instructor": "Stefania Scandizzo",
+      "seats": "40,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "TYD",
+      "room": "0101"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

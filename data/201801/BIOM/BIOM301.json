@@ -1,0 +1,99 @@
+{
+  "id": "BIOM301",
+  "title": "Introduction to Biometrics",
+  "credits": "3",
+  "description": "Prerequisite: MATH113 or MATH115.\nCredit only granted for: BIOM301, BMGT230, CCJS200, ECON321, EDMS451, GEOG306, GVPT422, PSYC200, or SOCY201.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christine Hakenkamp",
+      "seats": "28,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0102",
+      "instructor": "Christine Hakenkamp",
+      "seats": "28,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0103",
+      "instructor": "Christine Hakenkamp",
+      "seats": "28,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0104",
+      "instructor": "Christine Hakenkamp",
+      "seats": "28,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0105",
+      "instructor": "Christine Hakenkamp",
+      "seats": "28,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0106",
+      "instructor": "Christine Hakenkamp",
+      "seats": "28,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "SG91",
+      "instructor": "Christine Hakenkamp",
+      "seats": "40,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "BLD1",
+      "room": "203"
+    }
+  ],
+  "term": "201801",
+  "department": "Biometrics"
+}

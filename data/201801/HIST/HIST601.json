@@ -1,0 +1,26 @@
+{
+  "id": "HIST601",
+  "title": "History and Contemporary Theory",
+  "credits": "3",
+  "description": "An introduction to contemporary theories in philosophy, literary criticism, cultural studies, anthropology, and other fields; and analysis of their usefulness to historians.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Bernard Cooperman",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:00pm",
+      "end": "8:30pm",
+      "building": "TLF",
+      "room": "2108"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "BMGT372",
+  "title": "Introduction to Logistics and Supply Chain Management",
+  "credits": "3",
+  "description": "Supply chain management involves the coordination of suppliers, manufacturers, distributors, and retailers to ensure that products and services are available to the final consumer in a timely and cost-effective fashion. Logistics management is the subset of supply chain management dealing with the physical flows of product and includes such activities as transportation management, warehousing, materials handling, inventory management, and order fulfillment. Attention is paid to the logistics cost trade-offs within the firm and between members of the supply chain.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Niratcha Tungtisanont",
+      "seats": "40,",
+      "open-seats": "26,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "2505"
+    },
+    {
+      "id": "0201",
+      "instructor": "Niratcha Tungtisanont",
+      "seats": "40,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1303"
+    },
+    {
+      "id": "0301",
+      "instructor": "Humberto Coronado",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1202"
+    },
+    {
+      "id": "0401",
+      "instructor": "Leland Gardner",
+      "seats": "40,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1202"
+    },
+    {
+      "id": "SG91",
+      "instructor": "Richard Hutchins",
+      "seats": "50,",
+      "open-seats": "35,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "BLD3",
+      "room": "4202"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

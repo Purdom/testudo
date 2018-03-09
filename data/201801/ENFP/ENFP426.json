@@ -1,0 +1,27 @@
+{
+  "id": "ENFP426",
+  "title": "Computational Methods in Fire Protection",
+  "credits": "3",
+  "description": "Prerequisite: ENFP425.\nRestriction: Permission of ENGR-Fire Protection Engineering department.\nCredit only granted for: ENFP426 or ENFP416.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Arnaud Trouve",
+      "seats": "35,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "AJC",
+      "room": "2121"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Fire Protection"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ANTH665",
+  "title": "Method & Theory in Medical Anthropology and Global Health",
+  "credits": "3",
+  "description": "Credit only granted for: ANTH310, ANTH465 or ANTH665.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thurka Sangaramoorthy",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ESJ",
+      "room": "0215"
+    }
+  ],
+  "term": "201801",
+  "department": "Anthropology"
+}

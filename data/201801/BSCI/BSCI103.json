@@ -1,0 +1,97 @@
+{
+  "id": "BSCI103",
+  "title": "The World of Biology",
+  "credits": "4",
+  "description": "Additional information: Not acceptable for degree requirements in Biological Sciences, Chemistry, or Biochemistry.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "1100",
+      "instructor": "Michael Raupp,",
+      "seats": "23,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "LEF",
+      "room": "2205"
+    },
+    {
+      "id": "1101",
+      "instructor": "Michael Raupp,",
+      "seats": "23,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "LEF",
+      "room": "2205"
+    },
+    {
+      "id": "1103",
+      "instructor": "Michael Raupp,",
+      "seats": "23,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "LEF",
+      "room": "2205"
+    },
+    {
+      "id": "1105",
+      "instructor": "Michael Raupp,",
+      "seats": "23,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "LEF",
+      "room": "2205"
+    },
+    {
+      "id": "1107",
+      "instructor": "Michael Raupp,",
+      "seats": "23,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "LEF",
+      "room": "2205"
+    },
+    {
+      "id": "1108",
+      "instructor": "Michael Raupp,",
+      "seats": "23,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "LEF",
+      "room": "2205"
+    },
+    {
+      "id": "1109",
+      "instructor": "Michael Raupp,",
+      "seats": "23,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "LEF",
+      "room": "2205"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

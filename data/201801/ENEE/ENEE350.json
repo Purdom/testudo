@@ -1,0 +1,73 @@
+{
+  "id": "ENEE350",
+  "title": "Computer Organization",
+  "credits": "3",
+  "description": "Prerequisite: Must have earned a minimum grade of regular (letter) C- in all required 200-level ENEE courses; and permission of ENGR-Electrical & Computer Engineering department.\nRestriction: Must be in one of the following programs (Engineering: Computer; Engineering: Electrical).\nFormerly: ENEE250.\nAdditional information: Electrical Engineering and Computer Engineering majors may not substitute CMSC311 for ENEE350. Not open to students who have completed ENEE250.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Charles Silio",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "CHE",
+      "room": "2108"
+    },
+    {
+      "id": "0102",
+      "instructor": "Charles Silio",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "CHE",
+      "room": "2108"
+    },
+    {
+      "id": "0201",
+      "instructor": "Rajeev Barua",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "KEB",
+      "room": "1110"
+    },
+    {
+      "id": "0202",
+      "instructor": "Rajeev Barua",
+      "seats": "25,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "KEB",
+      "room": "1110"
+    },
+    {
+      "id": "0203",
+      "instructor": "Rajeev Barua",
+      "seats": "25,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "KEB",
+      "room": "1110"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

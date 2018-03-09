@@ -1,0 +1,26 @@
+{
+  "id": "EPIB611",
+  "title": "Intermediate Epidemiology",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of B- in EPIB610; or for students who officially waive EPIB610, a minimum score of 70% on the EPIB610 placement exam.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sung Sug Sarah Yoon",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "SPH",
+      "room": "0307"
+    }
+  ],
+  "term": "201801",
+  "department": "Epidemiology and Biostatistics"
+}

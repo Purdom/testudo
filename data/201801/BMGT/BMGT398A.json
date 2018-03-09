@@ -1,0 +1,38 @@
+{
+  "id": "BMGT398A",
+  "title": "Individual Study in Business and Management; Internship",
+  "credits": "1 -",
+  "description": "Restricted to Smith School of Business students. Interested students should contact Erin Fields Saddler (BMGT398A@rhsmith.umd.edu) for details and permission.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Erin Saddler",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "SG91",
+      "instructor": "Erin Saddler",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ENFP662",
+  "title": "Performance Based Design",
+  "credits": "3",
+  "description": "Credit only granted for: ENFP629E or ENFP662.\nFormerly: ENFP629E.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "EF01",
+      "instructor": "Eric Rosenbaum,",
+      "seats": "40,",
+      "open-seats": "24,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Fire Protection"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "CMSC424",
+  "title": "Database Design",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in CMSC351 and CMSC330; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Daniel Abadi",
+      "seats": "180,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ESJ",
+      "room": "0224"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

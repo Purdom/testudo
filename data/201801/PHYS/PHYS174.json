@@ -1,0 +1,51 @@
+{
+  "id": "PHYS174",
+  "title": "Physics Laboratory Introduction",
+  "credits": "1",
+  "description": "Corequisite: MATH140.\nRecommended: High school physics.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Arpita Upadhyaya",
+      "seats": "26,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "PHY",
+      "room": "3115"
+    },
+    {
+      "id": "0301",
+      "instructor": "Arpita Upadhyaya",
+      "seats": "26,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "2:50pm",
+      "building": "PHY",
+      "room": "3115"
+    },
+    {
+      "id": "0401",
+      "instructor": "Arpita Upadhyaya",
+      "seats": "26,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "11:00am",
+      "end": "12:50pm",
+      "building": "PHY",
+      "room": "3115"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "EDHD306",
+  "title": "Research Methods in Human Development",
+  "credits": "3",
+  "description": "Addresses the scientific concepts and principles central to the study of human behavior and development. Students will learn about basic research methods in studying human behavior in developmental context and will participate in experiential activities, such as conducting observations and collecting self-report data. Major themes: goals of developmental research, fundamental research designs, types of measurement, elements of good scientific writing, and ethical issues in the study of human development.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hongyang Zhao",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "EDU",
+      "room": "1121"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Human Development"
+}

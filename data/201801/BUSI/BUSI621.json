@@ -1,0 +1,61 @@
+{
+  "id": "BUSI621",
+  "title": "Strategic and Transformational IT",
+  "credits": "2",
+  "description": "Restriction: Must be in one of the following programs (Business and Management (Master's); Business and Management (Master's)) ; or permission of BMGT-Robert H. Smith School of Business.\nCredit only granted for: BUSI620 or BUSI621.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "BA01",
+      "instructor": "Anand Gopal",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:25pm",
+      "end": "10:00pm",
+      "building": "BA",
+      "room": "104"
+    },
+    {
+      "id": "DC01",
+      "instructor": "Anand Gopal",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "6:25pm",
+      "end": "10:00pm",
+      "building": "DC",
+      "room": "C3"
+    },
+    {
+      "id": "DC06",
+      "instructor": "Sunil Mithas",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Sa",
+      "start": "2:00pm",
+      "end": "6:30pm",
+      "building": "DC",
+      "room": "C3"
+    },
+    {
+      "id": "GS01",
+      "instructor": "Sunil Mithas",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:25pm",
+      "end": "10:00pm",
+      "building": "BLD2",
+      "room": "2032"
+    }
+  ],
+  "term": "201801",
+  "department": "Part-Time MBA Program"
+}

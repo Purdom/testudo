@@ -1,0 +1,51 @@
+{
+  "id": "ASTR230",
+  "title": "The Science and Fiction of Planetary Systems",
+  "credits": "3",
+  "description": "Prerequisite: Must have math eligibility of MATH115 or higher; or MATH113.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alan Peel",
+      "seats": "36,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0102",
+      "instructor": "Alan Peel",
+      "seats": "36,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0103",
+      "instructor": "Alan Peel",
+      "seats": "36,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "PHY",
+      "room": "1412"
+    }
+  ],
+  "term": "201801",
+  "department": "Astronomy"
+}

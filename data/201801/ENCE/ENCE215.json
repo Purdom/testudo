@@ -1,0 +1,39 @@
+{
+  "id": "ENCE215",
+  "title": "Engineering for Sustainability",
+  "credits": "3",
+  "description": "Prerequisite: CHEM135; and permission of ENGR-Civil & Environmental Engineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Natasha Andrade",
+      "seats": "35,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "EGR",
+      "room": "0135"
+    },
+    {
+      "id": "0201",
+      "instructor": "Natasha Andrade",
+      "seats": "35,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "EGR",
+      "room": "1104"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

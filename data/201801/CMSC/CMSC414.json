@@ -1,0 +1,37 @@
+{
+  "id": "CMSC414",
+  "title": "Computer and Network Security",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in CMSC330 and CMSC351; or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.\nRestriction: Permission of CMNS-Computer Science department.\nCredit only granted for: CMSC414, ENEE459C, or ENEE457.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Levin",
+      "seats": "156,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ESJ",
+      "room": "2204"
+    },
+    {
+      "id": "0201",
+      "instructor": "Michael Marsh",
+      "seats": "85,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "CSI",
+      "room": "2117"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

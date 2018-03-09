@@ -1,0 +1,26 @@
+{
+  "id": "AOSC658T",
+  "title": "Special Topics in Meteorology; Practical Introduction to High Performance Computing",
+  "credits": "1",
+  "description": "Recommended: Working knowledge of Linux shell scripts and either C/C++ or Fortran.\n\nFundamental concepts of high performance computing are explored through hands-on assignments on real HPC systems. Practical issues unique to parallel computing are covered including: computer architecture, distributed and shared memory parallelization, scalability, job performance metrics and optimization, and distributed file I/O.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Travis Sluka",
+      "seats": "26,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ATL",
+      "room": "3426"
+    }
+  ],
+  "term": "201801",
+  "department": "Atmospheric and Oceanic Science"
+}

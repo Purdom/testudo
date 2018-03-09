@@ -1,0 +1,26 @@
+{
+  "id": "ENCE645",
+  "title": "Geotechnics of Waste Disposal",
+  "credits": "3",
+  "description": "Credit only granted for: ENCE489X, ENCE645, or ENCE688X.\nFormerly: ENCE688X.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ahmet Aydilek",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "EGR",
+      "room": "3106"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

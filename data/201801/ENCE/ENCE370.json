@@ -1,0 +1,27 @@
+{
+  "id": "ENCE370",
+  "title": "Introduction to Transportation Engineering and Planning",
+  "credits": "3",
+  "description": "Prerequisite: ENCE201, PHYS260, and PHYS261; and permission of ENGR-Civil & Environmental Engineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Cinzia Cirillo",
+      "seats": "48,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ITV",
+      "room": "1100"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

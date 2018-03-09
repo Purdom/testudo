@@ -1,0 +1,27 @@
+{
+  "id": "GEOG301",
+  "title": "Advanced Geographical Environmental Systems",
+  "credits": "3",
+  "description": "Prerequisite: GEOG201 and GEOG211.\nCredit only granted for: GEOG398B or GEOG301.\nFormerly: GEOG398B.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ralph Dubayah",
+      "seats": "100,",
+      "open-seats": "42,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TWS",
+      "room": "0320"
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

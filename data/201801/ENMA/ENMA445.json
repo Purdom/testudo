@@ -1,0 +1,27 @@
+{
+  "id": "ENMA445",
+  "title": "Liquid Crystals and Structured Soft Materials",
+  "credits": "3",
+  "description": "Prerequisite: MATH246, PHYS270, and PHYS271.\nRestriction: Permission of ENGR-Materials Science & Engineering department.\nCredit only granted for: ENMA445 or ENMA489L.\nFormerly: ENMA489L.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Luz Martinez-Miranda",
+      "seats": "10,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "CHE",
+      "room": "2145"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Materials"
+}

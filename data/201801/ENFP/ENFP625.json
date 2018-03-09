@@ -1,0 +1,26 @@
+{
+  "id": "ENFP625",
+  "title": "Advanced Fire Modeling",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ENGR-Fire Protection Engineering department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "EF01",
+      "instructor": "Arnaud Trouve",
+      "seats": "40,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Fire Protection"
+}

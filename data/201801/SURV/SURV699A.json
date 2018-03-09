@@ -1,0 +1,38 @@
+{
+  "id": "SURV699A",
+  "title": "Special Topics in Survey Methodology; Usability Testing for Survey Research",
+  "credits": "1",
+  "description": "This course introduces the concepts of usability and usability testing and why they are needed for survey research. The course provides a theoretical model for understanding the respondent-survey interaction and then provides practical methods for incorporating iterative user-centered design and testing into the survey development process. Students should be familiar with questionnaire design.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SVW1",
+      "instructor": "Instructor: TBA",
+      "seats": "8,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "10:00am",
+      "end": "11:00am",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "SVW2",
+      "instructor": "Instructor: TBA",
+      "seats": "8,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "1:00pm",
+      "end": "2:00pm",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Survey Methodology"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ENCE688C",
+  "title": "Advanced Topics in Civil Engineering; Traffic Signal Control",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gang-Len Chang",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "EGR",
+      "room": "3111"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

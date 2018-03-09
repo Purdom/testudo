@@ -1,0 +1,135 @@
+{
+  "id": "BSCI440",
+  "title": "Mammalian Physiology",
+  "credits": "4",
+  "description": "Prerequisite: BSCI330; and (CHEM231 and CHEM232; or must have completed CHEM233). Or permission of CMNS-Biological Sciences UG Program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Justicia Opoku-Edusei",
+      "seats": "31,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ESJ",
+      "room": "1202"
+    },
+    {
+      "id": "0102",
+      "instructor": "Justicia Opoku-Edusei",
+      "seats": "31,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ESJ",
+      "room": "1202"
+    },
+    {
+      "id": "0103",
+      "instructor": "Justicia Opoku-Edusei",
+      "seats": "31,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ESJ",
+      "room": "1202"
+    },
+    {
+      "id": "0104",
+      "instructor": "Justicia Opoku-Edusei",
+      "seats": "31,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ESJ",
+      "room": "1202"
+    },
+    {
+      "id": "0201",
+      "instructor": "Scott Juntti",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ESJ",
+      "room": "1224"
+    },
+    {
+      "id": "0202",
+      "instructor": "Scott Juntti",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ESJ",
+      "room": "1224"
+    },
+    {
+      "id": "0203",
+      "instructor": "Scott Juntti",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ESJ",
+      "room": "1224"
+    },
+    {
+      "id": "0204",
+      "instructor": "Scott Juntti",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ESJ",
+      "room": "1224"
+    },
+    {
+      "id": "SES1",
+      "instructor": "William Higgins",
+      "seats": "30,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:00pm",
+      "end": "9:00pm",
+      "building": "PLS",
+      "room": "1140"
+    },
+    {
+      "id": "SG91",
+      "instructor": "David Sandstrom",
+      "seats": "40,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "BLD2",
+      "room": "3022"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

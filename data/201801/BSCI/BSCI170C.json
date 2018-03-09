@@ -1,0 +1,27 @@
+{
+  "id": "BSCI170C",
+  "title": "Principles of Molecular & Cellular Biology",
+  "credits": "3",
+  "description": "Prerequisite: Must have math eligibility of MATH120 or higher.\nRecommended: For Science majors.\nCredit only granted for: BSCI105 or BSCI170.\nFormerly: BSCI105.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Anne Simon",
+      "seats": "100,",
+      "open-seats": "40,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "BPS",
+      "room": "1243"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

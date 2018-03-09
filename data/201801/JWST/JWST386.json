@@ -1,0 +1,27 @@
+{
+  "id": "JWST386",
+  "title": "Experiential Learning in Jewish Studies",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ARHU-Meyerhoff Program & Center for Jewish Studies.\nRestriction: Junior standing or higher.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hayim Lapin",
+      "seats": "15,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Jewish Studies"
+}

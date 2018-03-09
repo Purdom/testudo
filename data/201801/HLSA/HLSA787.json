@@ -1,0 +1,26 @@
+{
+  "id": "HLSA787",
+  "title": "Minority Health and Health Equity",
+  "credits": "3",
+  "description": "Restriction: Must be in a major in SPHL-School of Public Health; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Susan Passmore,",
+      "seats": "20,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "ESJ",
+      "room": "B0320"
+    }
+  ],
+  "term": "201801",
+  "department": "Health Services Administration"
+}

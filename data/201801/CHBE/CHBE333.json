@@ -1,0 +1,63 @@
+{
+  "id": "CHBE333",
+  "title": "Chemical Engineering Seminar",
+  "credits": "1",
+  "description": "Restriction: Junior standing; and must be in a major within ENGR-Chemical & Biomolecular Engineering department; and permission of ENGR-Chemical & Biomolecular Engineering department.\nCredit only granted for: CHBE333 or ENCH333.\nFormerly: ENCH333.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nam Sun Wang",
+      "seats": "15,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "CHE",
+      "room": "2145"
+    },
+    {
+      "id": "0102",
+      "instructor": "Panagiotis Dimitrakopoulos",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CHE",
+      "room": "2145"
+    },
+    {
+      "id": "0104",
+      "instructor": "Panagiotis Dimitrakopoulos",
+      "seats": "15,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "CHE",
+      "room": "2145"
+    },
+    {
+      "id": "0106",
+      "instructor": "Nam Sun Wang",
+      "seats": "15,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CHE",
+      "room": "2140"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemical and Biomolecular Engineering"
+}

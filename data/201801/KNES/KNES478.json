@@ -1,0 +1,25 @@
+{
+  "id": "KNES478",
+  "title": "Honors Seminar; Honors Seminar",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "J Carson Smith",
+      "seats": "20,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SPH",
+      "room": "0301"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

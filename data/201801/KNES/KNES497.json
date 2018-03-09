@@ -1,0 +1,133 @@
+{
+  "id": "KNES497",
+  "title": "Kinesiology Senior Seminar",
+  "credits": "3",
+  "description": "Prerequisite: A professional writing course with a minimum grade of C-; and all 7 KNES core courses and 2 KNES option courses. And STAT100; or students who have taken courses with comparable content may contact the department. And minimum grade of C- in KNES400; or must be concurrently enrolled in KNES400.\nRestriction: Senior standing or higher; and must be in Kinesiology program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0102",
+      "instructor": "Samuel Clevenger",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "SPH",
+      "room": "0223"
+    },
+    {
+      "id": "0103",
+      "instructor": "James Hagberg",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "8:00am",
+      "end": "10:30am",
+      "building": "SPH",
+      "room": "0305"
+    },
+    {
+      "id": "0104",
+      "instructor": "Shaun Edmonds",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "SPH",
+      "room": "0223"
+    },
+    {
+      "id": "0106",
+      "instructor": "Joanne Klossner",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ATL",
+      "room": "1114"
+    },
+    {
+      "id": "0109",
+      "instructor": "Jo Zimmerman",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "8:00am",
+      "end": "10:30am",
+      "building": "JMP",
+      "room": "1109"
+    },
+    {
+      "id": "0110",
+      "instructor": "Evan Brody",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "SPH",
+      "room": "0225"
+    },
+    {
+      "id": "0111",
+      "instructor": "Tim Kiemel",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "SPH",
+      "room": "0305"
+    },
+    {
+      "id": "0112",
+      "instructor": "Jennifer Roberts",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "SPH",
+      "room": "0225"
+    },
+    {
+      "id": "0113",
+      "instructor": "Rodolphe Gentili",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "8:00am",
+      "end": "10:30am",
+      "building": "JMP",
+      "room": "1109"
+    },
+    {
+      "id": "0114",
+      "instructor": "Yue Du",
+      "seats": "20,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "11:00am",
+      "end": "1:30pm",
+      "building": "SPH",
+      "room": "0308"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ENGL478N",
+  "title": "Selected Topics in English and American Literature before 1800; Little Commonwealth: Domesticity and Dissent in Early Modern England",
+  "credits": "3",
+  "description": "Prerequisite: Two English courses in literature; or permission of ARHU-English department. Repeatable to 9 credits if content differs.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kim Coles",
+      "seats": "20,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "TWS",
+      "room": "1106"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

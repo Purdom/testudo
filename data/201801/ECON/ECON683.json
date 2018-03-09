@@ -1,0 +1,27 @@
+{
+  "id": "ECON683",
+  "title": "International Macroeconomics and Finance",
+  "credits": "3",
+  "description": "Prerequisite: ECON641 and ECON642; and must have completed or be concurrently enrolled in ECON644.\nRestriction: Must be in M.Prof.Studies: Applied Economics program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PR01",
+      "instructor": "Mahsa Agha Gholizadeh",
+      "seats": "23,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "6:45pm",
+      "end": "9:30pm",
+      "building": "TBA",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "FMSC760",
+  "title": "Legal Issues & Families",
+  "credits": "3",
+  "description": "Credit only granted for: FMSC760 or FMST760.\nFormerly: FMST760.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kerry Tripp",
+      "seats": "15,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "9:00am",
+      "end": "11:45am",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

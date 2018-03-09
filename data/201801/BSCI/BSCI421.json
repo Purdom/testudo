@@ -1,0 +1,27 @@
+{
+  "id": "BSCI421",
+  "title": "Cell Biology",
+  "credits": "4",
+  "description": "Prerequisite: BSCI330, BSCI222, CHEM231, and CHEM232.\nCredit only granted for: BSCI420 or BSCI421.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0102",
+      "instructor": "Hadiya Woodham,",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "MCB",
+      "room": "1207"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

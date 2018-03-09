@@ -1,0 +1,26 @@
+{
+  "id": "KNES132N",
+  "title": "Physical Education Activities: Coed; Badminton (Beginning)",
+  "credits": "1",
+  "description": "Attendance is required on the first day of class. Schedule adjustment is the first week of class only. Students must pay a $40 instructional materials fee.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0001",
+      "instructor": "Alexander Chyu",
+      "seats": "24,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "2:00pm",
+      "building": "SPH",
+      "room": "2101"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

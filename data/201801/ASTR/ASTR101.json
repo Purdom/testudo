@@ -1,0 +1,135 @@
+{
+  "id": "ASTR101",
+  "title": "General Astronomy",
+  "credits": "4",
+  "description": "Credit only granted for: ASTR100, ASTR101, or ASTR120.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stuart Vogel",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0102",
+      "instructor": "Stuart Vogel",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0103",
+      "instructor": "Stuart Vogel",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0104",
+      "instructor": "Stuart Vogel",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0105",
+      "instructor": "Stuart Vogel",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0106",
+      "instructor": "Stuart Vogel",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0107",
+      "instructor": "Stuart Vogel",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0108",
+      "instructor": "Stuart Vogel",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0109",
+      "instructor": "Stuart Vogel",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PHY",
+      "room": "1412"
+    },
+    {
+      "id": "0110",
+      "instructor": "Stuart Vogel",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PHY",
+      "room": "1412"
+    }
+  ],
+  "term": "201801",
+  "department": "Astronomy"
+}

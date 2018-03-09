@@ -1,0 +1,27 @@
+{
+  "id": "ENST453",
+  "title": "Watershed Science: Water Balance, Open Channel Flow, and Near Surface Hydrology",
+  "credits": "3",
+  "description": "Credit only granted for: ENST453 or ENST653.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Kearney",
+      "seats": "40,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ANS",
+      "room": "0422"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

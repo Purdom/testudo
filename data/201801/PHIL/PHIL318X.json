@@ -1,0 +1,27 @@
+{
+  "id": "PHIL318X",
+  "title": "Studies in Epistemology/Metaphysics; Critical Thinking And Diversity",
+  "credits": "3",
+  "description": "A critical examination of the claim that there are fundamental differences between \"eastern\" (Asian) and \"western\" approaches to logic and critical thinking, metaphysics, and virtue and justice. Readings will be drawn from philosophy and from recent psychological investigations of this question.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sungwon Woo",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "BPS",
+      "room": "0283"
+    }
+  ],
+  "term": "201801",
+  "department": "Philosophy"
+}

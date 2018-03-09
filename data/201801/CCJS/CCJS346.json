@@ -1,0 +1,27 @@
+{
+  "id": "CCJS346",
+  "title": "Domestic Violence",
+  "credits": "3",
+  "description": "Prerequisite: CCJS100.\nCredit only granted for: CCJS346 or CCJS498Y.\nFormerly: CCJS498Y.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "Nicole Romeiser",
+      "seats": "40,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "11:00am",
+      "end": "1:30pm",
+      "building": "BLD3",
+      "room": "2226"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

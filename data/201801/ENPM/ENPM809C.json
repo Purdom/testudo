@@ -1,0 +1,62 @@
+{
+  "id": "ENPM809C",
+  "title": "Special Topics in Engineering; Applied Statistics",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Susan Mazzullo",
+      "seats": "17,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "JMP",
+      "room": "2120"
+    },
+    {
+      "id": "HT01",
+      "instructor": "Susan Mazzullo",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SG01",
+      "instructor": "Susan Mazzullo",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "Susan Mazzullo",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Professional Masters"
+}

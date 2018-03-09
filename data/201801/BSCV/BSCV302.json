@@ -1,0 +1,39 @@
+{
+  "id": "BSCV302",
+  "title": "Civicus Capstone",
+  "credits": "3",
+  "description": "Prerequisite: BSCV301.\nRestriction: Sophomore standing or higher.\nCredit only granted for: BSOS302 or BSCV302.\nFormerly: BSOS302.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Korey Rothman",
+      "seats": "25,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:00pm",
+      "end": "6:50pm",
+      "building": "HJP",
+      "room": "0226"
+    },
+    {
+      "id": "0201",
+      "instructor": "Korey Rothman",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:00pm",
+      "end": "6:50pm",
+      "building": "SKN",
+      "room": "0200"
+    }
+  ],
+  "term": "201801",
+  "department": "CIVICUS"
+}

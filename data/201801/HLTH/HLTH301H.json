@@ -1,0 +1,27 @@
+{
+  "id": "HLTH301H",
+  "title": "Epidemiology for Public Health Practice",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in HLTH300.\nRestriction: Must be in Community Health program.\nAlso offered as: EPIB301.\nCredit only granted for: EPIB301 or HLTH301.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Typhanye Dyer",
+      "seats": "75,",
+      "open-seats": "33,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TYD",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Health"
+}

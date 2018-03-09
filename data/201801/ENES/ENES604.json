@@ -1,0 +1,26 @@
+{
+  "id": "ENES604",
+  "title": "Future Faculty Program Teaching Practicum",
+  "credits": "1",
+  "description": "Prerequisite: ENES602.\nRestriction: Must be a graduate student in the Clark School Future Faculty Program; and students for whom English is not the native language must pass the Maryland English Institute ITA Evaluation prior to enrolling in this course.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ankur Srivastava",
+      "seats": "25,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

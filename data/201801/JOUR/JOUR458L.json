@@ -1,0 +1,27 @@
+{
+  "id": "JOUR458L",
+  "title": "Special Topics in Journalism; Leadership: Making a Difference",
+  "credits": "3",
+  "description": "This course introduces and analyzes the careers of leaders whose lives, words, and deeds have shaped today's world. Participants will engage in explorations of the challenges, values, and actions of individual leaders whose efforts have strengthened civil society and spirit in these times.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kevin Klose",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "KNI",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

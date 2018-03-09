@@ -1,0 +1,25 @@
+{
+  "id": "BMGT410",
+  "title": "Government Accounting",
+  "credits": "3",
+  "description": "Prerequisite: BMGT221.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gary Bulmash",
+      "seats": "40,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1418"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

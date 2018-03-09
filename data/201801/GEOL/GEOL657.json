@@ -1,0 +1,26 @@
+{
+  "id": "GEOL657",
+  "title": "Seismic Wave Propagation",
+  "credits": "3",
+  "description": "Prerequisite: MATH140 and MATH141; and (PHYS141, PHYS161, or PHYS171); and permission of CMNS-Geology department.\nRecommended: GEOL100 or GEOL120; and (MATH241 and MATH246); and (PHYS260 or PHYS273).\nRestriction: Non-degree-seeking students require the permission of the instructor.\nCredit only granted for: GEOL657 or GEOL789A.\nFormerly: GEOL789A.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Vedran Lekic",
+      "seats": "10,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PLS",
+      "room": "1172"
+    }
+  ],
+  "term": "201801",
+  "department": "Geology"
+}

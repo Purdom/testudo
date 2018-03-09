@@ -1,0 +1,25 @@
+{
+  "id": "BUSI758O",
+  "title": "Special Topics in Business; Business Law II",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "William McClenahan",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "VMH",
+      "room": "1528"
+    }
+  ],
+  "term": "201801",
+  "department": "Part-Time MBA Program"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "BMGT230B",
+  "title": "Business Statistics",
+  "credits": "3",
+  "description": "Prerequisite: MATH113 or MATH115; or must have math eligibility of MATH120 or higher.\nRestriction: Must not have completed ENCE302, ENME392, STAT400, BMGT231, or ENEE324.\nCredit only granted for: BIOM301, BMGT230, CCJS200, ECON230, ECON321, EDMS451, GEOG306, GEOL351, GVPT422, INST314, JOUR405, PSYC200 or SOCY201. (These courses do not necessarily meet the same major requirements-check with your advisor to see which of these courses will count for your major).",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0103",
+      "instructor": "Erich Studer-Ellis",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0105",
+      "instructor": "Erich Studer-Ellis",
+      "seats": "12,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0202",
+      "instructor": "Erich Studer-Ellis",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0204",
+      "instructor": "Erich Studer-Ellis",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0206",
+      "instructor": "Erich Studer-Ellis",
+      "seats": "12,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0303",
+      "instructor": "Erich Studer-Ellis",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0304",
+      "instructor": "Erich Studer-Ellis",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1524"
+    },
+    {
+      "id": "0305",
+      "instructor": "Erich Studer-Ellis",
+      "seats": "11,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1524"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

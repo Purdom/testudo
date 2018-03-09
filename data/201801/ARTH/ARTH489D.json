@@ -1,0 +1,27 @@
+{
+  "id": "ARTH489D",
+  "title": "Special Topics in Art History; African Modernisms",
+  "credits": "3",
+  "description": "Class meets at the Phillips Collection, University of Maryland Center for Art and Knowledge, Center Studio 1600 21st Street, NW. Washington, DC 20009.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kate Cowcher",
+      "seats": "10,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "1:00pm",
+      "end": "3:30pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Art History & Archaeology"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GERM103",
+  "title": "Intensive Elementary German",
+  "credits": "4",
+  "description": "Prerequisite: Must have appropriate Foreign Language Placement Test (FLPT) score.\nRestriction: Must not have completed GERM102; and must not be a fluent/native speaker of German.\nCredit only granted for: GERM102 or GERM103.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Matthew Kelly",
+      "seats": "25,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "JMZ",
+      "room": "1120"
+    },
+    {
+      "id": "0201",
+      "instructor": "James Porter",
+      "seats": "25,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "JMZ",
+      "room": "1124"
+    }
+  ],
+  "term": "201801",
+  "department": "Germanic Studies"
+}

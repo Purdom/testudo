@@ -1,0 +1,38 @@
+{
+  "id": "EDCI689",
+  "title": "Teaching Internship",
+  "credits": "1 -",
+  "description": "Student lab fee may apply. Contact program for details.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Perla Blejer",
+      "seats": "5,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0201",
+      "instructor": "Jennifer Himmel",
+      "seats": "10,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

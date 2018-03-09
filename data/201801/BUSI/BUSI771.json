@@ -1,0 +1,25 @@
+{
+  "id": "BUSI771",
+  "title": "New Venture Financing",
+  "credits": "2",
+  "description": "Prerequisite: BUSI640; or permission of BMGT-Robert H. Smith School of Business.\nCredit only granted for: BMGT740 or BUSI771.\nFormerly: BMGT740.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "DC01",
+      "instructor": "Jonathan Aberman",
+      "seats": "50,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:25pm",
+      "end": "10:00pm",
+      "building": "DC",
+      "room": "C2"
+    }
+  ],
+  "term": "201801",
+  "department": "Part-Time MBA Program"
+}

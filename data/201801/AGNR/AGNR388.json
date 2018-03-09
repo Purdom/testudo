@@ -1,0 +1,25 @@
+{
+  "id": "AGNR388",
+  "title": "Honors Thesis Research",
+  "credits": "3 -",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Evelyn Cooper",
+      "seats": "20,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Agriculture and Natural Resources"
+}

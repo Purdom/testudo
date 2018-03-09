@@ -1,0 +1,27 @@
+{
+  "id": "BIOE489F",
+  "title": "Special Topics in Bioengineering; CFD/FEA Applications in Bioengineering",
+  "credits": "3",
+  "description": "Covers Computational Fluid Dynamics (CFD) and Finite Element Analysis (FEA) as applicable to Bioengineering. Students are recommended to have taken BIOE437 and/or BIOE489C.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Frank Modica",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:00pm",
+      "end": "9:00pm",
+      "building": "KEB",
+      "room": "2107"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

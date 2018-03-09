@@ -1,0 +1,27 @@
+{
+  "id": "FILM359E",
+  "title": "Special Topics in Genres/Auteurs/Cinema Movements; Hollywood in the Golden Age, 1930-1950",
+  "credits": "3",
+  "description": "Prerequisite: ENGL245, FILM245, SLLC283, or FILM283; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Marianne Conroy",
+      "seats": "30,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TWS",
+      "room": "0205"
+    }
+  ],
+  "term": "201801",
+  "department": "Film Studies"
+}

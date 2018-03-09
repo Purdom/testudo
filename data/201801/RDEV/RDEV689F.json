@@ -1,0 +1,26 @@
+{
+  "id": "RDEV689F",
+  "title": "Current Topics in Real Estate Development; Advanced Real Estate Finance",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kayrine Brown,",
+      "seats": "15,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "ARC",
+      "room": "1119"
+    }
+  ],
+  "term": "201801",
+  "department": "Real Estate Development"
+}

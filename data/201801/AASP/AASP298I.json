@@ -1,0 +1,27 @@
+{
+  "id": "AASP298I",
+  "title": "Special Topics in African American Studies",
+  "credits": "3",
+  "description": "Also offered as WMST263. Credit only granted for AASP298I or WMST263.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Donnesha Blake",
+      "seats": "35,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "KEY",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "African American Studies"
+}

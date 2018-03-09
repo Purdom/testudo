@@ -1,0 +1,26 @@
+{
+  "id": "ENFP630",
+  "title": "Diffusion Flames and Burning Rate Theory",
+  "credits": "3",
+  "description": "Prerequisite: ENFP312.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Gollner",
+      "seats": "20,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "CHE",
+      "room": "2116"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Fire Protection"
+}

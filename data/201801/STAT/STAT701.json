@@ -1,0 +1,26 @@
+{
+  "id": "STAT701",
+  "title": "Mathematical Statistics II",
+  "credits": "3",
+  "description": "Prerequisite: STAT700; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Benjamin Kedem",
+      "seats": "25,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "MTH",
+      "room": "1311"
+    }
+  ],
+  "term": "201801",
+  "department": "Statistics and Probability"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "EDCI480",
+  "title": "Practices in Secondary School Science Teaching",
+  "credits": "2",
+  "description": "Prerequisite: EDCI470.\nCorequisite: EDCI471 and EDCI474.\nRestriction: Permission of EDUC-Teaching and Learning, Policy and Leadership department; and must be in Secondary Educ: Science program. Or minimum cumulative GPA of 2.75.\nCredit only granted for: EDCI480 or EDCI488J.\nFormerly: EDCI488J.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tranae Johnson",
+      "seats": "10,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:15pm",
+      "end": "7:15pm",
+      "building": "EDU",
+      "room": "2121"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

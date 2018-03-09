@@ -1,0 +1,38 @@
+{
+  "id": "STAT386",
+  "title": "Experiential Learning",
+  "credits": "3 -",
+  "description": "Prerequisite: Must have learning proposal approved by the CMNS-Mathematics Department.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "2801",
+      "instructor": "Abram Kagan",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "5001",
+      "instructor": "Paul Smith",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Statistics and Probability"
+}

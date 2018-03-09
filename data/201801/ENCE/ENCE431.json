@@ -1,0 +1,27 @@
+{
+  "id": "ENCE431",
+  "title": "Hydrologic Engineering",
+  "credits": "3",
+  "description": "Prerequisite: ENCE305; and permission of ENGR-Civil & Environmental Engineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Richard McCuen",
+      "seats": "44,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "EGR",
+      "room": "1104"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

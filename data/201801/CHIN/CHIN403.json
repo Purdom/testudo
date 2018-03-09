@@ -1,0 +1,27 @@
+{
+  "id": "CHIN403",
+  "title": "Classical Chinese I",
+  "credits": "3",
+  "description": "Introductory classical Chinese using literary and historical sources in the original language.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mei Kong",
+      "seats": "15,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "JMZ",
+      "room": "1120"
+    }
+  ],
+  "term": "201801",
+  "department": "Chinese"
+}

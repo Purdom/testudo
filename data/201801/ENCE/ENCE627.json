@@ -1,0 +1,25 @@
+{
+  "id": "ENCE627",
+  "title": "Project Risk Management",
+  "credits": "3",
+  "description": "Restriction: Must not have completed ENCE627.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "PM01",
+      "instructor": "Gregory Baecher",
+      "seats": "30,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

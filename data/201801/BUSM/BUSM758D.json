@@ -1,0 +1,25 @@
+{
+  "id": "BUSM758D",
+  "title": "Special Topics in Business; Managing Supply Chains: Models and Analysis",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Zhi-Long Chen",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "VMH",
+      "room": "1505"
+    }
+  ],
+  "term": "201801",
+  "department": "Full-Time MBA Program"
+}

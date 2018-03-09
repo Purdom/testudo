@@ -1,0 +1,27 @@
+{
+  "id": "ARTT479D",
+  "title": "Advanced Digital Media Studio; Immersive and Virtual Environments",
+  "credits": "3",
+  "description": "Prerequisite: ARTT370 or permission of Department. Introduction to the uses of game development software in an artistic context. Practical examination of interactive, immersive and installation art as mediated through the context of real-time computer generated imagery and game engine methodologies. Students must pay a $40.00 studio lab fee.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Brandon Morse",
+      "seats": "14,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:00pm",
+      "end": "5:30pm",
+      "building": "ASY",
+      "room": "3304"
+    }
+  ],
+  "term": "201801",
+  "department": "Art Studio"
+}

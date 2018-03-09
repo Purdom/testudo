@@ -1,0 +1,27 @@
+{
+  "id": "FMSC460",
+  "title": "Violence in Families",
+  "credits": "3",
+  "description": "Prerequisite: SOCY100, SOCY105, or PSYC100.\nCredit only granted for: FMSC460 or FMST460.\nFormerly: FMST460.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elise Resnick",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "SPH",
+      "room": "1302"
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

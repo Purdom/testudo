@@ -1,0 +1,27 @@
+{
+  "id": "ECON406",
+  "title": "Advanced Microeconomics",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in ECON326; and 1 course with a minimum grade of C- from (ECON321, STAT400).\nRestriction: Must be in Economics Bachelor of Science program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yusuf Masatlioglu",
+      "seats": "75,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TYD",
+      "room": "1102"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

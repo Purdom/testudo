@@ -1,0 +1,27 @@
+{
+  "id": "PHYS373",
+  "title": "Mathematical Methods for Physics II",
+  "credits": "3",
+  "description": "Prerequisite: PHYS273 and PHYS274.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Adil Hassam",
+      "seats": "50,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PHY",
+      "room": "1204"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

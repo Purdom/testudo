@@ -1,0 +1,25 @@
+{
+  "id": "ECON488K",
+  "title": "Applied Market Research Practicum; Kaulkin Ginsberg Research Fellow",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Cindy Clement,",
+      "seats": "16,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:30pm",
+      "end": "7:30pm",
+      "building": "TYD",
+      "room": "2111"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

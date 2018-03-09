@@ -1,0 +1,157 @@
+{
+  "id": "MUSC210",
+  "title": "The Impact of Music on Life",
+  "credits": "3",
+  "description": "Credit only granted for: MUET210 or MUSC210.\nFormerly: MUET210.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Fernando Rios",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ARC",
+      "room": "0204"
+    },
+    {
+      "id": "0102",
+      "instructor": "Fernando Rios",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ARC",
+      "room": "0204"
+    },
+    {
+      "id": "0103",
+      "instructor": "Fernando Rios",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ARC",
+      "room": "0204"
+    },
+    {
+      "id": "0104",
+      "instructor": "Fernando Rios",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ARC",
+      "room": "0204"
+    },
+    {
+      "id": "0105",
+      "instructor": "Fernando Rios",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ARC",
+      "room": "0204"
+    },
+    {
+      "id": "0106",
+      "instructor": "Fernando Rios",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ARC",
+      "room": "0204"
+    },
+    {
+      "id": "0107",
+      "instructor": "Fernando Rios",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ARC",
+      "room": "0204"
+    },
+    {
+      "id": "0108",
+      "instructor": "Fernando Rios",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ARC",
+      "room": "0204"
+    },
+    {
+      "id": "0109",
+      "instructor": "Fernando Rios",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ARC",
+      "room": "0204"
+    },
+    {
+      "id": "0110",
+      "instructor": "Fernando Rios",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ARC",
+      "room": "0204"
+    },
+    {
+      "id": "0111",
+      "instructor": "Fernando Rios",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ARC",
+      "room": "0204"
+    },
+    {
+      "id": "0112",
+      "instructor": "Fernando Rios",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ARC",
+      "room": "0204"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GEOG331",
+  "title": "Introduction to Human Dimensions of Global Change",
+  "credits": "3",
+  "description": "Prerequisite: ANTH220, ANTH260, GEOG202, or GEOG201; or permission of BSOS-Geography department.\nCredit only granted for: GEOG331 or GEOG361.\nFormerly: GEOG361.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christina Prell",
+      "seats": "100,",
+      "open-seats": "50,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "TWS",
+      "room": "0320"
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

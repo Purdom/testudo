@@ -1,0 +1,26 @@
+{
+  "id": "EDCI425",
+  "title": "Equity and Pedagogy",
+  "credits": "2",
+  "description": "Prerequisite: TLPL475.\nCorequisite: TLPL424 and EDCI460.\nRestriction: Minimum cumulative GPA of 2.75; and must be in one of the following programs (Middle School Education; Early Childhood Education; Elementary Education; Secondary Educ: Science; Secondary Educ: English Language Arts; Secondary Educ: Mathematics; Secondary Educ: Foreign Languages; Secondary Educ: Social Studies; Physical Education; Music Education; Secondary Educ: Art; Special Education).",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kristin Sinclair",
+      "seats": "20,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "7:00pm",
+      "building": "JMZ",
+      "room": "1226"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

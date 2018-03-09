@@ -1,0 +1,26 @@
+{
+  "id": "MATH858L",
+  "title": "Selected Topics in Analysis; Mathematical Methods in Machine Learning",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Wojciech Czaja",
+      "seats": "35,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

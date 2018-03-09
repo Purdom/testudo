@@ -1,0 +1,27 @@
+{
+  "id": "ENME489L",
+  "title": "Special Topics in Mechanical Engineering; Bio-Inspired Robotics",
+  "credits": "3",
+  "description": "Pre- or corequisite: ENME351 and permission of department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Axel Krieger",
+      "seats": "34,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EGR",
+      "room": "2154"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

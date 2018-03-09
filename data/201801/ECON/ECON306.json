@@ -1,0 +1,50 @@
+{
+  "id": "ECON306",
+  "title": "Intermediate Microeconomic Theory & Policy",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (ECON200, AREC250); and minimum grade of C- in ECON201. And 1 course with a minimum grade of C- from (MATH120, MATH140, MATH130); or must have completed MATH220 with a minimum grade of C-.\nCredit only granted for: ECON306, ECON326, AREC489M, or AREC326.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Aaron Finkle",
+      "seats": "155,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0201",
+      "instructor": "Aaron Finkle",
+      "seats": "155,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ESJ",
+      "room": "2208"
+    },
+    {
+      "id": "0301",
+      "instructor": "Satyendra Verma",
+      "seats": "165,",
+      "open-seats": "45,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "ESJ",
+      "room": "0224"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

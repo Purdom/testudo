@@ -1,0 +1,26 @@
+{
+  "id": "EDCP788",
+  "title": "Advanced Practicum",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5001",
+      "instructor": "John Zacker",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

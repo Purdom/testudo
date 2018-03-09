@@ -1,0 +1,74 @@
+{
+  "id": "PLCY688T",
+  "title": "Topics in Public Policy; Team-Based Policy Lab",
+  "credits": "3",
+  "description": "Restricted to PLCY majors or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Robert Nelson",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "9:15am",
+      "end": "11:45am",
+      "building": "VMH",
+      "room": "1107"
+    },
+    {
+      "id": "0301",
+      "instructor": "Rosina Bierbaum",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "9:15am",
+      "end": "11:45am",
+      "building": "VMH",
+      "room": "1207"
+    },
+    {
+      "id": "0401",
+      "instructor": "Christopher Foreman",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:15pm",
+      "end": "6:45pm",
+      "building": "VMH",
+      "room": "1207"
+    },
+    {
+      "id": "0501",
+      "instructor": "Robert Nelson",
+      "seats": "15,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:15pm",
+      "end": "6:45pm",
+      "building": "VMH",
+      "room": "1107"
+    },
+    {
+      "id": "0601",
+      "instructor": "Brian David Mussington",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "9:15am",
+      "end": "11:45am",
+      "building": "VMH",
+      "room": "1203"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "KORA202",
+  "title": "Intermediate Korean II",
+  "credits": "3",
+  "description": "Prerequisite: KORA201; or permission of instructor.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Younghi Ramsey",
+      "seats": "15,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "JMZ",
+      "room": "2123"
+    },
+    {
+      "id": "0201",
+      "instructor": "Younghi Ramsey",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "JMZ",
+      "room": "2117"
+    }
+  ],
+  "term": "201801",
+  "department": "Korean"
+}

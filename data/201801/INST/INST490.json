@@ -1,0 +1,38 @@
+{
+  "id": "INST490",
+  "title": "Integrated Capstone for Information Science",
+  "credits": "3",
+  "description": "Prerequisite: INST314, INST335, INST346, INST352, and INST362.\nRestriction: Must be in Information Science program; and must have completed all Information Science major core courses; and permission of INFO-College of Information Studies.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Timothy Summers",
+      "seats": "40,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "6:00pm",
+      "end": "8:45pm",
+      "building": "HJP",
+      "room": "2242"
+    },
+    {
+      "id": "0201",
+      "instructor": "Elizabeth Bonsignore",
+      "seats": "40,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ESJ",
+      "room": "0215"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

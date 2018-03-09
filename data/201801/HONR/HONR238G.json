@@ -1,0 +1,25 @@
+{
+  "id": "HONR238G",
+  "title": "Honors Seminar; The Manhattan Project: A Century of Radioactivity, Nuclear Weapons, and Nuclear Power",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alice Mignerey",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "MTH",
+      "room": "0402"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

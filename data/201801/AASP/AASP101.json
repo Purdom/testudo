@@ -1,0 +1,27 @@
+{
+  "id": "AASP101",
+  "title": "Public Policy and the Black Community",
+  "credits": "3",
+  "description": "Formerly: AASP300.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alana Hackshaw",
+      "seats": "32,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TLF",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "African American Studies"
+}

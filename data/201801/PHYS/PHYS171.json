@@ -1,0 +1,27 @@
+{
+  "id": "PHYS171",
+  "title": "Introductory Physics: Mechanics and Relativity",
+  "credits": "3",
+  "description": "Prerequisite: (MATH140; and a high school physics course); or permission of CMNS-Physics department. And must have completed or be concurrently enrolled in MATH141.\nCredit only granted for: PHYS141, PHYS161, or PHYS171.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Rajarshi Roy",
+      "seats": "50,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PHY",
+      "room": "1204"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

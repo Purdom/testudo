@@ -1,0 +1,27 @@
+{
+  "id": "PHYS299A",
+  "title": "Special Problems in Physics; Career Pathways Toolbox for Physics Majors",
+  "credits": "1",
+  "description": "The goal of this course is to equip students with the information and resources necessary to successfully transition from a physics bachelor's degree to the workforce. Students will gain exposure to the diverse career paths that are available to them and learn strategies for assessing and articulating their individual strengths and knowledge as they relate to those paths. The course will include interactive elements so students will gain first hand experience with networking, informational interviewing, resumes, cover letters and the job search process. The end-product of this course will be a portfolio.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Donna Hammer,",
+      "seats": "10,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "5:30pm",
+      "building": "PHY",
+      "room": "1305"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

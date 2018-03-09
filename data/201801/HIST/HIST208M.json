@@ -1,0 +1,37 @@
+{
+  "id": "HIST208M",
+  "title": "Historical Research and Methods Seminar; War, Culture, and Legitimacy in the Ancient World",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jordan Slavik",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "KEY",
+      "room": "0107"
+    },
+    {
+      "id": "0201",
+      "instructor": "Jordan Slavik",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "KEY",
+      "room": "0107"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

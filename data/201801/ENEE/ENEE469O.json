@@ -1,0 +1,25 @@
+{
+  "id": "ENEE469O",
+  "title": "Topics in Controls; Introduction to Optimization",
+  "credits": "3",
+  "description": "Prerequisites: Completion of the following courses with a minimum grade of a \"C-\": ENEE322, ENEE324, and Linear Algebra (e.g. MATH461). Recommended co-requisite: Advanced Calculus course (MATH410 or 411).\n\nStudents will be introduced to linear, nonlinear, constrained, unconstrained optimization. Convex optimization will be highlighted. Some optimization algorithms will be discussed. Applications will be considered, in particular in the area of machine learning.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andre Tits",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ATL",
+      "room": "2416"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

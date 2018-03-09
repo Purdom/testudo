@@ -1,0 +1,25 @@
+{
+  "id": "MIEH688",
+  "title": "Seminar in the Maryland Institute for Applied Environmental Health: Current Topics in Environmental Health",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Donald Milton",
+      "seats": "10,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "11:00am",
+      "end": "12:00pm",
+      "building": "SPH",
+      "room": "2234CC"
+    }
+  ],
+  "term": "201801",
+  "department": "Maryland Institute for Applied Environmental Health"
+}

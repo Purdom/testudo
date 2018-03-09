@@ -1,0 +1,25 @@
+{
+  "id": "AMSC420",
+  "title": "Mathematical Modeling",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (MATH240, MATH341, MATH461); and 1 course with a minimum grade of C- from (MATH241, MATH340); and 1 course with a minimum grade of C- from (MATH246, MATH341); and minimum grade of C- in STAT400. And 1 course with a minimum grade of C- from (CMSC106, CMSC131); or students who have taken courses with comparable content may contact the department.\nAlso offered as: MATH420.\nCredit only granted for: AMSC420 or MATH420.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Radu Balan",
+      "seats": "25,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CSI",
+      "room": "4122"
+    }
+  ],
+  "term": "201801",
+  "department": "Applied Mathematics & Scientific Computation"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "SURV760",
+  "title": "Survey Management",
+  "credits": "3",
+  "description": "Modern practices in the administration of large scale surveys. Alternative management structures for large field organizations, supervisory and training regimens, handling of turnover, and multiple surveys with the same staff. Practical issues in budgeting of surveys are reviewed with examples from actual surveys. Scheduling of sequential activities in the design, data collection, and processing of data is described.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Zeina Mneimneh",
+      "seats": "15,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "1:30pm",
+      "end": "4:00pm",
+      "building": "LEF",
+      "room": "1208"
+    }
+  ],
+  "term": "201801",
+  "department": "Survey Methodology"
+}

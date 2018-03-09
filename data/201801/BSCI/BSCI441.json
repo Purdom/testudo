@@ -1,0 +1,51 @@
+{
+  "id": "BSCI441",
+  "title": "Mammalian Physiology Laboratory",
+  "credits": "2",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in BSCI440.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hilary Bierman",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "BPS",
+      "room": "1243"
+    },
+    {
+      "id": "0103",
+      "instructor": "Hilary Bierman",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "BPS",
+      "room": "1243"
+    },
+    {
+      "id": "0104",
+      "instructor": "Hilary Bierman",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "BPS",
+      "room": "1243"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

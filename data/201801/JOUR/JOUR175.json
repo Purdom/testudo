@@ -1,0 +1,111 @@
+{
+  "id": "JOUR175",
+  "title": "Media Literacy",
+  "credits": "3",
+  "description": "Additional information: Not applicable toward journalism major.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Susan Moeller",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ESJ",
+      "room": "0202"
+    },
+    {
+      "id": "0201",
+      "instructor": "Susan Moeller",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ESJ",
+      "room": "0202"
+    },
+    {
+      "id": "0301",
+      "instructor": "Susan Moeller",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ESJ",
+      "room": "0202"
+    },
+    {
+      "id": "0401",
+      "instructor": "Susan Moeller",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ESJ",
+      "room": "0202"
+    },
+    {
+      "id": "0501",
+      "instructor": "Susan Moeller",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ESJ",
+      "room": "0202"
+    },
+    {
+      "id": "0601",
+      "instructor": "Susan Moeller",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ESJ",
+      "room": "0202"
+    },
+    {
+      "id": "0701",
+      "instructor": "Susan Moeller",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ESJ",
+      "room": "0202"
+    },
+    {
+      "id": "0801",
+      "instructor": "Susan Moeller",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ESJ",
+      "room": "0202"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

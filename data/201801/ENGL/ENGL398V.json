@@ -1,0 +1,61 @@
+{
+  "id": "ENGL398V",
+  "title": "Topics in Professional Writing; Writing about the Environment",
+  "credits": "3",
+  "description": "Prerequisite: 60 credits and completion of ENGL101 or equivalent. This course satisfies the professional writing requirement.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "1201",
+      "instructor": "Ann Mason",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TWS",
+      "room": "1105"
+    },
+    {
+      "id": "1301",
+      "instructor": "Ann Mason",
+      "seats": "19,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TWS",
+      "room": "0207"
+    },
+    {
+      "id": "1401",
+      "instructor": "Ann Mason",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "0234"
+    },
+    {
+      "id": "1701",
+      "instructor": "Ann Mason",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:30pm",
+      "end": "9:10pm",
+      "building": "TWS",
+      "room": "0201"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

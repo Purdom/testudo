@@ -1,0 +1,26 @@
+{
+  "id": "PSYC655",
+  "title": "Talent Development",
+  "credits": "3",
+  "description": "Restriction: Must be in the Master of Professional Studies in Industrial/Organizational Psychology Program.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PYP1",
+      "instructor": "Kenneth Yusko",
+      "seats": "40,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:00pm",
+      "end": "8:30pm",
+      "building": "BPS",
+      "room": "1140B"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

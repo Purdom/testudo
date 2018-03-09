@@ -1,0 +1,26 @@
+{
+  "id": "CLFS690",
+  "title": "Biochemistry",
+  "credits": "3",
+  "description": "An advanced overview of general biochemistry including a study of protein structure and their physical properties; how these properties relate to catalysis, regulation of catalysis and metabolic chemistry with respect to their relationship to physiological conditions.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PL01",
+      "instructor": "David Jollie",
+      "seats": "8,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Chemical and Life Sciences"
+}

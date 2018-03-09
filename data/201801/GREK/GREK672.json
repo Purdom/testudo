@@ -1,0 +1,26 @@
+{
+  "id": "GREK672",
+  "title": "History and Development of the Greek Language",
+  "credits": "3",
+  "description": "Restriction: Permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jorge Bravo",
+      "seats": "7,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:00pm",
+      "end": "7:40pm",
+      "building": "MMH",
+      "room": "1218"
+    }
+  ],
+  "term": "201801",
+  "department": "Greek"
+}

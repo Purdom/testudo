@@ -1,0 +1,27 @@
+{
+  "id": "ENGL358E",
+  "title": "Special Topics in U.S. Latina/o Literature; Transgression and Experimentation in Latinx Literature",
+  "credits": "3",
+  "description": "Also offered as USLT498T. Credit granted for ENGL358E or USLT498T.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sharada Balachandran Orihuela",
+      "seats": "25,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "TWS",
+      "room": "0236"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

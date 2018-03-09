@@ -1,0 +1,26 @@
+{
+  "id": "HIST619G",
+  "title": "Special Topics in History; Workers of Global Capitalism",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Julie Greene",
+      "seats": "12,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TLF",
+      "room": "2100"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "AASP298A",
+  "title": "Special Topics in Afro-American Studies: African-American History, 1865 - Present",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dennis Doster",
+      "seats": "30,",
+      "open-seats": "24,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "6:30pm",
+      "end": "7:45pm",
+      "building": "KEY",
+      "room": "1117"
+    }
+  ],
+  "term": "201801",
+  "department": "African American Studies"
+}

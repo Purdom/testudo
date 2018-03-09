@@ -1,0 +1,25 @@
+{
+  "id": "CMSC396H",
+  "title": "Computer Science Honors Seminar",
+  "credits": "1",
+  "description": "Prerequisite: Must have admission into Computer Science Departmental Honors Program.\nRestriction: Permission of CMNS-Computer Science department.\nCredit only granted for: CMSC297 or CMSC396.\nFormerly: CMSC297.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Levin",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "AVW",
+      "room": "4172"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "CPBE240",
+  "title": "College Park Scholars: Business, Society & the Economy Service-Learning Practicum",
+  "credits": "1 -",
+  "description": "Prerequisite: CPBE100.\nRestriction: Students must be matriculated into the College Park Scholars Business, Society & the Economy (CPBE) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mark Wellman,",
+      "seats": "25,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:00pm",
+      "end": "8:00pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0102",
+      "instructor": "Mark Wellman,",
+      "seats": "10,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars-Business, Society, and Economy"
+}

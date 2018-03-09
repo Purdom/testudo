@@ -1,0 +1,62 @@
+{
+  "id": "ECON708",
+  "title": "Advanced Topics in Applied and Theoretical Microeconomics",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Katharine Abraham",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TYD",
+      "room": "0111"
+    },
+    {
+      "id": "0301",
+      "instructor": "Peter Coughlin",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0401",
+      "instructor": "Yusuf Masatlioglu",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0501",
+      "instructor": "Sergio Urzua",
+      "seats": "15,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

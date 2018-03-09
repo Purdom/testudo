@@ -1,0 +1,25 @@
+{
+  "id": "UMEI003",
+  "title": "English as a Foreign Language: Intermediate II",
+  "credits": "12",
+  "description": "Restriction: Permission of EDUC-Dean-Maryland English Institute department.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Caralyn Bushey,",
+      "seats": "16,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MTuWThF",
+      "start": "9:00am",
+      "end": "11:50am",
+      "building": "SQH",
+      "room": "2113"
+    }
+  ],
+  "term": "201801",
+  "department": "Maryland English Institute"
+}

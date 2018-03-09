@@ -1,0 +1,26 @@
+{
+  "id": "MUSC661",
+  "title": "Theory and Analysis of Atonal and Twelve-Tone Music",
+  "credits": "3",
+  "description": "Prerequisite: MUSC450; or permission of ARHU-School of Music department.\nAlso offered as: MUSC461.\nCredit only granted for: MUSC461 or MUSC661.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dora Hanninen",
+      "seats": "9,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PAC",
+      "room": "3160"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

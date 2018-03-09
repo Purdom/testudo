@@ -1,0 +1,50 @@
+{
+  "id": "INST327",
+  "title": "Database Design and Modeling",
+  "credits": "3",
+  "description": "Prerequisite: CMSC106, CMSC122, or INST126. And must have completed or be concurrently enrolled in INST201; or must have completed INST301.\nRestriction: Must be in Information Science program; and permission of INFO-College of Information Studies.\nCredit only granted for: INST327 or BMGT402.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Vedat Diker",
+      "seats": "70,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "TWS",
+      "room": "1310"
+    },
+    {
+      "id": "0102",
+      "instructor": "Tammie Nelson",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "HBK",
+      "room": "0115"
+    },
+    {
+      "id": "0103",
+      "instructor": "Vedat Diker",
+      "seats": "70,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "TWS",
+      "room": "1310"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "CMSC711",
+  "title": "Computer Networks",
+  "credits": "3",
+  "description": "Prerequisite: CMSC412; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Samrat Bhattacharjee",
+      "seats": "30,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "CSI",
+      "room": "3120"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

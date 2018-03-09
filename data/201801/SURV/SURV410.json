@@ -1,0 +1,63 @@
+{
+  "id": "SURV410",
+  "title": "Introduction to Probability Theory",
+  "credits": "3",
+  "description": "Prerequisite: MATH240 and MATH241; or permission of BSOS-Joint Program in Survey Methodology department.\nAlso offered as: STAT410.\nCredit only granted for: SURV410 or STAT410.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Leonid Koralov",
+      "seats": "30,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "MTH",
+      "room": "0405"
+    },
+    {
+      "id": "0201",
+      "instructor": "Sandra Cerrai",
+      "seats": "28,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "AJC",
+      "room": "2121"
+    },
+    {
+      "id": "0301",
+      "instructor": "Mark Freidlin",
+      "seats": "28,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "MTH",
+      "room": "0201"
+    },
+    {
+      "id": "0501",
+      "instructor": "Dmitry Dolgopyat",
+      "seats": "28,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "MTH",
+      "room": "0307"
+    }
+  ],
+  "term": "201801",
+  "department": "Survey Methodology"
+}

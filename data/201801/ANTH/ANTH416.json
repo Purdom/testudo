@@ -1,0 +1,27 @@
+{
+  "id": "ANTH416",
+  "title": "Anthropology of Global Violence",
+  "credits": "3",
+  "description": "Credit only granted for: ANTH416, ANTH616.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andrea Lopez",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ARC",
+      "room": "1105"
+    }
+  ],
+  "term": "201801",
+  "department": "Anthropology"
+}

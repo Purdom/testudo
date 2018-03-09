@@ -1,0 +1,37 @@
+{
+  "id": "CMSC425",
+  "title": "Game Programming",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in CMSC420.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Mount",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CSI",
+      "room": "1121"
+    },
+    {
+      "id": "0201",
+      "instructor": "Roger Eastman",
+      "seats": "50,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CHE",
+      "room": "2108"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

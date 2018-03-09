@@ -1,0 +1,25 @@
+{
+  "id": "ENEE489A",
+  "title": "Topics in Electrophysics; Laboratory for Antennas for Wireless Personal Communication",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Donghun Park",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "AVW",
+      "room": "2446"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

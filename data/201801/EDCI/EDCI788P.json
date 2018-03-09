@@ -1,0 +1,26 @@
+{
+  "id": "EDCI788P",
+  "title": "Selected Topics in Teacher Education; Proseminar on Research and Technology",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Weintrop",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "ASY",
+      "room": "3217"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

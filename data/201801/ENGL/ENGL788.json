@@ -1,0 +1,26 @@
+{
+  "id": "ENGL788",
+  "title": "Studies in Poetic Form",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stanley Plumly",
+      "seats": "11,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TWS",
+      "room": "2123"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

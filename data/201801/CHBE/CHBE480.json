@@ -1,0 +1,27 @@
+{
+  "id": "CHBE480",
+  "title": "Bionanotechnology: Physical Principles",
+  "credits": "3",
+  "description": "Prerequisite: BIOE120; or (BSCI170 and BSCI171); or BSCI105. And BCHM461; or students who have taken courses with comparable content may contact the department.\nRestriction: Permission of ENGR-Chemical & Biomolecular Engineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Srinivasa Raghavan",
+      "seats": "30,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CHE",
+      "room": "2110"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemical and Biomolecular Engineering"
+}

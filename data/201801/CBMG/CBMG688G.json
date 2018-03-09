@@ -1,0 +1,25 @@
+{
+  "id": "CBMG688G",
+  "title": "Special Topics in Cell Biology and Molecular Genetics; Computational Virology",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Brian Pierce",
+      "seats": "15,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "MCB",
+      "room": "2119"
+    }
+  ],
+  "term": "201801",
+  "department": "Cell Biology & Molecular Genetics"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "EDCP633",
+  "title": "Diagnostic Appraisal of Children I",
+  "credits": "3",
+  "description": "Prerequisite: EDCP632.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hedwig Teglasi",
+      "seats": "10,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "10:30am",
+      "end": "1:15pm",
+      "building": "EDU",
+      "room": "3236"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

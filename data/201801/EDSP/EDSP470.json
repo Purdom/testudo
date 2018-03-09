@@ -1,0 +1,39 @@
+{
+  "id": "EDSP470",
+  "title": "Introduction to Special Education",
+  "credits": "3",
+  "description": "Restriction: Must not have completed EDSP210.\nCredit only granted for: EDSP210 or EDSP470.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Deanna Collins",
+      "seats": "7,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "EDU",
+      "room": "1107"
+    },
+    {
+      "id": "0201",
+      "instructor": "Stacey Williams",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "EDU",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Special"
+}

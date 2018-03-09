@@ -1,0 +1,26 @@
+{
+  "id": "ECON604",
+  "title": "Microeconomic Analysis II",
+  "credits": "3",
+  "description": "Prerequisite: ECON603.\nRestriction: Permission of BSOS-Economics department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Daniel Vincent,",
+      "seats": "45,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TYD",
+      "room": "2102"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

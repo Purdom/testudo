@@ -1,0 +1,25 @@
+{
+  "id": "EDHD760",
+  "title": "Advanced Educational Psychology",
+  "credits": "3",
+  "description": "Prerequisite: Prior course in educational psychology, learning, or cognition; or permission of EDUC-Human Development and Quantitative Methodology department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Patricia Alexander",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "ASY",
+      "room": "3217"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Human Development"
+}

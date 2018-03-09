@@ -1,0 +1,26 @@
+{
+  "id": "ENPM672",
+  "title": "Fundamentals for Thermal Systems",
+  "credits": "3",
+  "description": "Prerequisite: Undergraduate engineering, physics or chemistry degree.\nRestriction: Permission of ENGR-Office of Advanced Engineering Education.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "ME01",
+      "instructor": "Kristen Hines",
+      "seats": "25,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Professional Masters"
+}

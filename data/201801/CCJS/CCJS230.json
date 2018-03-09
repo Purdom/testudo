@@ -1,0 +1,39 @@
+{
+  "id": "CCJS230",
+  "title": "Criminal Law in Action",
+  "credits": "3",
+  "description": "Prerequisite: CCJS100.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christine White",
+      "seats": "100,",
+      "open-seats": "49,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "TYD",
+      "room": "0117"
+    },
+    {
+      "id": "0201",
+      "instructor": "Russell Hamill",
+      "seats": "100,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "MMH",
+      "room": "1400"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

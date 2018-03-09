@@ -1,0 +1,25 @@
+{
+  "id": "HONR209W",
+  "title": "Honors Seminar; War Stories: Personal Narratives, Fiction, and Film",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sara Schotland",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "PLS",
+      "room": "1158"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

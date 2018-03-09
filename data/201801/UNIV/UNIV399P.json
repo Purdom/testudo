@@ -1,0 +1,27 @@
+{
+  "id": "UNIV399P",
+  "title": "Experiential Learning in Undergraduate Studies; People Power -- Activism for Social Change",
+  "credits": "1 -",
+  "description": "Click here for more course information.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Riker",
+      "seats": "56,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:00pm",
+      "building": "SCC",
+      "room": "1102"
+    }
+  ],
+  "term": "201801",
+  "department": "University Courses"
+}

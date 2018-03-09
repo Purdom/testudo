@@ -1,0 +1,26 @@
+{
+  "id": "ENCE622",
+  "title": "Construction Automation & Robotics",
+  "credits": "3",
+  "description": "Restriction: Must be in Engineering: Civil program; or permission of ENGR-Civil & Environmental Engineering department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Miroslaw Skibniewski",
+      "seats": "25,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "JMP",
+      "room": "2217"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

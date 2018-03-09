@@ -1,0 +1,27 @@
+{
+  "id": "GEOG788D",
+  "title": "Selected Topics in Geography; From Communicating Science to Facilitating Learning and Didactical Skill",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud",
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Klaus Hubacek",
+      "seats": "25,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:00pm",
+      "end": "5:30pm",
+      "building": "LEF",
+      "room": "1158"
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

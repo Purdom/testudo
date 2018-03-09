@@ -1,0 +1,26 @@
+{
+  "id": "ENST689P",
+  "title": "Special Topics; Water and Development: A Global Change",
+  "credits": "3",
+  "description": "Prerequisite: MATH220 or MATH140 (students who have taken courses with comparable content may contact the department). This course offers a multidisciplinary investigation of water systems development and management through real-world case studies. It explores the relation between water and development that is increasingly influenced by conflicts over the resource at both regional and global scale.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Masoud Negahban-Azar",
+      "seats": "15,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ANS",
+      "room": "1422"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

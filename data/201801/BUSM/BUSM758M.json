@@ -1,0 +1,37 @@
+{
+  "id": "BUSM758M",
+  "title": "Special Topics in Business; Integrated Brand Management",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jeremy Brown",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:50am",
+      "building": "VMH",
+      "room": "1505"
+    },
+    {
+      "id": "0201",
+      "instructor": "David Godes",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "VMH",
+      "room": "1505"
+    }
+  ],
+  "term": "201801",
+  "department": "Full-Time MBA Program"
+}

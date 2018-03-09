@@ -1,0 +1,26 @@
+{
+  "id": "PLCY688C",
+  "title": "Topics in Public Policy; Cyberspace: Legal and Policy Implications",
+  "credits": "3",
+  "description": "Restricted to PLCY majors or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Brian David Mussington",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:15pm",
+      "end": "6:45pm",
+      "building": "VMH",
+      "room": "2101F"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

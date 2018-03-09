@@ -1,0 +1,27 @@
+{
+  "id": "WMST400",
+  "title": "Theories of Feminism",
+  "credits": "3",
+  "description": "Prerequisite: 1 course in WMST; or must have completed a course cross-listed with a WMST course.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Justin Sprague",
+      "seats": "40,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "WDS",
+      "room": "1114"
+    }
+  ],
+  "term": "201801",
+  "department": "Women's Studies"
+}

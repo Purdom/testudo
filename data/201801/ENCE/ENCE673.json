@@ -1,0 +1,26 @@
+{
+  "id": "ENCE673",
+  "title": "Urban Transportation",
+  "credits": "3",
+  "description": "The contempory methodology of urban transportation planning. The urban transportation planning process, interdependence between the urban transportation system and the activity system, urban travel demand models, evaluation of urban transportation alternatives and their implementation.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lei Zhang",
+      "seats": "25,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "MTH",
+      "room": "0407"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

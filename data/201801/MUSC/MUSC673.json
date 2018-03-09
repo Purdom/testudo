@@ -1,0 +1,26 @@
+{
+  "id": "MUSC673",
+  "title": "Style Analysis",
+  "credits": "3",
+  "description": "Prerequisite: MUSC251; and permission of ARHU-School of Music department.\nRestriction: Must not have completed MUSC448.\nCredit only granted for: MUSC673, MUSC448F, or MUSC699F.\nFormerly: MUSC699F.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Fry",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PAC",
+      "room": "3160"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

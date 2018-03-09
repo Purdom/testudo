@@ -1,0 +1,39 @@
+{
+  "id": "JOUR289F",
+  "title": "Beyond Facebook: How Social Media are Transforming Society, Culture, Business and Politics",
+  "credits": "3",
+  "description": "Examining the rise of social media and their impact on culture, business, government, politics, journalism and society, this course provides students with a broad contextual understanding of the multidisciplinary impacts of social media such as Twitter, Facebook and similar Internet-based services.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sarah Oates",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ESJ",
+      "room": "2309"
+    },
+    {
+      "id": "0201",
+      "instructor": "Sarah Oates",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ESJ",
+      "room": "2309"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

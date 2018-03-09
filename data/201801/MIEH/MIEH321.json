@@ -1,0 +1,27 @@
+{
+  "id": "MIEH321",
+  "title": "Syphilis to SARS: Climate Change, Development and Emergence of Infectious Diseases",
+  "credits": "3",
+  "description": "Syphilis to SARS will examine the influences of environmental factors, economic development, migration, and land use changes on emergence and reemergence of infectious diseases. Population growth, development, and climate change are impacting natural reservoirs of infectious diseases and how they transmit through human populations. The course will look at both historical accounts and newly emerging and reemerging diseases including influenza as examples of our role in altering the diseases that threaten us. We will also critically evaluate how the issues are portrayed in news and entertainment media and controversy about the ethics of research on deadly viruses.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "Michael Bazaco",
+      "seats": "35,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:00pm",
+      "end": "8:30pm",
+      "building": "BLD3",
+      "room": "3240"
+    }
+  ],
+  "term": "201801",
+  "department": "Maryland Institute for Applied Environmental Health"
+}

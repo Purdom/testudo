@@ -1,0 +1,27 @@
+{
+  "id": "USLT498A",
+  "title": "US Latina/o Studies: Special Topics; Latinas/os on the Silver Screen",
+  "credits": "3",
+  "description": "Also offered as AMST498G. Credit only granted for USLT498A or AMST498G.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Chester",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TWS",
+      "room": "1321"
+    }
+  ],
+  "term": "201801",
+  "department": "Latina/o Studies"
+}

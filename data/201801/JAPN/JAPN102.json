@@ -1,0 +1,49 @@
+{
+  "id": "JAPN102",
+  "title": "Elementary Japanese II",
+  "credits": "6",
+  "description": "Prerequisite: Minimum grade of C- in JAPN101; or appropriate Foreign Language Placement Test (FLPT) score.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Etsuko Yamakita,",
+      "seats": "15,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "JMZ",
+      "room": "1215"
+    },
+    {
+      "id": "0201",
+      "instructor": "Etsuko Yamakita,",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "JMZ",
+      "room": "1215"
+    },
+    {
+      "id": "0301",
+      "instructor": "Etsuko Yamakita,",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "JMZ",
+      "room": "1215"
+    }
+  ],
+  "term": "201801",
+  "department": "Japanese"
+}

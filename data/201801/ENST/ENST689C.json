@@ -1,0 +1,26 @@
+{
+  "id": "ENST689C",
+  "title": "Special Topics; Adaptation and Resilience in Urban Social-Ecological Systems",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mitchell Pavao-Zuckerman",
+      "seats": "10,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "4:50pm",
+      "building": "ANS",
+      "room": "1422"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

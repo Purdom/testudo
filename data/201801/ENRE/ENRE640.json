@@ -1,0 +1,74 @@
+{
+  "id": "ENRE640",
+  "title": "Collection and Analysis of Reliability Data",
+  "credits": "3",
+  "description": "Prerequisite: ENRE602.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Vasiliy Krivtsov",
+      "seats": "20,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "9:00am",
+      "end": "11:40am",
+      "building": "JMP",
+      "room": "2222"
+    },
+    {
+      "id": "ER01",
+      "instructor": "Vasiliy Krivtsov",
+      "seats": "16,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "9:00am",
+      "end": "11:40am",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "RE01",
+      "instructor": "Vasiliy Krivtsov",
+      "seats": "2,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "9:00am",
+      "end": "11:40am",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "SG01",
+      "instructor": "Vasiliy Krivtsov",
+      "seats": "1,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "9:00am",
+      "end": "11:40am",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "Vasiliy Krivtsov",
+      "seats": "2,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "9:00am",
+      "end": "11:40am",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Reliability Engineering"
+}

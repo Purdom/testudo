@@ -1,0 +1,26 @@
+{
+  "id": "ECON752",
+  "title": "Public Economics II",
+  "credits": "3",
+  "description": "Prerequisite: ECON751.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Melissa Kearney",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TYD",
+      "room": "0111"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

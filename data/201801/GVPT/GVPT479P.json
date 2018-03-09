@@ -1,0 +1,27 @@
+{
+  "id": "GVPT479P",
+  "title": "Seminar in American Politics; Political Polarization",
+  "credits": "3",
+  "description": "Restriction: Must be in Government & Politics program; or must be in Government & Politics: International Relations program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Neil Lund,",
+      "seats": "30,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:30pm",
+      "end": "6:15pm",
+      "building": "TYD",
+      "room": "1108"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

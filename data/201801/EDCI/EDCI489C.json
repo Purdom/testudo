@@ -1,0 +1,50 @@
+{
+  "id": "EDCI489C",
+  "title": "Field Experiences in Education; Internship",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "S-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Deborah Lewin",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "12:00pm",
+      "end": "2:50pm",
+      "building": "ASY",
+      "room": "2203"
+    },
+    {
+      "id": "0201",
+      "instructor": "Susan Denvir",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "12:00pm",
+      "end": "2:50pm",
+      "building": "ASY",
+      "room": "2203"
+    },
+    {
+      "id": "0301",
+      "instructor": "Tracy Dunheimer",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "12:00pm",
+      "end": "2:50pm",
+      "building": "ASY",
+      "room": "2203"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

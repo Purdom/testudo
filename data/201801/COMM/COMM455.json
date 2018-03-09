@@ -1,0 +1,27 @@
+{
+  "id": "COMM455",
+  "title": "Speechwriting",
+  "credits": "3",
+  "description": "The study of message strategies in order to research and develop effective speech texts appropriate to speakers and their audiences in various public contexts.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Trevor Parry-Giles",
+      "seats": "35,",
+      "open-seats": "23,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "SKN",
+      "room": "1115"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

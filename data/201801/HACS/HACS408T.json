@@ -1,0 +1,25 @@
+{
+  "id": "HACS408T",
+  "title": "Advanced Seminar in Cybersecurity; Penetration Testing",
+  "credits": "3",
+  "description": "Restriction: Must be a student in the ACES (Advanced Cybersecurity Experience for Students) Minor Program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kevin Bock",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:00pm",
+      "end": "7:45pm",
+      "building": "PFR",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "ACES-Cybersecurity"
+}

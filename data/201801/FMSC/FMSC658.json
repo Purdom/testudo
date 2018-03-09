@@ -1,0 +1,38 @@
+{
+  "id": "FMSC658",
+  "title": "Supervised Clinical Practice of Marriage and Family Therapy; Theory and Practice of Clinical Supervision",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Patricia Barros",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "9:00am",
+      "end": "11:45am",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "0201",
+      "instructor": "Leigh Leslie",
+      "seats": "10,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "9:00am",
+      "end": "12:00pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

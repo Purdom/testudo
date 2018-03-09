@@ -1,0 +1,26 @@
+{
+  "id": "EPIB653",
+  "title": "Applied Survival Data Analysis",
+  "credits": "3",
+  "description": "Prerequisite: EPIB651.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mei-Ling Lee",
+      "seats": "20,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "1:00pm",
+      "end": "3:45pm",
+      "building": "SPH",
+      "room": "0301"
+    }
+  ],
+  "term": "201801",
+  "department": "Epidemiology and Biostatistics"
+}

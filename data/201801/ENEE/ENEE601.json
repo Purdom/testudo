@@ -1,0 +1,26 @@
+{
+  "id": "ENEE601",
+  "title": "Semiconductor Devices and Technology",
+  "credits": "3",
+  "description": "Recommended: ENEE413 and ENEE600.\nCredit only granted for: ENEE601 or ENEE697.\nFormerly: ENEE697.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Agisilaos Iliadis",
+      "seats": "30,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "JMP",
+      "room": "1202"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "MATH401",
+  "title": "Applications of Linear Algebra",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (MATH461, MATH240, MATH341).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Casey Cremins",
+      "seats": "30,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "SPH",
+      "room": "0303"
+    },
+    {
+      "id": "0201",
+      "instructor": "Justin Wyss-Gallifent",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "ESJ",
+      "room": "1309"
+    },
+    {
+      "id": "0301",
+      "instructor": "Javier Morales Delgado",
+      "seats": "30,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ATL",
+      "room": "2330"
+    },
+    {
+      "id": "0401",
+      "instructor": "Thibaut Castan",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "MTH",
+      "room": "0303"
+    },
+    {
+      "id": "0501",
+      "instructor": "Jianlu Zhang",
+      "seats": "30,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "MTH",
+      "room": "0303"
+    },
+    {
+      "id": "0601",
+      "instructor": "Stephen Balady",
+      "seats": "30,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "MTH",
+      "room": "0303"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

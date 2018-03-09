@@ -1,0 +1,27 @@
+{
+  "id": "EDCI405",
+  "title": "Art Education Methods I",
+  "credits": "3",
+  "description": "Restriction: Minimum cumulative GPA of 2.75; and permission of EDUC-Teaching and Learning, Policy and Leadership department. And must be in Secondary Educ: Art program; or must be in Secondary Educ: Art pre-major program.\nCredit only granted for: EDCI300 or EDCI405.\nFormerly: EDCI300.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Susan Hendricks",
+      "seats": "25,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:00am",
+      "end": "12:00pm",
+      "building": "EDU",
+      "room": "1315"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

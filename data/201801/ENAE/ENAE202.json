@@ -1,0 +1,85 @@
+{
+  "id": "ENAE202",
+  "title": "Computing Fundamentals for Engineers",
+  "credits": "3",
+  "description": "Corequisite: Must be concurrently enrolled in MATH141.\nRestriction: Permission of ENGR-Aerospace Engineering department.\nCredit only granted for: ENAE202 or ENME202.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Sanner",
+      "seats": "26,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0102",
+      "instructor": "Robert Sanner",
+      "seats": "26,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0103",
+      "instructor": "Robert Sanner",
+      "seats": "26,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0104",
+      "instructor": "Robert Sanner",
+      "seats": "26,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0105",
+      "instructor": "Robert Sanner",
+      "seats": "26,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "EGR",
+      "room": "1202"
+    },
+    {
+      "id": "0106",
+      "instructor": "Robert Sanner",
+      "seats": "26,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "EGR",
+      "room": "1202"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

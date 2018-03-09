@@ -1,0 +1,27 @@
+{
+  "id": "PHIL318B",
+  "title": "Studies in Epistemology/Metaphysics; The Wisdom of Crowds",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Daniel Blair",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "HBK",
+      "room": "1112"
+    }
+  ],
+  "term": "201801",
+  "department": "Philosophy"
+}

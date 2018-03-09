@@ -1,0 +1,25 @@
+{
+  "id": "HONR378P",
+  "title": "Advanced Honors Seminar; Elements of Music Composition for Non-Majors II",
+  "credits": "3",
+  "description": "Prerequisite: HONR218M. Permission of instructor required.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Evans",
+      "seats": "16,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:30pm",
+      "end": "8:00pm",
+      "building": "PAC",
+      "room": "1108"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

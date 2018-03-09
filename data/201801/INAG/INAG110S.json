@@ -1,0 +1,27 @@
+{
+  "id": "INAG110S",
+  "title": "Oral Communication",
+  "credits": "3",
+  "description": "Credit only granted for: COMM107, COMM200, INAG110, JOUR130, THET285.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0601",
+      "instructor": "Edward Priola",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "CCC",
+      "room": "1115"
+    }
+  ],
+  "term": "201801",
+  "department": "Institute of Applied Agriculture"
+}

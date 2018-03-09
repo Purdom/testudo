@@ -1,0 +1,37 @@
+{
+  "id": "LARC263",
+  "title": "History of Landscape Architecture",
+  "credits": "3",
+  "description": "A survey of landscape architecture history from the ancient Western civilizations to the twentieth century with consideration of parallel developments in the Eastern World, European Africa and the Americas.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kelly Cook",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PLS",
+      "room": "1119"
+    },
+    {
+      "id": "0102",
+      "instructor": "Kelly Cook",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PLS",
+      "room": "1119"
+    }
+  ],
+  "term": "201801",
+  "department": "Landscape Architecture"
+}

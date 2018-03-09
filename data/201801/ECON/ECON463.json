@@ -1,0 +1,51 @@
+{
+  "id": "ECON463",
+  "title": "Economics of Sports",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (ECON306, ECON326); and 1 course with a minimum grade of C- from (ECON230, BMGT230, ECON321, STAT400).\nRestriction: Must be in Economics Bachelor of Arts program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nicholas Montgomery",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "TYD",
+      "room": "1132"
+    },
+    {
+      "id": "0201",
+      "instructor": "Nicholas Montgomery",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "TYD",
+      "room": "1132"
+    },
+    {
+      "id": "0301",
+      "instructor": "Nicholas Montgomery",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "TYD",
+      "room": "0111"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ARCH797",
+  "title": "Thesis Proseminar",
+  "credits": "3",
+  "description": "Prerequisite: ARCH601.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Tilghman",
+      "seats": "15,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "9:00am",
+      "end": "11:50am",
+      "building": "ARC",
+      "room": "1125"
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

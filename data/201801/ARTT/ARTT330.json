@@ -1,0 +1,26 @@
+{
+  "id": "ARTT330",
+  "title": "Elements of Sculpture: Metal Casting",
+  "credits": "3",
+  "description": "Prerequisite: ARTT200, ARTT210, and ARTT150; or permission of ARHU-Art department.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mason Hurley",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "3:00pm",
+      "building": "ASY",
+      "room": "1310"
+    }
+  ],
+  "term": "201801",
+  "department": "Art Studio"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "MUSC463",
+  "title": "Technology and a Career in Music",
+  "credits": "3",
+  "description": "Recommended: Ability to read music on a grand staff (treble and bass clef).\nAdditional information: No previous experience with technology is required.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Evans",
+      "seats": "16,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "1:00pm",
+      "end": "3:30pm",
+      "building": "PAC",
+      "room": "1108"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

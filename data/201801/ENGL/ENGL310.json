@@ -1,0 +1,27 @@
+{
+  "id": "ENGL310",
+  "title": "Medieval and Renaissance British Literature",
+  "credits": "3",
+  "description": "Detailed study of selected major medieval and Renaissance works written in England. Cultural attitudes and historical contexts. May include Beowulf, Anglo-Saxon lyric, drama, sonnets; works of women writers, Chaucer, Spenser, Sidney. Some readings in Middle English.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christopher Crane",
+      "seats": "29,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "1106"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

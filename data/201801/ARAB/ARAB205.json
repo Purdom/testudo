@@ -1,0 +1,39 @@
+{
+  "id": "ARAB205",
+  "title": "Intermediate Modern Standard Arabic II",
+  "credits": "6",
+  "description": "Prerequisite: ARAB204; or must have appropriate Foreign Language Placement Test (FLPT) score.\nRestriction: Must not be a fluent/native speaker of Arabic.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Zein El-Amine",
+      "seats": "15,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "JMZ",
+      "room": "1103"
+    },
+    {
+      "id": "0201",
+      "instructor": "Zein El-Amine",
+      "seats": "15,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "JMZ",
+      "room": "3122"
+    }
+  ],
+  "term": "201801",
+  "department": "Arabic"
+}

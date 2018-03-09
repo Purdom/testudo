@@ -1,0 +1,27 @@
+{
+  "id": "GERM204",
+  "title": "German Grammar Review",
+  "credits": "3",
+  "description": "Prerequisite: GERM203; or Must have appropriate Foreign Language Placement Test (FLPT) score.\nRestriction: Must not be a fluent/native speaker of German.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Regina Ianozi",
+      "seats": "25,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "JMZ",
+      "room": "2122"
+    }
+  ],
+  "term": "201801",
+  "department": "Germanic Studies"
+}

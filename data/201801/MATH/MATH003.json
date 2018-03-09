@@ -1,0 +1,61 @@
+{
+  "id": "MATH003",
+  "title": "Developmental Mathematics",
+  "credits": "3",
+  "description": "A review of Intermediate High School Algebra intended for students preparing for one of the credit bearing Fundamental Studies Math Courses. It is taught in special computer labs using a self-paced computer program. The curriculum will be geared toward the student's level of algebra skills and eventual goals. There is a special fee for the course that may be applied in addition to the regular tuition charge. Students should refer to the schedule of classes for details on fees as they apply to a particular semester. The course does not carry any credit toward any degree at the University. The course is repeatable. Topics will be chosen from exponents, polynomials, linear equations, quadratic equations as well as polynomial, rational, exponential and logarithm functions and elementary probability or statistics, depending on the student.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0601",
+      "instructor": "Colleen Terpos",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "10:45am",
+      "building": "CEN",
+      "room": "0200"
+    },
+    {
+      "id": "0602",
+      "instructor": "Colleen Terpos",
+      "seats": "20,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "10:45am",
+      "building": "PHY",
+      "room": "4220"
+    },
+    {
+      "id": "0701",
+      "instructor": "Colleen Terpos",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "1:45pm",
+      "building": "CEN",
+      "room": "0200"
+    },
+    {
+      "id": "0702",
+      "instructor": "Colleen Terpos",
+      "seats": "20,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "1:45pm",
+      "building": "PHY",
+      "room": "4220"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

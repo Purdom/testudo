@@ -1,0 +1,25 @@
+{
+  "id": "HONR288P",
+  "title": "Honors Seminar; Why Do Things Burn?",
+  "credits": "3",
+  "description": "To register for this class, you must not be an Engineering major.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Marino diMarzo",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMP",
+      "room": "2202"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

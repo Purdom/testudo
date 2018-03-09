@@ -1,0 +1,27 @@
+{
+  "id": "MUED155",
+  "title": "Fundamentals for the Classroom Teacher",
+  "credits": "3",
+  "description": "Restriction: Must be in one of the following programs (Early Childhood Education; Elementary Education) ; or must be a Pre-Elementary Education major; or must be a Pre-Early Childhood Education major.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Grace Chris",
+      "seats": "25,",
+      "open-seats": "23,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PAC",
+      "room": "2160"
+    }
+  ],
+  "term": "201801",
+  "department": "Music Education"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "CHBE473",
+  "title": "Electrochemical Energy Engineering",
+  "credits": "3",
+  "description": "Restriction: Permission of ENGR-Chemical & Biomolecular Engineering department.\nCredit only granted for: ENCH468K or CHBE473.\nFormerly: ENCH468K.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Chunsheng Wang",
+      "seats": "50,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "CHE",
+      "room": "2108"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemical and Biomolecular Engineering"
+}

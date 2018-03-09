@@ -1,0 +1,27 @@
+{
+  "id": "PHYS402",
+  "title": "Quantum Physics II",
+  "credits": "4",
+  "description": "Prerequisite: PHYS401.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alberto Belloni",
+      "seats": "60,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "PHY",
+      "room": "1201"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

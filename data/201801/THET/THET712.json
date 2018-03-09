@@ -1,0 +1,26 @@
+{
+  "id": "THET712",
+  "title": "Historical Research Methods and Historiography in Theatre",
+  "credits": "3",
+  "description": "Prerequisite: THET700.\nFormerly: PCOM712.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Esther Lee",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PAC",
+      "room": "1924"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre"
+}

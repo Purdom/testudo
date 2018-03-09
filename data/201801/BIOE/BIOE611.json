@@ -1,0 +1,26 @@
+{
+  "id": "BIOE611",
+  "title": "Advanced Tissue Engineering",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed at least one biology course; and MATH241. Or permission of ENGR-Fischell Department of Bioengineering department.\nRecommended: BSCI330 and BIOE340.\nRestriction: Permission of ENGR-Fischell Department of Bioengineering department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Fisher",
+      "seats": "21,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "3:30pm",
+      "building": "AJC",
+      "room": "2121"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

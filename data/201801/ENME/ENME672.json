@@ -1,0 +1,74 @@
+{
+  "id": "ENME672",
+  "title": "Composite Materials",
+  "credits": "3",
+  "description": "Micromechanics of advanced composites with passive and active reinforcements, mathematical models and engineering implications, effective properties and damage mechanics, recent advances in \"adaptive\" or \"smart\" composites.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hugh Bruck",
+      "seats": "35,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMP",
+      "room": "2222"
+    },
+    {
+      "id": "HT01",
+      "instructor": "Hugh Bruck",
+      "seats": "2,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "PE01",
+      "instructor": "Hugh Bruck",
+      "seats": "10,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "SG01",
+      "instructor": "Hugh Bruck",
+      "seats": "2,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "Hugh Bruck",
+      "seats": "2,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "HESP303",
+  "title": "Phonetic transcription",
+  "credits": "2",
+  "description": "Prerequisite: Permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PBH1",
+      "instructor": "Michele Walker",
+      "seats": "35,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "6:30pm",
+      "end": "8:00pm",
+      "building": "TWS",
+      "room": "0201"
+    }
+  ],
+  "term": "201801",
+  "department": "Hearing and Speech Sciences"
+}

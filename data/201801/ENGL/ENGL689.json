@@ -1,0 +1,26 @@
+{
+  "id": "ENGL689",
+  "title": "Fiction Workshop; Fiction Workshop",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Emily Mitchell",
+      "seats": "12,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TWS",
+      "room": "3250"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "HIST225",
+  "title": "Modern Military History, 1815-Present",
+  "credits": "3",
+  "description": "The military history of Europe through an examination of the economic, financial, strategic, tactical, and technological aspects of the development of military institutions and warfare from the Congress of Vienna in 1815 to the present.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Morningstar",
+      "seats": "40,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "KEY",
+      "room": "1117"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

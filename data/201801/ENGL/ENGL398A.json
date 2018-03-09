@@ -1,0 +1,61 @@
+{
+  "id": "ENGL398A",
+  "title": "Topics in Professional Writing; Writing for the Arts",
+  "credits": "3",
+  "description": "Prerequisite: 60 credits and completion of ENGL101 or equivalent. This course satisfies the professional writing requirement.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0701",
+      "instructor": "Douglas Kern",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:30pm",
+      "end": "9:10pm",
+      "building": "TWS",
+      "room": "1105"
+    },
+    {
+      "id": "1001",
+      "instructor": "Caroline Wilkins",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "TWS",
+      "room": "1107"
+    },
+    {
+      "id": "1101",
+      "instructor": "Caroline Wilkins",
+      "seats": "19,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TWS",
+      "room": "0234"
+    },
+    {
+      "id": "1801",
+      "instructor": "Douglas Kern",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:30pm",
+      "end": "9:10pm",
+      "building": "TWS",
+      "room": "1106"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

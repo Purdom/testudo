@@ -1,0 +1,25 @@
+{
+  "id": "ARHU318A",
+  "title": "Writers' House Colloquium: Creative Writing Across Languages and Cultures; Poetry Colloquium",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jessica Hammack",
+      "seats": "15,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "7:00pm",
+      "end": "8:15pm",
+      "building": "QAN",
+      "room": "1132"
+    }
+  ],
+  "term": "201801",
+  "department": "Arts and Humanities"
+}

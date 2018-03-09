@@ -1,0 +1,26 @@
+{
+  "id": "ANSC644",
+  "title": "Molecular and Cellular Endocrinology",
+  "credits": "3",
+  "description": "Restriction: Must not have completed ANSC444.\nCredit only granted for: ANSC444,ANSC489I, ANSC644, or ANSC688I.\nFormerly: ANSC688I.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Monica VanKlompenberg",
+      "seats": "5,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ANS",
+      "room": "0412"
+    }
+  ],
+  "term": "201801",
+  "department": "Animal Science"
+}

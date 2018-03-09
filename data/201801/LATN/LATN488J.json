@@ -1,0 +1,27 @@
+{
+  "id": "LATN488J",
+  "title": "Latin Readings; Sublime Excess: The Poet Lucan",
+  "credits": "3",
+  "description": "This course will introduce you to the epic poet Lucan and his influential Civil War. Lucans age was marked by a vigorous reaction against the literature of the late Republic and the Augustan period, an approach that could perhaps be defined as \"anti-classical.\" The young poet constantly pushed the envelope in what he wrote, mixing genres, adopting a hyperbolic and theatrically excessive tone, a strident and almost savage moralism, and a grandiose rhetorical display. Violently artistic, the poet is a perfect exponent of the literary culture of the time of Nero. A few examples of the topics we will cover are the relationship of Lucan to previous literary, historical, and rhetorical traditions, as well as his strikingly \"baroque\" literary style. Primary readings are in Latin.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Francisco Barrenechea",
+      "seats": "7,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "7:40pm",
+      "building": "MMH",
+      "room": "1218"
+    }
+  ],
+  "term": "201801",
+  "department": "Latin"
+}

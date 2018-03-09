@@ -1,0 +1,25 @@
+{
+  "id": "ENTS669F",
+  "title": "Special Topics in Computing; Introduction to Optimization",
+  "credits": "3",
+  "description": "Also offered as ENEE469O. Credit granted for ENTS669F or ENEE469O.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andre Tits",
+      "seats": "10,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ATL",
+      "room": "2416"
+    }
+  ],
+  "term": "201801",
+  "department": "Telecommunications"
+}

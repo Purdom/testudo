@@ -1,0 +1,27 @@
+{
+  "id": "EDCI297",
+  "title": "Students, Schooling, and Communities",
+  "credits": "3",
+  "description": "Corequisite: TLPL251.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jamar Perry,",
+      "seats": "25,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "EDU",
+      "room": "2121"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

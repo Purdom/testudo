@@ -1,0 +1,27 @@
+{
+  "id": "HDCC209B",
+  "title": "Practicum in Digital Cultures and Creativity",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Krista Caballero,",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "5:15pm",
+      "building": "PFR",
+      "room": "0111"
+    }
+  ],
+  "term": "201801",
+  "department": "Design Cultures and Creativity"
+}

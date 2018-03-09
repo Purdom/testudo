@@ -1,0 +1,27 @@
+{
+  "id": "ARCH400",
+  "title": "Architecture Design Studio I",
+  "credits": "6",
+  "description": "Restriction: Must be in a major in ARCH-Architecture Program; and permission of ARCH-Architecture Program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Abrams",
+      "seats": "90,",
+      "open-seats": "62,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "6:00pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

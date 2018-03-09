@@ -1,0 +1,39 @@
+{
+  "id": "ENST481",
+  "title": "Ecological Design",
+  "credits": "3",
+  "description": "Prerequisite: (MATH120 or MATH140; or must have completed MATH220); and (PHYS121 and CHEM131); and (BSCI361; or students who have taken courses with comparable content may contact the department). Or permission of instructor.\nRestriction: Permission of AGNR-Environmental Science & Technology department.\nAlso offered as: ENST681, MEES681.\nCredit only granted for: ENST481, ENST681, or MEES681.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andrea Yarberry",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ANS",
+      "room": "0422"
+    },
+    {
+      "id": "0102",
+      "instructor": "Andrea Yarberry",
+      "seats": "20,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ANS",
+      "room": "0422"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "BSCI420",
+  "title": "Cell Biology Lectures",
+  "credits": "3",
+  "description": "Prerequisite: BSCI330, BSCI222, CHEM231, and CHEM232.\nCredit only granted for: BSCI420 or BSCI421.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sougata Roy,",
+      "seats": "48,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "MCB",
+      "room": "1207"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

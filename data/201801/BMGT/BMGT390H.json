@@ -1,0 +1,27 @@
+{
+  "id": "BMGT390H",
+  "title": "Systems Thinking for Managerial Decision Making",
+  "credits": "3",
+  "description": "Prerequisite: ENES190 or BMGT190; and must be a QUEST student.\nAlso offered as: ENES390.\nCredit only granted for: BMGT390, ENES390, or ENES498X.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Joseph Bailey",
+      "seats": "45,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "HJP",
+      "room": "2242"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

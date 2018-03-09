@@ -1,0 +1,25 @@
+{
+  "id": "BUSM755",
+  "title": "Organizational Change",
+  "credits": "2",
+  "description": "Prerequisite: BUSM600.\nRestriction: Must be in Business and Management (Master's) program; or permission of BMGT-Robert H. Smith School of Business.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Myeong-Gu Seo",
+      "seats": "50,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "VMH",
+      "room": "1511"
+    }
+  ],
+  "term": "201801",
+  "department": "Full-Time MBA Program"
+}

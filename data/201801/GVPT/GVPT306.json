@@ -1,0 +1,27 @@
+{
+  "id": "GVPT306",
+  "title": "Global Environmental Politics",
+  "credits": "3",
+  "description": "Prerequisite: GVPT200.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jennifer Wallace",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TYD",
+      "room": "2111"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

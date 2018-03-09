@@ -1,0 +1,75 @@
+{
+  "id": "BSCI170",
+  "title": "Principles of Molecular & Cellular Biology",
+  "credits": "3",
+  "description": "Prerequisite: Must have math eligibility of MATH120 or higher.\nRecommended: For Science majors.\nCredit only granted for: BSCI105 or BSCI170.\nFormerly: BSCI105.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Keller",
+      "seats": "265,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ESJ",
+      "room": "0202"
+    },
+    {
+      "id": "0201",
+      "instructor": "Patricia Shields",
+      "seats": "195,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ESJ",
+      "room": "0224"
+    },
+    {
+      "id": "0301",
+      "instructor": "Reid Compton",
+      "seats": "211,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ESJ",
+      "room": "0224"
+    },
+    {
+      "id": "0401",
+      "instructor": "Michael Keller",
+      "seats": "195,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ESJ",
+      "room": "0224"
+    },
+    {
+      "id": "SES1",
+      "instructor": "James Sniezek",
+      "seats": "24,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:00pm",
+      "end": "8:50pm",
+      "building": "PLS",
+      "room": "1130"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

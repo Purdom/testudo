@@ -1,0 +1,27 @@
+{
+  "id": "FMSC431",
+  "title": "Family Crises and Intervention",
+  "credits": "3",
+  "description": "Prerequisite: PSYC100.\nCredit only granted for: FMSC431 or FMST431.\nFormerly: FMST431.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robyn Zeiger",
+      "seats": "50,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "SPH",
+      "room": "1303"
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

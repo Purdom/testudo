@@ -1,0 +1,38 @@
+{
+  "id": "KNES152O",
+  "title": "Physical Education Activities: Coed; Soccer (Intermediate)",
+  "credits": "1",
+  "description": "Restriction: Must be in a major within SPHL-Kinesiology department.\n\nSchedule adjustment is the first week of class only. Attendance is required on the first day of class. Students must pay a $40 instructional materials fee.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0001",
+      "instructor": "Alexander Chyu",
+      "seats": "24,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "12:00pm",
+      "building": "ARM",
+      "room": "1122"
+    },
+    {
+      "id": "0002",
+      "instructor": "Alexander Chyu",
+      "seats": "24,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "12:00pm",
+      "building": "ARM",
+      "room": "1122"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "BUSI758J",
+  "title": "Special Topics in Business; SAP Software & Solutions / Enterprise Resource Planning",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Hongyi Zhang",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "VMH",
+      "room": "3522"
+    }
+  ],
+  "term": "201801",
+  "department": "Part-Time MBA Program"
+}

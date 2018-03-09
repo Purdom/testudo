@@ -1,0 +1,27 @@
+{
+  "id": "BSCI258",
+  "title": "College Park Scholars Internship",
+  "credits": "2",
+  "description": "(Sponsoring Dept.: BSCI).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "8005",
+      "instructor": "Reid Compton",
+      "seats": "90,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

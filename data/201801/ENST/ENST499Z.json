@@ -1,0 +1,27 @@
+{
+  "id": "ENST499Z",
+  "title": "Special Topics in Environmental Science and Technology; Introductory University Instruction",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lance Yonkos",
+      "seats": "1,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

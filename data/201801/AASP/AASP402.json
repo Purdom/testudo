@@ -1,0 +1,27 @@
+{
+  "id": "AASP402",
+  "title": "Classic Readings in African American Studies",
+  "credits": "3",
+  "description": "Prerequisite: AASP202 or AASP100.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shane Walsh",
+      "seats": "30,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "SKN",
+      "room": "1115"
+    }
+  ],
+  "term": "201801",
+  "department": "African American Studies"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ENST430",
+  "title": "Wetland Soils",
+  "credits": "3",
+  "description": "Prerequisite: ENST200.\nCredit only granted for: ENST430, ENST630, or NRSC461.\nFormerly: NRSC461.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Martin Rabenhorst",
+      "seats": "14,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "HBK",
+      "room": "0123"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

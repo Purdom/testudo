@@ -1,0 +1,27 @@
+{
+  "id": "HIST429J",
+  "title": "Special Topics in History; History of the Atlantic World, 1450-1750",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alejandro Caneque",
+      "seats": "22,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TLF",
+      "room": "2108"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "NAVY402",
+  "title": "Fundamentals of Maneuver Warfare",
+  "credits": "3",
+  "description": "Recommended: NAVY100, NAVY101, NAVY200, and NAVY108.\nRestriction: Permission of UGST-Navy ROTC.\nAdditional information: Priority in enrollment will be given to students in the NROTC program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nathaniel Kaine",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ARM",
+      "room": "0120"
+    }
+  ],
+  "term": "201801",
+  "department": "Navy"
+}

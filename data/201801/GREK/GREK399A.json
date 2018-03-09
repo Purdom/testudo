@@ -1,0 +1,27 @@
+{
+  "id": "GREK399A",
+  "title": "Topics in Advanced Modern Greek Language and Culture; Advanced Modern Greek II",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Polyvia Parara",
+      "seats": "7,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "MMH",
+      "room": "1218"
+    }
+  ],
+  "term": "201801",
+  "department": "Greek"
+}

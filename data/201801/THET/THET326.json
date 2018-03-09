@@ -1,0 +1,27 @@
+{
+  "id": "THET326",
+  "title": "Viewpoints",
+  "credits": "3",
+  "description": "Prerequisite: THET222, THET223, THET116, and TDPS201; and permission of ARHU-School of Theatre, Dance & Performance Studies department.\nCredit only granted for: THET328V or THET326.\nFormerly: THET328V.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Jennifer Barclay Newsham",
+      "seats": "20,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "PAC",
+      "room": "2740"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre"
+}

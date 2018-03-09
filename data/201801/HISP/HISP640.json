@@ -1,0 +1,26 @@
+{
+  "id": "HISP640",
+  "title": "Historic Preservation Law, Advocacy and Public Policy",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ARCH-Historic Preservation Program.\nCredit only granted for: HISP619C or HISP640.\nFormerly: HISP619C.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Frederick Stachura",
+      "seats": "15,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "ARC",
+      "room": "1125"
+    }
+  ],
+  "term": "201801",
+  "department": "Historic Preservation"
+}

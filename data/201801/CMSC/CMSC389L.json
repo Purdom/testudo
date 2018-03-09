@@ -1,0 +1,25 @@
+{
+  "id": "CMSC389L",
+  "title": "Special Topics in Computer Science; Practical Cloud Computing with AWS",
+  "credits": "1",
+  "description": "Prerequisite: CMSC216 and CMSC330 with a grade of C- or better. Restriction: Permission of CMSN-Computer Science department.\n\nStudents are provided with a practical and project- oriented introduction to cloud computing with Amazon Web Services (AWS). They will learn how to build applications using a variety of AWS services, including S3, EC2, Lambda, and Beanstalk. Culminating with a final resume-worthy project that will be built, deployed, and demoed to the class.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Neil Spring",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "CSI",
+      "room": "3118"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "BUMO751",
+  "title": "Implementing Strategy: Organizing to Compete",
+  "credits": "2",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in BUSI690. And must have completed MBA core requirements; or permission of BMGT-Robert H. Smith School of Business.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "BA01",
+      "instructor": "Paulo Prochno",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:25pm",
+      "end": "10:00pm",
+      "building": "BA",
+      "room": "103"
+    },
+    {
+      "id": "DC01",
+      "instructor": "Christine Beckman",
+      "seats": "50,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:25pm",
+      "end": "10:00pm",
+      "building": "DC",
+      "room": "C3"
+    }
+  ],
+  "term": "201801",
+  "department": "Management and Organization"
+}

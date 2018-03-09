@@ -1,0 +1,26 @@
+{
+  "id": "SLAA772",
+  "title": "Bilingualism and Multilingualism",
+  "credits": "3",
+  "description": "Prerequisite: SLAA610; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kira Gor",
+      "seats": "10,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "JMZ",
+      "room": "1123"
+    }
+  ],
+  "term": "201801",
+  "department": "Second Language Acquisition and Application"
+}

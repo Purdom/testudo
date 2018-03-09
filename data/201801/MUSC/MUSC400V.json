@@ -1,0 +1,27 @@
+{
+  "id": "MUSC400V",
+  "title": "Music Pedagogy",
+  "credits": "3",
+  "description": "Prerequisite: MUSP315; and permission of ARHU-School of Music department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Diba Alvi",
+      "seats": "25,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PAC",
+      "room": "2201"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

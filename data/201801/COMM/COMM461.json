@@ -1,0 +1,27 @@
+{
+  "id": "COMM461",
+  "title": "Voices of Public Leadership in the Twentieth Century",
+  "credits": "3",
+  "description": "Study of the use of speaking in the power struggles of the twentieth century. Focus is on important speakers of the century, their social and policy influence, and the struggle to expand the diversity of voices with power in the public sphere.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Carly Woods",
+      "seats": "35,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "SKN",
+      "room": "1115"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "HISP645",
+  "title": "Archaeology and Preservation",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ARCH-Historic Preservation Program.\nCredit only granted for: HISP619A or HISP645.\nFormerly: HISP619A.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Donald Linebaugh",
+      "seats": "15,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Historic Preservation"
+}

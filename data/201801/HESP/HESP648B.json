@@ -1,0 +1,73 @@
+{
+  "id": "HESP648B",
+  "title": "Clinical Practice in Speech; Therapeutic Procedures",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "2101",
+      "instructor": "Instructor: TBA",
+      "seats": "6,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "9:30am",
+      "end": "11:50am",
+      "building": "LEF",
+      "room": "0135"
+    },
+    {
+      "id": "2701",
+      "instructor": "Instructor: TBA",
+      "seats": "6,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "9:30am",
+      "end": "11:50am",
+      "building": "LEF",
+      "room": "0135"
+    },
+    {
+      "id": "2801",
+      "instructor": "Instructor: TBA",
+      "seats": "6,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "9:30am",
+      "end": "11:50am",
+      "building": "LEF",
+      "room": "0135"
+    },
+    {
+      "id": "3601",
+      "instructor": "Instructor: TBA",
+      "seats": "6,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "9:30am",
+      "end": "11:50am",
+      "building": "LEF",
+      "room": "0135"
+    },
+    {
+      "id": "3701",
+      "instructor": "Instructor: TBA",
+      "seats": "6,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "9:30am",
+      "end": "11:50am",
+      "building": "LEF",
+      "room": "0135"
+    }
+  ],
+  "term": "201801",
+  "department": "Hearing and Speech Sciences"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "ENME272",
+  "title": "Introduction to Computer Aided Design",
+  "credits": "2",
+  "description": "Prerequisite: ENES100; and must have completed or be concurrently enrolled in MATH141.\nRestriction: Permission of ENGR-Mechanical Engineering department.\nCredit only granted for: ENME 414 or ENME272.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Babak Eslami",
+      "seats": "42,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "8:00am",
+      "end": "9:50am",
+      "building": "KEB",
+      "room": "2111"
+    },
+    {
+      "id": "0201",
+      "instructor": "Babak Eslami",
+      "seats": "42,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "8:00am",
+      "end": "9:50am",
+      "building": "KEB",
+      "room": "2111"
+    },
+    {
+      "id": "0301",
+      "instructor": "Jarred Heigel",
+      "seats": "42,",
+      "open-seats": "28,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "8:00am",
+      "end": "9:50am",
+      "building": "KEB",
+      "room": "2111"
+    },
+    {
+      "id": "0401",
+      "instructor": "Jarred Heigel",
+      "seats": "42,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "8:00am",
+      "end": "9:50am",
+      "building": "KEB",
+      "room": "2111"
+    },
+    {
+      "id": "0501",
+      "instructor": "Babak Eslami",
+      "seats": "42,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "8:00am",
+      "end": "9:50am",
+      "building": "KEB",
+      "room": "2111"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "EDSP410",
+  "title": "Instruction of Students with Severe Disabilities II",
+  "credits": "3",
+  "description": "Restriction: Must be in Special Education program.\nAlso offered as: EDSP614.\nCredit only granted for: EDSP410 or EDSP614.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sarah Mallory",
+      "seats": "35,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "0220"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Special"
+}

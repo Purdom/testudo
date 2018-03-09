@@ -1,0 +1,27 @@
+{
+  "id": "SOCY405",
+  "title": "Scarcity and Modern Society",
+  "credits": "3",
+  "description": "Prerequisite: 6 credits in SOCY courses.\nCredit only granted for: SOCY305 or SOCY405.\nFormerly: SOCY305.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Kurt Finsterbusch",
+      "seats": "29,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ASY",
+      "room": "3219"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

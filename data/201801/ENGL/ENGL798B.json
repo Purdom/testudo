@@ -1,0 +1,26 @@
+{
+  "id": "ENGL798B",
+  "title": "Critical Theory Colloquium",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christina Walter",
+      "seats": "15,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TBA",
+      "start": "",
+      "end": "",
+      "building": "TWS",
+      "room": "3132"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

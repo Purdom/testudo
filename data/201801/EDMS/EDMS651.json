@@ -1,0 +1,26 @@
+{
+  "id": "EDMS651",
+  "title": "General Linear Models II",
+  "credits": "3",
+  "description": "Prerequisite: EDMS646; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ji Seung Yang",
+      "seats": "30,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "ASY",
+      "room": "3215"
+    }
+  ],
+  "term": "201801",
+  "department": "Measurement, Statistics, and Evaluation"
+}

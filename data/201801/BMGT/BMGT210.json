@@ -1,0 +1,25 @@
+{
+  "id": "BMGT210",
+  "title": "Foundations of Accounting for Non Business Majors",
+  "credits": "3",
+  "description": "Restriction: Must not have completed BMGT221; and must not be in a major in the R.H. Smith School of Business.\nCredit only granted for: (BMGT220 and BMGT221) or BMGT210.\nAdditional information: Does not apply to a Smith School degree. Students pursuing a Smith School minor who have completed both BMGT220 and BMGT221 may substitute these courses for BMGT210. Credit will not be given for both BMGT210 and the combination of BMGT220 and BMGT221.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Eugene Cantor",
+      "seats": "60,",
+      "open-seats": "25,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "SQH",
+      "room": "1119"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

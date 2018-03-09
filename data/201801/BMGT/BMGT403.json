@@ -1,0 +1,37 @@
+{
+  "id": "BMGT403",
+  "title": "Systems Analysis and Design",
+  "credits": "3",
+  "description": "Prerequisite: BMGT301; or students who have taken courses with comparable content may contact the department.\nRecommended: BMGT302.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Hassan Ibrahim",
+      "seats": "38,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "2203"
+    },
+    {
+      "id": "0201",
+      "instructor": "Hassan Ibrahim",
+      "seats": "38,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "VMH",
+      "room": "2203"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

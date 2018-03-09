@@ -1,0 +1,26 @@
+{
+  "id": "ENTS759B",
+  "title": "Advanced Topics in Communications; Wireless OFDM Systems",
+  "credits": "3",
+  "description": "Prerequisite: ENTS622. Restricted to ENTS majors.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alejandra Mercado",
+      "seats": "30,",
+      "open-seats": "26,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "JMP",
+      "room": "1109"
+    }
+  ],
+  "term": "201801",
+  "department": "Telecommunications"
+}

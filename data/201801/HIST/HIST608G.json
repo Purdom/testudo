@@ -1,0 +1,26 @@
+{
+  "id": "HIST608G",
+  "title": "General Seminar; Colonial Latin America",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alejandro Caneque",
+      "seats": "12,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:00pm",
+      "end": "8:30pm",
+      "building": "TLF",
+      "room": "2100"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

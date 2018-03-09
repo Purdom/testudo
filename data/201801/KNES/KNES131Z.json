@@ -1,0 +1,26 @@
+{
+  "id": "KNES131Z",
+  "title": "Physical Education Activities: Coed; Beginning Softball",
+  "credits": "1",
+  "description": "Attendance is required of all students the first day in Ritchie Arena (1100), thereafter the class will meet on the ENGR Fields. Schedule adjustment is the first week of class only. Students must pay a $40 instructional materials fee.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0001",
+      "instructor": "Terrel Everette",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "1:00pm",
+      "end": "3:00pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

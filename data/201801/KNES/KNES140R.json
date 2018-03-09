@@ -1,0 +1,26 @@
+{
+  "id": "KNES140R",
+  "title": "Physical Education Activities: Coed; Trampoline (Beginning)",
+  "credits": "1",
+  "description": "Attendance is required on the first day of class. Scheduled adjustment is the first week of classes only. Students must pay a $40 instructional materials fee.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0001",
+      "instructor": "Joshua Montfort",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "12:00pm",
+      "building": "SPH",
+      "room": "1120"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "FMSC641",
+  "title": "Couples Therapy, Theory, and Techniques",
+  "credits": "3",
+  "description": "Prerequisite: FMSC640.\nCredit only granted for: FMSC641 or FMSC641.\nFormerly: FMST641.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Norman Epstein",
+      "seats": "15,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "9:00am",
+      "end": "11:45am",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

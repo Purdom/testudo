@@ -1,0 +1,25 @@
+{
+  "id": "GEOL393",
+  "title": "Geology Senior Thesis I: Proposal",
+  "credits": "3",
+  "description": "Prerequisite: PHYS141 and MATH141. And CHEM131 and CHEM132; or (CHEM135 and CHEM136). And must have completed at least two upper-level geology courses and be concurrently enrolled in a third.\nRestriction: Junior standing or higher; and must be in Geology program; and non-degree-seeking students require the permission of the instructor.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Philip Piccoli",
+      "seats": "10,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:30pm",
+      "end": "6:30pm",
+      "building": "PLS",
+      "room": "1158"
+    }
+  ],
+  "term": "201801",
+  "department": "Geology"
+}

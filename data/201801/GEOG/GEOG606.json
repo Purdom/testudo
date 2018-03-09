@@ -1,0 +1,26 @@
+{
+  "id": "GEOG606",
+  "title": "Quantitative Spatial Analysis",
+  "credits": "3",
+  "description": "Prerequisite: GEOG305; or permission of BSOS-Geography department.\nCredit only granted for: GEOG605 or GEOG606.\nFormerly: GEOG605.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Giovanni Baiocchi",
+      "seats": "24,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "LEF",
+      "room": "1171"
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

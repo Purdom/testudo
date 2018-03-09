@@ -1,0 +1,27 @@
+{
+  "id": "ENCE453",
+  "title": "Computer-Aided Structural Analysis",
+  "credits": "3",
+  "description": "Prerequisite: ENCE353; and permission of ENGR-Civil & Environmental Engineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Amde Amde",
+      "seats": "32,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "EGR",
+      "room": "2154"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

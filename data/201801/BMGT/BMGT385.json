@@ -1,0 +1,25 @@
+{
+  "id": "BMGT385",
+  "title": "Operations Management",
+  "credits": "3",
+  "description": "Credit only granted for: BMGT385 or ENME426.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kazim Ruhi",
+      "seats": "50,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1333"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ENGL479M",
+  "title": "Selected Topics in English and American Literature after 1800; Roots, Music and Film",
+  "credits": "3",
+  "description": "Prerequisite: Two English course s in literature or permission of ARHU-English department. Repeatable to 9 credits if content differs.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Barry Pearson",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "TWS",
+      "room": "0201"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

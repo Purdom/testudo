@@ -1,0 +1,26 @@
+{
+  "id": "KNES601",
+  "title": "Epidemiology of Physical Activity",
+  "credits": "3",
+  "description": "Prerequisite: KNES600; and must have completed an undergraduate statistics course (e.g., STAT100 or equivalent).",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jennifer Roberts",
+      "seats": "15,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "SPH",
+      "room": "0225"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

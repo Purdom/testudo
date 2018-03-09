@@ -1,0 +1,38 @@
+{
+  "id": "ENME635",
+  "title": "Energy Systems Analysis",
+  "credits": "3",
+  "description": "Rankine cycles with nonazeotropic working fluid mixtures, two-, multi- and variable-stage absorption cycles and vapor compression cycles with solution circuits. Power generation cycles with working fluid mixtures. Development of rules for finding all possible cycles suiting a given application or the selection of the best alternatives.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "K Radermacher,",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "JMP",
+      "room": "2222"
+    },
+    {
+      "id": "ME01",
+      "instructor": "K Radermacher,",
+      "seats": "15,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

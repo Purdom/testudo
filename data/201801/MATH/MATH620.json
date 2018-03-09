@@ -1,0 +1,26 @@
+{
+  "id": "MATH620",
+  "title": "Algebraic Number Theory I",
+  "credits": "3",
+  "description": "Prerequisite: MATH601.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Niranjan Ramachandran",
+      "seats": "25,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "MTH",
+      "room": "1308"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "BIOE631",
+  "title": "Biosensor Techniques, Instrumentation, and Applications",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ENGR-Fischell Department of Bioengineering department.\nCredit only granted for: BIOE631, BIOE689Z, or CHPH718Z.\nFormerly: BIOE689Z.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ian White",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ESJ",
+      "room": "1215"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

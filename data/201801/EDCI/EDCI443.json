@@ -1,0 +1,39 @@
+{
+  "id": "EDCI443",
+  "title": "Literature for Children and Youth",
+  "credits": "3",
+  "description": "Restriction: Must be in Elementary Education program; or must be a Pre-Education Major.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Charlotte Healy",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SQH",
+      "room": "1117"
+    },
+    {
+      "id": "0201",
+      "instructor": "Montserrat Cubillos Guzman",
+      "seats": "30,",
+      "open-seats": "23,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "1:00pm",
+      "end": "3:45pm",
+      "building": "EDU",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

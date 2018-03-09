@@ -1,0 +1,37 @@
+{
+  "id": "BUFN764",
+  "title": "Quantitative Investment Strategy",
+  "credits": "2",
+  "description": "Prerequisite: BUFN763.\nRestriction: Must be in a major in BMGT-Robert H. Smith School of Business.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Russell Wermers",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "VMH",
+      "room": "1333"
+    },
+    {
+      "id": "0502",
+      "instructor": "Russell Wermers",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "VMH",
+      "room": "1333"
+    }
+  ],
+  "term": "201801",
+  "department": "Finance"
+}

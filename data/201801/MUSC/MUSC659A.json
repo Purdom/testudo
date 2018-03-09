@@ -1,0 +1,26 @@
+{
+  "id": "MUSC659A",
+  "title": "Seminar in Repertoire and Pedagogy; Choral",
+  "credits": "2 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Edward Maclary",
+      "seats": "6,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "PAC",
+      "room": "3164"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "MUSC669F",
+  "title": "Orchestral Excerpts for String Players; BASS",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Oppelt",
+      "seats": "15,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:00pm",
+      "end": "7:15pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

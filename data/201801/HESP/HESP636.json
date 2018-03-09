@@ -1,0 +1,25 @@
+{
+  "id": "HESP636",
+  "title": "Geriatric Audiology",
+  "credits": "3",
+  "description": "Prerequisite: HESP606 and HESP700.\nRestriction: Must be in one of the following programs (Hearing and Speech Sciences: Ph.D. (Doctoral); Clinical Audiology: Au.D. or Ph.D. (Doctoral); Hearing and Speech Sciences: M.A. (Master's)).",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sandra Gordon-Salant",
+      "seats": "15,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "LEF",
+      "room": "0135"
+    }
+  ],
+  "term": "201801",
+  "department": "Hearing and Speech Sciences"
+}

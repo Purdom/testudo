@@ -1,0 +1,26 @@
+{
+  "id": "URSP673",
+  "title": "Community Development",
+  "credits": "3",
+  "description": "Examines and identifies planning approaches and methods that can help communities - particularly low income communities - become stronger, more cohesive, and more capable of serving their interests. Examines urban poverty; urban politics; history, concepts and practice of community development; and community development approaches and methods.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Casey Dawkins",
+      "seats": "25,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:40pm",
+      "building": "ARC",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Urban Studies and Planning"
+}

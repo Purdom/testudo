@@ -1,0 +1,39 @@
+{
+  "id": "CHEM276",
+  "title": "General Chemistry and Energetics - Majors",
+  "credits": "2",
+  "description": "Prerequisite: Minimum grade of C- in CHEM241 and CHEM242; or minimum grade of C- in CHEM247.\nCorequisite: CHEM277.\nRestriction: Must be in one of the following programs (Chemistry; Biochemistry).\nCredit only granted for: CHEM113, CHEM153, CHEM271 or CHEM276.\nFormerly: CHEM153.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0224",
+      "instructor": "Andrei Vedernikov",
+      "seats": "45,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "WF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ATL",
+      "room": "2400"
+    },
+    {
+      "id": "0225",
+      "instructor": "Andrei Vedernikov",
+      "seats": "45,",
+      "open-seats": "28,",
+      "waitlist": "0",
+      "days": "WF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "ATL",
+      "room": "2400"
+    }
+  ],
+  "term": "201801",
+  "department": "Chemistry"
+}

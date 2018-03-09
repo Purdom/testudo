@@ -1,0 +1,26 @@
+{
+  "id": "ENEE681",
+  "title": "Electromagnetic Theory II",
+  "credits": "3",
+  "description": "Prerequisite: ENEE381; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Edward Ott",
+      "seats": "30,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "EGR",
+      "room": "3106"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

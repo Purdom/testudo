@@ -1,0 +1,86 @@
+{
+  "id": "MUSC251",
+  "title": "Advanced Theory of Music II",
+  "credits": "4",
+  "description": "Prerequisite: Minimum grade of C- in MUSC250.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Daniel Zimmerman",
+      "seats": "6,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "PAC",
+      "room": "3164"
+    },
+    {
+      "id": "0102",
+      "instructor": "Daniel Zimmerman",
+      "seats": "6,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "8:00am",
+      "end": "9:15am",
+      "building": "PAC",
+      "room": "3164"
+    },
+    {
+      "id": "0201",
+      "instructor": "Daniel Zimmerman",
+      "seats": "6,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PAC",
+      "room": "3164"
+    },
+    {
+      "id": "0202",
+      "instructor": "Daniel Zimmerman",
+      "seats": "6,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PAC",
+      "room": "3164"
+    },
+    {
+      "id": "0301",
+      "instructor": "Dora Hanninen",
+      "seats": "6,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PAC",
+      "room": "3168"
+    },
+    {
+      "id": "0302",
+      "instructor": "Dora Hanninen",
+      "seats": "6,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PAC",
+      "room": "3168"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

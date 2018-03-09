@@ -1,0 +1,25 @@
+{
+  "id": "PSYC623",
+  "title": "Child Psychopathology",
+  "credits": "3",
+  "description": "Restriction: Permission of instructor; and must be in one of the following programs (Psychology (Master's); Psychology (Doctoral)).",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "PCC1",
+      "instructor": "Michael Meinzer",
+      "seats": "40,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "6:00pm",
+      "end": "9:15pm",
+      "building": "BPS",
+      "room": "1140B"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

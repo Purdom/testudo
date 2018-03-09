@@ -1,0 +1,27 @@
+{
+  "id": "GVPT482H",
+  "title": "Government and Politics of Latin America",
+  "credits": "3",
+  "description": "Restriction: Must be in Government & Politics program; or must be in Government & Politics: International Relations program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Isabella Alcaniz",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "SQH",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

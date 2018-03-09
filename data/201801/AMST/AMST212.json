@@ -1,0 +1,27 @@
+{
+  "id": "AMST212",
+  "title": "Diversity in American Culture",
+  "credits": "3",
+  "description": "Exploration of the role of diversity in the shaping of American culture. Special emphasis will be placed on the multicultural origins of American popular and material culture, such as foodways and entertainment, and on the experience of \"Americanization.\"",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shoji Sanders",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SQH",
+      "room": "1123"
+    }
+  ],
+  "term": "201801",
+  "department": "American Studies"
+}

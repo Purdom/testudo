@@ -1,0 +1,27 @@
+{
+  "id": "CCJS234",
+  "title": "Law of Criminal Investigation",
+  "credits": "3",
+  "description": "Prerequisite: CCJS100 and CCJS230.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Salem",
+      "seats": "100,",
+      "open-seats": "61,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "6:00pm",
+      "end": "8:30pm",
+      "building": "TYD",
+      "room": "0117"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

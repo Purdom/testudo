@@ -1,0 +1,26 @@
+{
+  "id": "HESP639P",
+  "title": "Special Topics in Hearing and Speech Sciences; Seminar in Interprofessional Collaborative Practice",
+  "credits": "2",
+  "description": "Topics include: a case study in interprofessional collaboration and decision making, professional identity (SLP, Audiology, PT, OT, Social Work, Psychologist, etc), and teamwork dynamics. Format is blended.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yasmeen Shah",
+      "seats": "20,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "LEF",
+      "room": "0104A"
+    }
+  ],
+  "term": "201801",
+  "department": "Hearing and Speech Sciences"
+}

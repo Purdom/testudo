@@ -1,0 +1,26 @@
+{
+  "id": "BIOL709R",
+  "title": "Selected Advanced Topics in Biology; Membranes and Biological Interfaces",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sergei Sukharev",
+      "seats": "7,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "PLS",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "Biology"
+}

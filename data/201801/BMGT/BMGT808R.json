@@ -1,0 +1,26 @@
+{
+  "id": "BMGT808R",
+  "title": "Special Topics in Information Systems; Research Seminar in Decision, Operations and Information Technologies",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sivakumar Viswanathan",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "2:00pm",
+      "end": "3:30pm",
+      "building": "VMH",
+      "room": "1335"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "HESP498C",
+  "title": "Seminar; Special Topics in Pathology: Cochlear Implants and Tinnitus",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nicole Nguyen",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "LEF",
+      "room": "1201"
+    }
+  ],
+  "term": "201801",
+  "department": "Hearing and Speech Sciences"
+}

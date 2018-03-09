@@ -1,0 +1,25 @@
+{
+  "id": "HONR278F",
+  "title": "Honors Seminar; Toward an Adaptable, Reusable, and Living Architecture",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Garth Rockcastle",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "TWS",
+      "room": "1321"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

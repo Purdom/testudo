@@ -1,0 +1,27 @@
+{
+  "id": "GREK212",
+  "title": "Intermediate Modern Greek II",
+  "credits": "3",
+  "description": "Prerequisite: GREK211; or permission of instructor.\nCredit only granted for: FOLA119G or GREK212.\nFormerly: FOLA119G.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Polyvia Parara",
+      "seats": "10,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "MMH",
+      "room": "1218"
+    }
+  ],
+  "term": "201801",
+  "department": "Greek"
+}

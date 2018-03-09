@@ -1,0 +1,26 @@
+{
+  "id": "INST737",
+  "title": "Introduction to Data Science",
+  "credits": "3",
+  "description": "Prerequisite: INST627; and (LBSC690, LBSC671, or INFM603). Or permission of instructor.\nRestriction: Permission of INFO-College of Information Studies.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "A Seyed",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:00pm",
+      "end": "8:45pm",
+      "building": "ATL",
+      "room": "2428"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

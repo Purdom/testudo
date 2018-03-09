@@ -1,0 +1,27 @@
+{
+  "id": "COMM470",
+  "title": "Listening",
+  "credits": "3",
+  "description": "The principles of listening behavior.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andrew Wolvin",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "SKN",
+      "room": "0104"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

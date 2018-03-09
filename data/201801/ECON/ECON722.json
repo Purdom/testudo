@@ -1,0 +1,26 @@
+{
+  "id": "ECON722",
+  "title": "Econometrics IV",
+  "credits": "3",
+  "description": "Prerequisite: ECON624; or permission of BSOS-Economics department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Guido Kuersteiner,",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "TYD",
+      "room": "0102"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

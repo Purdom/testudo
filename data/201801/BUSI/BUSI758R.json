@@ -1,0 +1,49 @@
+{
+  "id": "BUSI758R",
+  "title": "Special Topics in Business; Business Ethics",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "WW01",
+      "instructor": "David Weber",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:30pm",
+      "end": "6:00pm",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "WW02",
+      "instructor": "David Weber",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:30pm",
+      "end": "8:00pm",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "WW03",
+      "instructor": "David Weber",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:30pm",
+      "end": "8:00pm",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Part-Time MBA Program"
+}

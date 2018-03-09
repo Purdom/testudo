@@ -1,0 +1,39 @@
+{
+  "id": "MATH403",
+  "title": "Introduction to Abstract Algebra",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (MATH240, MATH461, MATH340); and 1 course with a minimum grade of C- from (MATH341, MATH241); and minimum grade of C- in MATH310. Or students who have taken courses with comparable content may contact the department.\nCredit only granted for: MATH402 or MATH403.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nathaniael Manning",
+      "seats": "30,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "MTH",
+      "room": "0101"
+    },
+    {
+      "id": "0201",
+      "instructor": "Roohollah Ebrahimian",
+      "seats": "25,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "MTH",
+      "room": "0302"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

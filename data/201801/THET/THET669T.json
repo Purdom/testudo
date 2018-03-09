@@ -1,0 +1,26 @@
+{
+  "id": "THET669T",
+  "title": "Independent Study; Performing the Digital Humanities",
+  "credits": "3",
+  "description": "Also offered as MITH741 and THET669T. Credit granted for MITH741, THET669T or DANC698T.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Susan Wiesner",
+      "seats": "15,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:00pm",
+      "end": "6:00pm",
+      "building": "HBK",
+      "room": "0301A"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "ENAE635",
+  "title": "Helicopter Stability and Control",
+  "credits": "3",
+  "description": "Prerequisite: ENAE631.\nRestriction: Permission of ENGR-Aerospace Engineering department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Roberto Celi",
+      "seats": "15,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "EGR",
+      "room": "3111"
+    },
+    {
+      "id": "HT01",
+      "instructor": "Roberto Celi",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SG01",
+      "instructor": "Roberto Celi",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "Roberto Celi",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "TV01",
+      "instructor": "Roberto Celi",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

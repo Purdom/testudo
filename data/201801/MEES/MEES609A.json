@@ -1,0 +1,26 @@
+{
+  "id": "MEES609A",
+  "title": "Professional Development in Marine Estuarine Environmental Science; Applied Environmental Science",
+  "credits": "2",
+  "description": "Students will be exposed to the range and diversity of environmental problems that are the focus of study within MEES through case studies of environmental challenges currently facing society. Students will gain knowledge of how scientific knowledge is applied to provide solutions to environmental problems, utilizing broad interdisciplinary perspec- tives. Taught over the Interactive Video Network (IVN).",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Carys Mitchelmore,",
+      "seats": "35,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "3:00pm",
+      "building": "HJP",
+      "room": "1213B"
+    }
+  ],
+  "term": "201801",
+  "department": "Marine-Estuarine-Environmental Sciences"
+}

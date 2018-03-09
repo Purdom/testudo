@@ -1,0 +1,27 @@
+{
+  "id": "SURV440",
+  "title": "Sampling Theory",
+  "credits": "3",
+  "description": "Prerequisite: STAT401 or STAT420.\nCredit only granted for: STAT440 or SURV440.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Elliott",
+      "seats": "15,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "8:30am",
+      "end": "10:00am",
+      "building": "LEF",
+      "room": "1208"
+    }
+  ],
+  "term": "201801",
+  "department": "Survey Methodology"
+}

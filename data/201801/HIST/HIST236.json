@@ -1,0 +1,27 @@
+{
+  "id": "HIST236",
+  "title": "History of Britain 1688 to Present",
+  "credits": "3",
+  "description": "British history from the Glorious Revolution of 1688 to the present. The revolution of 1688; the structure of 18th-century society and politics; economic and social change in the Industrial Revolution; 19th- and 20th-century political and social reform; imperialism; the impact of the First and Second World Wars on British society.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Julie Taddeo",
+      "seats": "40,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "KEY",
+      "room": "0126"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

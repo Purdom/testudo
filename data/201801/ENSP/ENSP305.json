@@ -1,0 +1,27 @@
+{
+  "id": "ENSP305",
+  "title": "Applied Quantitative Methods in Environmental Science and Policy",
+  "credits": "3",
+  "description": "Prerequisite: BIOM301, ECON321, GEOG306, PSYC200, or SOCY201; and (ENSP101 and ENSP102). And MATH120, MATH130, or MATH140; or must have completed MATH220.\nRestriction: Must be in a major in AGNR-Dean-Environmental Science & Policy Program; or permission of AGNR-Dean-Environmental Science & Policy Program.\nCredit only granted for: ENSP305 or AREC382.\nAdditional information: Applied topics covered in this course will supplement coursework in introductory statistics and mathematics; this course is not intended for students with significant previous advanced data analysis or statistical experience.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Annette Spivy",
+      "seats": "30,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "ANS",
+      "room": "0509"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Policy"
+}

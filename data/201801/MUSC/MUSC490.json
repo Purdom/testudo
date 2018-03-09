@@ -1,0 +1,37 @@
+{
+  "id": "MUSC490",
+  "title": "Conducting",
+  "credits": "2",
+  "description": "Prerequisite: MUSC251.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Edward Maclary",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PAC",
+      "room": "2201"
+    },
+    {
+      "id": "0201",
+      "instructor": "Edward Maclary",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "PAC",
+      "room": "2201"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

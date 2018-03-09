@@ -1,0 +1,26 @@
+{
+  "id": "ARCH628W",
+  "title": "Selected Topics in Architectural History; Writing Architecture in Practice",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lindsey May",
+      "seats": "5,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "9:00am",
+      "end": "11:40am",
+      "building": "ARC",
+      "room": "1125"
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

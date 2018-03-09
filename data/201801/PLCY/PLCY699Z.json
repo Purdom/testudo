@@ -1,0 +1,26 @@
+{
+  "id": "PLCY699Z",
+  "title": "Selected Topics Public Policy; Energy Policy",
+  "credits": "3",
+  "description": "For PLCY Majors or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Anna Ebers",
+      "seats": "20,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:15pm",
+      "end": "6:45pm",
+      "building": "VMH",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

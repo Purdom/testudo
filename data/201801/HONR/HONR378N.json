@@ -1,0 +1,25 @@
+{
+  "id": "HONR378N",
+  "title": "Advanced Honors Seminar; Research in Science and Public Policy for the U.S. National Security Agency",
+  "credits": "3",
+  "description": "To register, please contact: Professor Jordan Goodman, Physics Dept., at goodman@umd.edu.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jeffrey Starr,",
+      "seats": "20,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "CHM",
+      "room": "0124"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

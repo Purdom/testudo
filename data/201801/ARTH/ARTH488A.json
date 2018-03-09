@@ -1,0 +1,27 @@
+{
+  "id": "ARTH488A",
+  "title": "Colloquium in Art History; Ancient Mediterranean Portraiture",
+  "credits": "3",
+  "description": "This colloquium explores the appearance, production, and function of portrait sculptures in ancient Egypt, Greece, and Rome from roughly 3000 BC to the death of the emperor Constantine in AD 337. Coursework will center around the reading and discussion of academic articles, and incorporate projects that employ digital tools.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Emily Egan",
+      "seats": "10,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ASY",
+      "room": "4304"
+    }
+  ],
+  "term": "201801",
+  "department": "Art History & Archaeology"
+}

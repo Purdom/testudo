@@ -1,0 +1,26 @@
+{
+  "id": "HIST610",
+  "title": "Introduction to Museum Scholarship",
+  "credits": "3",
+  "description": "Also offered as: AMST655.\nCredit only granted for: AMST655, ANTH655, or HIST610.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mary Alexander",
+      "seats": "15,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "1:00pm",
+      "end": "3:45pm",
+      "building": "WDS",
+      "room": "1130"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

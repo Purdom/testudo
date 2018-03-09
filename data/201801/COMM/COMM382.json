@@ -1,0 +1,39 @@
+{
+  "id": "COMM382",
+  "title": "Essentials of Intercultural Communication",
+  "credits": "3",
+  "description": "Credit only granted for: COMM382 or COMM482.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Payne",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "SKN",
+      "room": "0104"
+    },
+    {
+      "id": "0201",
+      "instructor": "David Payne",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "SYM",
+      "room": "0215"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

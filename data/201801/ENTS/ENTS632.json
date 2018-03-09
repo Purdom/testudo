@@ -1,0 +1,38 @@
+{
+  "id": "ENTS632",
+  "title": "Telecommunications Marketing Management",
+  "credits": "3",
+  "description": "Restriction: Must be in Telecommunications (Master's) program.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Janet Wagner",
+      "seats": "40,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:30pm",
+      "end": "8:15pm",
+      "building": "SQH",
+      "room": "1105"
+    },
+    {
+      "id": "0201",
+      "instructor": "Janet Wagner",
+      "seats": "40,",
+      "open-seats": "26,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "SQH",
+      "room": "1105"
+    }
+  ],
+  "term": "201801",
+  "department": "Telecommunications"
+}

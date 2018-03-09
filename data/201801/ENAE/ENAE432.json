@@ -1,0 +1,27 @@
+{
+  "id": "ENAE432",
+  "title": "Control of Aerospace Systems",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in ENAE301 and ENAE283.\nRestriction: Junior standing or higher; and must be in Engineering: Aerospace program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Sanner",
+      "seats": "130,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "EGR",
+      "room": "1202"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

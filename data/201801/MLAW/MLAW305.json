@@ -1,0 +1,25 @@
+{
+  "id": "MLAW305",
+  "title": "Law and Legal Institutions in Social Context",
+  "credits": "3",
+  "description": "Prerequisite: MLAW304.\nRestriction: Must be a student in the Law and Society Minor.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Koulish",
+      "seats": "75,",
+      "open-seats": "33,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TWS",
+      "room": "1310"
+    }
+  ],
+  "term": "201801",
+  "department": "MPower Undergraduate Law Programs"
+}

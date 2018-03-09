@@ -1,0 +1,27 @@
+{
+  "id": "EDSP376",
+  "title": "Fundamentals of Sign Language",
+  "credits": "3",
+  "description": "Receptive and expressive skills in American Sign Language. Examination of the causes of deafness, characteristics of deaf education, and aspects of the culture of the deaf community.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Dunham",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "6:15pm",
+      "end": "7:30pm",
+      "building": "KNI",
+      "room": "1105"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Special"
+}

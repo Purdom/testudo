@@ -1,0 +1,27 @@
+{
+  "id": "HIST222",
+  "title": "Immigration and Ethnicity in America",
+  "credits": "3",
+  "description": "Also offered as: AAST222.\nCredit only granted for: AAST222, AAST298A, HIST219L, or HIST222.\nFormerly: HIST219L.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Chiles",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "KEY",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

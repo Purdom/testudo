@@ -1,0 +1,26 @@
+{
+  "id": "ENEE651",
+  "title": "Parallel Algorithms",
+  "credits": "3",
+  "description": "Prerequisite: CMSC451; or ENEE641; or students who have taken courses with comparable content may contact the department.\nAlso offered as: CMSC751.\nCredit only granted for: ENEE651, ENEE759K or CMSC751.\nFormerly: ENEE759K.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Uzi Vishkin",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "EGR",
+      "room": "2116"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

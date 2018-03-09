@@ -1,0 +1,25 @@
+{
+  "id": "ARTT455",
+  "title": "Three Dimensional Graphic Design",
+  "credits": "3",
+  "description": "Prerequisite: ARTT355, ARTT356, and ARTT357.\nRecommended: ARTT333.\nCredit only granted for: ARTT352 or ARTT455.\nFormerly: ARTT352.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Anne Kerns",
+      "seats": "25,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "3:00pm",
+      "building": "ASY",
+      "room": "2322"
+    }
+  ],
+  "term": "201801",
+  "department": "Art Studio"
+}

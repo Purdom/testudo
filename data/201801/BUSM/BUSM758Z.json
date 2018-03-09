@@ -1,0 +1,25 @@
+{
+  "id": "BUSM758Z",
+  "title": "Special Topics in Business; Integrative Capstone",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shreevardhan Lele",
+      "seats": "50,",
+      "open-seats": "31,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "VMH",
+      "room": "1505"
+    }
+  ],
+  "term": "201801",
+  "department": "Full-Time MBA Program"
+}

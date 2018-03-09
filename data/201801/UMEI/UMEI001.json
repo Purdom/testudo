@@ -1,0 +1,25 @@
+{
+  "id": "UMEI001",
+  "title": "English as a Foreign Language: Beginning",
+  "credits": "12",
+  "description": "Restriction: Permission of EDUC-Dean-Maryland English Institute department.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christopher Vizcarrondo,",
+      "seats": "16,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "MTuWThF",
+      "start": "9:00am",
+      "end": "11:50am",
+      "building": "ATL",
+      "room": "1106"
+    }
+  ],
+  "term": "201801",
+  "department": "Maryland English Institute"
+}

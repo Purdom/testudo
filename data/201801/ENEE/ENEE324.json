@@ -1,0 +1,85 @@
+{
+  "id": "ENEE324",
+  "title": "Engineering Probability",
+  "credits": "3",
+  "description": "Prerequisite: ENEE322; and completion of all lower-division technical courses in the EE curriculum.\nCredit only granted for: BMGT231, STAT400 or ENEE324.\nAdditional information: Electrical Engineering and Computer Engineering majors may not substitute STAT400 for ENEE324. These courses are not interchangeable, consult your program requirements or advisor for what is acceptable toward your program of study.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Armand Makowski",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CSI",
+      "room": "1122"
+    },
+    {
+      "id": "0102",
+      "instructor": "Armand Makowski",
+      "seats": "25,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CSI",
+      "room": "1122"
+    },
+    {
+      "id": "0201",
+      "instructor": "Richard La",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "JMP",
+      "room": "2121"
+    },
+    {
+      "id": "0202",
+      "instructor": "Richard La",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "JMP",
+      "room": "2121"
+    },
+    {
+      "id": "0301",
+      "instructor": "Mark Shayman",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "KEB",
+      "room": "1110"
+    },
+    {
+      "id": "0302",
+      "instructor": "Mark Shayman",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "KEB",
+      "room": "1110"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

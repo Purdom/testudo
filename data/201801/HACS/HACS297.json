@@ -1,0 +1,25 @@
+{
+  "id": "HACS297",
+  "title": "Cybersecurity Experience Reflection",
+  "credits": "3",
+  "description": "Restriction: Must be a student in the ACES (Advanced Cybersecurity Experience for Students) Living-Learning Program; and permission of UGST-HCOL-ACES Cybersecurity Program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christal Dimas",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "PFR",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "ACES-Cybersecurity"
+}

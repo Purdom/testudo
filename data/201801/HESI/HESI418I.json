@@ -1,0 +1,27 @@
+{
+  "id": "HESI418I",
+  "title": "Special Topics in Leadership; LGBTQ Leadership",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yvette Lerma Jones",
+      "seats": "18,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "JMZ",
+      "room": "0205"
+    }
+  ],
+  "term": "201801",
+  "department": "Higher Ed, Student Affairs, and International Ed Policy"
+}

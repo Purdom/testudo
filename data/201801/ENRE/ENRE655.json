@@ -1,0 +1,38 @@
+{
+  "id": "ENRE655",
+  "title": "Advanced Methods in Reliability Modeling",
+  "credits": "3",
+  "description": "Prerequisite: ENRE602.\nCredit only granted for: ENRE655 or ENRE665.\nFormerly: ENRE665.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "ER01",
+      "instructor": "Mohammad Modarres,",
+      "seats": "15,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "RE01",
+      "instructor": "Mohammad Modarres,",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Reliability Engineering"
+}

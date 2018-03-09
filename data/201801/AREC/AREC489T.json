@@ -1,0 +1,27 @@
+{
+  "id": "AREC489T",
+  "title": "Special Topics in Agricultural and Resources Economics; Adapting Non-traditional Land Access Models to New Farmers",
+  "credits": "3",
+  "description": "Prerequisite:permission of the department required.\n\n\nA Partnership for Action Learning in Sustainability (PALS) course where students apply classroom learning to actual community needs.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Gottwals",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "SYM",
+      "room": "0209"
+    }
+  ],
+  "term": "201801",
+  "department": "Agricultural and Resource Economics"
+}

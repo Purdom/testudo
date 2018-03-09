@@ -1,0 +1,27 @@
+{
+  "id": "ARTT489N",
+  "title": "Advanced Special Topics in Art; Design in Illustration",
+  "credits": "3",
+  "description": "Pre-requisite: ARTT210. This course may not be used to satisfy the studio art elective requirement for the Graphic Design Concentration -Track 3. Students must pay a $40.00 studio lab fee.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Thorpe",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:00am",
+      "end": "11:30am",
+      "building": "ASY",
+      "room": "2318"
+    }
+  ],
+  "term": "201801",
+  "department": "Art Studio"
+}

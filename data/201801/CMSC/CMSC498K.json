@@ -1,0 +1,25 @@
+{
+  "id": "CMSC498K",
+  "title": "Selected Topics in Computer Science; Big Data Systems",
+  "credits": "3",
+  "description": "An overview of data management systems for performing data science on large volumes of data, including relational databases, and NoSQL systems. The topics covered include: different types of data management systems, their pros and cons, how and when to use those systems, and best practices for data modeling.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alan Sussman",
+      "seats": "15,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:30pm",
+      "building": "CSI",
+      "room": "2120"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "PHYS769",
+  "title": "Seminar in Plasma Physics; Plasma Physics Research",
+  "credits": "1",
+  "description": "Advanced special students require department authorization.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Adil Hassam",
+      "seats": "20,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "5:00pm",
+      "building": "ERF",
+      "room": "1207"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

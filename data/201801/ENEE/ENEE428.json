@@ -1,0 +1,37 @@
+{
+  "id": "ENEE428",
+  "title": "Communications Design Laboratory",
+  "credits": "2",
+  "description": "Prerequisite: ENEE324; Corequisite: ENEE425 or ENEE420. This course explores the signal processing and communication system theoretical concepts presented in ENEE 322 Signals and Systems, ENEE 324 Engineering Probability, ENEE 420 Communication Systems, and ENEE 425 Digital Signal Processing by implementing them on actual hardware in real time. In the process, students gain experience using equipment commonly used in industry, such as, oscilloscopes, spectrum analyzers, error rate test sets, channel simulators, digital signal processors, analog-to-digital and digital-to-analog converters, and signal generators. The experiments are based on using a Texas Instruments TMS320C6713 DSP Starter Kit (DSK) stand-alone board that communicates with the PC through a USB port.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Steven Tretter",
+      "seats": "8,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "AVW",
+      "room": "1366"
+    },
+    {
+      "id": "0102",
+      "instructor": "Steven Tretter",
+      "seats": "8,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "AVW",
+      "room": "1366"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

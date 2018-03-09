@@ -1,0 +1,26 @@
+{
+  "id": "EDCI788D",
+  "title": "Selected Topics in Teacher Education; Foundations in Applied Linguistics",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Melinda Martin-Beltran",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "1:00pm",
+      "end": "3:45pm",
+      "building": "EDU",
+      "room": "2102"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

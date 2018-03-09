@@ -1,0 +1,27 @@
+{
+  "id": "SOCY498G",
+  "title": "Selected Topics in Sociology; Urban Demography and Community",
+  "credits": "3",
+  "description": "Understanding populations in the urban and metropolitan area contexts. Demographic analysis of race/ethnicity, immigration, families and households, education, occupation, income, poverty, and housing. Emphasis on methods of census data manipulation, interpretation, and presentation. Also offered as AAST498B. Credit granted for AAST498B or SOCY498G.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Julie Park",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "LEF",
+      "room": "0214"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

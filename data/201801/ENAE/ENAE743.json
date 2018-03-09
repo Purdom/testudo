@@ -1,0 +1,26 @@
+{
+  "id": "ENAE743",
+  "title": "Applied Nonlinear Control of Aerospace Vehicles",
+  "credits": "3",
+  "description": "Prerequisite: ENAE641.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Derek Paley",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "AJC",
+      "room": "2119"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

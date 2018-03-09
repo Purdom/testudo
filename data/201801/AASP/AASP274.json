@@ -1,0 +1,27 @@
+{
+  "id": "AASP274",
+  "title": "Creative Writing Through The Eyes of African Americans: A Beginning Workshop",
+  "credits": "3",
+  "description": "Restriction: Must not have completed any courses from ENGL278C, AASP274, AASP298W, ENGL274, ENGL271, ENGL294N, or ENGL294.\nAlso offered as: ENGL274.\nCredit only granted for: ENGL274, ENGL278C, ENGL294, ENGL294N, AASP274 or AASP298W.\nFormerly: AASP298W.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dorothy Phaire",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "NCC",
+      "room": "0120"
+    }
+  ],
+  "term": "201801",
+  "department": "African American Studies"
+}

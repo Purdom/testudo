@@ -1,0 +1,27 @@
+{
+  "id": "ENGL250",
+  "title": "Reading Women Writing",
+  "credits": "3",
+  "description": "Also offered as: WMST255.\nCredit only granted for: ENGL250 or WMST255.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "John Macintosh",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "KEY",
+      "room": "0102"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

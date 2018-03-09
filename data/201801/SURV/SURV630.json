@@ -1,0 +1,26 @@
+{
+  "id": "SURV630",
+  "title": "Questionnaire Design and Evaluation",
+  "credits": "3",
+  "description": "Credit only granted for: SURV430 and SURV630.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ting Yan",
+      "seats": "15,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "1:00pm",
+      "end": "3:00pm",
+      "building": "LEF",
+      "room": "1208"
+    }
+  ],
+  "term": "201801",
+  "department": "Survey Methodology"
+}

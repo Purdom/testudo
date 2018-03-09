@@ -1,0 +1,26 @@
+{
+  "id": "PHIL808E",
+  "title": "Seminar in the Problems of Philosophy; Contractarianism: Old and New",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Brian Kogelmann",
+      "seats": "15,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "SKN",
+      "room": "1116"
+    }
+  ],
+  "term": "201801",
+  "department": "Philosophy"
+}

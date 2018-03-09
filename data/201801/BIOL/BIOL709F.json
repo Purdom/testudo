@@ -1,0 +1,26 @@
+{
+  "id": "BIOL709F",
+  "title": "Selected Advanced Topics in Biology; Statistics & Modeling for Biologists",
+  "credits": "3",
+  "description": "This course will provide an overview of essential probability and statistics for biology graduate students using R. Topics include: parameter estimation (moment, likelihood, Bayesian), confidence intervals and hypothesis testing, multiple testing, experimental design and power analysis, and resampling-based measures of uncertainty. Practical use of computers will be emphasized, although previous experience with R is not necessary.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Philip Johnson",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PLS",
+      "room": "1113"
+    }
+  ],
+  "term": "201801",
+  "department": "Biology"
+}

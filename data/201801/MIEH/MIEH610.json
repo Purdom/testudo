@@ -1,0 +1,38 @@
+{
+  "id": "MIEH610",
+  "title": "Global Health Program Planning and Evaluation",
+  "credits": "3",
+  "description": "Recommended: MIEH605.\nCredit only granted for: MIEH610, SPHL610 or SPHL698D.\nFormerly: SPHL698D and SPHL610.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paul Robinson",
+      "seats": "10,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "SPH",
+      "room": "2234CC"
+    },
+    {
+      "id": "GH01",
+      "instructor": "Paul Robinson",
+      "seats": "10,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "SPH",
+      "room": "2234CC"
+    }
+  ],
+  "term": "201801",
+  "department": "Maryland Institute for Applied Environmental Health"
+}

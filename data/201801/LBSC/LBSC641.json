@@ -1,0 +1,38 @@
+{
+  "id": "LBSC641",
+  "title": "Selecting and Evaluating of Resources for Learning",
+  "credits": "3",
+  "description": "Restriction: Permission of INFO-College of Information Studies.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "CT01",
+      "instructor": "Jennifer Sturge",
+      "seats": "25,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "ML01",
+      "instructor": "Margaret Chmiel",
+      "seats": "25,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Library Science"
+}

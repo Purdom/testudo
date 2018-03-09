@@ -1,0 +1,27 @@
+{
+  "id": "HIST327",
+  "title": "The Roman Empire",
+  "credits": "3",
+  "description": "Roman history from Augustus to Heraclius, 44BC-641AD: The Imperial cour and government; the diversity of culture in provinces and cities and the progress of Romanization; Roman religion and its transformation in late antiquity; the Roman army and defense of the frontiers.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Weisweiler",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "KEY",
+      "room": "0116"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

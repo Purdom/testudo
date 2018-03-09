@@ -1,0 +1,39 @@
+{
+  "id": "ECON401",
+  "title": "Current Issues in American Economic Policy",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (ECON305, ECON325); and 1 course with a minimum grade of C- from (ECON306, ECON326); and 1 course with a minimum grade of C- from (ECON230, BMGT230, ECON321).\nRecommended: Prior experience with Microsoft Excel or similar spreadsheet software.\nRestriction: Must be in Economics Bachelor of Arts program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Hegland",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "TYD",
+      "room": "1114"
+    },
+    {
+      "id": "0201",
+      "instructor": "Kenneth Coriale",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "TYD",
+      "room": "0101"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

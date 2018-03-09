@@ -1,0 +1,73 @@
+{
+  "id": "ENEE322",
+  "title": "Signal and System Theory",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in MATH246; and must have earned a minimum grade of regular (letter) C- in all required 200-level ENEE courses; and permission of ENGR-Electrical & Computer Engineering department.\nRestriction: Must be in one of the following programs (Engineering: Computer; Engineering: Electrical).",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Steven Marcus",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "EGR",
+      "room": "1108"
+    },
+    {
+      "id": "0102",
+      "instructor": "Steven Marcus",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "EGR",
+      "room": "1108"
+    },
+    {
+      "id": "0201",
+      "instructor": "Jonathan Simon",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CHE",
+      "room": "2108"
+    },
+    {
+      "id": "0202",
+      "instructor": "Jonathan Simon",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CHE",
+      "room": "2108"
+    },
+    {
+      "id": "0301",
+      "instructor": "Carol Espy-Wilson",
+      "seats": "25,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "EGR",
+      "room": "1108"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

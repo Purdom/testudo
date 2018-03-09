@@ -1,0 +1,87 @@
+{
+  "id": "BIOE120",
+  "title": "Biology for Engineers",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in MATH140.\nRestriction: Permission of ENGR-Fischell Department of Bioengineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ganesh Sriram",
+      "seats": "30,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ESJ",
+      "room": "1202"
+    },
+    {
+      "id": "0102",
+      "instructor": "Ganesh Sriram",
+      "seats": "30,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ESJ",
+      "room": "1202"
+    },
+    {
+      "id": "0201",
+      "instructor": "Angela Jones",
+      "seats": "30,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "ESJ",
+      "room": "1215"
+    },
+    {
+      "id": "0202",
+      "instructor": "Angela Jones",
+      "seats": "30,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "ESJ",
+      "room": "1215"
+    },
+    {
+      "id": "0301",
+      "instructor": "Birthe Kjellerup",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ESJ",
+      "room": "1215"
+    },
+    {
+      "id": "0302",
+      "instructor": "Birthe Kjellerup",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ESJ",
+      "room": "1215"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

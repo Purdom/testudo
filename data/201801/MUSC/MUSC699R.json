@@ -1,0 +1,26 @@
+{
+  "id": "MUSC699R",
+  "title": "Selected Topics in Music; Traditional Russian Music and its Representations",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Olga Haldey",
+      "seats": "12,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:30pm",
+      "end": "9:00pm",
+      "building": "PAC",
+      "room": "3110A"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ENGL241",
+  "title": "What the Novel Does",
+  "credits": "3",
+  "description": "An exploration of what the novel does that cannot be done by film, by television, by cell-phone screens, by any stream of images, or by textual excerpts pulled up for a quick read. The different ways of the novel, with particular focus on the process of thinking and the developed consciousness. The novel as a machine to think with and an irreplaceable model of complex human thought. Study of how thought is presented in radically different ways in novels that cross lines of class, gender, chronology, and nationality.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gabrielle Fuentes",
+      "seats": "30,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "TWS",
+      "room": "0205"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

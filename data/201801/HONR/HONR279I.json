@@ -1,0 +1,25 @@
+{
+  "id": "HONR279I",
+  "title": "Honors Seminar; The Power of the Word: Freedom of Speech in the U.S. and Russia",
+  "credits": "3",
+  "description": "Credit granted for HONR279I or RUSS289I.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Cynthia Martin",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMZ",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

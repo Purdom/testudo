@@ -1,0 +1,27 @@
+{
+  "id": "HESP305",
+  "title": "Anatomy and Physiology of the Speech Mechanism",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in HESP202; or permission of BSOS-Hearing & Speech Sciences department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tammatha O'Brien",
+      "seats": "52,",
+      "open-seats": "25,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "TWS",
+      "room": "1310"
+    }
+  ],
+  "term": "201801",
+  "department": "Hearing and Speech Sciences"
+}

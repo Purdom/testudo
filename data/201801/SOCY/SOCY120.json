@@ -1,0 +1,63 @@
+{
+  "id": "SOCY120",
+  "title": "Veterans in American Society: What does America Owe Its Veterans?",
+  "credits": "3",
+  "description": "An examination of current and past policies toward compensation for military veterans, data and evidence on current and past adjustments to life after military service, historical variations in the mechanisms for staffing the military, and trends in the contours of the lives of those who do not serve.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Meredith Kleykamp",
+      "seats": "22,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "ASY",
+      "room": "2309"
+    },
+    {
+      "id": "0201",
+      "instructor": "Meredith Kleykamp",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "ASY",
+      "room": "2309"
+    },
+    {
+      "id": "0301",
+      "instructor": "Meredith Kleykamp",
+      "seats": "22,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "ASY",
+      "room": "2309"
+    },
+    {
+      "id": "0401",
+      "instructor": "Meredith Kleykamp",
+      "seats": "22,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:20pm",
+      "building": "ASY",
+      "room": "2309"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ANSC262",
+  "title": "Commercial Poultry Management",
+  "credits": "3",
+  "description": "Prerequisite: ANSC101 and ANSC103.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Monica VanKlompenberg",
+      "seats": "20,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ANS",
+      "room": "0402"
+    }
+  ],
+  "term": "201801",
+  "department": "Animal Science"
+}

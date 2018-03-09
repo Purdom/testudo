@@ -1,0 +1,27 @@
+{
+  "id": "MUED216",
+  "title": "Percussion Technique and Pedagogy",
+  "credits": "2",
+  "description": "Restriction: Must be in Music Education program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lee Hinkle",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "8:00am",
+      "end": "8:50am",
+      "building": "PAC",
+      "room": "2540"
+    }
+  ],
+  "term": "201801",
+  "department": "Music Education"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GEOL102",
+  "title": "Historical Geology",
+  "credits": "4",
+  "description": "Prerequisite: GEOL120 or GEOL100; and GEOL110. Or permission of CMNS-Geology department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Holtz",
+      "seats": "24,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "PLS",
+      "room": "1113"
+    }
+  ],
+  "term": "201801",
+  "department": "Geology"
+}

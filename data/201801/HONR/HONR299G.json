@@ -1,0 +1,25 @@
+{
+  "id": "HONR299G",
+  "title": "Honors Seminar; The American Political Tradition",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Chiles",
+      "seats": "20,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:15pm",
+      "end": "7:45pm",
+      "building": "KEY",
+      "room": "0121"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

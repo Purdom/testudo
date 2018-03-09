@@ -1,0 +1,26 @@
+{
+  "id": "ECON702",
+  "title": "Advanced Macroeconomics II",
+  "credits": "3",
+  "description": "Prerequisite: ECON602 and ECON601.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "L Stevens",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "TYD",
+      "room": "0102"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

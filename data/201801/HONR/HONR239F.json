@@ -1,0 +1,25 @@
+{
+  "id": "HONR239F",
+  "title": "Honors Seminar: Plants and Empires: Historical Consequences and Contemporary Issues",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Todd Cooke",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "HJP",
+      "room": "1216"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

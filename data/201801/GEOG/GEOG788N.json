@@ -1,0 +1,27 @@
+{
+  "id": "GEOG788N",
+  "title": "Selected Topics in Geography; Global Supply Chains, Unequal Exchange and Sustainable Development",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud",
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kuishuang Feng,",
+      "seats": "10,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "LEF",
+      "room": "1221"
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

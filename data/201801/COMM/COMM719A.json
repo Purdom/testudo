@@ -1,0 +1,38 @@
+{
+  "id": "COMM719A",
+  "title": "Advanced Consecutive Interpretation; Arabic into English/English into Arabic",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "XGA1",
+      "instructor": "Ihab Ali",
+      "seats": "16,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "7:50pm",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "XGE1",
+      "instructor": "Ihab Ali",
+      "seats": "16,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "8:00pm",
+      "end": "8:50pm",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

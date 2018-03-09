@@ -1,0 +1,25 @@
+{
+  "id": "HLSA777",
+  "title": "Program Evaluation Field Experience",
+  "credits": "3",
+  "description": "Restriction: Permission of instructor.\nAdditional information: Students will evaluate a community health program funded by the Maryland Community Health Care Commission (CHRC), and the Commission director will guide selection of the program. Students will travel to the program site approximately three times to guide the evaluation design and collect data. The program location will be determined in January.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lori Simon-Rusinowitz",
+      "seats": "15,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "SPH",
+      "room": "0308"
+    }
+  ],
+  "term": "201801",
+  "department": "Health Services Administration"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ENGL346",
+  "title": "Twentieth Century Fiction",
+  "credits": "3",
+  "description": "Major British, American, and other fiction writers of the twentieth century studied in the context of the broad global, intellectual, and artistic interests of the century.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Nathaniel Underland",
+      "seats": "27,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "TWS",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

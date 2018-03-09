@@ -1,0 +1,27 @@
+{
+  "id": "FMSC487",
+  "title": "Legal Aspects of Family Problems",
+  "credits": "3",
+  "description": "Credit only granted for: FMSC487 or FMST487.\nFormerly: FMST487.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kerry Tripp",
+      "seats": "65,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SPH",
+      "room": "1303"
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

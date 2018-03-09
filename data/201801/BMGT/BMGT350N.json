@@ -1,0 +1,25 @@
+{
+  "id": "BMGT350N",
+  "title": "Marketing Principles and Organization",
+  "credits": "3",
+  "description": "Prerequisite: ECON200 or ECON205.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "BL05",
+      "instructor": "Roxanne Lefkoff",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1330"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

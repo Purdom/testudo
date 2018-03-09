@@ -1,0 +1,37 @@
+{
+  "id": "BMGT363",
+  "title": "Leadership and Teamwork in Organizations",
+  "credits": "3",
+  "description": "Provides a comprehensive understanding of fundamental leadership concepts, theories, and skills in organizations and applies to assessing and developing effective leadership practices in organizations.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gerald Suarez",
+      "seats": "46,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "VMH",
+      "room": "1303"
+    },
+    {
+      "id": "SG91",
+      "instructor": "Gosia Langa Basit",
+      "seats": "60,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "BLD3",
+      "room": "2230"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "PHYS798U",
+  "title": "Special Problems in Advanced Physics; Interdisciplinary Network Science Research in Progress",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Daniel Serrano,",
+      "seats": "25,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "AJC",
+      "room": "2134"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

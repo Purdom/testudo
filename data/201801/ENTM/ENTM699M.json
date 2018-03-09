@@ -1,0 +1,26 @@
+{
+  "id": "ENTM699M",
+  "title": "Advanced Entomology; Independent Studies: Python Programming",
+  "credits": "1",
+  "description": "Prerequisites: For ENTS Program students only. Students participate in a one week intensive course in Python Programming.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Dellomo",
+      "seats": "24,",
+      "open-seats": "24,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Entomology"
+}

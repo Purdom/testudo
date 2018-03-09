@@ -1,0 +1,26 @@
+{
+  "id": "PHIL478C",
+  "title": "Topics in Philosophical Logic",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Horty",
+      "seats": "25,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "1321"
+    }
+  ],
+  "term": "201801",
+  "department": "Philosophy"
+}

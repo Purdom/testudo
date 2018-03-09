@@ -1,0 +1,26 @@
+{
+  "id": "EDCI666",
+  "title": "Leadership in Schoolwide Reading Program",
+  "credits": "3",
+  "description": "Restriction: Permission of EDUC-Teaching and Learning, Policy and Leadership department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mariam Dreher",
+      "seats": "25,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:30pm",
+      "end": "7:15pm",
+      "building": "EDU",
+      "room": "1315"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

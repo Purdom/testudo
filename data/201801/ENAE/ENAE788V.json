@@ -1,0 +1,74 @@
+{
+  "id": "ENAE788V",
+  "title": "Selected Topics in Aerospace Engineering; Motion Planning for Autonomous Systems",
+  "credits": "3",
+  "description": "Recommended: completion of mid-level programming course\n\nAutonomous systems (e.g., aircraft, vehicles, manipulators, and robots) must plan long-term movement that respects environmental constraints such as obstacles, other actors, and wind; system constraints such as kinematics, dynamics, and fuel; as well as factors such as time and safety. Robust autonomy also requires dealing with environmental changes, new information, and uncertainty. This course provides an overview of such problems and the methods used to solve them.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Otte",
+      "seats": "15,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMP",
+      "room": "2120"
+    },
+    {
+      "id": "HT01",
+      "instructor": "Michael Otte",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SG01",
+      "instructor": "Michael Otte",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "Michael Otte",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "TV01",
+      "instructor": "Michael Otte",
+      "seats": "5,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

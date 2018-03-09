@@ -1,0 +1,27 @@
+{
+  "id": "SOCY110",
+  "title": "The Logic of Social Inquiry: An Introduction to Sociology and the Major",
+  "credits": "3",
+  "description": "Additional information: To be taken prior to, or in the first 30 credits after declaring sociology as a major.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Brian Connor",
+      "seats": "78,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "TWS",
+      "room": "1310"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

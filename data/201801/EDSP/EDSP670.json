@@ -1,0 +1,26 @@
+{
+  "id": "EDSP670",
+  "title": "Single Subject Research Designs",
+  "credits": "3",
+  "description": "Prerequisite: EDSP600.\nRestriction: Permission of EDUC-Counseling, Higher Education and Special Education department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kelli Cummings",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "2119"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Special"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "EDCP619D",
+  "title": "Practicum in Counseling; Practicum in School Counseling",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jessica McKechnie",
+      "seats": "12,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "JMZ",
+      "room": "1120"
+    },
+    {
+      "id": "0201",
+      "instructor": "Jessica McKechnie",
+      "seats": "12,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:45pm",
+      "building": "EDU",
+      "room": "1315"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

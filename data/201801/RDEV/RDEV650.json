@@ -1,0 +1,26 @@
+{
+  "id": "RDEV650",
+  "title": "Essentials of Design and Construction Management for Development Professionals",
+  "credits": "3",
+  "description": "Restriction: Must be in Real Estate Development (Master's) program; or permission of ARCH-Real Estate Development.\nCredit only granted for: RDEV650 or RDEV688C.\nFormerly: RDEV688C.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Matthew O'Malley",
+      "seats": "28,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "ARC",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Real Estate Development"
+}

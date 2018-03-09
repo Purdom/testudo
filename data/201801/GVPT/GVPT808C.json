@@ -1,0 +1,26 @@
+{
+  "id": "GVPT808C",
+  "title": "Selected Topics in Functional Problems in International Relations; Prospectus Seminar in International Relations & Comparative Politics",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paul Huth",
+      "seats": "12,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:30am",
+      "end": "12:15pm",
+      "building": "TYD",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

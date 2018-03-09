@@ -1,0 +1,26 @@
+{
+  "id": "MATH607",
+  "title": "Algebraic Geometry II",
+  "credits": "3",
+  "description": "Prerequisite: MATH606.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Haines",
+      "seats": "25,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "MTH",
+      "room": "0104"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

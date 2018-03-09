@@ -1,0 +1,26 @@
+{
+  "id": "ENCH630",
+  "title": "Transport Phenomena",
+  "credits": "3",
+  "description": "Prerequisite: CHBE422; and ENCH424. Or students who have taken courses with comparable content may contact the department.\nRestriction: Permission of ENGR-Chemical & Biomolecular Engineering department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Panagiotis Dimitrakopoulos",
+      "seats": "30,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EGR",
+      "room": "2116"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Chemical"
+}

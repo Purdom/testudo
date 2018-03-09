@@ -1,0 +1,27 @@
+{
+  "id": "HIST235",
+  "title": "History of Britain 1461 to 1714",
+  "credits": "3",
+  "description": "British history from the War of the Roses to the Hanoverian succession; Yorkist and Tudor society and politics; the Renaissance and Reformation in England, Henry VIII through Elizabeth I; 17th-century crises and revolutions; intellectual and cultural changes; the beginnings of empire; the achievement of political and intellectual order.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sabrina Baron",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "KEY",
+      "room": "0100"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GVPT439A",
+  "title": "Seminar in Public Law; Comparative Constitutional Law",
+  "credits": "3",
+  "description": "Restriction: Must be in Government & Politics program; or must be in Government & Politics: International Relations program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Karol Soltan",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "LEF",
+      "room": "1201"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

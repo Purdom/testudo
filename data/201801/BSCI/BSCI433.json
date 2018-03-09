@@ -1,0 +1,39 @@
+{
+  "id": "BSCI433",
+  "title": "Biology of Cancer",
+  "credits": "3",
+  "description": "Prerequisite: BSCI222 and BSCI330; or permission of CMNS-Biological Sciences UG Program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ibrahim Ades",
+      "seats": "100,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "BPS",
+      "room": "1250"
+    },
+    {
+      "id": "SG91",
+      "instructor": "Beth Parent",
+      "seats": "40,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "9:30am",
+      "end": "12:00pm",
+      "building": "BLD2",
+      "room": "3052"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

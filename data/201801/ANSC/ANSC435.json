@@ -1,0 +1,27 @@
+{
+  "id": "ANSC435",
+  "title": "Experimental Embryology",
+  "credits": "3",
+  "description": "Prerequisite: ANSC212.\nRecommended: Completion of one course in reproductive physiology is recommended.\nCredit only granted for: ANSC435 or ANSC489M.\nFormerly: ANSC489M.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Carol Keefer",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ANS",
+      "room": "0108"
+    }
+  ],
+  "term": "201801",
+  "department": "Animal Science"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "JOUR610",
+  "title": "Seminar in Mass Media History",
+  "credits": "3",
+  "description": "Credit only granted for: JOUR610 or JOUR710.\nFormerly: JOUR710.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mark Feldstein",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "1:20pm",
+      "end": "3:50pm",
+      "building": "KNI",
+      "room": "2109"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

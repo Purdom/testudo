@@ -1,0 +1,25 @@
+{
+  "id": "BMGT363F",
+  "title": "Leadership and Teamwork in Organizations",
+  "credits": "3",
+  "description": "Provides a comprehensive understanding of fundamental leadership concepts, theories, and skills in organizations and applies to assessing and developing effective leadership practices in organizations.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "SG91",
+      "instructor": "Emily Heavin",
+      "seats": "60,",
+      "open-seats": "43,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "4:40pm",
+      "building": "BLD2",
+      "room": "3032"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

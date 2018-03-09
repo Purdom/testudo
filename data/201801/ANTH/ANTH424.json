@@ -1,0 +1,27 @@
+{
+  "id": "ANTH424",
+  "title": "Human Skeletal Anatomy",
+  "credits": "3",
+  "description": "In addition to descriptive information about bone identification, the lectures will address the history of human anatomical studies, the development of analytical techniques, and the application of these techniques in paleoanthropology, comparative anatomy, functional anatomy (and related fields, such as physical therapy), and skeletal analysis in museum, historic cemetery, archaeological, and forensic settings. Emphasis will be on the development of the skeleton and recognition of normal variation in bones. The laboratory sessions will allow the students access to human bones for the purpose of identification, documentation of human variation, and application of techniques to obtain information about the living individual from the skeleton.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Marilyn London",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "WDS",
+      "room": "0124C"
+    }
+  ],
+  "term": "201801",
+  "department": "Anthropology"
+}

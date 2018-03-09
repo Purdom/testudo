@@ -1,0 +1,25 @@
+{
+  "id": "ENMA614",
+  "title": "Advanced Solid State Ionics",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ENGR-Materials Science & Engineering department.\nCredit only granted for: ENMA 614 or ENMA 698W.\nFormerly: ENMA 698W.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Eric Wachsman",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "CHE",
+      "room": "2136"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Materials"
+}

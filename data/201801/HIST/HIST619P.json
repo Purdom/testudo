@@ -1,0 +1,26 @@
+{
+  "id": "HIST619P",
+  "title": "Special Topics in History; History of Iran in the Islamic Period (7th Century to the Present)",
+  "credits": "3",
+  "description": "An overview of the salient features of the cultural and social history of Iran over the past millennium and a half.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ahmet Karamustafa",
+      "seats": "5,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "HJP",
+      "room": "3120"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

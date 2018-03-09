@@ -1,0 +1,25 @@
+{
+  "id": "COMM762",
+  "title": "The Rhetoric of Political Institutions",
+  "credits": "3",
+  "description": "The role of discourse in major political institutions is examined. The specific institutional focus may change from instructor to instructor. Examples include Congress, the courts, or the state legislatures.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "PG01",
+      "instructor": "David Sawyer",
+      "seats": "16,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:30pm",
+      "end": "8:30pm",
+      "building": "SKN",
+      "room": "3118"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

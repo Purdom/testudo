@@ -1,0 +1,25 @@
+{
+  "id": "EDCP691",
+  "title": "Research in Counseling Psychology II",
+  "credits": "3",
+  "description": "Prerequisite: For Counseling Psychology majors only.\nAlso offered as: PSYC691.\nFormerly: EDCP717.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mary Ann Hoffman",
+      "seats": "10,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "12:00pm",
+      "end": "3:00pm",
+      "building": "EDU",
+      "room": "3236"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "ENAE654",
+  "title": "Mechanics of Composite Structures",
+  "credits": "3",
+  "description": "An introduction to structures composed of composite materials and their applications in aerospace. In particular, filamentary composite materials are studied. Material types and fabrication techniques, material properties, micromechanics, anisotropic elasticity, introduction to failure concepts.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Norman Wereley,",
+      "seats": "25,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "JMP",
+      "room": "2121"
+    },
+    {
+      "id": "DE01",
+      "instructor": "Norman Wereley,",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "HT01",
+      "instructor": "Norman Wereley,",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SG01",
+      "instructor": "Norman Wereley,",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "Norman Wereley,",
+      "seats": "5,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "TV01",
+      "instructor": "Norman Wereley,",
+      "seats": "5,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

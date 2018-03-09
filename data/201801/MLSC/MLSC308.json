@@ -1,0 +1,27 @@
+{
+  "id": "MLSC308",
+  "title": "PULSAR Language Science Research Seminar",
+  "credits": "1",
+  "description": "Restriction: Must be in PULSAR program or have permission of the instructor. Repeatable to 4 credits. Credit only granted for: BSOS338P or MLSC308. Formerly: BSOS388P.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tess Wood",
+      "seats": "25,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "MD Language Science Ctr"
+}

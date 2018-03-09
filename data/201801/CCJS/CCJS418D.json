@@ -1,0 +1,27 @@
+{
+  "id": "CCJS418D",
+  "title": "Seminar in Criminology and Criminal Justice; Evolving Legal Issues",
+  "credits": "3",
+  "description": "Prereqs: CCJS 100 and CCJS 230",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Salem",
+      "seats": "50,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:00pm",
+      "end": "8:30pm",
+      "building": "KEY",
+      "room": "1117"
+    }
+  ],
+  "term": "201801",
+  "department": "Criminology and Criminal Justice"
+}

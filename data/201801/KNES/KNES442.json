@@ -1,0 +1,27 @@
+{
+  "id": "KNES442",
+  "title": "Psychology of Exercise and Health",
+  "credits": "3",
+  "description": "Prerequisite: KNES350.\nRestriction: Junior standing or higher.\nCredit only granted for: KNES442 or KNES498O.\nFormerly: KNES498O.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Seppo Iso-Ahola",
+      "seats": "30,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "SPH",
+      "room": "1302"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "KNES131O",
+  "title": "Physical Education Activities: Coed; Jogging (Intermediate)",
+  "credits": "2",
+  "description": "Prerequisite: KNES 131V or 10k experience. For majors only. One weekend event expected. Attendence is required the first day of class. Students must pay a $40 instructional materials fee.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0001",
+      "instructor": "Oren Lagziel",
+      "seats": "40,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "4:00pm",
+      "building": "ARM",
+      "room": "1122"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

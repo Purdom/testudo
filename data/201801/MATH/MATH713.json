@@ -1,0 +1,26 @@
+{
+  "id": "MATH713",
+  "title": "Mathematical Logic II",
+  "credits": "3",
+  "description": "Prerequisite: MATH712.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christian Rosendal",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "MTH",
+      "room": "0102"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

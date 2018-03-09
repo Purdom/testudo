@@ -1,0 +1,51 @@
+{
+  "id": "LGBT200",
+  "title": "Introduction to Lesbian, Gay, Bisexual, and Transgender Studies",
+  "credits": "3",
+  "description": "Credit only granted for: LGBT200.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Anna Storti",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "WDS",
+      "room": "1130"
+    },
+    {
+      "id": "0201",
+      "instructor": "Anna Storti",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "WDS",
+      "room": "1130"
+    },
+    {
+      "id": "0301",
+      "instructor": "Ivan Ramos",
+      "seats": "45,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "WDS",
+      "room": "1114"
+    }
+  ],
+  "term": "201801",
+  "department": "Lesbian Gay Bisexual Transgender Studies"
+}

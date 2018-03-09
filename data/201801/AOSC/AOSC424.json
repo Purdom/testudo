@@ -1,0 +1,27 @@
+{
+  "id": "AOSC424",
+  "title": "Remote Sensing of the Atmosphere and Ocean",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (PHYS171, PHYS161, MATH141); or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Derrick Lampkin",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "ATL",
+      "room": "2416"
+    }
+  ],
+  "term": "201801",
+  "department": "Atmospheric and Oceanic Science"
+}

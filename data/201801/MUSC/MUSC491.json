@@ -1,0 +1,38 @@
+{
+  "id": "MUSC491",
+  "title": "Conducting II",
+  "credits": "2",
+  "description": "Prerequisite: MUSC490; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kieun Kim",
+      "seats": "20,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "PAC",
+      "room": "2201"
+    },
+    {
+      "id": "0201",
+      "instructor": "Michael Votta",
+      "seats": "20,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "PAC",
+      "room": "2168"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

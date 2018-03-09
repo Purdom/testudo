@@ -1,0 +1,27 @@
+{
+  "id": "PLSC407",
+  "title": "Advanced Crop Science",
+  "credits": "3",
+  "description": "Prerequisite: PLSC101. And BSCI170 and BSCI171; or BSCI105.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Phillips",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "PLS",
+      "room": "1158"
+    }
+  ],
+  "term": "201801",
+  "department": "Plant Sciences"
+}

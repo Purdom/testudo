@@ -1,0 +1,27 @@
+{
+  "id": "ENGL353",
+  "title": "Intermediate Poetry Workshop",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of A- in ENGL271; or minimum grade of A- in ENGL273; or permission of ARHU-English department.\nCredit only granted for: ENGL397 or ENGL353.\nFormerly: ENGL397.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Joshua Weiner",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TWS",
+      "room": "3250"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "BMGT342F",
+  "title": "Wall Street Finance",
+  "credits": "3",
+  "description": "Prerequisite: BMGT340.\nCredit only granted for: BMGT448F or BMGT342.\nFormerly: BMGT448F.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "FP01",
+      "instructor": "Julie Pavlovsky",
+      "seats": "35,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1206"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

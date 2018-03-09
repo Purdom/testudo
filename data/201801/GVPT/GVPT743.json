@@ -1,0 +1,25 @@
+{
+  "id": "GVPT743",
+  "title": "Contemporary Political Theory",
+  "credits": "3",
+  "description": "Restriction: Must have graduate standing.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Glass",
+      "seats": "12,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "6:15pm",
+      "building": "TYD",
+      "room": "1136"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

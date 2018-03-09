@@ -1,0 +1,25 @@
+{
+  "id": "JOUR801",
+  "title": "Advanced Public Communication Theory",
+  "credits": "3",
+  "description": "Prerequisite: JOUR601; or students who have taken courses with comparable content may contact the department.\nCredit only granted for: JOUR601 or JOUR801.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Krishnan Vasudevan",
+      "seats": "12,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "9:00am",
+      "end": "11:45am",
+      "building": "KNI",
+      "room": "2109"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

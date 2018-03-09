@@ -1,0 +1,26 @@
+{
+  "id": "ANTH740",
+  "title": "Theories of the Past and Accomplishments of Archaeology",
+  "credits": "3",
+  "description": "Credit only granted for: ANTH689P or ANTH740.\nFormerly: ANTH689P.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mark Leone",
+      "seats": "15,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "WDS",
+      "room": "1130"
+    }
+  ],
+  "term": "201801",
+  "department": "Anthropology"
+}

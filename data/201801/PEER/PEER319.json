@@ -1,0 +1,25 @@
+{
+  "id": "PEER319",
+  "title": "CARE to Stop Violence Outreach Peer Program; Care Peer Outreach",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Carly Cottone",
+      "seats": "15,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:00pm",
+      "building": "KEY",
+      "room": "0100"
+    }
+  ],
+  "term": "201801",
+  "department": "Health Center"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "MUSC688",
+  "title": "Advanced Orchestration",
+  "credits": "3",
+  "description": "Permission of Instructor",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mark Wilson",
+      "seats": "5,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PAC",
+      "room": "2168"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

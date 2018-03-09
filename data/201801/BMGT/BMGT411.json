@@ -1,0 +1,73 @@
+{
+  "id": "BMGT411",
+  "title": "Ethics and Professionalism in Accounting",
+  "credits": "3",
+  "description": "Prerequisite: BMGT311.\nRestriction: Must be in Accounting program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Emanuel Zur",
+      "seats": "35,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1418"
+    },
+    {
+      "id": "0201",
+      "instructor": "Emanuel Zur",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1418"
+    },
+    {
+      "id": "0301",
+      "instructor": "Emanuel Zur",
+      "seats": "35,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1418"
+    },
+    {
+      "id": "SG91",
+      "instructor": "David Weber",
+      "seats": "40,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "BLD2",
+      "room": "2052"
+    },
+    {
+      "id": "SG92",
+      "instructor": "David Weber",
+      "seats": "40,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "BLD2",
+      "room": "2052"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

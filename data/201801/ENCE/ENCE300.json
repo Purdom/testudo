@@ -1,0 +1,63 @@
+{
+  "id": "ENCE300",
+  "title": "Fundamentals of Engineering Materials",
+  "credits": "3",
+  "description": "Prerequisite: ENES220; and permission of ENGR-Civil & Environmental Engineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dimitrios Goulias",
+      "seats": "18,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "12:30pm",
+      "end": "2:30pm",
+      "building": "ESJ",
+      "room": "1215"
+    },
+    {
+      "id": "0102",
+      "instructor": "Dimitrios Goulias",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "12:30pm",
+      "end": "2:30pm",
+      "building": "ESJ",
+      "room": "1215"
+    },
+    {
+      "id": "0103",
+      "instructor": "Dimitrios Goulias",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "12:30pm",
+      "end": "2:30pm",
+      "building": "ESJ",
+      "room": "1215"
+    },
+    {
+      "id": "0104",
+      "instructor": "Dimitrios Goulias",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "12:30pm",
+      "end": "2:30pm",
+      "building": "ESJ",
+      "room": "1215"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

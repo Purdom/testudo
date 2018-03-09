@@ -1,0 +1,26 @@
+{
+  "id": "BIOE612",
+  "title": "Physiological Evaluation of Bioengineering Designs",
+  "credits": "3",
+  "description": "Restriction: Permission of ENGR-Fischell Department of Bioengineering department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Huang Chiao Huang",
+      "seats": "20,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "CHE",
+      "room": "2136"
+    }
+  ],
+  "term": "201801",
+  "department": "Bioengineering"
+}

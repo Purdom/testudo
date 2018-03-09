@@ -1,0 +1,27 @@
+{
+  "id": "PSYC341",
+  "title": "Introduction to Memory and Cognition",
+  "credits": "3",
+  "description": "Prerequisite: PSYC200 and PSYC300.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Brooke Okada",
+      "seats": "117,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "BPS",
+      "room": "1243"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

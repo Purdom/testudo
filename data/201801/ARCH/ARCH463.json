@@ -1,0 +1,27 @@
+{
+  "id": "ARCH463",
+  "title": "Sustainable Systems in Architecture",
+  "credits": "3",
+  "description": "Restriction: Must be in a major in ARCH-Architecture Program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Carl Bovill",
+      "seats": "120,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ARC",
+      "room": "0204"
+    }
+  ],
+  "term": "201801",
+  "department": "Architecture"
+}

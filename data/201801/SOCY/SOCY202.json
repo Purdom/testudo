@@ -1,0 +1,63 @@
+{
+  "id": "SOCY202",
+  "title": "Introduction to Research Methods in Sociology",
+  "credits": "4",
+  "description": "Prerequisite: SOCY201.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Wei-hsin Yu",
+      "seats": "20,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ASY",
+      "room": "2309"
+    },
+    {
+      "id": "0102",
+      "instructor": "Wei-hsin Yu",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ASY",
+      "room": "2309"
+    },
+    {
+      "id": "0103",
+      "instructor": "Wei-hsin Yu",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ASY",
+      "room": "2309"
+    },
+    {
+      "id": "0104",
+      "instructor": "Wei-hsin Yu",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "ASY",
+      "room": "2309"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ITAL311",
+  "title": "Advanced Oral Expression: Current Events",
+  "credits": "3",
+  "description": "Prerequisite: ITAL211; or permission of ARHU-School of Languages, Literatures, and Cultures department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stefania Amodeo",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "JMZ",
+      "room": "1124"
+    }
+  ],
+  "term": "201801",
+  "department": "Italian"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "ENPM627",
+  "title": "Environmental Risk Analysis",
+  "credits": "3",
+  "description": "The fundamental methodology for analyzing environmental risk is described with examples for selected applications. Key elements of the environmental risk methodology include: (1) source term and release characterization, (2) migration of contaminants in various media, (3) exposure assessment, (4) dose-response evaluation, (5) risk characterization, and (6) risk management. Also included will be an introduction to uncertainty analysis and environmental laws and regulations. It is intended to provide students with the basic skills and knowledge needed to manage, evaluate, or perform environmental risk assessments and risk analyses.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Karen Pinkston,",
+      "seats": "25,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "JMP",
+      "room": "2217"
+    },
+    {
+      "id": "HT01",
+      "instructor": "Karen Pinkston,",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "ME01",
+      "instructor": "Karen Pinkston,",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "SG01",
+      "instructor": "Karen Pinkston,",
+      "seats": "5,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "Karen Pinkston,",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Professional Masters"
+}

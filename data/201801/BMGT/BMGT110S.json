@@ -1,0 +1,37 @@
+{
+  "id": "BMGT110S",
+  "title": "Introduction to the Business Value Chain",
+  "credits": "3",
+  "description": "Restricted to College Park Scholars in Business, Society, and the Economy.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jeff Miller",
+      "seats": "40,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "SQH",
+      "room": "1121"
+    },
+    {
+      "id": "0201",
+      "instructor": "Jeff Miller",
+      "seats": "40,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1207"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

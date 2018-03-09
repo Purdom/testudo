@@ -1,0 +1,27 @@
+{
+  "id": "COMM427",
+  "title": "Crisis Communication",
+  "credits": "3",
+  "description": "Credit only granted for: COMM398C or COMM427.\nFormerly: COMM398C.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ji Youn Kim",
+      "seats": "35,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "SQH",
+      "room": "1121"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

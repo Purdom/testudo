@@ -1,0 +1,97 @@
+{
+  "id": "BMGT364",
+  "title": "Managing People and Organizations",
+  "credits": "3",
+  "description": "An introduction to selected aspects of human behavior in organizations generally known as organizational behavior (OB). This course is designed to help students develop systematic and fundamental understanding of people and their behaviors in organizations, as well as useful abilities and skills required to effectively and ethically manage various individual, interpersonal, group, and organization-level processes.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gregory Marr",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1303"
+    },
+    {
+      "id": "0201",
+      "instructor": "Gregory Marr",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1303"
+    },
+    {
+      "id": "0301",
+      "instructor": "Jennifer Marr",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1212"
+    },
+    {
+      "id": "0401",
+      "instructor": "Gosia Langa Basit",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1303"
+    },
+    {
+      "id": "0501",
+      "instructor": "Insiya Hussain",
+      "seats": "60,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1303"
+    },
+    {
+      "id": "0601",
+      "instructor": "Nicole Coomber",
+      "seats": "60,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1212"
+    },
+    {
+      "id": "0701",
+      "instructor": "Jennifer Marr",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1212"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

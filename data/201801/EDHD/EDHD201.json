@@ -1,0 +1,85 @@
+{
+  "id": "EDHD201",
+  "title": "Learning How to Learn",
+  "credits": "3",
+  "description": "Immerses students in the theoretical and empirical study of learning by engaging them in orchestrated experiences and activities drawn directly from the disciplinary research. Students achieve deep understanding of their own learning, as well as the means of enhancing that learning both in school and out-of-school contexts.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Patricia Alexander",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ESJ",
+      "room": "2204"
+    },
+    {
+      "id": "0102",
+      "instructor": "Patricia Alexander",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ESJ",
+      "room": "2204"
+    },
+    {
+      "id": "0103",
+      "instructor": "Patricia Alexander",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ESJ",
+      "room": "2204"
+    },
+    {
+      "id": "0104",
+      "instructor": "Patricia Alexander",
+      "seats": "25,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ESJ",
+      "room": "2204"
+    },
+    {
+      "id": "0105",
+      "instructor": "Patricia Alexander",
+      "seats": "25,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ESJ",
+      "room": "2204"
+    },
+    {
+      "id": "0106",
+      "instructor": "Patricia Alexander",
+      "seats": "25,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ESJ",
+      "room": "2204"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Human Development"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "ANTH265",
+  "title": "Anthropology of Global Health",
+  "credits": "3",
+  "description": "An overview of the growing field of global health including health care systems, medical practices, ideas about illness in cross-cultural contexts, issues of health development, global health inequity, and human rights issues. The course will focus on the history of global health, the critique of major international health agencies and their development paradigms, and the political economy of social inequalities and health.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alison Heller",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "HJP",
+      "room": "2242"
+    },
+    {
+      "id": "0102",
+      "instructor": "Alison Heller",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "HJP",
+      "room": "2242"
+    },
+    {
+      "id": "0103",
+      "instructor": "Alison Heller",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "HJP",
+      "room": "2242"
+    }
+  ],
+  "term": "201801",
+  "department": "Anthropology"
+}

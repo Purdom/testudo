@@ -1,0 +1,27 @@
+{
+  "id": "ENGL222",
+  "title": "American Literature: 1865 to Present",
+  "credits": "3",
+  "description": "Surveys American writing from the Civil War through the Cold War. Authors such as Clemens, Frost, Hurston, Bellow.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Gonch",
+      "seats": "30,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "KEY",
+      "room": "0102"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

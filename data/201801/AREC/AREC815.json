@@ -1,0 +1,25 @@
+{
+  "id": "AREC815",
+  "title": "Experimental and Behavioral Economics",
+  "credits": "3",
+  "description": "Prerequisite: AREC623, AREC624, ECON603, and ECON604; or equivalent.\nCredit only granted for: AREC815 or AREC869A.\nFormerly: AREC869A.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Neslihan Uler",
+      "seats": "25,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "SYM",
+      "room": "0209"
+    }
+  ],
+  "term": "201801",
+  "department": "Agricultural and Resource Economics"
+}

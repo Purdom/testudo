@@ -1,0 +1,27 @@
+{
+  "id": "ANTH451",
+  "title": "Environmental Archaeology",
+  "credits": "3",
+  "description": "Credit only granted for: ANTH451, ANTH651, ANTH448F, ANTH668F.\nFormerly: ANTH448F.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "George Hambrecht",
+      "seats": "20,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "KEY",
+      "room": "0116"
+    }
+  ],
+  "term": "201801",
+  "department": "Anthropology"
+}

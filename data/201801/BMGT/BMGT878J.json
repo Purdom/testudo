@@ -1,0 +1,26 @@
+{
+  "id": "BMGT878J",
+  "title": "Special Topics in Strategic Management and Entrepreneurship; Entrepreneurial Ecosystems",
+  "credits": "1",
+  "description": "Meets Jan 22, Feb 5, Feb 19, Mar 5.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Anil Gupta",
+      "seats": "12,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "1:00pm",
+      "end": "4:35pm",
+      "building": "VMH",
+      "room": "4534"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

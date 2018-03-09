@@ -1,0 +1,27 @@
+{
+  "id": "CMLT235",
+  "title": "Black Diaspora Literature and Culture",
+  "credits": "3",
+  "description": "Credit only granted for: CMLT235 or ENGL235.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Emily Perez",
+      "seats": "30,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "SQH",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Comparative Literature"
+}

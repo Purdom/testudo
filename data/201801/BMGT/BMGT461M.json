@@ -1,0 +1,25 @@
+{
+  "id": "BMGT461M",
+  "title": "Entrepreneurship",
+  "credits": "3",
+  "description": "Restriction: Must not have completed BMGT361.\nCredit only granted for: BMGT261, BMGT361, BMGT461, ENES460 or HLMN470.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "BL01",
+      "instructor": "David Kressler",
+      "seats": "60,",
+      "open-seats": "43,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "1100"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

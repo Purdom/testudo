@@ -1,0 +1,25 @@
+{
+  "id": "LARC471",
+  "title": "Capstone Studio: Community Design",
+  "credits": "5",
+  "description": "Prerequisite: LARC440; and LARC470.\nRestriction: Senior standing; and must be in Landscape Architecture program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kelly Fleming",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "PLS",
+      "room": "2148"
+    }
+  ],
+  "term": "201801",
+  "department": "Landscape Architecture"
+}

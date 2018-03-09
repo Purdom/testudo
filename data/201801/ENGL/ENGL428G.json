@@ -1,0 +1,27 @@
+{
+  "id": "ENGL428G",
+  "title": "Seminar in Language and Literature; Songs of Struggle: What Is Literature?",
+  "credits": "3",
+  "description": "Restriction: Junior standing. For ENGL majors only. Repeatable to 9 credits if content differs. Course intended primarily for students in English Honors Program. English majors with strong academic records may also apply. Permission from the Director of Honors required.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Scott Trudell",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "1320"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

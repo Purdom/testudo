@@ -1,0 +1,27 @@
+{
+  "id": "ANSC443",
+  "title": "Physiology of Lactation",
+  "credits": "3",
+  "description": "Prerequisite: CHEM231, ANSC212, and CHEM232.\nRecommended: BCHM463.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kasey Moyes",
+      "seats": "20,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ANS",
+      "room": "0402"
+    }
+  ],
+  "term": "201801",
+  "department": "Animal Science"
+}

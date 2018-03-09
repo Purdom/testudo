@@ -1,0 +1,26 @@
+{
+  "id": "ENMA620",
+  "title": "Polymer Physics",
+  "credits": "3",
+  "description": "Prerequisite: ENMA471; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mohamad Al-Sheikhly",
+      "seats": "25,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "CHM",
+      "room": "0119"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Materials"
+}

@@ -1,0 +1,159 @@
+{
+  "id": "ENES100",
+  "title": "Introduction to Engineering Design",
+  "credits": "3",
+  "description": "Corequisite: MATH140.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Galczynski",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "JMP",
+      "room": "1116"
+    },
+    {
+      "id": "0102",
+      "instructor": "Patrick McAvoy",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "JMP",
+      "room": "1215"
+    },
+    {
+      "id": "0201",
+      "instructor": "Jackelyn Lopez Roshwalb",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "JMP",
+      "room": "1116"
+    },
+    {
+      "id": "0202",
+      "instructor": "Evandro Valente",
+      "seats": "29,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "JMP",
+      "room": "1215"
+    },
+    {
+      "id": "0301",
+      "instructor": "Jackelyn Lopez Roshwalb",
+      "seats": "34,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "JMP",
+      "room": "1116"
+    },
+    {
+      "id": "0302",
+      "instructor": "Christopher Davis",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "JMP",
+      "room": "1215"
+    },
+    {
+      "id": "0401",
+      "instructor": "Jackelyn Lopez Roshwalb",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "JMP",
+      "room": "1116"
+    },
+    {
+      "id": "0402",
+      "instructor": "Evandro Valente",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "JMP",
+      "room": "1215"
+    },
+    {
+      "id": "0501",
+      "instructor": "Michael Galczynski",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "JMP",
+      "room": "1116"
+    },
+    {
+      "id": "0502",
+      "instructor": "Ayush Gupta",
+      "seats": "29,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "JMP",
+      "room": "1215"
+    },
+    {
+      "id": "0601",
+      "instructor": "Stephen Kamakaris",
+      "seats": "32,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "JMP",
+      "room": "1116"
+    },
+    {
+      "id": "0801",
+      "instructor": "Nicholas Wagman",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:50pm",
+      "building": "JMP",
+      "room": "1215"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

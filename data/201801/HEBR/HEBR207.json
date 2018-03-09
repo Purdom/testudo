@@ -1,0 +1,27 @@
+{
+  "id": "HEBR207",
+  "title": "Intensive Intermediate Hebrew II",
+  "credits": "4",
+  "description": "Prerequisite: Must have completed HEBR206 OR HEBR211; or have the appropriate Score on the Foreign Language Placement Assessment; or students who have taken courses with comparable content may contact the department.\nCredit only granted for: HEBR207 or HEBR212.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Avital Karpman",
+      "seats": "20,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "JMZ",
+      "room": "3120"
+    }
+  ],
+  "term": "201801",
+  "department": "Hebrew"
+}

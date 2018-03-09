@@ -1,0 +1,26 @@
+{
+  "id": "ENEE627",
+  "title": "Information Theory",
+  "credits": "3",
+  "description": "Prerequisite: ENEE620.\nCredit only granted for: ENEE627 or ENEE721.\nFormerly: ENEE721.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alexander Barg",
+      "seats": "35,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "AJC",
+      "room": "2121"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

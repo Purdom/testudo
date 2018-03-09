@@ -1,0 +1,27 @@
+{
+  "id": "PSYC303",
+  "title": "Professional Development for Psychology Majors",
+  "credits": "1",
+  "description": "Prerequisite: PSYC100; and must have completed 3 additional credits in PSYC courses. Or permission of BSOS-Psychology department.\nRestriction: Must be in a major within BSOS-Psychology department.\nCredit only granted for: PSYC309C or PSYC303.\nFormerly: PSYC309C.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kevin McGann",
+      "seats": "50,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

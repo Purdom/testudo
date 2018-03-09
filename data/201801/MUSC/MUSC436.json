@@ -1,0 +1,27 @@
+{
+  "id": "MUSC436",
+  "title": "Jazz: Then and Now",
+  "credits": "3",
+  "description": "Major styles and influential artists of the past 75 years of jazz.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Morgan",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "4:15pm",
+      "end": "5:30pm",
+      "building": "PAC",
+      "room": "3160"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

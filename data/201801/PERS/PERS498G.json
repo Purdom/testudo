@@ -1,0 +1,27 @@
+{
+  "id": "PERS498G",
+  "title": "Special Topics in Persian Studies; Masterpieces of Persian Literature",
+  "credits": "3",
+  "description": "Taught in Persian.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mohammad Bazargan",
+      "seats": "15,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "6:00pm",
+      "end": "8:30pm",
+      "building": "JMZ",
+      "room": "2117"
+    }
+  ],
+  "term": "201801",
+  "department": "Persian"
+}

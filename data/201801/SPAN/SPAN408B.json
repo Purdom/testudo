@@ -1,0 +1,27 @@
+{
+  "id": "SPAN408B",
+  "title": "Great Themes of the Hispanic Literatures; Puerto Rican Contemporary Culture and Literature",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Juan Carlos Quintero-Herencia",
+      "seats": "25,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "JMZ",
+      "room": "1215"
+    }
+  ],
+  "term": "201801",
+  "department": "Spanish"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ENES481",
+  "title": "Engineering Honors Seminar II",
+  "credits": "1",
+  "description": "Restriction: Must be in College of Engineering Honors; and junior standing or higher.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Richard McCuen",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "8:00am",
+      "end": "8:50am",
+      "building": "EGR",
+      "room": "1104"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

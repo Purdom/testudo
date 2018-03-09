@@ -1,0 +1,25 @@
+{
+  "id": "ENGL294",
+  "title": "Persuasion and Cleverness in Social Media",
+  "credits": "3",
+  "description": "Prerequisite: Must have satisfied Fundamental Studies Academic Writing requirement.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sara Wilder",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "TWS",
+      "room": "0223"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

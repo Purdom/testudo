@@ -1,0 +1,87 @@
+{
+  "id": "ARTT150",
+  "title": "Introduction to Art Theory",
+  "credits": "3",
+  "description": "Fundamental concepts of global, philosophic, and critical art theory examined through various historic and contemporary texts, and the analysis of works of art.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Richard Klank",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ASY",
+      "room": "2309"
+    },
+    {
+      "id": "0102",
+      "instructor": "Richard Klank",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ASY",
+      "room": "2309"
+    },
+    {
+      "id": "0103",
+      "instructor": "Richard Klank",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "ASY",
+      "room": "2309"
+    },
+    {
+      "id": "0201",
+      "instructor": "Rex Weil",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:20pm",
+      "building": "TWS",
+      "room": "1100"
+    },
+    {
+      "id": "0202",
+      "instructor": "Rex Weil",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:20pm",
+      "building": "TWS",
+      "room": "1100"
+    },
+    {
+      "id": "0203",
+      "instructor": "Rex Weil",
+      "seats": "25,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:20pm",
+      "building": "TWS",
+      "room": "1100"
+    }
+  ],
+  "term": "201801",
+  "department": "Art Studio"
+}

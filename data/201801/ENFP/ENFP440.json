@@ -1,0 +1,27 @@
+{
+  "id": "ENFP440",
+  "title": "Smoke Management and Fire Alarm Systems",
+  "credits": "3",
+  "description": "Prerequisite: ENFP300.\nRestriction: Permission of ENGR-Fire Protection Engineering department.\nAlso offered as: ENFP627.\nCredit only granted for: ENFP440 or ENFP627.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kenneth Isman",
+      "seats": "45,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "CHE",
+      "room": "2118"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Fire Protection"
+}

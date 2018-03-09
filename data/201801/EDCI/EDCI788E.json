@@ -1,0 +1,26 @@
+{
+  "id": "EDCI788E",
+  "title": "Selected Topics in Teacher Education; Professional Seminar in Minority and Urban Education",
+  "credits": "1",
+  "description": "This class meets once a month.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tara Brown",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

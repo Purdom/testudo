@@ -1,0 +1,62 @@
+{
+  "id": "UMEI005",
+  "title": "Advanced English as a Foreign Language",
+  "credits": "6",
+  "description": "Semi-intensive course for the nearly proficient non-native speaker of English needing additional language instruction prior to undertaking full-time academic study. Speaking and listening skills; improvement of reading speed and comprehension; and development of writing skills. Special fee required for this course. This course does not carry credit towards any degree at the University and does not count in the retention plan.",
+  "grading-method": [
+    "S-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Cornell Brellenthin",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MTuThF",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "HBK",
+      "room": "0108"
+    },
+    {
+      "id": "0201",
+      "instructor": "Dee Broughton",
+      "seats": "15,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MTuThF",
+      "start": "9:00am",
+      "end": "10:50am",
+      "building": "HBK",
+      "room": "0123"
+    },
+    {
+      "id": "0301",
+      "instructor": "Nasreen Abbas",
+      "seats": "15,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "MTuThF",
+      "start": "1:00pm",
+      "end": "2:50pm",
+      "building": "HBK",
+      "room": "0108"
+    },
+    {
+      "id": "0401",
+      "instructor": "Dee Broughton",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MTuThF",
+      "start": "12:00pm",
+      "end": "1:50pm",
+      "building": "HBK",
+      "room": "0123"
+    }
+  ],
+  "term": "201801",
+  "department": "Maryland English Institute"
+}

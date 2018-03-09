@@ -1,0 +1,26 @@
+{
+  "id": "ENTS749D",
+  "title": "Advanced Topics in Networking; Network Design and Configuration Lab",
+  "credits": "3",
+  "description": "Restricted to ENTS majors.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Zoltan Safar",
+      "seats": "18,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "2:00pm",
+      "end": "4:45pm",
+      "building": "AVW",
+      "room": "1324"
+    }
+  ],
+  "term": "201801",
+  "department": "Telecommunications"
+}

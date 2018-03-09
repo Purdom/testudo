@@ -1,0 +1,27 @@
+{
+  "id": "ENME489P",
+  "title": "Special Topics in Mechanical Engineering; Internal Combustion Engines",
+  "credits": "3",
+  "description": "Prerequisite: ENES232, ENME331, and permission of department. Co-requisite: ENME332.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Daanish Maqbool",
+      "seats": "40,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ITV",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

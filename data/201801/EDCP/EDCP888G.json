@@ -1,0 +1,26 @@
+{
+  "id": "EDCP888G",
+  "title": "Apprenticeship in Counseling and Personnel Services; School Counseling",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jessica McKechnie",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "7:15pm",
+      "end": "10:00pm",
+      "building": "EDU",
+      "room": "3236"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

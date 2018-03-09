@@ -1,0 +1,27 @@
+{
+  "id": "SOCY412",
+  "title": "Family Demography",
+  "credits": "3",
+  "description": "Prerequisite: 6 credits in SOCY courses.\nFormerly: SOCY312.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Rendall",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "LEF",
+      "room": "0214"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "BSCI339E",
+  "title": "Selected Topics in Biology; Developmental Genetics",
+  "credits": "3",
+  "description": "Prerequisites: BSCI222 and BSCI430.\n\nFocus is placed on the structure, expression, and regulation of genes controlling plant and animal development. (Sponsoring Dept: BIOL). Applicable towards Biological Sciences Specialization Areas: GENB and CEBG.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Eric Haag",
+      "seats": "15,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "BPS",
+      "room": "2249"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

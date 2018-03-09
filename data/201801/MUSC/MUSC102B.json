@@ -1,0 +1,27 @@
+{
+  "id": "MUSC102B",
+  "title": "Class Piano",
+  "credits": "2",
+  "description": "Functional piano training for beginners. Development of techniques for school and community playing. Basic piano techniques; chord, arpeggio and scale techniques; melody and song playing; simple accompaniments, improvisation for accompaniments and rhythms; sight reading and transposition and playing by ear.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Katherine Vest",
+      "seats": "14,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PAC",
+      "room": "1123"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

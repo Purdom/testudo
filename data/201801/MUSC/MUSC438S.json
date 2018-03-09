@@ -1,0 +1,25 @@
+{
+  "id": "MUSC438S",
+  "title": "Area Studies in Ethnomusicology; Music of Southeast Asia",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Witzleben",
+      "seats": "12,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PAC",
+      "room": "3110A"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

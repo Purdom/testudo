@@ -1,0 +1,26 @@
+{
+  "id": "PLCY732",
+  "title": "Policy and Politics of Education Reform",
+  "credits": "3",
+  "description": "Restriction: Must be in a major in PLCY-School of Public Policy; or permission of PLCY-School of Public Policy.\nCredit only granted for: PLCY732 or PUAF732.\nFormerly: PUAF732.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gail Sunderman",
+      "seats": "24,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "TWS",
+      "room": "1313"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

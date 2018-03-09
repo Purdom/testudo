@@ -1,0 +1,26 @@
+{
+  "id": "KNES161O",
+  "title": "Physical Education Activities: Coed; Conditioning (Intermediate)",
+  "credits": "1",
+  "description": "Restriction: Must be in a major within SPHL-Kinesiology department.\n\nAttendance is required on the first day of class. Schedule adjustment is the first week of class only. Students must pay a $40 instructional materials fee.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0001",
+      "instructor": "Alexander Chyu",
+      "seats": "32,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "4:00pm",
+      "building": "SPH",
+      "room": "2101"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

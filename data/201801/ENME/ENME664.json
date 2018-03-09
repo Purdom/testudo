@@ -1,0 +1,26 @@
+{
+  "id": "ENME664",
+  "title": "Dynamics",
+  "credits": "3",
+  "description": "Prerequisite: ENES221; or students who have taken courses with comparable content may contact the department; or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "B Balachandran",
+      "seats": "25,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EGR",
+      "room": "3114"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

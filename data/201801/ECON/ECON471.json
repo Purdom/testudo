@@ -1,0 +1,27 @@
+{
+  "id": "ECON471",
+  "title": "Labor Markets",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (ECON306, ECON326); and minimum grade of C- in ECON424.\nRestriction: Must be in Economics Bachelor of Arts program.\nCredit only granted for: ECON470 or ECON471.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nicholas Montgomery",
+      "seats": "38,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TYD",
+      "room": "2111"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

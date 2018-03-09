@@ -1,0 +1,111 @@
+{
+  "id": "PHYS131",
+  "title": "Fundamentals of Physics for Life Sciences I",
+  "credits": "4",
+  "description": "Prerequisite: MATH130, MATH131, and CHEM131; and (BSCI160 and BSCI161; or BSCI106); and (BSCI170 and BSCI171; or BSCI105). Or students who have taken courses with comparable content may contact the department.\nCredit only granted for: PHYS121, PHYS131, or PHYS331.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Buehrle",
+      "seats": "24,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PHY",
+      "room": "1410"
+    },
+    {
+      "id": "0102",
+      "instructor": "David Buehrle",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PHY",
+      "room": "1410"
+    },
+    {
+      "id": "0103",
+      "instructor": "David Buehrle",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PHY",
+      "room": "1410"
+    },
+    {
+      "id": "0104",
+      "instructor": "David Buehrle",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PHY",
+      "room": "1410"
+    },
+    {
+      "id": "0201",
+      "instructor": "David Buehrle",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PHY",
+      "room": "1410"
+    },
+    {
+      "id": "0202",
+      "instructor": "David Buehrle",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PHY",
+      "room": "1410"
+    },
+    {
+      "id": "0203",
+      "instructor": "David Buehrle",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PHY",
+      "room": "1410"
+    },
+    {
+      "id": "0204",
+      "instructor": "David Buehrle",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "PHY",
+      "room": "1410"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

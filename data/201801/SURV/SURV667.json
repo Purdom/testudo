@@ -1,0 +1,26 @@
+{
+  "id": "SURV667",
+  "title": "Introduction to Record Linkage with Big Data Applications",
+  "credits": "1",
+  "description": "Restriction: Permission of BSOS-Joint Program in Survey Methodology department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "SVW1",
+      "instructor": "Frauke Kreuter",
+      "seats": "13,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Survey Methodology"
+}

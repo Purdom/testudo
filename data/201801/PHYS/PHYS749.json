@@ -1,0 +1,26 @@
+{
+  "id": "PHYS749",
+  "title": "Seminar in Theoretical Nuclear Physics",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paulo Bedaque",
+      "seats": "30,",
+      "open-seats": "27,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:30pm",
+      "end": "4:00pm",
+      "building": "PSC",
+      "room": "3150"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

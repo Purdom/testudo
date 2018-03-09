@@ -1,0 +1,49 @@
+{
+  "id": "BMGT441",
+  "title": "Fixed Income",
+  "credits": "3",
+  "description": "Prerequisite: BMGT340.\nCredit only granted for: BMGT448A or BMGT441.\nFormerly: BMGT448A.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gurupdesh Pandher",
+      "seats": "45,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1307"
+    },
+    {
+      "id": "0201",
+      "instructor": "Gurupdesh Pandher",
+      "seats": "45,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "VMH",
+      "room": "1307"
+    },
+    {
+      "id": "0301",
+      "instructor": "Gurupdesh Pandher",
+      "seats": "45,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "VMH",
+      "room": "1330"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

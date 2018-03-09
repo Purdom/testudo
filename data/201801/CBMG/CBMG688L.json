@@ -1,0 +1,26 @@
+{
+  "id": "CBMG688L",
+  "title": "Special Topics in Cell Biology and Molecular Genetics; Microbial Pathogenesis",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Volker Briken,",
+      "seats": "20,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "8:00am",
+      "end": "10:00am",
+      "building": "MCB",
+      "room": "1123"
+    }
+  ],
+  "term": "201801",
+  "department": "Cell Biology & Molecular Genetics"
+}

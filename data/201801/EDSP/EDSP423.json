@@ -1,0 +1,26 @@
+{
+  "id": "EDSP423",
+  "title": "Assessment in Early Childhood Special Education",
+  "credits": "3",
+  "description": "Restriction: Must be in Special Education program.\nCredit only granted for: EDSP423 or EDSP624.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Joan Lieber",
+      "seats": "29,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ARC",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Special"
+}

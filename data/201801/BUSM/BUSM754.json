@@ -1,0 +1,25 @@
+{
+  "id": "BUSM754",
+  "title": "Competitive and Collaborative Negotiation",
+  "credits": "2",
+  "description": "Restriction: Must be in Business and Management (Master's) program; or permission of BMGT-Robert H. Smith School of Business.\nCredit only granted for: BUMO714 or BUSM754.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Vijaya Venkataramani",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "VMH",
+      "room": "1505"
+    }
+  ],
+  "term": "201801",
+  "department": "Full-Time MBA Program"
+}

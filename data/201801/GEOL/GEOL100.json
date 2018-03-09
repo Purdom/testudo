@@ -1,0 +1,39 @@
+{
+  "id": "GEOL100",
+  "title": "Physical Geology",
+  "credits": "3",
+  "description": "Credit only granted for: GEOL100 or GEOL120.\nAdditional information: CORE Distributive Studies Physical Science Laboratory Course only when taken concurrently with GEOL 110.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tracey Centorbi",
+      "seats": "95,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "SYM",
+      "room": "0200"
+    },
+    {
+      "id": "0201",
+      "instructor": "Nicholas Schmerr",
+      "seats": "95,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PLS",
+      "room": "1140"
+    }
+  ],
+  "term": "201801",
+  "department": "Geology"
+}

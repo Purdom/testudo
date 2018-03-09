@@ -1,0 +1,25 @@
+{
+  "id": "MUED411",
+  "title": "Teaching Elementary Instrumental Music II",
+  "credits": "2",
+  "description": "Prerequisite: MUED320 and MUED311.\nRestriction: Must be in Music Education program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Stephanie Prichard",
+      "seats": "15,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "10:45am",
+      "end": "12:00pm",
+      "building": "PAC",
+      "room": "2130A"
+    }
+  ],
+  "term": "201801",
+  "department": "Music Education"
+}

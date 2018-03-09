@@ -1,0 +1,25 @@
+{
+  "id": "MUSC229E",
+  "title": "Ensemble; Wind Ensemble",
+  "credits": "1",
+  "description": "Open by audition. Contact instructor to make arrangements.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Votta",
+      "seats": "75,",
+      "open-seats": "31,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "12:30pm",
+      "building": "PAC",
+      "room": "2540"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

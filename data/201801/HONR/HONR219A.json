@@ -1,0 +1,25 @@
+{
+  "id": "HONR219A",
+  "title": "Honors Seminar; Science Fiction for Social Justice",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alexis Lothian",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "WDS",
+      "room": "1131"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

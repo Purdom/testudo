@@ -1,0 +1,25 @@
+{
+  "id": "BUSI758L",
+  "title": "Special Topics in Business; Managers in Society",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "DC01",
+      "instructor": "Michael Geppi",
+      "seats": "50,",
+      "open-seats": "30,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "6:25pm",
+      "end": "10:00pm",
+      "building": "DC",
+      "room": "C3"
+    }
+  ],
+  "term": "201801",
+  "department": "Part-Time MBA Program"
+}

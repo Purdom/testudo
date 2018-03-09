@@ -1,0 +1,62 @@
+{
+  "id": "ENCE602",
+  "title": "Project Procurement Management",
+  "credits": "3",
+  "description": "Fundamental concepts and techniques for project acquisition and procurement are presented. Students are introduced to the PMBOK Guide six-step procurement process and expected to develop an in-depth understanding of project evaluation, planning, financing, contracting, negotiation, and procurement execution. It will also cover emerging methods, principles, and practices in infrastructure project procurement, including Public-Private Partnerships, Carbon project procurement, and Clean Development Mechanism.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Qingbin Cui",
+      "seats": "18,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "3:40pm",
+      "building": "JMP",
+      "room": "2217"
+    },
+    {
+      "id": "HT01",
+      "instructor": "Instructor: TBA",
+      "seats": "20,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "SG01",
+      "instructor": "Instructor: TBA",
+      "seats": "20,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "SM01",
+      "instructor": "Instructor: TBA",
+      "seats": "20,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

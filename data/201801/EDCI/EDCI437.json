@@ -1,0 +1,25 @@
+{
+  "id": "EDCI437",
+  "title": "English Grammar Pedagogy for Teachers of English Language Learners",
+  "credits": "3",
+  "description": "Credit only granted for: EDCI437 or EDCI488P.\nFormerly: EDCI488P.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Denis Sullivan",
+      "seats": "25,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "EDU",
+      "room": "1315"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

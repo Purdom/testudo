@@ -1,0 +1,25 @@
+{
+  "id": "ENEE324H",
+  "title": "Engineering Probability",
+  "credits": "3",
+  "description": "Prerequisite: ENEE322; and completion of all lower-division technical courses in the EE curriculum.\nCredit only granted for: BMGT231, STAT400 or ENEE324.\nAdditional information: Electrical Engineering and Computer Engineering majors may not substitute STAT400 for ENEE324. These courses are not interchangeable, consult your program requirements or advisor for what is acceptable toward your program of study.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Perinkulam Krishnaprasad",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "EGR",
+      "room": "3111"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

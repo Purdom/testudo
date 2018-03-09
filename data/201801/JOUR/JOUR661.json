@@ -1,0 +1,26 @@
+{
+  "id": "JOUR661",
+  "title": "Television Reporting and Production",
+  "credits": "3",
+  "description": "Prerequisite: JOUR603; or students who have taken courses with comparable content may contact the department.\nRestriction: Must not be in Journalism Studies (Doctoral) program.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0401",
+      "instructor": "Joshua Davidsburg",
+      "seats": "1,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "7:00pm",
+      "end": "8:50pm",
+      "building": "TWS",
+      "room": "0222A"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

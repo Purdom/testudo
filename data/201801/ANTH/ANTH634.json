@@ -1,0 +1,26 @@
+{
+  "id": "ANTH634",
+  "title": "Digital Heritage Preservation",
+  "credits": "4",
+  "description": "New technologies are revolutionizing the ways in which our global heritage is being recorded, analyzed, and interpreted to the public. This course will introduce students to the benefits and challenges of a variety of methods. They will gain hands on experiences with equipment used to record historic structures and archaeological sites. They will also conduct the post-processing of data with a variety of software packages required for analysis and dissemination.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Mark Leone,",
+      "seats": "5,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:00pm",
+      "end": "8:20pm",
+      "building": "ARC",
+      "room": "1115"
+    }
+  ],
+  "term": "201801",
+  "department": "Anthropology"
+}

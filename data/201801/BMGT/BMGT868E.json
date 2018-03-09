@@ -1,0 +1,26 @@
+{
+  "id": "BMGT868E",
+  "title": "Special Topics in Organizational Behavior/Human Resource Management; Emotions in Organizations",
+  "credits": "2",
+  "description": "Meets Jan 29, Feb 5, Feb 12, Feb 19, Feb 26, Mar 5, Mar 12.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Myeong-Gu Seo",
+      "seats": "12,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "9:00am",
+      "end": "12:35pm",
+      "building": "VMH",
+      "room": "4534"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

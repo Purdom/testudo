@@ -1,0 +1,26 @@
+{
+  "id": "MEES608C",
+  "title": "Seminar in Marine-Estuarine-Environmental Sciences; Diseases of Chesapeake Bay Fish",
+  "credits": "1",
+  "description": "This course will include lectures and discussions led by researchers of diseases that threaten vertebrate, crustacean, and molluscan species in the Bay. A section on disease detection methods, and their strengths and weaknesses, will be included. Discussions will be in the context of possible anthropogenic influences and management of diseases.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Eric Schott",
+      "seats": "15,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "9:00am",
+      "end": "10:00am",
+      "building": "HJP",
+      "room": "1213B"
+    }
+  ],
+  "term": "201801",
+  "department": "Marine-Estuarine-Environmental Sciences"
+}

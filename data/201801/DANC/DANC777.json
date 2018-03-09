@@ -1,0 +1,25 @@
+{
+  "id": "DANC777",
+  "title": "Internship in Dance",
+  "credits": "6",
+  "description": "Restriction: Must be admitted to MFA in Dance; or permission of ARHU-School of Theatre, Dance & Performance Studies department.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0701",
+      "instructor": "Patrik Widrig",
+      "seats": "5,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Dance"
+}

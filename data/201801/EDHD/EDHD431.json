@@ -1,0 +1,25 @@
+{
+  "id": "EDHD431",
+  "title": "Child Development and Learning, Three to Eight Years",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in EDHD314 and EDHD425; and 1 course with a minimum grade of C- from (EDHD419, EDSP420).\nCorequisite: EDSP423 and EDSP315; and TRACK I: Must be concurrently enrolled in EDSP430, EDSP433; or TRACK 2: Must be concurrently enrolled in EDHD415, EDHD424.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jennie Lee-Kim",
+      "seats": "35,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "EDU",
+      "room": "1121"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Human Development"
+}

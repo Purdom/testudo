@@ -1,0 +1,25 @@
+{
+  "id": "HONR239C",
+  "title": "Honors Seminar: The Creative Process in Dance",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Patrik Widrig",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PAC",
+      "room": "1912"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

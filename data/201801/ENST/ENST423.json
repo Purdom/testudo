@@ -1,0 +1,27 @@
+{
+  "id": "ENST423",
+  "title": "Soil-Water Pollution",
+  "credits": "3",
+  "description": "Prerequisite: CHEM104 and ENST200; and permission of AGNR-Environmental Science & Technology department.\nCredit only granted for: ENST423 or NRSC423.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Hill",
+      "seats": "35,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ANS",
+      "room": "0412"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

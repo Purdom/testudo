@@ -1,0 +1,25 @@
+{
+  "id": "ECON461",
+  "title": "Economics of Regulation and Anti-trust",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (ECON306, ECON326); and 1 course with a minimum grade of C- from (ECON230, BMGT230, ECON321).\nRestriction: Must be in Economics Bachelor of Arts program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Cindy Clement",
+      "seats": "40,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TYD",
+      "room": "1132"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

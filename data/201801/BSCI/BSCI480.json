@@ -1,0 +1,27 @@
+{
+  "id": "BSCI480",
+  "title": "Arthropod Form and Function",
+  "credits": "4",
+  "description": "Prerequisite: Permission of CMNS-Entomology (AGNR).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jeffrey Shultz",
+      "seats": "20,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "PLS",
+      "room": "1146"
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences Program"
+}

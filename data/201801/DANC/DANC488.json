@@ -1,0 +1,27 @@
+{
+  "id": "DANC488",
+  "title": "Project-Based Learning; Project-Based Learning",
+  "credits": "4",
+  "description": "Students must pay a $25.00 lab fee.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Adriane Fang",
+      "seats": "15,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:30pm",
+      "end": "5:30pm",
+      "building": "PAC",
+      "room": "1912"
+    }
+  ],
+  "term": "201801",
+  "department": "Dance"
+}

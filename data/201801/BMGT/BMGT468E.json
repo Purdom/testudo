@@ -1,0 +1,25 @@
+{
+  "id": "BMGT468E",
+  "title": "Special Topics in Management and Organization; Smith Store 2.0: Rebuilding an Onsite and Online Retail Experience",
+  "credits": "3",
+  "description": "Restricted to BMGT majors with 30 credit hours completed.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "BL01",
+      "instructor": "Oliver Schlake",
+      "seats": "30,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "1412"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

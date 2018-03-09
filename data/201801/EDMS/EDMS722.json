@@ -1,0 +1,26 @@
+{
+  "id": "EDMS722",
+  "title": "Structural Modeling",
+  "credits": "3",
+  "description": "Prerequisite: EDMS657.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gregory Hancock",
+      "seats": "30,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "0220"
+    }
+  ],
+  "term": "201801",
+  "department": "Measurement, Statistics, and Evaluation"
+}

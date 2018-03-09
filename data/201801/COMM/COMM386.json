@@ -1,0 +1,38 @@
+{
+  "id": "COMM386",
+  "title": "Experiential Learning",
+  "credits": "3 -",
+  "description": "Prerequisite: Permission of ARHU-Communication department.\nRestriction: Junior standing or higher; and must be in Communication program.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Julie Gowin",
+      "seats": "60,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "SG91",
+      "instructor": "Elizabeth Malliakos",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

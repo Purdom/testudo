@@ -1,0 +1,27 @@
+{
+  "id": "ANSC440",
+  "title": "Zoonotic Diseases and Control",
+  "credits": "3",
+  "description": "Prerequisite: BSCI223, ANSC212, ANSC327, BSCI222, BSCI421, or NFSC430; or students who have taken courses with comparable content may contact the department.\nCredit only granted for: ANSC440 or ANSC489R.\nFormerly: ANSC489R.",
+  "grading-method": [
+    "Reg",
+    "Aud",
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Debabrata Biswas",
+      "seats": "24,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ANS",
+      "room": "0412"
+    }
+  ],
+  "term": "201801",
+  "department": "Animal Science"
+}

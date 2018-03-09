@@ -1,0 +1,26 @@
+{
+  "id": "BMGT878P",
+  "title": "Special Topics in Strategic Management and Entrepreneurship; Strategy and Entrepreneurship PhD Presentations",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Instructor: TBA",
+      "seats": "30,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "9:15am",
+      "end": "10:45am",
+      "building": "VMH",
+      "room": "3330H"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

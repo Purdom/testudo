@@ -1,0 +1,27 @@
+{
+  "id": "GVPT355",
+  "title": "Capstone in International Conflict Management",
+  "credits": "3",
+  "description": "Prerequisite: GVPT354.\nRestriction: Enrollment is restricted to students in the Minor in International Development and Conflict Management; and sophomore standing or higher; and permission of BSOS-Government & Politics department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Hess,",
+      "seats": "40,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:30pm",
+      "end": "6:15pm",
+      "building": "TYD",
+      "room": "1132"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

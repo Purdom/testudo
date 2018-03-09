@@ -1,0 +1,27 @@
+{
+  "id": "ANTH360",
+  "title": "Method and Theory in Sociocultural Anthropology",
+  "credits": "3",
+  "description": "Prerequisite: ANTH260.\nRestriction: Must be in Anthropology program; or permission of BSOS-Anthropology department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andrea Lopez",
+      "seats": "35,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "HBK",
+      "room": "0105"
+    }
+  ],
+  "term": "201801",
+  "department": "Anthropology"
+}

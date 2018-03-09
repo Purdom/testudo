@@ -1,0 +1,25 @@
+{
+  "id": "BMGT478D",
+  "title": "Special Topics in Supply Chain Management; Applied Research in Intermodal Transportation and Logistics",
+  "credits": "3",
+  "description": "Restricted to students in the Supply Chain Management Fellows program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "FP01",
+      "instructor": "Thomas Corsi",
+      "seats": "35,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "VMH",
+      "room": "1411"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "PHIL879A",
+  "title": "Seminar in Philosophy and Cognitive Studies; Representation in Cognitive Science",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Georges Rey",
+      "seats": "15,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:00pm",
+      "end": "7:40pm",
+      "building": "SKN",
+      "room": "1116"
+    }
+  ],
+  "term": "201801",
+  "department": "Philosophy"
+}

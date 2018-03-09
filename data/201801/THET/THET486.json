@@ -1,0 +1,27 @@
+{
+  "id": "THET486",
+  "title": "History of Modern Theory & Performance",
+  "credits": "3",
+  "description": "Prerequisite: THET488 or THET489; or permission of instructor.\nAlso offered as: THET686.\nCredit only granted for: THET486 or THET686.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Harding",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PAC",
+      "room": "1809"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre"
+}

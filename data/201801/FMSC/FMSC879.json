@@ -1,0 +1,25 @@
+{
+  "id": "FMSC879",
+  "title": "Preparing Future Faculty and Professionals Seminar",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sandra Quinn",
+      "seats": "30,",
+      "open-seats": "21,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

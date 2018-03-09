@@ -1,0 +1,25 @@
+{
+  "id": "BUSI672",
+  "title": "Global Supply Chain Management",
+  "credits": "2",
+  "description": "Restriction: Must be in one of the following programs (Business and Management (Master's); Business and Management (Master's)).",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Humberto Coronado",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "VMH",
+      "room": "1520"
+    }
+  ],
+  "term": "201801",
+  "department": "Part-Time MBA Program"
+}

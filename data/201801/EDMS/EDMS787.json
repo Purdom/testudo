@@ -1,0 +1,26 @@
+{
+  "id": "EDMS787",
+  "title": "Bayesian Inference and Analysis",
+  "credits": "3",
+  "description": "Prerequisite: EDMS651.\nCredit only granted for: EDMS769B or EDMS787.\nFormerly: EDMS769B.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yang Liu",
+      "seats": "20,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "JMZ",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Measurement, Statistics, and Evaluation"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "PLCY720",
+  "title": "International Security Policy",
+  "credits": "3",
+  "description": "Restriction: Must be in a major in PLCY-School of Public Policy; or permission of PLCY-School of Public Policy.\nCredit only granted for: PLCY720 or PUAF720.\nFormerly: PUAF720.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nancy Gallagher",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "1:30pm",
+      "end": "4:00pm",
+      "building": "VMH",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

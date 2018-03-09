@@ -1,0 +1,25 @@
+{
+  "id": "MUSC329B",
+  "title": "Ensemble; Chamber Singers",
+  "credits": "1",
+  "description": "ADD: Audition required before permission of department will be granted. Contact instructor to make arrangements.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Edward Maclary,",
+      "seats": "50,",
+      "open-seats": "26,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "PAC",
+      "room": "2201"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "BSOS388X",
+  "title": "Behavioral and Social Sciences Special Topics; Innovation in the Public Sector II",
+  "credits": "3",
+  "description": "Prerequisites: BSOS388F or GVPT388B\n\nFor permission to register, email bsos-ugdean@umd.edu. with your name, UID, and brief statement of why this course is of interest to you.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Samantha O'Neil,",
+      "seats": "20,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "CHT",
+      "room": "2113"
+    }
+  ],
+  "term": "201801",
+  "department": "Behavioral and Social Sciences"
+}

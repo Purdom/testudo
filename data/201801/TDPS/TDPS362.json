@@ -1,0 +1,27 @@
+{
+  "id": "TDPS362",
+  "title": "Alexander Technique",
+  "credits": "1 -",
+  "description": "Prerequisite: THET222, THET116, THET223, and TDPS201; or (DANC218 and DANC219). And permission of ARHU-School of Theatre, Dance & Performance Studies department.\nCredit only granted for: THET399J, THET362 or TDPS362.\nFormerly: THET399J and THET362.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Leslie Felbain",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "11:20am",
+      "building": "PAC",
+      "room": "3736"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre, Dance and Performance Studies"
+}

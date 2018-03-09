@@ -1,0 +1,26 @@
+{
+  "id": "ENTS759E",
+  "title": "Advanced Topics in Communications; Design and Planning of Next Generation of Cellular Infrastructure",
+  "credits": "3",
+  "description": "Restricted to ENTS majors. Please click here for further course information",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Rikin Thakker",
+      "seats": "30,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "5:30pm",
+      "end": "8:15pm",
+      "building": "EGR",
+      "room": "3106"
+    }
+  ],
+  "term": "201801",
+  "department": "Telecommunications"
+}

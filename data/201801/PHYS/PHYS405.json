@@ -1,0 +1,39 @@
+{
+  "id": "PHYS405",
+  "title": "Advanced Experiments",
+  "credits": "3",
+  "description": "Prerequisite: PHYS375.\nRestriction: Must be in a major within CMNS-Physics department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Carter Hall,",
+      "seats": "13,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "PHY",
+      "room": "1204"
+    },
+    {
+      "id": "0102",
+      "instructor": "Carter Hall,",
+      "seats": "13,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "PHY",
+      "room": "1402"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

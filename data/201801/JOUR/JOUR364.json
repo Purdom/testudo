@@ -1,0 +1,27 @@
+{
+  "id": "JOUR364",
+  "title": "Radio Broadcasting",
+  "credits": "3",
+  "description": "Prerequisite: JOUR360; and permission of JOUR-Philip Merrill College of Journalism.\nCredit only granted for: JOUR364 or JOUR368R.\nFormerly: JOUR368R.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Little",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:30pm",
+      "end": "8:15pm",
+      "building": "TWS",
+      "room": "0222B"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

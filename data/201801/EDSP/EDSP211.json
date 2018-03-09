@@ -1,0 +1,27 @@
+{
+  "id": "EDSP211",
+  "title": "Introduction to Special Education",
+  "credits": "3",
+  "description": "Restriction: Sophomore standing or lower; and permission of EDUC-Counseling, Higher Education and Special Education department.\nCredit only granted for: EDSP210 or EDSP470.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Joan Lieber",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "EDU",
+      "room": "1315"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Special"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "THET489W",
+  "title": "Special Topics in Theatre History from 1800 to Present; August Wilson: Playing Instruments of History",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Faedra Carpenter",
+      "seats": "15,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "11:15am",
+      "building": "PAC",
+      "room": "1809"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre"
+}

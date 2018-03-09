@@ -1,0 +1,27 @@
+{
+  "id": "JOUR354",
+  "title": "Interactive Multimedia Storytelling",
+  "credits": "3",
+  "description": "Prerequisite: JOUR352.\nRestriction: Must be in a major in JOUR-Philip Merrill College of Journalism.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ljiljana Ciric Hoffmann",
+      "seats": "12,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:00pm",
+      "end": "6:45pm",
+      "building": "TWS",
+      "room": "0222B"
+    }
+  ],
+  "term": "201801",
+  "department": "Journalism"
+}

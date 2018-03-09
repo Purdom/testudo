@@ -1,0 +1,25 @@
+{
+  "id": "MUSC800A",
+  "title": "Advanced Seminar in Music Pedagogy",
+  "credits": "3",
+  "description": "Prerequisite: MUSC400; or students who have taken courses with comparable content may contact the department.\nRestriction: Permission of instructor.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Rita Sloan",
+      "seats": "7,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "EDHI853",
+  "title": "Leadership in Higher Education",
+  "credits": "3",
+  "description": "Prerequisite: EDHI653.\nCredit only granted for: EDHI853, EDPL853, or EDPS853.\nFormerly: EDPL853.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sharon Fries-Britt",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "EDU",
+      "room": "2102"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Leadership, Higher Ed and International Ed"
+}

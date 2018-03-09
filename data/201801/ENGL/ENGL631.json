@@ -1,0 +1,26 @@
+{
+  "id": "ENGL631",
+  "title": "Readings in 20th Century American Literature",
+  "credits": "3",
+  "description": "For majors only.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Peter Mallios",
+      "seats": "14,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TWS",
+      "room": "3252"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

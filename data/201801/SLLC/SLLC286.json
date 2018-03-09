@@ -1,0 +1,27 @@
+{
+  "id": "SLLC286",
+  "title": "Living the Good Life: Chinese Philosophy in the Modern World",
+  "credits": "3",
+  "description": "Additional information: Taught in English.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andrew Schonebaum",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TYD",
+      "room": "2106"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Languages, Literatures and Cultures"
+}

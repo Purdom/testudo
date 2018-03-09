@@ -1,0 +1,27 @@
+{
+  "id": "ANSC115",
+  "title": "Careers in the Animal Sciences",
+  "credits": "1",
+  "description": "Prerequisite: ANSC101 and ANSC103.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Peters",
+      "seats": "30,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:00pm",
+      "end": "3:50pm",
+      "building": "ANS",
+      "room": "0408"
+    }
+  ],
+  "term": "201801",
+  "department": "Animal Science"
+}

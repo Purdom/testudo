@@ -1,0 +1,39 @@
+{
+  "id": "GEOG372",
+  "title": "Remote Sensing",
+  "credits": "3",
+  "description": "Principles of remote sensing in relation to photographic, thermal infrared and radar imaging. Methods of obtaining quantitative information from remotely-sensed images. Interpretation of remotely-sensed images emphasizing the study of spatial and environmental relationships.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Belen Franch,",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "LEF",
+      "room": "2166"
+    },
+    {
+      "id": "0102",
+      "instructor": "Belen Franch,",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "LEF",
+      "room": "2166"
+    }
+  ],
+  "term": "201801",
+  "department": "Geographical Sciences"
+}

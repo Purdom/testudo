@@ -1,0 +1,26 @@
+{
+  "id": "ENCE674",
+  "title": "Urban Transit Planning and Rail Transportation Engineering",
+  "credits": "3",
+  "description": "Basic engineering components of conventional and high speed railroads and of air cushion and other high speed new technology. The study of urban rail and bus transit. The characteristics of the vehicle, the supporting way, and the terminal requirements will be evaluated with respect to system performance, capacity, cost, and level of service.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paul Schonfeld",
+      "seats": "18,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:00pm",
+      "end": "7:45pm",
+      "building": "EGR",
+      "room": "2116"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Civil"
+}

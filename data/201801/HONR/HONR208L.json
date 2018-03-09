@@ -1,0 +1,25 @@
+{
+  "id": "HONR208L",
+  "title": "Honors Seminar; Justice Matters: Law, Literature, and Film",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sara Schotland",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ASY",
+      "room": "3219"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "LARC120",
+  "title": "Digital Fundamentals",
+  "credits": "2",
+  "description": "Restriction: Permission of AGNR-Plant Science & Landscape Architecture department; and must be in Landscape Architecture program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jeffrey Server",
+      "seats": "20,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "PLS",
+      "room": "2137"
+    },
+    {
+      "id": "0102",
+      "instructor": "Jeffrey Server",
+      "seats": "20,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "PLS",
+      "room": "2137"
+    }
+  ],
+  "term": "201801",
+  "department": "Landscape Architecture"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "AREC624",
+  "title": "Applied Econometrics II",
+  "credits": "4",
+  "description": "Prerequisite: AREC623.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Anna Alberini",
+      "seats": "30,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "12:30pm",
+      "building": "SYM",
+      "room": "0215"
+    }
+  ],
+  "term": "201801",
+  "department": "Agricultural and Resource Economics"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "URSP600",
+  "title": "Research Design and Application",
+  "credits": "3",
+  "description": "Formerly: URSP602.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ariel Bierbaum",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "ARC",
+      "room": "1105"
+    }
+  ],
+  "term": "201801",
+  "department": "Urban Studies and Planning"
+}

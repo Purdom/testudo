@@ -1,0 +1,26 @@
+{
+  "id": "SPAN798R",
+  "title": "Open Seminar; Interpretation in Theory and Practice: The Case of Roberto Bolano",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ryan Long",
+      "seats": "10,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "JMZ",
+      "room": "3122"
+    }
+  ],
+  "term": "201801",
+  "department": "Spanish"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ENGL488Q",
+  "title": "Topics in Advanced Writing; Multimedia Composing in Professional Settings",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Scott Wible",
+      "seats": "18,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "0224"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

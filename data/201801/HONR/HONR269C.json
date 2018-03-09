@@ -1,0 +1,25 @@
+{
+  "id": "HONR269C",
+  "title": "Honors Seminar; Digital Dialogues and the Dynamics of Intercultural Communication",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sahar Khamis",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "WDS",
+      "room": "1127"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "INST447",
+  "title": "Data Sources and Manipulation",
+  "credits": "3",
+  "description": "Prerequisite: INST326 or CMSC131; and INST327.\nRestriction: Permission of INFO-College of Information Studies; and must be in Information Science program.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Donal Heidenblad",
+      "seats": "50,",
+      "open-seats": "29,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "KEY",
+      "room": "0103"
+    },
+    {
+      "id": "0102",
+      "instructor": "Donal Heidenblad",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TYD",
+      "room": "0102"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

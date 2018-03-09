@@ -1,0 +1,27 @@
+{
+  "id": "ENGL329A",
+  "title": "Special Topics in Film Studies; Cinema of Liberation",
+  "credits": "3",
+  "description": "Also offered as CMLT398C. Credit granted for ENGL329A or CMLT398C. Repeatable to 9 credits if content differs. Studies in various periods and genres of film.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Eugene Robinson",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

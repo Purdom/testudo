@@ -1,0 +1,26 @@
+{
+  "id": "INFM700",
+  "title": "Information Architecture",
+  "credits": "3",
+  "description": "Prerequisite: INFM603; or permission of instructor.\nRestriction: Permission of INFO-College of Information Studies.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Philip Piety",
+      "seats": "30,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "6:00pm",
+      "end": "8:45pm",
+      "building": "HBK",
+      "room": "1108"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Management"
+}

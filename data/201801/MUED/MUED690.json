@@ -1,0 +1,26 @@
+{
+  "id": "MUED690",
+  "title": "Research Methods in Music and Music Education",
+  "credits": "3",
+  "description": "The application of methods of research to problems in the fields of music and music education. The preparation of bibliographies and the written exposition of research projects in the area of the student's major interest.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kenneth Elpus",
+      "seats": "10,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "PAC",
+      "room": "2130A"
+    }
+  ],
+  "term": "201801",
+  "department": "Music Education"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ARHU468",
+  "title": "Peer Mentoring Program",
+  "credits": "1",
+  "description": "Restricted to ARHU upperclassmen who will serve as peer mentors to help transition new students to the university. Interested students must apply to become a peer mentor.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "J Darius Greene",
+      "seats": "35,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "5:30pm",
+      "building": "KEY",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "Arts and Humanities"
+}

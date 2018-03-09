@@ -1,0 +1,27 @@
+{
+  "id": "USLT488B",
+  "title": "US Latina/o Senior Seminar",
+  "credits": "3",
+  "description": "A variable topics seminar that exposed students to interdisciplinary critical readings, writings, and research in U.S. Latina/o Studies. Interdisciplinary research methodologies are broadly addressed. Students will gain skills and practice in reading critical analytic texts and will develop writing skills.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Nancy Mirabal",
+      "seats": "25,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "TWS",
+      "room": "0134"
+    }
+  ],
+  "term": "201801",
+  "department": "Latina/o Studies"
+}

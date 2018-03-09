@@ -1,0 +1,26 @@
+{
+  "id": "ENST798",
+  "title": "Graduate Seminar",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Paul Leisnham,",
+      "seats": "40,",
+      "open-seats": "26,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:00pm",
+      "end": "4:50pm",
+      "building": "ANS",
+      "room": "0408"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Technology"
+}

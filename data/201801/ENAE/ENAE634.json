@@ -1,0 +1,26 @@
+{
+  "id": "ENAE634",
+  "title": "Helicopter Design",
+  "credits": "3",
+  "description": "Prerequisite: ENAE631. Or permission of ENGR-Aerospace Engineering department; and permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Inderjit Chopra",
+      "seats": "15,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "1:00pm",
+      "end": "4:30pm",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

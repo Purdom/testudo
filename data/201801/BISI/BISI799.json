@@ -1,0 +1,38 @@
+{
+  "id": "BISI799",
+  "title": "Master's Thesis Research",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "1015",
+      "instructor": "Alexandra Bely",
+      "seats": "3,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "3100",
+      "instructor": "William Lamp",
+      "seats": "1,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Biological Sciences"
+}

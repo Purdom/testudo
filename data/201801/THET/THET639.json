@@ -1,0 +1,26 @@
+{
+  "id": "THET639",
+  "title": "Advanced Design Studio in Scenery",
+  "credits": "3",
+  "description": "Students must pay a $25 course fee.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Mikhail Kachman",
+      "seats": "8,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:30am",
+      "end": "12:20pm",
+      "building": "PAC",
+      "room": "2733"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre"
+}

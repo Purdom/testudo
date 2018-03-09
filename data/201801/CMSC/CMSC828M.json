@@ -1,0 +1,25 @@
+{
+  "id": "CMSC828M",
+  "title": "Advanced Topics in Information Processing; Applied Mechanism Design for Social Good",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Dickerson",
+      "seats": "40,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CSI",
+      "room": "2120"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

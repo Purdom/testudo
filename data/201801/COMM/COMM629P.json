@@ -1,0 +1,26 @@
+{
+  "id": "COMM629P",
+  "title": "Introduction to Simultaneous Interpretation; Spanish into French/French into Spanish",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "XGF1",
+      "instructor": "Rosalinda Meza-Steel",
+      "seats": "16,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Sa",
+      "start": "2:30pm",
+      "end": "3:00pm",
+      "building": "SKN",
+      "room": "3118"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

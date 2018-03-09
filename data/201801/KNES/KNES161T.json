@@ -1,0 +1,38 @@
+{
+  "id": "KNES161T",
+  "title": "Physical Education Activities: Coed; Yoga",
+  "credits": "1",
+  "description": "Attendance on the first day of class is mandatory. Students must pay a $40 instructional materials fee.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0001",
+      "instructor": "Anne Contee",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:00am",
+      "end": "11:00am",
+      "building": "SPH",
+      "room": "0107"
+    },
+    {
+      "id": "0002",
+      "instructor": "Anne Contee",
+      "seats": "30,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:00am",
+      "end": "11:00am",
+      "building": "SPH",
+      "room": "0107"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

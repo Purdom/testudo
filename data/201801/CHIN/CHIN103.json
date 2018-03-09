@@ -1,0 +1,37 @@
+{
+  "id": "CHIN103",
+  "title": "Elementary Written Chinese",
+  "credits": "3",
+  "description": "Prerequisite: CHIN101; or students who have taken courses with comparable content may contact the department; or must have attained appropriate Foreign Language Placement Test (FLPT) score.\nCorequisite: CHIN102.\nAdditional information: Must be taken in conjunction with CHIN102.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jungjung Lee-Heitz",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "JMZ",
+      "room": "2120"
+    },
+    {
+      "id": "0201",
+      "instructor": "Jungjung Lee-Heitz",
+      "seats": "15,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "JMZ",
+      "room": "2120"
+    }
+  ],
+  "term": "201801",
+  "department": "Chinese"
+}

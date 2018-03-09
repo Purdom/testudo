@@ -1,0 +1,27 @@
+{
+  "id": "FREN387",
+  "title": "Critical Writing on France and the French-Speaking World",
+  "credits": "3",
+  "description": "Prerequisite: FREN301.\nRestriction: Not open to Native speakers.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Valerie Orlando",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMZ",
+      "room": "2117"
+    }
+  ],
+  "term": "201801",
+  "department": "French"
+}

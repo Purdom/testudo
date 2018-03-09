@@ -1,0 +1,61 @@
+{
+  "id": "ENEE313",
+  "title": "Introduction to Device Physics",
+  "credits": "3",
+  "description": "Prerequisite: Must have earned a minimum grade of regular (letter) C- in all required 200-level ENEE courses; and permission of ENGR-Electrical & Computer Engineering department.\nRestriction: Must be in one of the following programs (Engineering: Electrical; Engineering: Computer).\nCredit only granted for: ENEE312 or ENEE313.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Neil Goldsman",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ATL",
+      "room": "1113"
+    },
+    {
+      "id": "0102",
+      "instructor": "Neil Goldsman",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ATL",
+      "room": "1113"
+    },
+    {
+      "id": "0201",
+      "instructor": "Kevin Daniels",
+      "seats": "25,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "EGR",
+      "room": "0108"
+    },
+    {
+      "id": "0202",
+      "instructor": "Kevin Daniels",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "EGR",
+      "room": "0108"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

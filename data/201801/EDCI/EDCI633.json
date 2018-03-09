@@ -1,0 +1,26 @@
+{
+  "id": "EDCI633",
+  "title": "Teaching for Cross Cultural Communication",
+  "credits": "3",
+  "description": "Theories of intercultural communication and techniques for applying them in the teaching of English as a second language (ESL) and content classes. Research and evaluation of selected aspects of a culture as basis for creating, selecting and using culturally-responsive teaching materials and methods.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Melinda Martin-Beltran",
+      "seats": "5,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "7:45pm",
+      "building": "SQH",
+      "room": "1125"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

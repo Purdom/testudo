@@ -1,0 +1,26 @@
+{
+  "id": "HISP710",
+  "title": "Final Project in Historic Preservation I",
+  "credits": "1",
+  "description": "Credit only granted for: HISP700 or HISP710.\nFormerly: HISP700.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dennis Pogue",
+      "seats": "15,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Historic Preservation"
+}

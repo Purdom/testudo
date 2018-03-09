@@ -1,0 +1,27 @@
+{
+  "id": "ENGL468E",
+  "title": "Selected Topics in Film Studies; Fantastic Voyages: Cinema and Exploration",
+  "credits": "3",
+  "description": "Prerequisite: ENGL245, FILM245, SLLC283, or FILM283. Restriction: Must not have completed FILM459E. Credit only granted for FILM459E or ENGL468E.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Oliver Gaycken",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "TWS",
+      "room": "3132"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

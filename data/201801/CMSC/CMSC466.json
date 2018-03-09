@@ -1,0 +1,25 @@
+{
+  "id": "CMSC466",
+  "title": "Introduction to Numerical Analysis I",
+  "credits": "3",
+  "description": "Prerequisite: MATH240 and MATH241; and (CMSC106 or CMSC131); and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.\nAlso offered as: AMSC466.\nCredit only granted for: AMSC460, AMSC466, CMSC460, or CMSC466.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lise-Marie Imbert-Gerard",
+      "seats": "28,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "BPS",
+      "room": "1234"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

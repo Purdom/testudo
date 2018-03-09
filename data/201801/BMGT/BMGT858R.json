@@ -1,0 +1,26 @@
+{
+  "id": "BMGT858R",
+  "title": "Special Topics in Marketing; Marketing Research Seminar",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lingling Zhang",
+      "seats": "16,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "10:00am",
+      "end": "12:30pm",
+      "building": "VMH",
+      "room": "1335"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

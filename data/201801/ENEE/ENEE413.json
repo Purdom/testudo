@@ -1,0 +1,25 @@
+{
+  "id": "ENEE413",
+  "title": "Advanced Electronic Devices",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in ENEE303.\nRestriction: Must be in one of the following programs (Engineering: Computer; Engineering: Electrical) ; and permission of ENGR-Electrical & Computer Engineering department.\nCredit only granted for: ENEE413 or ENEE480.\nFormerly: ENEE480.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Agisilaos Iliadis",
+      "seats": "45,",
+      "open-seats": "26,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "ITV",
+      "room": "1100"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

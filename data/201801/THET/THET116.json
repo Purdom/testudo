@@ -1,0 +1,27 @@
+{
+  "id": "THET116",
+  "title": "Fundamentals of Theatrical Design",
+  "credits": "3",
+  "description": "Restriction: Permission of ARHU-School of Theatre, Dance & Performance Studies department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Mark Costello,",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "2:20pm",
+      "building": "PAC",
+      "room": "2733"
+    }
+  ],
+  "term": "201801",
+  "department": "Theatre"
+}

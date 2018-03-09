@@ -1,0 +1,27 @@
+{
+  "id": "COMM498A",
+  "title": "Seminar; Black Discourse and Digital Media",
+  "credits": "3",
+  "description": "Examines the connections between black discourse, oral culture, and traditional media with new digital media technology. Various methods, theoretical approaches, and tools for studying social media and online communication.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Catherine Steele",
+      "seats": "35,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "SKN",
+      "room": "1115"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "VMSC720",
+  "title": "Viral Pathogenesis",
+  "credits": "2",
+  "description": "Restriction: Permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yanjin Zhang",
+      "seats": "20,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "TBA",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Veterinary Medical Sciences"
+}

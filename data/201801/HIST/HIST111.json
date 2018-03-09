@@ -1,0 +1,63 @@
+{
+  "id": "HIST111",
+  "title": "The Medieval World",
+  "credits": "3",
+  "description": "The development of Europe in the Middle Ages; the role of religious values in shaping new social, economic, and political institutions; medieval literature, art and architecture.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Colleen Ho",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SYM",
+      "room": "0200"
+    },
+    {
+      "id": "0102",
+      "instructor": "Colleen Ho",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SYM",
+      "room": "0200"
+    },
+    {
+      "id": "0103",
+      "instructor": "Colleen Ho",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SYM",
+      "room": "0200"
+    },
+    {
+      "id": "0104",
+      "instructor": "Colleen Ho",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SYM",
+      "room": "0200"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

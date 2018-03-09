@@ -1,0 +1,85 @@
+{
+  "id": "ENEE150",
+  "title": "Intermediate Programming Concepts for Engineers",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ENGR-Electrical & Computer Engineering department. And ENEE140 or CMSC131; or score of 5 on the A Java AP exam; or score of 4 or 5 on the AB Java AP exam; or satisfactory performance on the department's placement exam.\nCorequisite: MATH140.\nRestriction: Must be in Engineering: Electrical program.\nCredit only granted for: ENEE114 or ENEE150.\nFormerly: ENEE114.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Donald Yeung",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "EGR",
+      "room": "0135"
+    },
+    {
+      "id": "0102",
+      "instructor": "Donald Yeung",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "EGR",
+      "room": "0135"
+    },
+    {
+      "id": "0103",
+      "instructor": "Donald Yeung",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "EGR",
+      "room": "0135"
+    },
+    {
+      "id": "0201",
+      "instructor": "William Hawkins",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "EGR",
+      "room": "1108"
+    },
+    {
+      "id": "0202",
+      "instructor": "William Hawkins",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "EGR",
+      "room": "1108"
+    },
+    {
+      "id": "0203",
+      "instructor": "William Hawkins",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "EGR",
+      "room": "1108"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

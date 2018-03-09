@@ -1,0 +1,25 @@
+{
+  "id": "BMGT498L",
+  "title": "Special Topics in Business and Management; Innovo Consulting Practicum: Transform Learning",
+  "credits": "3",
+  "description": "Innovo Scholars is a new program offering an elite group of students the opportunity to particpate in the innovation of teaching and learning at Smith. In addition to completing normal teaching assistant activities, the Scholars will be responsible for designing and implementing improvements to an existing Smith course or program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jonathan Southgate",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:00pm",
+      "end": "6:50pm",
+      "building": "VMH",
+      "room": "1336"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

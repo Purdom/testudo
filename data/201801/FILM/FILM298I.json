@@ -1,0 +1,25 @@
+{
+  "id": "FILM298I",
+  "title": "Special Topics in International Film Studies; Introduction to Israeli Cinema",
+  "credits": "3",
+  "description": "Also offered as ISRL282 and JWST219I. Credit granted for ISRL282, FILM298I, or JWST219I.\n\nAn overview of Israeli cinema, with attention to the distinctive themes, politics, and problems that distinguish Israeli film-making. Taught in English.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shalom Rosenberg",
+      "seats": "30,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "HBK",
+      "room": "0115"
+    }
+  ],
+  "term": "201801",
+  "department": "Film Studies"
+}

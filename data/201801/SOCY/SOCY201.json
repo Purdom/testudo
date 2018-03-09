@@ -1,0 +1,51 @@
+{
+  "id": "SOCY201",
+  "title": "Introductory Statistics for Sociology",
+  "credits": "4",
+  "description": "Prerequisite: SOCY100; and (MATH107 or MATH111). Or students who have taken courses with comparable content may contact the department.\nRestriction: Must not have completed STAT400, BMGT231, or ENEE324.\nCredit only granted for: BIOM301, BMGT230, CCJS200, ECON230, ECON321, EDMS451, GEOG306, GEOL351, GVPT422, INST314, JOUR405, PSYC200 or SOCY201. (These courses do not necessarily meet the same major requirements-check with your advisor to see which of these courses will count for your major).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0102",
+      "instructor": "Joan Kahn",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ASY",
+      "room": "2309"
+    },
+    {
+      "id": "0103",
+      "instructor": "Joan Kahn",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ASY",
+      "room": "2309"
+    },
+    {
+      "id": "0104",
+      "instructor": "Joan Kahn",
+      "seats": "20,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ASY",
+      "room": "2309"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

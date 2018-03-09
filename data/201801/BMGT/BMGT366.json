@@ -1,0 +1,25 @@
+{
+  "id": "BMGT366",
+  "title": "Growth Strategies for Emerging Companies",
+  "credits": "3",
+  "description": "Prerequisite: BMGT461 or BMGT361.\nRestriction: Junior standing or higher.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "BL01",
+      "instructor": "David Kressler",
+      "seats": "60,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "SQH",
+      "room": "1120"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

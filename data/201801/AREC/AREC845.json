@@ -1,0 +1,26 @@
+{
+  "id": "AREC845",
+  "title": "Environment and Development Economics",
+  "credits": "3",
+  "description": "Also offered as: AREC645.\nCredit only granted for: AREC645 or AREC845.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jing Cai",
+      "seats": "20,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "JMP",
+      "room": "1109"
+    }
+  ],
+  "term": "201801",
+  "department": "Agricultural and Resource Economics"
+}

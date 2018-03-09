@@ -1,0 +1,27 @@
+{
+  "id": "RUSS402",
+  "title": "Practicum in Written Russian",
+  "credits": "3",
+  "description": "Prerequisite: RUSS401; or students who have taken courses with comparable content may contact the department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Maria Lekic",
+      "seats": "15,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "JMZ",
+      "room": "3122"
+    }
+  ],
+  "term": "201801",
+  "department": "Russian"
+}

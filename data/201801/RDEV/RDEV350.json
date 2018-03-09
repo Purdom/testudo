@@ -1,0 +1,37 @@
+{
+  "id": "RDEV350",
+  "title": "Real Estate Development: Introduction to Principles, Process, and Practice",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in RDEV250.\nRestriction: Permission of ARCH-Real Estate Development.\nCredit only granted for: RDEV150 or RDEV350.\nFormerly: RDEV150.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Tanya Bansal",
+      "seats": "16,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "ARC",
+      "room": "1101"
+    },
+    {
+      "id": "0102",
+      "instructor": "Steven Shapiro",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00pm",
+      "end": "9:40pm",
+      "building": "ASY",
+      "room": "3219"
+    }
+  ],
+  "term": "201801",
+  "department": "Real Estate Development"
+}

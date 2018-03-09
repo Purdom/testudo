@@ -1,0 +1,26 @@
+{
+  "id": "PHYS741",
+  "title": "Nuclear Physics: Survey",
+  "credits": "3",
+  "description": "Prerequisite: PHYS623 and PHYS622.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Xiangdong Ji",
+      "seats": "30,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PHY",
+      "room": "1219"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

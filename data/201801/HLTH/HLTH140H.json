@@ -1,0 +1,27 @@
+{
+  "id": "HLTH140H",
+  "title": "Personal and Community Health",
+  "credits": "3",
+  "description": "Meaning and significance of physical, mental and social health as related to the individual and to society; important phases of national health problems; constructive methods of promoting health of the individual and the community.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Butler",
+      "seats": "200,",
+      "open-seats": "30,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "SPH",
+      "room": "1312"
+    }
+  ],
+  "term": "201801",
+  "department": "Health"
+}

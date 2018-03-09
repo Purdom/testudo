@@ -1,0 +1,25 @@
+{
+  "id": "CPSA240",
+  "title": "College Park Scholars: Arts Service-Learning Practicum",
+  "credits": "2",
+  "description": "Prerequisite: CPSA200.\nRestriction: Students must be matriculated into the College Park Scholars Arts (CPSA) program.\nAdditional information: When paired with successful completion of CPSA 200, students will earn General Education Scholarship-in-Practice credit.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Montserrat Cubillos Guzman,",
+      "seats": "15,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "5:00pm",
+      "end": "7:00pm",
+      "building": "CCC",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars-Arts"
+}

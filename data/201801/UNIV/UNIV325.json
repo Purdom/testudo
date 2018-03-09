@@ -1,0 +1,27 @@
+{
+  "id": "UNIV325",
+  "title": "Beyond the Classroom Seminar I: Civic Engagement and Social Change in a Global Context",
+  "credits": "3",
+  "description": "Restriction: Must be in the Beyond the Classroom (BTC) living and learning program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Riker",
+      "seats": "40,",
+      "open-seats": "36,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "5:30pm",
+      "building": "SCC",
+      "room": "1102"
+    }
+  ],
+  "term": "201801",
+  "department": "University Courses"
+}

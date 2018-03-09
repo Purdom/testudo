@@ -1,0 +1,26 @@
+{
+  "id": "ASTR380",
+  "title": "Life in the Universe - Astrobiology",
+  "credits": "3",
+  "description": "Designed primarily for non-science majors. Study of the astronomical perspective on the conditions for the origin and existence of life in the universe.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Reggie Hudson",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ATL",
+      "room": "2400"
+    }
+  ],
+  "term": "201801",
+  "department": "Astronomy"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GVPT459E",
+  "title": "Seminar in Comparative Politics; Comparative Politics of the Middle East",
+  "credits": "3",
+  "description": "Restriction: Must be in Government & Politics program or Government & Politics: International Relations program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Calvert Jones",
+      "seats": "30,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TYD",
+      "room": "1132"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

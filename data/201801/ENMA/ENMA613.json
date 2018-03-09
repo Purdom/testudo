@@ -1,0 +1,26 @@
+{
+  "id": "ENMA613",
+  "title": "Materials Science of Quantum Computing",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ENGR-Materials Science & Engineering department.\nRecommended: Strongly recommended coursework in introduction to materials science, electronic materials, solid state physics, quantum mechanics and basic knowledge in computer programming or MATLAB.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Christopher Richardson",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "2:15pm",
+      "building": "CHE",
+      "room": "2116"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Materials"
+}

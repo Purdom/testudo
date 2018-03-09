@@ -1,0 +1,26 @@
+{
+  "id": "ANSC359",
+  "title": "Internship Experience in Animal and Avian Sciences",
+  "credits": "3 -",
+  "description": "Prerequisite: ANSC220, ANSC232, ANSC242, ANSC250, ANSC255, ANSC260, or ANSC262. Restriction: Must be in a major within the AGNR-Animal & Avian Sciences department; and permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Monica VanKlompenberg",
+      "seats": "10,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "5:30pm",
+      "building": "ANS",
+      "room": "0402"
+    }
+  ],
+  "term": "201801",
+  "department": "Animal Science"
+}

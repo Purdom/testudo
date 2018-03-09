@@ -1,0 +1,25 @@
+{
+  "id": "MUSC129K",
+  "title": "Ensemble; Japanese Koto",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kyoko Okamoto",
+      "seats": "10,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "5:30pm",
+      "end": "7:00pm",
+      "building": "PAC",
+      "room": "3160"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ENAE788Y",
+  "title": "Selected Topics in Aerospace Engineering; Fundamentals of Explosions, Natural, Accidental and Controlled",
+  "credits": "3",
+  "description": "Physics and chemistry of explosions and how they occur naturally, accidentally, and by engineering design. Covers scenarios including astrophysical events such as supernovae or solar magnetic eruptions, accidental catastrophes such as vapor-cloud or coalmine explosions, and engines for high-speed and micro-propulsion. This course will cover the basics needed to understand these phenomena, and then it will take a forensics approach to understanding specific types of scenarios of interest to the class. A strong focus is put on \"case studies.\"",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elaine Oran",
+      "seats": "10,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMP",
+      "room": "2120"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

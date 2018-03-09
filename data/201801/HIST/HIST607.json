@@ -1,0 +1,37 @@
+{
+  "id": "HIST607",
+  "title": "The Teaching of History in Institutions of Higher Learning",
+  "credits": "1",
+  "description": "For majors only.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ahmet Karamustafa",
+      "seats": "15,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0201",
+      "instructor": "David Freund",
+      "seats": "6,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

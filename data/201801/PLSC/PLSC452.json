@@ -1,0 +1,27 @@
+{
+  "id": "PLSC452",
+  "title": "Environmental Horticulture",
+  "credits": "3",
+  "description": "Prerequisite: PLSC100 or PLSC101; and (PLSC253 and PLSC254).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Carol Allen",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "PLS",
+      "room": "1117"
+    }
+  ],
+  "term": "201801",
+  "department": "Plant Sciences"
+}

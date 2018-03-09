@@ -1,0 +1,26 @@
+{
+  "id": "ENGL611",
+  "title": "Approaches to College Composition",
+  "credits": "3",
+  "description": "Prerequisite: Permission of ARHU-English department.\nAdditional information: Required for graduate assistants (optional to other graduate students).",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Melanie Kill",
+      "seats": "14,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "9:30am",
+      "end": "12:00pm",
+      "building": "TWS",
+      "room": "3252"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

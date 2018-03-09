@@ -1,0 +1,27 @@
+{
+  "id": "SPAN318",
+  "title": "Translation of Technical Texts",
+  "credits": "3",
+  "description": "Prerequisite: Completion of SPAN316.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jose Magro",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "JMZ",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Spanish"
+}

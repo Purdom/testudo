@@ -1,0 +1,26 @@
+{
+  "id": "PLCY610",
+  "title": "Quantitative Aspects of Public Policy",
+  "credits": "3",
+  "description": "Restriction: Must be in a major in PLCY-School of Public Policy; or permission of PLCY-School of Public Policy.\nCredit only granted for: PLCY610 or PUAF610.\nFormerly: PUAF610.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alec Worsnop",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:15pm",
+      "end": "6:45pm",
+      "building": "VMH",
+      "room": "1207"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

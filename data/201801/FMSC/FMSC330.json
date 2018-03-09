@@ -1,0 +1,51 @@
+{
+  "id": "FMSC330",
+  "title": "Family Theories and Patterns",
+  "credits": "3",
+  "description": "Restriction: Junior standing or higher.\nCredit only granted for: FMSC330 or FMST330.\nFormerly: FMST330.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robyn Zeiger",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "SPH",
+      "room": "1301"
+    },
+    {
+      "id": "0201",
+      "instructor": "Mia A Smith-Bynum",
+      "seats": "60,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "SPH",
+      "room": "1301"
+    },
+    {
+      "id": "0301",
+      "instructor": "Mia A Smith-Bynum",
+      "seats": "60,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "SPH",
+      "room": "1301"
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

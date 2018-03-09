@@ -1,0 +1,97 @@
+{
+  "id": "ENAE464",
+  "title": "Aerospace Engineering Laboratory",
+  "credits": "3",
+  "description": "Prerequisite: ENAE324, ENAE362, ENAE311, and ENAE432.\nRestriction: Must be in Engineering: Aerospace program; or permission of ENGR-Aerospace Engineering department.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Allen Winkelmann",
+      "seats": "14,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "KEB",
+      "room": "1200"
+    },
+    {
+      "id": "0102",
+      "instructor": "Allen Winkelmann",
+      "seats": "14,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "KEB",
+      "room": "1200"
+    },
+    {
+      "id": "0103",
+      "instructor": "Allen Winkelmann",
+      "seats": "14,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "KEB",
+      "room": "1200"
+    },
+    {
+      "id": "0104",
+      "instructor": "Allen Winkelmann",
+      "seats": "14,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "KEB",
+      "room": "1200"
+    },
+    {
+      "id": "0105",
+      "instructor": "Allen Winkelmann",
+      "seats": "14,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "KEB",
+      "room": "1200"
+    },
+    {
+      "id": "0201",
+      "instructor": "Andrew Becnel",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CHE",
+      "room": "2118"
+    },
+    {
+      "id": "0202",
+      "instructor": "Andrew Becnel",
+      "seats": "22,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "CHE",
+      "room": "2118"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Aerospace"
+}

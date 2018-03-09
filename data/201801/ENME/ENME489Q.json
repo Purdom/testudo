@@ -1,0 +1,27 @@
+{
+  "id": "ENME489Q",
+  "title": "Special Topics in Mechanical Engineering; Managing for Innovation and Quality",
+  "credits": "3",
+  "description": "Department permission required.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Senthil Arul",
+      "seats": "30,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "CHE",
+      "room": "2136"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

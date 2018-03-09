@@ -1,0 +1,25 @@
+{
+  "id": "NAVY108",
+  "title": "Naval Science Leadership Lab",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Adam Klimas,",
+      "seats": "75,",
+      "open-seats": "24,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "7:00am",
+      "end": "7:50am",
+      "building": "ARM",
+      "room": "0135"
+    }
+  ],
+  "term": "201801",
+  "department": "Navy"
+}

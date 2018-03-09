@@ -1,0 +1,39 @@
+{
+  "id": "BCHM462",
+  "title": "Biochemistry II",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in BCHM461.\nCredit only granted for: BCHM462 or BCHM463.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Myles Poulin",
+      "seats": "75,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CHM",
+      "room": "1402"
+    },
+    {
+      "id": "0102",
+      "instructor": "George Lorimer",
+      "seats": "75,",
+      "open-seats": "32,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "CHM",
+      "room": "1402"
+    }
+  ],
+  "term": "201801",
+  "department": "Biochemistry"
+}

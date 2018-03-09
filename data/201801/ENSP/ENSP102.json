@@ -1,0 +1,97 @@
+{
+  "id": "ENSP102",
+  "title": "Introduction to Environmental Policy",
+  "credits": "3",
+  "description": "Additional information: May be taken before or after ENSP101.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Joanna Goger",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0102",
+      "instructor": "Joanna Goger",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0103",
+      "instructor": "Joanna Goger",
+      "seats": "23,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0104",
+      "instructor": "Joanna Goger",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0105",
+      "instructor": "Joanna Goger",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0106",
+      "instructor": "Joanna Goger",
+      "seats": "22,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0107",
+      "instructor": "Joanna Goger",
+      "seats": "22,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "SKN",
+      "room": "0200"
+    }
+  ],
+  "term": "201801",
+  "department": "Environmental Science and Policy"
+}

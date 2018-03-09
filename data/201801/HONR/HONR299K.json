@@ -1,0 +1,25 @@
+{
+  "id": "HONR299K",
+  "title": "Honors Seminar; Global Governance or World Government?",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kate Seaman",
+      "seats": "20,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TWS",
+      "room": "1313"
+    }
+  ],
+  "term": "201801",
+  "department": "Honors"
+}

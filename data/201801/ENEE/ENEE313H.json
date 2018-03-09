@@ -1,0 +1,25 @@
+{
+  "id": "ENEE313H",
+  "title": "Introduction to Device Physics",
+  "credits": "3",
+  "description": "Prerequisite: Must have earned a minimum grade of regular (letter) C- in all required 200-level ENEE courses; and permission of ENGR-Electrical & Computer Engineering department.\nRestriction: Must be in one of the following programs (Engineering: Electrical; Engineering: Computer).\nCredit only granted for: ENEE312 or ENEE313.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Neil Goldsman",
+      "seats": "15,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ATL",
+      "room": "1113"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

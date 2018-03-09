@@ -1,0 +1,26 @@
+{
+  "id": "COMM649A",
+  "title": "Translation for Specific Domains; Methodology",
+  "credits": "2 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "XG01",
+      "instructor": "John Samaha Jr",
+      "seats": "16,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "6:00pm",
+      "end": "7:50pm",
+      "building": "SKN",
+      "room": "3118"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

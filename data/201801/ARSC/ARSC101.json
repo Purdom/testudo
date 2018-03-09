@@ -1,0 +1,37 @@
+{
+  "id": "ARSC101",
+  "title": "The USAF Today II",
+  "credits": "1",
+  "description": "Corequisite: AFROTC cadets must also register for ARSC059.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Karson Peterson",
+      "seats": "22,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "HBK",
+      "room": "0109"
+    },
+    {
+      "id": "0102",
+      "instructor": "Karson Peterson",
+      "seats": "90,",
+      "open-seats": "24,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "CHM",
+      "room": "1402"
+    }
+  ],
+  "term": "201801",
+  "department": "Air Science"
+}

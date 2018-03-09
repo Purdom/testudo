@@ -1,0 +1,27 @@
+{
+  "id": "ECON498G",
+  "title": "Special Topics in Economic Analysis; Research on Globalization",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in ECON326 and ECON422. Restriction: Must be in Economics Bachelor of Science program. This course focuses on learning various research methods and developing the analytic and empirical skills to perform independent research in globalization. Students will learn how to look at various economic issues driven by globalization through the lens of economics - e.g., inequality, competition, intellectual property rights, poverty, climate change, etc. The final goal of this course is to write up a research paper.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Eunhee Lee",
+      "seats": "20,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TYD",
+      "room": "0111"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

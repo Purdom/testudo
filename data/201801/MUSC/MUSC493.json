@@ -1,0 +1,27 @@
+{
+  "id": "MUSC493",
+  "title": "Keyboard Music II",
+  "credits": "3",
+  "description": "Prerequisite: MUSC492; and permission of ARHU-School of Music department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Bradford Gowen",
+      "seats": "15,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PAC",
+      "room": "3168"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "COMM398D",
+  "title": "Selected Topics in Communication; PR Design & Publications",
+  "credits": "3",
+  "description": "Students will use computer technology to explore the communication potential of type, white space, information graphics, photographs, and other design elements and apply them to publications relevant to the publications relevant to the public relations industry.\n\nPrerequisite: COMM201",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Erich Sommerfeldt",
+      "seats": "18,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "1:00pm",
+      "end": "4:00pm",
+      "building": "EGR",
+      "room": "3140"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

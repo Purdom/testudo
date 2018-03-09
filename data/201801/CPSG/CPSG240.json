@@ -1,0 +1,25 @@
+{
+  "id": "CPSG240",
+  "title": "College Park Scholars: Science & Global Change - Service-Learning Practicum",
+  "credits": "1 -",
+  "description": "Prerequisite: CPSG200.\nRestriction: Students must be enrolled in the College Park Scholars Science & Global Change (CPSG) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Holtz,",
+      "seats": "25,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "College Park Scholars-Science and Global Change"
+}

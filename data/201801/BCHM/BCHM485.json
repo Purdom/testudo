@@ -1,0 +1,27 @@
+{
+  "id": "BCHM485",
+  "title": "Physical Biochemistry",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in CHEM481.\nRestriction: Must be in Biochemistry program; or permission of instructor.\nCredit only granted for: CHEM482 or BCHM485.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Fushman",
+      "seats": "55,",
+      "open-seats": "27,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CHM",
+      "room": "2201"
+    }
+  ],
+  "term": "201801",
+  "department": "Biochemistry"
+}

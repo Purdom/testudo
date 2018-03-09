@@ -1,0 +1,25 @@
+{
+  "id": "ENEE408D",
+  "title": "Capstone Design Project: Mixed Signal VLSI Design",
+  "credits": "3",
+  "description": "Prerequisite: ENEE303, ENEE307, and ENEE313. This course covers the design of very large scale integrated (VLSI) circuits including analysis and simulation of digital and analog circuits, layout, and component selection. The material involves extensive use of Computer-Aided Design (CAD) tools for circuit simulation and layout and draws upon knowledge from 300-level EE courses Following current industry paradigms, students work in teams to design, thoroughly simulate, and specify physical layout of mixed signal VLSI circuits prior to their fabrication in a foundry.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Pamela Abshire",
+      "seats": "30,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:20am",
+      "building": "KEB",
+      "room": "2107"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

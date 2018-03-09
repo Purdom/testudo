@@ -1,0 +1,26 @@
+{
+  "id": "EDCP776",
+  "title": "Social Justice in Student Affairs and Higher Education",
+  "credits": "3",
+  "description": "Prerequisite: EDCP771 or EDCP741; or permission of instructor.\nRestriction: Limited to college student personnel students only.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jenna Sablan",
+      "seats": "15,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:00am",
+      "end": "11:45am",
+      "building": "EDU",
+      "room": "3233"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Counseling and Personnel Services"
+}

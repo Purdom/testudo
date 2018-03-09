@@ -1,0 +1,26 @@
+{
+  "id": "MUSC814",
+  "title": "Doctoral Opera Techniques IV",
+  "credits": "2",
+  "description": "Prerequisite: MUSC813; and permission of ARHU-School of Music department.\nCredit only granted for: MUSC614 or MUSC814.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Craig Kier",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TBA",
+      "start": "",
+      "end": "",
+      "building": "PAC",
+      "room": "2170"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

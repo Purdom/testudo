@@ -1,0 +1,26 @@
+{
+  "id": "SURV772",
+  "title": "Survey Design Seminar",
+  "credits": "3",
+  "description": "Credit only granted for: (SURV770 and SURV771) or SURV772.\nFormerly: SURV770 and SURV771.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Tragoutt,",
+      "seats": "10,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "10:00am",
+      "end": "12:30pm",
+      "building": "LEF",
+      "room": "1208"
+    }
+  ],
+  "term": "201801",
+  "department": "Survey Methodology"
+}

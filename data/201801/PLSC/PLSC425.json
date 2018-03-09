@@ -1,0 +1,27 @@
+{
+  "id": "PLSC425",
+  "title": "Green Roofs and Urban Sustainability",
+  "credits": "1",
+  "description": "Credit only granted for: PLSC425 or PLSC489V.\nFormerly: PLSC489V.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "John Lea-Cox,",
+      "seats": "65,",
+      "open-seats": "18,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PLS",
+      "room": "1130"
+    }
+  ],
+  "term": "201801",
+  "department": "Plant Sciences"
+}

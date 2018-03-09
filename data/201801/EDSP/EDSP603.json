@@ -1,0 +1,26 @@
+{
+  "id": "EDSP603",
+  "title": "Instruction of Students with Physical Disabilities",
+  "credits": "3",
+  "description": "Restriction: Must be in Special Education (Doctoral) program; or must be in Special Education (Master's) program.\nAlso offered as: EDSP403.\nCredit only granted for: EDSP403 or EDSP603.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Frances Kohl",
+      "seats": "35,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "1:15pm",
+      "end": "4:00pm",
+      "building": "EDU",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "Education, Special"
+}

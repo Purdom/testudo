@@ -1,0 +1,27 @@
+{
+  "id": "HIST429F",
+  "title": "Special Topics in History; MAC to Millennium: History of the University of Maryland",
+  "credits": "3",
+  "description": "Through extensive use of primary documents, students will gain an overview of the history of UMD, from its founding in 1856 to the presentday.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jason Speck,",
+      "seats": "30,",
+      "open-seats": "17,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "4:30pm",
+      "building": "HBK",
+      "room": "3210"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

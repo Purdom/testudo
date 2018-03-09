@@ -1,0 +1,27 @@
+{
+  "id": "ENTM740",
+  "title": "Organic Practices",
+  "credits": "3",
+  "description": "Alternatives to chemical pesticides, what being certified organic entails and how these practices relate to ecological principles. This course will discuss various natural processes that occur in the farm setting to determine the best practices to maintain biodiversity and successful crop production.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PLE1",
+      "instructor": "Tammatha O'Brien",
+      "seats": "8,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "Entomology"
+}

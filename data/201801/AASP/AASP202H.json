@@ -1,0 +1,27 @@
+{
+  "id": "AASP202H",
+  "title": "Black Culture in the United States",
+  "credits": "3",
+  "description": "The course examines important aspects of African American life and thought which are reflected in African American literature, drama, music and art. Beginning with the cultural heritage of slavery, the course surveys the changing modes of black creative expression from the 19th-century to the present.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Robert Choflet",
+      "seats": "5,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SQH",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "African American Studies"
+}

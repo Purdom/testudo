@@ -1,0 +1,63 @@
+{
+  "id": "ECON325",
+  "title": "Intermediate Macroeconomic Analysis",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in ECON200, ECON201, and MATH141.\nRestriction: Must be in Economics Bachelor of Science program.\nCredit only granted for: ECON305 or ECON325.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "L Stevens",
+      "seats": "30,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "JMZ",
+      "room": "0220"
+    },
+    {
+      "id": "0102",
+      "instructor": "L Stevens",
+      "seats": "30,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "JMZ",
+      "room": "0220"
+    },
+    {
+      "id": "0103",
+      "instructor": "L Stevens",
+      "seats": "30,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "JMZ",
+      "room": "0220"
+    },
+    {
+      "id": "0104",
+      "instructor": "L Stevens",
+      "seats": "30,",
+      "open-seats": "24,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "JMZ",
+      "room": "0220"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

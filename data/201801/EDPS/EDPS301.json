@@ -1,0 +1,75 @@
+{
+  "id": "EDPS301",
+  "title": "Foundations of Education",
+  "credits": "3",
+  "description": "Credit only granted for: EDPL301 or EDPS301.\nFormerly: EDPL301.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Joel Miller",
+      "seats": "30,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "EDU",
+      "room": "1121"
+    },
+    {
+      "id": "0201",
+      "instructor": "Kristin Sinclair",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "EDU",
+      "room": "3233"
+    },
+    {
+      "id": "0401",
+      "instructor": "Jason Mayernick",
+      "seats": "30,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "EDU",
+      "room": "2119"
+    },
+    {
+      "id": "0501",
+      "instructor": "Ethan Hutt",
+      "seats": "30,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "EDU",
+      "room": "2119"
+    },
+    {
+      "id": "0601",
+      "instructor": "Kevin Shindel",
+      "seats": "30,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "4:15pm",
+      "end": "7:00pm",
+      "building": "KNI",
+      "room": "1103"
+    }
+  ],
+  "term": "201801",
+  "department": "Education Policy Studies"
+}

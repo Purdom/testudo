@@ -1,0 +1,25 @@
+{
+  "id": "CMSC451",
+  "title": "Design and Analysis of Computer Algorithms",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in CMSC351; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Andrew Childs",
+      "seats": "110,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "CHE",
+      "room": "2110"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

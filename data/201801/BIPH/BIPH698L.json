@@ -1,0 +1,26 @@
+{
+  "id": "BIPH698L",
+  "title": "Biophysics Seminar; Biophysics",
+  "credits": "1",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Arpita Upadhyaya",
+      "seats": "20,",
+      "open-seats": "9,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "5:30pm",
+      "building": "CHM",
+      "room": "0112"
+    }
+  ],
+  "term": "201801",
+  "department": "Biophysics"
+}

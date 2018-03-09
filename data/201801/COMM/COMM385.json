@@ -1,0 +1,27 @@
+{
+  "id": "COMM385",
+  "title": "Influence",
+  "credits": "3",
+  "description": "Credit only granted for: COMM385 or COMM498I (Spring 2014).\nFormerly: COMM498I (Spring 2014).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Dale Hample",
+      "seats": "60,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "TYD",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

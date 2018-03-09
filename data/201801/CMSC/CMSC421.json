@@ -1,0 +1,37 @@
+{
+  "id": "CMSC421",
+  "title": "Introduction to Artificial Intelligence",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in CMSC351 and CMSC330; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Donald Perlis",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CSI",
+      "room": "1122"
+    },
+    {
+      "id": "0201",
+      "instructor": "James Reggia",
+      "seats": "85,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "CSI",
+      "room": "2117"
+    }
+  ],
+  "term": "201801",
+  "department": "Computer Science"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "COMM649P",
+  "title": "Translation for Specific Domains; Sight Translation: Portuguese into English/English into Portuguese",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "XGE1",
+      "instructor": "Mirna Soares Andrade",
+      "seats": "16,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "7:00pm",
+      "end": "7:30pm",
+      "building": "SKN",
+      "room": "3117"
+    },
+    {
+      "id": "XGP1",
+      "instructor": "Robert Feron",
+      "seats": "16,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "8:00pm",
+      "end": "8:50pm",
+      "building": "SKN",
+      "room": "3117"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

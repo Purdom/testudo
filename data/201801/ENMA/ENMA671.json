@@ -1,0 +1,26 @@
+{
+  "id": "ENMA671",
+  "title": "Defects in Materials",
+  "credits": "3",
+  "description": "Restriction: Permission of ENGR-Materials Science & Engineering department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Lourdes Salamanca-Riba",
+      "seats": "25,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "JMP",
+      "room": "1109"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Materials"
+}

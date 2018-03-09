@@ -1,0 +1,37 @@
+{
+  "id": "ENGL393H",
+  "title": "Technical Writing",
+  "credits": "3",
+  "description": "Prerequisite: ENGL101; or students who have taken courses with comparable content may contact the department.\nRestriction: Must have earned a minimum of 60 credits.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "9001",
+      "instructor": "Phillip Moses",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    },
+    {
+      "id": "9002",
+      "instructor": "Phillip Moses",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": "ONLINE"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ENFP411",
+  "title": "Risk-Informed Performance Based Design",
+  "credits": "3",
+  "description": "Restriction: Senior standing; or permission of ENGR-Fire Protection Engineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Milke",
+      "seats": "35,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "JMP",
+      "room": "2202"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Fire Protection"
+}

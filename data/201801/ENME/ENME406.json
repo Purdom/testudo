@@ -1,0 +1,27 @@
+{
+  "id": "ENME406",
+  "title": "Roller Coaster Engineering",
+  "credits": "3",
+  "description": "Prerequisite: ENES220, ENES221, and ENME272. And ENME202; or MATH206.\nCorequisite: ENME400.\nRestriction: Permission of ENGR-Mechanical Engineering department.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Chandrasekhar Thamire",
+      "seats": "35,",
+      "open-seats": "24,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "JMP",
+      "room": "1202"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

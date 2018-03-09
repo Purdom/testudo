@@ -1,0 +1,26 @@
+{
+  "id": "PHIL858I",
+  "title": "Seminar in Logic and Philosophy of Sciences; Quantum Correlation and Causation",
+  "credits": "3",
+  "description": "An investigation of questions about causation and explanation through the lens of the Einstein-Podolsky-Rosen argument and its consequences. No physics background nor advanced math required, but comfort with abstract, moderately mathematical presentations is presupposed.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Allen Stairs",
+      "seats": "15,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "1:00pm",
+      "end": "3:30pm",
+      "building": "SKN",
+      "room": "1116"
+    }
+  ],
+  "term": "201801",
+  "department": "Philosophy"
+}

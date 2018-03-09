@@ -1,0 +1,38 @@
+{
+  "id": "COMM619D",
+  "title": "Consecutive Interpretation; Chinese into English/English into Chinese",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "XGC1",
+      "instructor": "Handan Bao",
+      "seats": "16,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "1:30pm",
+      "end": "3:30pm",
+      "building": "TBA",
+      "room": ""
+    },
+    {
+      "id": "XGE1",
+      "instructor": "Handan Bao",
+      "seats": "16,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:00pm",
+      "end": "5:50pm",
+      "building": "SKN",
+      "room": "2127"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

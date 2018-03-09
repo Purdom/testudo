@@ -1,0 +1,26 @@
+{
+  "id": "COMM683",
+  "title": "Intercultural Communication Theory",
+  "credits": "3",
+  "description": "An in-depth coverage of the essential theories of intercultural communication is provided.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "PG01",
+      "instructor": "Hans Fenstermacher,",
+      "seats": "16,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "4:50pm",
+      "building": "SKN",
+      "room": "3118"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

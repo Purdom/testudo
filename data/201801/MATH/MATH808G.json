@@ -1,0 +1,26 @@
+{
+  "id": "MATH808G",
+  "title": "Selected Topics in Algebra; Grassmannians, Flag Maniforlds, and Schubert Calculus",
+  "credits": "1 -",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Harry Tamvakis",
+      "seats": "20,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "MTH",
+      "room": "0303"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

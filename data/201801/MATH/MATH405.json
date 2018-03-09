@@ -1,0 +1,39 @@
+{
+  "id": "MATH405",
+  "title": "Linear Algebra",
+  "credits": "3",
+  "description": "Prerequisite: 1 course with a minimum grade of C- from (MATH240, MATH461, MATH341); and minimum grade of C- in MATH310.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "James Schafer",
+      "seats": "28,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "MTH",
+      "room": "0305"
+    },
+    {
+      "id": "0201",
+      "instructor": "Sarah Yeakel",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "MTH",
+      "room": "0307"
+    }
+  ],
+  "term": "201801",
+  "department": "Mathematics"
+}

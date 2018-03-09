@@ -1,0 +1,37 @@
+{
+  "id": "BUDT758N",
+  "title": "Special Topics in Decision, Operations and Information Technologies; Business Process Analysis for Information Systems",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0501",
+      "instructor": "Hassan Ibrahim",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "VMH",
+      "room": "1528"
+    },
+    {
+      "id": "0502",
+      "instructor": "Hassan Ibrahim",
+      "seats": "0,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1528"
+    }
+  ],
+  "term": "201801",
+  "department": "Decision and Information Technologies"
+}

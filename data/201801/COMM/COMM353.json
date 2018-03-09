@@ -1,0 +1,37 @@
+{
+  "id": "COMM353",
+  "title": "New Media Writing for Public Relations",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in COMM351.\nRestriction: Must be in Communication program.\nCredit only granted for: COMM352 or COMM353.\nFormerly: COMM352.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Tyler Page",
+      "seats": "18,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "ATL",
+      "room": "1410"
+    },
+    {
+      "id": "0301",
+      "instructor": "Sifan Xu",
+      "seats": "18,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "EGR",
+      "room": "3140"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

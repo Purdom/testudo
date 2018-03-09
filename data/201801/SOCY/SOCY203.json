@@ -1,0 +1,27 @@
+{
+  "id": "SOCY203",
+  "title": "Sociological Theory",
+  "credits": "3",
+  "description": "Prerequisite: SOCY100.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Meyer Kestnbaum",
+      "seats": "80,",
+      "open-seats": "20,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "1310"
+    }
+  ],
+  "term": "201801",
+  "department": "Sociology"
+}

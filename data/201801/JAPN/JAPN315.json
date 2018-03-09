@@ -1,0 +1,27 @@
+{
+  "id": "JAPN315",
+  "title": "Reading Japanese Empire",
+  "credits": "3",
+  "description": "Reading a wide variety of cultural, intellectual, and official texts, this course explores how Japan's age of empire (1869-1945) was understood, imagined, and lived in various colonial contexts and in the metropolitan center. Students will gain a textured understanding of the complexities and contradictions of Japan's imperial project and the fraught ways this history plays out today in Japan and Asia. Taught in English.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michele Mason",
+      "seats": "30,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "JMZ",
+      "room": "2123"
+    }
+  ],
+  "term": "201801",
+  "department": "Japanese"
+}

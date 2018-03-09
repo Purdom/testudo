@@ -1,0 +1,50 @@
+{
+  "id": "INST311",
+  "title": "Information Organization",
+  "credits": "3",
+  "description": "Prerequisite: Must have completed or be concurrently enrolled in INST201; or INST301.\nRestriction: Must be in Information Science program; and permission of INFO-College of Information Studies.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Katy Lawley",
+      "seats": "49,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MWF",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "HBK",
+      "room": "0103"
+    },
+    {
+      "id": "0102",
+      "instructor": "Katy Lawley",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "LEF",
+      "room": "2166"
+    },
+    {
+      "id": "0103",
+      "instructor": "Katy Lawley",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "TYD",
+      "room": "1118"
+    }
+  ],
+  "term": "201801",
+  "department": "Information Studies"
+}

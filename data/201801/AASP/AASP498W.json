@@ -1,0 +1,27 @@
+{
+  "id": "AASP498W",
+  "title": "Special Topics in Black Culture; Washington and Prince George's History, Culture, and Public Policy",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jonathan England",
+      "seats": "45,",
+      "open-seats": "16,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:00pm",
+      "end": "7:30pm",
+      "building": "TYD",
+      "room": "1108"
+    }
+  ],
+  "term": "201801",
+  "department": "African American Studies"
+}

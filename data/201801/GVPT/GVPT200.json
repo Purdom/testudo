@@ -1,0 +1,123 @@
+{
+  "id": "GVPT200",
+  "title": "International Political Relations",
+  "credits": "3",
+  "description": "A study of the major factors underlying international relations, the causes of conflict and cooperation among international actors, the role of international institutions, the interactions of domestic and foreign policies, and major issues in security, economy and the environment.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Calvert Jones",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ARC",
+      "room": "0204"
+    },
+    {
+      "id": "0102",
+      "instructor": "Calvert Jones",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ARC",
+      "room": "0204"
+    },
+    {
+      "id": "0103",
+      "instructor": "Calvert Jones",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ARC",
+      "room": "0204"
+    },
+    {
+      "id": "0104",
+      "instructor": "Calvert Jones",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ARC",
+      "room": "0204"
+    },
+    {
+      "id": "0105",
+      "instructor": "Calvert Jones",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ARC",
+      "room": "0204"
+    },
+    {
+      "id": "0106",
+      "instructor": "Calvert Jones",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ARC",
+      "room": "0204"
+    },
+    {
+      "id": "0107",
+      "instructor": "Calvert Jones",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ARC",
+      "room": "0204"
+    },
+    {
+      "id": "0108",
+      "instructor": "Calvert Jones",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ARC",
+      "room": "0204"
+    },
+    {
+      "id": "0109",
+      "instructor": "Calvert Jones",
+      "seats": "25,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "ARC",
+      "room": "0204"
+    }
+  ],
+  "term": "201801",
+  "department": "Government and Politics"
+}

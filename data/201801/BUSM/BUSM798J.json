@@ -1,0 +1,25 @@
+{
+  "id": "BUSM798J",
+  "title": "Business Consulting; Business Systems Design and Innovation",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Joseph Bailey",
+      "seats": "18,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "2:00pm",
+      "end": "3:50pm",
+      "building": "VMH",
+      "room": "2505"
+    }
+  ],
+  "term": "201801",
+  "department": "Full-Time MBA Program"
+}

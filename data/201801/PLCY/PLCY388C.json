@@ -1,0 +1,27 @@
+{
+  "id": "PLCY388C",
+  "title": "Special Topics in Public Policy; Cybersecurity Policy: Practical Hacking for Policy Makers",
+  "credits": "3",
+  "description": "This course explores the key issues facing policy makers attempting to manage the problem of cybersecurity from its technical foundations to domestic and international policy considerations surrounding governance, privacy, isk management, and operational orchestration. It is designed for students with no background in information technology, and will provide the principles to understand the current debates shaping a rapidly evolving security landscape.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Charles Harry",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "PKT",
+      "room": "1221"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

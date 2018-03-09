@@ -1,0 +1,26 @@
+{
+  "id": "ECON828",
+  "title": "Workshop in Econometrics",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "S-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ingmar Prucha",
+      "seats": "20,",
+      "open-seats": "19,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "3:30pm",
+      "end": "6:00pm",
+      "building": "TYD",
+      "room": "2102"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

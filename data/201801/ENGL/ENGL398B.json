@@ -1,0 +1,85 @@
+{
+  "id": "ENGL398B",
+  "title": "Topics in Professional Writing; Writing for Social Entrepreneurship",
+  "credits": "3",
+  "description": "Prerequisite: 60 credits and completion of ENGL101 or equivalent. This c ourse satisfies the professional writing requirement.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0601",
+      "instructor": "Eric Thiel",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TWS",
+      "room": "0205"
+    },
+    {
+      "id": "0701",
+      "instructor": "Eric Thiel",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "KEY",
+      "room": "0123"
+    },
+    {
+      "id": "0801",
+      "instructor": "Eric Thiel",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "5:00pm",
+      "end": "6:15pm",
+      "building": "TWS",
+      "room": "1107"
+    },
+    {
+      "id": "1601",
+      "instructor": "Mrim Boutla",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "6:30pm",
+      "end": "9:10pm",
+      "building": "TWS",
+      "room": "0207"
+    },
+    {
+      "id": "1701",
+      "instructor": "Maurice Boissiere",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:30pm",
+      "end": "9:10pm",
+      "building": "TWS",
+      "room": "1106"
+    },
+    {
+      "id": "1901",
+      "instructor": "Roxanne Clements",
+      "seats": "19,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "6:30pm",
+      "end": "9:10pm",
+      "building": "TWS",
+      "room": "1106"
+    }
+  ],
+  "term": "201801",
+  "department": "English"
+}

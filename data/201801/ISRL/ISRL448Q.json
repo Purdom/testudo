@@ -1,0 +1,27 @@
+{
+  "id": "ISRL448Q",
+  "title": "Seminar in Israel Studies; The Holy City and the Holy Mountain: a Sociological look at the Old City of Jerusalem and the Temple Mount",
+  "credits": "3",
+  "description": "An exploration of Jerusalem's Old City as the home of multiple holy places and of 20,000 people of varied and ancient communities through archaeology, religion, geography, politics, and, especially using sociological tools, as well as an examination of current conflicts.\n\nAlso offered as SOCY398Q. Credit granted for ISRL448Q or SOCY398Q.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Yemima Cohen-Aharoni",
+      "seats": "25,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "3:00pm",
+      "end": "5:30pm",
+      "building": "JMZ",
+      "room": "0125"
+    }
+  ],
+  "term": "201801",
+  "department": "Israel Studies"
+}

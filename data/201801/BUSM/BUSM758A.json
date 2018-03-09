@@ -1,0 +1,25 @@
+{
+  "id": "BUSM758A",
+  "title": "Special Topics in Business; Angel Investing",
+  "credits": "2",
+  "description": "",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Elana Fine",
+      "seats": "20,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "F",
+      "start": "10:00am",
+      "end": "11:50am",
+      "building": "VMH",
+      "room": "2509"
+    }
+  ],
+  "term": "201801",
+  "department": "Full-Time MBA Program"
+}

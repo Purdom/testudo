@@ -1,0 +1,26 @@
+{
+  "id": "KNES689O",
+  "title": "Special Problems in Kinesiology; Psychology of Exercise and Health",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Seppo Iso-Ahola",
+      "seats": "5,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "4:00pm",
+      "end": "6:30pm",
+      "building": "SPH",
+      "room": "1302"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

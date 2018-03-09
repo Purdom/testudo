@@ -1,0 +1,25 @@
+{
+  "id": "FMSC110",
+  "title": "Families and Global Health",
+  "credits": "3",
+  "description": "Students will explore, define, and study global health, social determinants of health, health inequalities, gender inequality, family violence, and maternal and child health using a global perspective.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Laura Drew",
+      "seats": "50,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CCC",
+      "room": "1111"
+    }
+  ],
+  "term": "201801",
+  "department": "Family Science"
+}

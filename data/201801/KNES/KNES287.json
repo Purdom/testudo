@@ -1,0 +1,87 @@
+{
+  "id": "KNES287",
+  "title": "Sport and American Society",
+  "credits": "3",
+  "description": "Sport will be related to such social problems as delinquency, segregation, collective behavior, and leisure; to social processes such as socialization, stratification, mobility, and social control; and to those familiar social institutions the family, the school, the church, the military, the economy, the polity, and the mass media.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Shaun Edmonds",
+      "seats": "22,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ESJ",
+      "room": "0224"
+    },
+    {
+      "id": "0102",
+      "instructor": "Shaun Edmonds",
+      "seats": "22,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ESJ",
+      "room": "0224"
+    },
+    {
+      "id": "0103",
+      "instructor": "Shaun Edmonds",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ESJ",
+      "room": "0224"
+    },
+    {
+      "id": "0104",
+      "instructor": "Shaun Edmonds",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ESJ",
+      "room": "0224"
+    },
+    {
+      "id": "0105",
+      "instructor": "Shaun Edmonds",
+      "seats": "22,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ESJ",
+      "room": "0224"
+    },
+    {
+      "id": "0106",
+      "instructor": "Shaun Edmonds",
+      "seats": "22,",
+      "open-seats": "4,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "ESJ",
+      "room": "0224"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}

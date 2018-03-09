@@ -1,0 +1,51 @@
+{
+  "id": "PSYC401",
+  "title": "Biological Bases of Behavior Laboratory",
+  "credits": "4",
+  "description": "Prerequisite: PSYC300; and (PSYC301 or BSCI353).\nRestriction: Permission of instructor; and must be in Psychology program; and must have earned a minimum of 85 credits.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "David Yager",
+      "seats": "8,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "BPS",
+      "room": "0140"
+    },
+    {
+      "id": "0201",
+      "instructor": "David Yager",
+      "seats": "8,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "BPS",
+      "room": "0140"
+    },
+    {
+      "id": "0301",
+      "instructor": "David Yager",
+      "seats": "8,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "BPS",
+      "room": "0140"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

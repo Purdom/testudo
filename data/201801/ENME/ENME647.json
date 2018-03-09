@@ -1,0 +1,26 @@
+{
+  "id": "ENME647",
+  "title": "Multiphase Flow and Heat Transfer",
+  "credits": "3",
+  "description": "Boiling and condensation in stationary systems, phase change heat transfer phenomenology, analysis and correlations. Fundamentals of two-phase flow natural circulation in thermal hydraulic multi-loop systems with applications to nuclear reactors safety. Multiphase flow fundamentals. Critical flow rates. Convective boiling and condensation. Multiphase flow and heat transfer applications in power and process industries.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jungho Kim",
+      "seats": "25,",
+      "open-seats": "8,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "CHM",
+      "room": "0122"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

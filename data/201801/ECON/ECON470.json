@@ -1,0 +1,39 @@
+{
+  "id": "ECON470",
+  "title": "Labor Economics:Theory and Evidence",
+  "credits": "3",
+  "description": "Prerequisite: Minimum grade of C- in ECON326; and 1 course with a minimum grade of C- from (ECON321, STAT400).\nRestriction: Must be in Economics Bachelor of Science program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Judith Hellerstein",
+      "seats": "38,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "TYD",
+      "room": "1132"
+    },
+    {
+      "id": "0201",
+      "instructor": "Judith Hellerstein",
+      "seats": "38,",
+      "open-seats": "15,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "TYD",
+      "room": "2109"
+    }
+  ],
+  "term": "201801",
+  "department": "Economics"
+}

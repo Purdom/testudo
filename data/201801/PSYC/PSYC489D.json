@@ -1,0 +1,27 @@
+{
+  "id": "PSYC489D",
+  "title": "Advanced Special Topics in Psychology; Data Science for Psychology and Neuroscience I",
+  "credits": "3",
+  "description": "Prereqs: MATH120, MATH130, or MATH140; and PSYC300 An introduction to programming (in R and/or Python) and statistics from a computational perspective. Highly hands-on with a heavy emphasis on project work, and a focus on application and execution over theory, which is introduced at a high level only where needed. Restriction: PSYC majors only (until the first day of classes)",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Alec Solway",
+      "seats": "24,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "BPS",
+      "room": "0140"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

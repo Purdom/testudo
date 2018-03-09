@@ -1,0 +1,26 @@
+{
+  "id": "BIOM602",
+  "title": "Biostatistics II",
+  "credits": "4",
+  "description": "Prerequisite: BIOM601 or BIOM405.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0102",
+      "instructor": "Bahram Momen",
+      "seats": "20,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "ANS",
+      "room": "0422"
+    }
+  ],
+  "term": "201801",
+  "department": "Biometrics"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "ENEE222",
+  "title": "Elements of Discrete Signal Analysis",
+  "credits": "4",
+  "description": "Prerequisite: Minimum grade of C- in MATH141; and permission of ENGR-Electrical & Computer Engineering department. And minimum grade of C- in ENEE140; or minimum grade of C- in CMSC131.\nRestriction: Must be in one of the following programs (Engineering: Electrical; Engineering: Computer).\nCredit only granted for: ENEE222, ENEE241, or MATH242.\nFormerly: ENEE241.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Eyad Abed",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PHY",
+      "room": "1204"
+    },
+    {
+      "id": "0102",
+      "instructor": "Eyad Abed",
+      "seats": "25,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "PHY",
+      "room": "1204"
+    },
+    {
+      "id": "0201",
+      "instructor": "Adrianos Papamarcou",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ATL",
+      "room": "2400"
+    },
+    {
+      "id": "0202",
+      "instructor": "Adrianos Papamarcou",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "ATL",
+      "room": "2400"
+    },
+    {
+      "id": "0301",
+      "instructor": "Adrianos Papamarcou",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EGR",
+      "room": "1108"
+    },
+    {
+      "id": "0302",
+      "instructor": "Adrianos Papamarcou",
+      "seats": "25,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "EGR",
+      "room": "1108"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

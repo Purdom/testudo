@@ -1,0 +1,37 @@
+{
+  "id": "HIST811",
+  "title": "Museum Scholarship Practicum",
+  "credits": "3 -",
+  "description": "Prerequisite: HIST810.\nRestriction: Permission of Museum Scholarship Program required.\nAlso offered as: ANTH857, AMST857.\nCredit only granted for: ANTH 857, AMST857 or HIST811.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0401",
+      "instructor": "Instructor: TBA",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    },
+    {
+      "id": "0402",
+      "instructor": "Paul Jaeger",
+      "seats": "5,",
+      "open-seats": "5,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

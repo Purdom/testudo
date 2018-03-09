@@ -1,0 +1,26 @@
+{
+  "id": "PLCY699Y",
+  "title": "Selected Topics Public Policy; Globalization, Business and Development",
+  "credits": "3",
+  "description": "For PLCY Majors or permission of instructor.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "William Reinsch,",
+      "seats": "20,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "Th",
+      "start": "9:15am",
+      "end": "11:45am",
+      "building": "VMH",
+      "room": "1107"
+    }
+  ],
+  "term": "201801",
+  "department": "Public Policy"
+}

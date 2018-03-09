@@ -1,0 +1,27 @@
+{
+  "id": "PHYS474",
+  "title": "Computational Physics",
+  "credits": "3",
+  "description": "Prerequisite: PHYS404; and PHYS373; and (PHYS165, CMSC106, or CMSC131).",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Ian Appelbaum",
+      "seats": "36,",
+      "open-seats": "10,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:00pm",
+      "end": "4:15pm",
+      "building": "AJC",
+      "room": "2134"
+    }
+  ],
+  "term": "201801",
+  "department": "Physics"
+}

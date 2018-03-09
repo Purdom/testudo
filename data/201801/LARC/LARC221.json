@@ -1,0 +1,25 @@
+{
+  "id": "LARC221",
+  "title": "Digital Design Tools",
+  "credits": "3",
+  "description": "Prerequisite: LARC120 and LARC141.\nRecommended: LARC240 and LARC265.\nRestriction: Sophomore standing or higher; and must be in Landscape Architecture program.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jeffrey Server",
+      "seats": "15,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "PLS",
+      "room": "2137"
+    }
+  ],
+  "term": "201801",
+  "department": "Landscape Architecture"
+}

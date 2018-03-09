@@ -1,0 +1,27 @@
+{
+  "id": "ENME489D",
+  "title": "Special Topics in Mechanical Engineering; Flight Dynamics and Simulation",
+  "credits": "3",
+  "description": "Prerequisite: ENME489F.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "David Findlay",
+      "seats": "6,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "3:30pm",
+      "end": "6:10pm",
+      "building": "JMP",
+      "room": "2120"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Mechanical"
+}

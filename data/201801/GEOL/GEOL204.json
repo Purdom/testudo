@@ -1,0 +1,87 @@
+{
+  "id": "GEOL204",
+  "title": "Dinosaurs, Early Humans, Ancestors, and Evolution; The Fossil Record of Vanished Worlds of the Prehistoric Past",
+  "credits": "3",
+  "description": "Examination of evidence used to reconstruct critical events in the history of life by looking at case studies of significant evolutionary origins, transitions, and extinctions; addressing the role of paleontology in human society, including science education, conservation, and the media.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Thomas Holtz",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "BRB",
+      "room": "1101"
+    },
+    {
+      "id": "0102",
+      "instructor": "Thomas Holtz",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "BRB",
+      "room": "1101"
+    },
+    {
+      "id": "0103",
+      "instructor": "Thomas Holtz",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "BRB",
+      "room": "1101"
+    },
+    {
+      "id": "0104",
+      "instructor": "Thomas Holtz",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "BRB",
+      "room": "1101"
+    },
+    {
+      "id": "0105",
+      "instructor": "Thomas Holtz",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "BRB",
+      "room": "1101"
+    },
+    {
+      "id": "0106",
+      "instructor": "Thomas Holtz",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "BRB",
+      "room": "1101"
+    }
+  ],
+  "term": "201801",
+  "department": "Geology"
+}

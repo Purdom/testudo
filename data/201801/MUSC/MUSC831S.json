@@ -1,0 +1,26 @@
+{
+  "id": "MUSC831S",
+  "title": "Doctoral Seminar in Music Literature",
+  "credits": "3",
+  "description": "Prerequisite: MUSC830; or permission of ARHU-School of Music department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Kenneth Slowik",
+      "seats": "15,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "9:00am",
+      "end": "12:00pm",
+      "building": "PAC",
+      "room": "2126"
+    }
+  ],
+  "term": "201801",
+  "department": "School of Music"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "PSYC402",
+  "title": "Neural Systems and Behavior",
+  "credits": "3",
+  "description": "Prerequisite: PSYC301.\nAdditional information: Priority is given to PSYC majors.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Steven Brauth",
+      "seats": "40,",
+      "open-seats": "13,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "BPS",
+      "room": "1238"
+    }
+  ],
+  "term": "201801",
+  "department": "Psychology"
+}

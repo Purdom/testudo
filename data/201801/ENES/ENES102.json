@@ -1,0 +1,87 @@
+{
+  "id": "ENES102",
+  "title": "Mechanics I",
+  "credits": "3",
+  "description": "Corequisite: MATH140.\nRestriction: Must be in a major in ENGR-A. James Clark School of Engineering.\nFormerly: ENES110.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Michael Galczynski",
+      "seats": "58,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "9:00am",
+      "end": "9:50am",
+      "building": "KEB",
+      "room": "1200"
+    },
+    {
+      "id": "0201",
+      "instructor": "William Fourney",
+      "seats": "58,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "2:50pm",
+      "building": "SYM",
+      "room": "0200"
+    },
+    {
+      "id": "0601",
+      "instructor": "Thomas Beigel",
+      "seats": "50,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "EGR",
+      "room": "1108"
+    },
+    {
+      "id": "0701",
+      "instructor": "Thomas Beigel",
+      "seats": "50,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "12:00pm",
+      "end": "12:50pm",
+      "building": "EGR",
+      "room": "0108"
+    },
+    {
+      "id": "0801",
+      "instructor": "Robert Bonenberger",
+      "seats": "58,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "1:50pm",
+      "building": "PHY",
+      "room": "1201"
+    },
+    {
+      "id": "0901",
+      "instructor": "Robert Bonenberger",
+      "seats": "58,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "CHM",
+      "room": "0115"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering Science"
+}

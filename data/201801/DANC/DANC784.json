@@ -1,0 +1,26 @@
+{
+  "id": "DANC784",
+  "title": "Dance in a Global Context",
+  "credits": "3",
+  "description": "Restriction: Must be admitted to MFA in Dance; or permission of ARHU-School of Theatre, Dance & Performance Studies department.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Maura Keefe",
+      "seats": "10,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:50pm",
+      "building": "PAC",
+      "room": "1924"
+    }
+  ],
+  "term": "201801",
+  "department": "Dance"
+}

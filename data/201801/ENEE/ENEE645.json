@@ -1,0 +1,26 @@
+{
+  "id": "ENEE645",
+  "title": "Compilers and Optimization",
+  "credits": "3",
+  "description": "Prerequisite: ENEE350 or CMSC216; or students who have taken courses with comparable content may contact the department.\nCredit only granted for: ENEE645 or ENEE759C.\nFormerly: ENEE759C.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Rajeev Barua",
+      "seats": "45,",
+      "open-seats": "22,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "EGR",
+      "room": "0108"
+    }
+  ],
+  "term": "201801",
+  "department": "Electrical & Computer Engineering"
+}

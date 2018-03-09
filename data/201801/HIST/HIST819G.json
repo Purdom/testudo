@@ -1,0 +1,26 @@
+{
+  "id": "HIST819G",
+  "title": "Special Topics in History: Independent Research; Research Seminar in Early American History, 1600-1865",
+  "credits": "3",
+  "description": "",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Holly Brewer",
+      "seats": "12,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "6:00pm",
+      "end": "8:30pm",
+      "building": "TLF",
+      "room": "2108"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

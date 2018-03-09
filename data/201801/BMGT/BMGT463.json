@@ -1,0 +1,37 @@
+{
+  "id": "BMGT463",
+  "title": "Cross-cultural Challenges in Business",
+  "credits": "3",
+  "description": "Restriction: Must be in a major in BMGT-Robert H. Smith School of Business.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Gerald Suarez",
+      "seats": "35,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "3:30pm",
+      "end": "4:45pm",
+      "building": "VMH",
+      "room": "1314"
+    },
+    {
+      "id": "0201",
+      "instructor": "Gerald Suarez",
+      "seats": "35,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "VMH",
+      "room": "1314"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

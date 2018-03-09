@@ -1,0 +1,25 @@
+{
+  "id": "EDCI451",
+  "title": "Student Teaching in Secondary Schools: Mathematics",
+  "credits": "12",
+  "description": "Corequisite: EDCI450.\nRestriction: Minimum cumulative GPA of 2.75; and permission of EDUC-Teaching and Learning, Policy and Leadership department; and must be in Secondary Educ: Mathematics program.",
+  "grading-method": [
+    "S-F"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Angela Stoltz",
+      "seats": "15,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "",
+      "start": "",
+      "end": "",
+      "building": "",
+      "room": ""
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

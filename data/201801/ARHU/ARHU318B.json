@@ -1,0 +1,25 @@
+{
+  "id": "ARHU318B",
+  "title": "Writers' House Colloquium: Creative Writing Across Languages and Cultures; Prose Colloquium",
+  "credits": "1",
+  "description": "Restricted to Jimenez-Porter Writers' House Students",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Jesse Brooks",
+      "seats": "15,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "W",
+      "start": "5:30pm",
+      "end": "6:45pm",
+      "building": "QAN",
+      "room": "1132"
+    }
+  ],
+  "term": "201801",
+  "department": "Arts and Humanities"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "EDCI404",
+  "title": "Student Teaching Seminar: Art Education",
+  "credits": "3",
+  "description": "Prerequisite: EDCI405 and TLPL430.\nCorequisite: TLPL432 and TLPL431.\nRestriction: Minimum cumulative GPA of 2.75; and must be in Secondary Educ: Art program.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Susan Hendricks",
+      "seats": "8,",
+      "open-seats": "7,",
+      "waitlist": "0",
+      "days": "Tu",
+      "start": "4:30pm",
+      "end": "7:15pm",
+      "building": "JMZ",
+      "room": "3122"
+    }
+  ],
+  "term": "201801",
+  "department": "Curriculum and Instruction"
+}

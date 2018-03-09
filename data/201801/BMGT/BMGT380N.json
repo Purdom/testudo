@@ -1,0 +1,25 @@
+{
+  "id": "BMGT380N",
+  "title": "Business Law I",
+  "credits": "3",
+  "description": "Legal aspects of business relationships. Examination of torts and business crimes, contracts and agency. The law of personal property and bailment relationships. Survey of public policy issues.",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0201",
+      "instructor": "Burt Leete",
+      "seats": "10,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "VMH",
+      "room": "1202"
+    }
+  ],
+  "term": "201801",
+  "department": "Business and Management"
+}

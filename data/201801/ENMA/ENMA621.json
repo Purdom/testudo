@@ -1,0 +1,26 @@
+{
+  "id": "ENMA621",
+  "title": "Advanced Design Composite Materials",
+  "credits": "3",
+  "description": "Restriction: Permission of ENGR-Materials Science & Engineering department.\nCredit only granted for: ENMA621 or ENMA698A.\nFormerly: ENMA698A.",
+  "grading-method": [
+    "Reg",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sreeramamurthy Ankem",
+      "seats": "10,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "9:30am",
+      "end": "10:45am",
+      "building": "CHE",
+      "room": "2136"
+    }
+  ],
+  "term": "201801",
+  "department": "Engineering, Materials"
+}

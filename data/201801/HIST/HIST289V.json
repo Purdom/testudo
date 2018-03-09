@@ -1,0 +1,111 @@
+{
+  "id": "HIST289V",
+  "title": "What Does It Mean to be An American?",
+  "credits": "3",
+  "description": "This course seeks to understand the on-going crisis over national identity and purpose by examining the many factors that go into the big stew known as America.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Howard Smead",
+      "seats": "20,",
+      "open-seats": "3,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0102",
+      "instructor": "Howard Smead",
+      "seats": "20,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0103",
+      "instructor": "Howard Smead",
+      "seats": "20,",
+      "open-seats": "11,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0104",
+      "instructor": "Howard Smead",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0105",
+      "instructor": "Howard Smead",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0106",
+      "instructor": "Howard Smead",
+      "seats": "20,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0107",
+      "instructor": "Howard Smead",
+      "seats": "20,",
+      "open-seats": "12,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "KEY",
+      "room": "0106"
+    },
+    {
+      "id": "0108",
+      "instructor": "Howard Smead",
+      "seats": "20,",
+      "open-seats": "14,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "10:00am",
+      "end": "10:50am",
+      "building": "KEY",
+      "room": "0106"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

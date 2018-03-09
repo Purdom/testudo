@@ -1,0 +1,25 @@
+{
+  "id": "HIST408E",
+  "title": "Senior Seminar; Empire and Central Asia",
+  "credits": "3",
+  "description": "Prerequisite: Permission of department. An exploration of the role of empire in the making of modern Central Asia. Focus on five former Soviet republics, Afghanistan and Xinjiang (western China).",
+  "grading-method": [
+    "Reg"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Sarah Cameron",
+      "seats": "12,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "M",
+      "start": "11:00am",
+      "end": "12:50pm",
+      "building": "TLF",
+      "room": "2108"
+    }
+  ],
+  "term": "201801",
+  "department": "History"
+}

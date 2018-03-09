@@ -1,0 +1,111 @@
+{
+  "id": "COMM250",
+  "title": "Introduction to Communication Inquiry",
+  "credits": "3",
+  "description": "An introduction to the field of communication. Definitions, models, and contexts of communication; rhetorical theory and rhetorical criticism of discourse.",
+  "grading-method": [
+    "Reg",
+    "P-F",
+    "Aud"
+  ],
+  "sections": [
+    {
+      "id": "0101",
+      "instructor": "Susan Hubbard",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0102",
+      "instructor": "Susan Hubbard",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0103",
+      "instructor": "Susan Hubbard",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0104",
+      "instructor": "Susan Hubbard",
+      "seats": "25,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0105",
+      "instructor": "Susan Hubbard",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0106",
+      "instructor": "Susan Hubbard",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0108",
+      "instructor": "Susan Hubbard",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SKN",
+      "room": "0200"
+    },
+    {
+      "id": "0109",
+      "instructor": "Susan Hubbard",
+      "seats": "25,",
+      "open-seats": "0,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "11:50am",
+      "building": "SKN",
+      "room": "0200"
+    }
+  ],
+  "term": "201801",
+  "department": "Communication"
+}

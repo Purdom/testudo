@@ -1,0 +1,50 @@
+{
+  "id": "KNES157N",
+  "title": "Physical Education Activities: Coed; Weight Training (Beginning)",
+  "credits": "1",
+  "description": "Attendance is required on the first day of class. Students must pay a $40 instructional materials fee.",
+  "grading-method": [
+    "Reg",
+    "P-F"
+  ],
+  "sections": [
+    {
+      "id": "0001",
+      "instructor": "Alyssa Foust",
+      "seats": "32,",
+      "open-seats": "2,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "1:00pm",
+      "end": "2:15pm",
+      "building": "SPH",
+      "room": "0103"
+    },
+    {
+      "id": "0002",
+      "instructor": "Terrel Everette",
+      "seats": "32,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "MW",
+      "start": "11:00am",
+      "end": "12:15pm",
+      "building": "SPH",
+      "room": "0103"
+    },
+    {
+      "id": "0003",
+      "instructor": "Alexander Chyu",
+      "seats": "32,",
+      "open-seats": "1,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "2:00pm",
+      "end": "3:15pm",
+      "building": "SPH",
+      "room": "0103"
+    }
+  ],
+  "term": "201801",
+  "department": "Kinesiology"
+}
