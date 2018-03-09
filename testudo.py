@@ -11,6 +11,19 @@ user_agent = 'testudo.py <https://github.com/edsu/testudo>'
 www = HTMLSession()
 www.headers['user-agent'] = user_agent
 
+def main():
+    for term in get_terms():
+        print("getting term %s" % term)
+        for dept in get_departments():
+            print("getting courses in %s for %s" % (term, dept['id']))
+            for course in get_courses(dept, term):
+                json_file = os.path.join('data', term, dept['id'], course['id'] + '.json')
+                print("writing %s" % json_file)
+                json_dir = os.path.dirname(json_file)
+                if not os.path.isdir(json_dir):
+                    os.makedirs(json_dir)
+                open(json_file, 'w').write(json.dumps(course, indent=2))
+
 def get_terms(active_only=True):
     url = 'https://app.testudo.umd.edu/soc/'
     r = www.get(url)
@@ -82,19 +95,5 @@ def t(element, selector):
     else:
         return ''
 
-def main():
-    for term in get_terms():
-        print("getting term %s" % term)
-        for dept in get_departments():
-            print("getting courses in %s for %s" % (term, dept['id']))
-            for course in get_courses(dept, term):
-                json_file = os.path.join('data', term, dept['id'], course['id'] + '.json')
-                print("writing %s" % json_file)
-                json_dir = os.path.dirname(json_file)
-                if not os.path.isdir(json_dir):
-                    os.makedirs(json_dir)
-                open(json_file, 'w').write(json.dumps(course, indent=2))
-
 if __name__ == '__main__':
     main()
-
