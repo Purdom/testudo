@@ -8,7 +8,20 @@
     "P-F",
     "Aud"
   ],
-  "sections": [],
+  "sections": [
+    {
+      "id": "5501",
+      "instructor": "Man\u00e9 Rebelo-Plaut",
+      "seats": "10,",
+      "open-seats": "6,",
+      "waitlist": "0",
+      "days": "TuTh",
+      "start": "12:30pm",
+      "end": "1:45pm",
+      "building": "PAC",
+      "room": "1908"
+    }
+  ],
   "term": "201801",
   "department": "Dance"
 }

@@ -69,6 +69,7 @@ def get_sections(course_id, term):
     try:
         url = 'https://app.testudo.umd.edu/soc/%s/sections?courseIds=%s' % (term, course_id)
         r = www.get(url)
+        r.html.encoding = r.encoding
         for div in r.html.find('.section'):
             sections.append({
                 'id': t(div, '.section-id'),
