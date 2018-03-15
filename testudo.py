@@ -29,8 +29,7 @@ def get_terms(active_only=True):
     r = www.get(url)
     terms = []
     for e in r.html.find('#term-id-input option'):
-        if active_only and 'selected' in e.attrs:
-            terms.append(e.attrs['value'])
+        terms.append(e.attrs['value'])
     return terms
 
 def get_departments():
